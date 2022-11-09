@@ -48,8 +48,8 @@
     <dependencies>
         <dependency>
             <groupId>io.github.starlangsoftware</groupId>
-            <artifactId>Dictionary</artifactId>
-            <version>1.0.32</version>
+            <artifactId>Corpus</artifactId>
+            <version>1.0.15</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
