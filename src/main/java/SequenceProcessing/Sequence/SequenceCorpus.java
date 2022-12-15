@@ -7,6 +7,7 @@ import Util.FileUtils;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 
 public class SequenceCorpus extends Corpus {
 
@@ -54,6 +55,13 @@ public class SequenceCorpus extends Corpus {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    /**
+     * to-do
+     */
+    public ArrayList<String> getClassLabels() {
+        return new ArrayList<>();
     }
 
 }
