@@ -57,14 +57,11 @@ public class SequenceCorpus extends Corpus {
         }
     }
 
-    /**
-     * to-do
-     */
     public ArrayList<String> getClassLabels() {
-        boolean sentenceLabelled = true;
+        boolean sentenceLabelled = false;
         ArrayList<String> classLabels = new ArrayList<String>();
         if (sentences.get(0) instanceof LabelledSentence){
-            sentenceLabelled = false;
+            sentenceLabelled = true;
         }
         for (int i = 0; i < sentenceCount(); i++) {
             if (sentenceLabelled){
