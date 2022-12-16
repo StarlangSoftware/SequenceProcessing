@@ -61,7 +61,28 @@ public class SequenceCorpus extends Corpus {
      * to-do
      */
     public ArrayList<String> getClassLabels() {
-        return new ArrayList<>();
+        boolean sentenceLabelled = true;
+        ArrayList<String> classLabels = new ArrayList<String>();
+        if (sentences.get(0) instanceof LabelledSentence){
+            sentenceLabelled = false;
+        }
+        for (int i = 0; i < sentenceCount(); i++) {
+            if (sentenceLabelled){
+                LabelledSentence sentence = (LabelledSentence) sentences.get(i);
+                if (!classLabels.contains(sentence.getClassLabel())) {
+                    classLabels.add(sentence.getClassLabel());
+                }
+            } else {
+                Sentence sentence = sentences.get(i);
+                for (int j = 0; j < sentence.wordCount(); j++){
+                    LabelledEmbeddedWord word = (LabelledEmbeddedWord) sentence.getWord(j);
+                    if (!classLabels.contains(word.getClassLabel())) {
+                        classLabels.add(word.getClassLabel());
+                    }
+                }
+            }
+        }
+        return classLabels;
     }
 
 }
