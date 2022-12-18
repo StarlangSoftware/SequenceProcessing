@@ -38,7 +38,7 @@ public abstract class Model implements Serializable {
         }
         layers.add(new Matrix(classLabels.size(), 1));
         for (int i = 0; i < layers.size() - 1; i++) {
-            weights.add(new Matrix(layers.get(i).getRow(), layers.get(i + 1).getRow(), -0.01, +0.01, new Random(parameters.getSeed())));
+            weights.add(new Matrix(layers.get(i + 1).getRow(), layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
         }
         this.layers = layers;
         this.oldLayers = oldLayers;
@@ -50,6 +50,16 @@ public abstract class Model implements Serializable {
         for (int i = 0; i < layers.get(0).getRow(); i++) {
             layers.get(0).setValue(i,0, word.getEmbedding().getValue(i));
         }
+        layers.set(0, biased(layers.get(0)));
+    }
+
+    protected Matrix biased(Matrix m) {
+        Matrix v = new Matrix(m.getRow() + 1, m.getColumn());
+        for (int i = 0; i < m.getRow(); i++) {
+            v.setValue(i, 0, m.getValue(i, 0));
+        }
+        v.setValue(m.getRow(), 0, 1.0);
+        return v;
     }
 
     protected void oldLayersUpdate() {
@@ -61,10 +71,15 @@ public abstract class Model implements Serializable {
     }
 
     protected void setLayersValuesToZero() {
-        for (Matrix layer : layers) {
-            for (int i = 0; i < layer.getRow(); i++) {
-                layer.setValue(i, 0, 0.0);
+        for (int j = 0; j < layers.size() - 1; j++) {
+            int size = layers.get(j).getRow();
+            layers.set(j, new Matrix(size - 1, 1));
+            for (int i = 0; i < layers.get(j).getRow(); i++) {
+                layers.get(j).setValue(i, 0, 0.0);
             }
+        }
+        for (int i = 0; i < layers.get(layers.size() - 1).getRow(); i++) {
+            layers.get(layers.size() - 1).setValue(i, 0, 0.0);
         }
     }
 

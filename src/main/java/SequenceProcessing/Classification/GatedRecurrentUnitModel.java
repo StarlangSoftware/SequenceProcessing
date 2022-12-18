@@ -29,8 +29,8 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
             aVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             zVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             rVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
-            zWeights.add(new Matrix(this.layers.get(i).getRow(), this.layers.get(i + 1).getRow(), -0.01, +0.01, new Random(parameters.getSeed())));
-            rWeights.add(new Matrix(this.layers.get(i).getRow(), this.layers.get(i + 1).getRow(), -0.01, +0.01, new Random(parameters.getSeed())));
+            zWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
+            rWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
             zRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
             rRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
         }
@@ -53,6 +53,7 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                         activationFunction(aVectors.get(l), ActivationFunction.TANH);
                         layers.get(l + 1).add(calculateOneMinusMatrix(zVectors.get(l)).elementProduct(oldLayers.get(l)));
                         layers.get(l + 1).add(zVectors.get(l).elementProduct(aVectors.get(l)));
+                        layers.set(l + 1, biased(layers.get(l + 1)));
                     }
                     layers.get(layers.size() - 1).add(this.weights.get(this.weights.size() - 1).multiply(layers.get(layers.size() - 2)));
                     normalizeOutput();
@@ -61,7 +62,7 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                     ArrayList<Matrix> deltaWeights = new ArrayList<>();
                     ArrayList<Matrix> rDeltaWeights = new ArrayList<>();
                     ArrayList<Matrix> zDeltaWeights = new ArrayList<>();
-                    deltaWeights.add(rMinusY.multiply(layers.get(layers.size() - 2)));
+                    deltaWeights.add(rMinusY.multiply(layers.get(layers.size() - 2).transpose()));
                     deltaWeights.add(rMinusY);
                     rDeltaWeights.add(rMinusY);
                     zDeltaWeights.add(rMinusY);
