@@ -2,7 +2,7 @@ package SequenceProcessing.Classification;
 
 import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
-import SequenceProcessing.Sequence.LabelledEmbeddedWord;
+import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 
 import java.io.FileOutputStream;
@@ -29,7 +29,7 @@ public abstract class Model implements Serializable {
         ArrayList<Matrix> weights = new ArrayList<>();
         ArrayList<Matrix> recurrentWeights = new ArrayList<>();
         this.classLabels = corpus.getClassLabels();
-        int inputSize = ((LabelledEmbeddedWord) corpus.getSentence(0).getWord(0)).getEmbedding().size();
+        int inputSize = ((LabelledVectorizedWord) corpus.getSentence(0).getWord(0)).getVector().size();
         layers.add(new Matrix(inputSize, 1));
         for (int i = 0; i < parameters.layerSize(); i++) {
             oldLayers.add(new Matrix(parameters.getHiddenNodes(i), 1));
@@ -46,9 +46,9 @@ public abstract class Model implements Serializable {
         this.recurrentWeights = recurrentWeights;
     }
 
-    protected void createInputVector(LabelledEmbeddedWord word) {
+    protected void createInputVector(LabelledVectorizedWord word) {
         for (int i = 0; i < layers.get(0).getRow(); i++) {
-            layers.get(0).setValue(i,0, word.getEmbedding().getValue(i));
+            layers.get(0).setValue(i,0, word.getVector().getValue(i));
         }
         layers.set(0, biased(layers.get(0)));
     }
@@ -105,7 +105,7 @@ public abstract class Model implements Serializable {
         }
     }
 
-    protected Matrix calculateRMinusY(LabelledEmbeddedWord word) {
+    protected Matrix calculateRMinusY(LabelledVectorizedWord word) {
         Matrix r = new Matrix(classLabels.size(), 1);
         int index = classLabels.indexOf(word.getClassLabel());
         r.setValue(index, 0, 1.0);

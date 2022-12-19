@@ -3,7 +3,7 @@ package SequenceProcessing.Classification;
 import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
 import Corpus.Sentence;
-import SequenceProcessing.Sequence.LabelledEmbeddedWord;
+import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 
 import java.io.Serializable;
@@ -39,7 +39,7 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
             for (int j = 0; j < corpus.sentenceCount(); j++) {
                 Sentence sentence = corpus.getSentence(j);
                 for (int k = 0; k < sentence.wordCount(); k++) {
-                    LabelledEmbeddedWord word = (LabelledEmbeddedWord) sentence.getWord(k);
+                    LabelledVectorizedWord word = (LabelledVectorizedWord) sentence.getWord(k);
                     createInputVector(word);
                     for (int l = 0; l < this.layers.size() - 2; l++) {
                         rVectors.get(l).add(rWeights.get(l).multiply(layers.get(l)));

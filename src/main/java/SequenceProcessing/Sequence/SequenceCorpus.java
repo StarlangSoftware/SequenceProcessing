@@ -2,7 +2,9 @@ package SequenceProcessing.Sequence;
 
 import Corpus.Corpus;
 import Corpus.Sentence;
+import Dictionary.VectorizedWord;
 import Util.FileUtils;
+import Math.Vector;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +15,7 @@ public class SequenceCorpus extends Corpus {
 
     /**
      * Constructor which takes a file name {@link String} as an input and reads the file line by line. It takes each word of the line,
-     * and creates a new {@link EmbeddedWord} with current word and its label. It also creates a new {@link Sentence}
+     * and creates a new {@link VectorizedWord} with current word and its label. It also creates a new {@link Sentence}
      * when a new sentence starts, and adds each word to this sentence till the end of that sentence.
      *
      * @param fileName File which will be read and parsed.
@@ -21,7 +23,7 @@ public class SequenceCorpus extends Corpus {
     public SequenceCorpus(String fileName) {
         super();
         String line, word;
-        EmbeddedWord newWord;
+        VectorizedWord newWord;
         Sentence newSentence = null;
         try {
             InputStreamReader fr = new InputStreamReader(FileUtils.getInputStream(fileName));
@@ -41,9 +43,9 @@ public class SequenceCorpus extends Corpus {
                         addSentence(newSentence);
                     } else {
                         if (items.length == 2) {
-                            newWord = new LabelledEmbeddedWord(word, items[1]);
+                            newWord = new LabelledVectorizedWord(word, items[1]);
                         } else {
-                            newWord = new EmbeddedWord(word);
+                            newWord = new VectorizedWord(word, new Vector(300,0));
                         }
                         if (newSentence != null){
                             newSentence.addWord(newWord);
@@ -72,7 +74,7 @@ public class SequenceCorpus extends Corpus {
             } else {
                 Sentence sentence = sentences.get(i);
                 for (int j = 0; j < sentence.wordCount(); j++){
-                    LabelledEmbeddedWord word = (LabelledEmbeddedWord) sentence.getWord(j);
+                    LabelledVectorizedWord word = (LabelledVectorizedWord) sentence.getWord(j);
                     if (!classLabels.contains(word.getClassLabel())) {
                         classLabels.add(word.getClassLabel());
                     }
