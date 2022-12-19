@@ -14,17 +14,25 @@ import Math.*;
 
 public class GatedRecurrentUnitModel extends Model implements Serializable {
 
-    public GatedRecurrentUnitModel(SequenceCorpus corpus, DeepNetworkParameter parameters) throws MatrixColumnMismatch, VectorSizeMismatch, MatrixRowColumnMismatch, MatrixDimensionMismatch {
+    private ArrayList<Matrix> aVectors;
+    private ArrayList<Matrix> zVectors;
+    private ArrayList<Matrix> rVectors;
+    private ArrayList<Matrix> zWeights;
+    private ArrayList<Matrix> zRecurrentWeights;
+    private ArrayList<Matrix> rWeights;
+    private ArrayList<Matrix> rRecurrentWeights;
+
+    public GatedRecurrentUnitModel(SequenceCorpus corpus, DeepNetworkParameter parameters) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
         super(corpus, parameters);
         int epoch = parameters.getEpoch();
         double learningRate = parameters.getLearningRate();
-        ArrayList<Matrix> aVectors = new ArrayList<>();
-        ArrayList<Matrix> zVectors = new ArrayList<>();
-        ArrayList<Matrix> rVectors = new ArrayList<>();
-        ArrayList<Matrix> zWeights = new ArrayList<>();
-        ArrayList<Matrix> zRecurrentWeights = new ArrayList<>();
-        ArrayList<Matrix> rWeights = new ArrayList<>();
-        ArrayList<Matrix> rRecurrentWeights = new ArrayList<>();
+        aVectors = new ArrayList<>();
+        zVectors = new ArrayList<>();
+        rVectors = new ArrayList<>();
+        zWeights = new ArrayList<>();
+        zRecurrentWeights = new ArrayList<>();
+        rWeights = new ArrayList<>();
+        rRecurrentWeights = new ArrayList<>();
         for (int i = 0; i < parameters.layerSize(); i++) {
             aVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             zVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
@@ -40,23 +48,7 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                 Sentence sentence = corpus.getSentence(j);
                 for (int k = 0; k < sentence.wordCount(); k++) {
                     LabelledVectorizedWord word = (LabelledVectorizedWord) sentence.getWord(k);
-                    createInputVector(word);
-                    for (int l = 0; l < this.layers.size() - 2; l++) {
-                        rVectors.get(l).add(rWeights.get(l).multiply(layers.get(l)));
-                        zVectors.get(l).add(zWeights.get(l).multiply(layers.get(l)));
-                        rVectors.get(l).add(rRecurrentWeights.get(l).multiply(oldLayers.get(l)));
-                        zVectors.get(l).add(zRecurrentWeights.get(l).multiply(oldLayers.get(l)));
-                        activationFunction(rVectors.get(l), parameters.getActivationFunction());
-                        activationFunction(zVectors.get(l), parameters.getActivationFunction());
-                        aVectors.get(l).add(this.recurrentWeights.get(l).multiply(rVectors.get(l).elementProduct(oldLayers.get(l))));
-                        aVectors.get(l).add(this.weights.get(l).multiply(layers.get(l)));
-                        activationFunction(aVectors.get(l), ActivationFunction.TANH);
-                        layers.get(l + 1).add(calculateOneMinusMatrix(zVectors.get(l)).elementProduct(oldLayers.get(l)));
-                        layers.get(l + 1).add(zVectors.get(l).elementProduct(aVectors.get(l)));
-                        layers.set(l + 1, biased(layers.get(l + 1)));
-                    }
-                    layers.get(layers.size() - 1).add(this.weights.get(this.weights.size() - 1).multiply(layers.get(layers.size() - 2)));
-                    normalizeOutput();
+                    calculateOutput(word);
                     Matrix rMinusY = calculateRMinusY(word);
                     rMinusY.multiplyWithConstant(learningRate);
                     ArrayList<Matrix> deltaWeights = new ArrayList<>();
@@ -69,16 +61,14 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                     for (int l = parameters.layerSize() - 1; l >= 0; l--) {
 
                     }
-
-                    oldLayersUpdate();
-                    setLayersValuesToZero();
-                    for (int l = 0; l < parameters.layerSize(); l++) {
-                        for (int m = 0; m < aVectors.get(l).getRow(); m++) {
-                            aVectors.get(l).setValue(m, 0, 0.0);
-                            zVectors.get(l).setValue(m, 0, 0.0);
-                            rVectors.get(l).setValue(m, 0, 0.0);
-                        }
+                    weights.get(weights.size() - 1).add(deltaWeights.get(0));
+                    deltaWeights.remove(0);
+                    for (int l = 0; l < deltaWeights.size(); l++) {
+                        weights.get(weights.size() - l - 2).add(deltaWeights.get(l));
+                        rWeights.get(rWeights.size() - l - 1).add(rDeltaWeights.get(l));
+                        zWeights.get(zWeights.size() - l - 1).add(zDeltaWeights.get(l));
                     }
+                    clear();
                 }
                 for (Matrix oldLayer : this.oldLayers) {
                     for (int k = 0; k < oldLayer.getRow(); k++) {
@@ -87,6 +77,40 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                 }
             }
             learningRate *= parameters.getEtaDecrease();
+        }
+    }
+
+    @Override
+    protected void calculateOutput(LabelledVectorizedWord word) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
+        createInputVector(word);
+        for (int l = 0; l < this.layers.size() - 2; l++) {
+            rVectors.get(l).add(rWeights.get(l).multiply(layers.get(l)));
+            zVectors.get(l).add(zWeights.get(l).multiply(layers.get(l)));
+            rVectors.get(l).add(rRecurrentWeights.get(l).multiply(oldLayers.get(l)));
+            zVectors.get(l).add(zRecurrentWeights.get(l).multiply(oldLayers.get(l)));
+            activationFunction(rVectors.get(l), this.activationFunction);
+            activationFunction(zVectors.get(l), this.activationFunction);
+            aVectors.get(l).add(this.recurrentWeights.get(l).multiply(rVectors.get(l).elementProduct(oldLayers.get(l))));
+            aVectors.get(l).add(this.weights.get(l).multiply(layers.get(l)));
+            activationFunction(aVectors.get(l), ActivationFunction.TANH);
+            layers.get(l + 1).add(calculateOneMinusMatrix(zVectors.get(l)).elementProduct(oldLayers.get(l)));
+            layers.get(l + 1).add(zVectors.get(l).elementProduct(aVectors.get(l)));
+            layers.set(l + 1, biased(layers.get(l + 1)));
+        }
+        layers.get(layers.size() - 1).add(this.weights.get(this.weights.size() - 1).multiply(layers.get(layers.size() - 2)));
+        normalizeOutput();
+    }
+
+    @Override
+    protected void clear() {
+        oldLayersUpdate();
+        setLayersValuesToZero();
+        for (int l = 0; l < this.layers.size() - 2; l++) {
+            for (int m = 0; m < aVectors.get(l).getRow(); m++) {
+                aVectors.get(l).setValue(m, 0, 0.0);
+                zVectors.get(l).setValue(m, 0, 0.0);
+                rVectors.get(l).setValue(m, 0, 0.0);
+            }
         }
     }
 }

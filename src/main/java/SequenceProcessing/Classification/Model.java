@@ -2,6 +2,7 @@ package SequenceProcessing.Classification;
 
 import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
+import Corpus.Sentence;
 import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 
@@ -21,9 +22,11 @@ public abstract class Model implements Serializable {
     protected ArrayList<Matrix> weights;
     protected ArrayList<Matrix> recurrentWeights;
     protected ArrayList<String> classLabels;
+    protected ActivationFunction activationFunction;
 
     public Model(SequenceCorpus corpus, DeepNetworkParameter parameters) {
         this.corpus = corpus;
+        this.activationFunction = parameters.getActivationFunction();
         ArrayList<Matrix> layers = new ArrayList<>();
         ArrayList<Matrix> oldLayers = new ArrayList<>();
         ArrayList<Matrix> weights = new ArrayList<>();
@@ -135,6 +138,34 @@ public abstract class Model implements Serializable {
                 }
                 break;
         }
+    }
+
+    protected abstract void calculateOutput(LabelledVectorizedWord word) throws MatrixRowColumnMismatch, MatrixDimensionMismatch;
+
+    protected abstract void clear();
+
+    public ArrayList<String> predict(Sentence sentence) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
+        ArrayList<String> classLabels = new ArrayList<>();
+        for (int i = 0; i < sentence.wordCount(); i++) {
+            LabelledVectorizedWord word = (LabelledVectorizedWord) sentence.getWord(i);
+            calculateOutput(word);
+            double bestValue = Double.MIN_VALUE;
+            String best = this.classLabels.get(0);
+            for (int j = 0; j < layers.get(layers.size() - 1).getRow(); j++) {
+                if (layers.get(layers.size() - 1).getValue(j, 0) > bestValue) {
+                    bestValue = layers.get(layers.size() - 1).getValue(j, 0);
+                    best = this.classLabels.get(j);
+                }
+            }
+            classLabels.add(best);
+            clear();
+        }
+        for (Matrix oldLayer : this.oldLayers) {
+            for (int k = 0; k < oldLayer.getRow(); k++) {
+                oldLayer.setValue(k, 0, 0.0);
+            }
+        }
+        return classLabels;
     }
 
     public void save(String fileName) {
