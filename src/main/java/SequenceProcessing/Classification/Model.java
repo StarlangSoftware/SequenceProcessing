@@ -118,6 +118,30 @@ public abstract class Model implements Serializable {
         return r;
     }
 
+    protected Matrix derivative(Matrix matrix, ActivationFunction function) throws MatrixDimensionMismatch {
+        switch (function) {
+            case SIGMOID:
+            default:
+                Matrix oneMinusHidden = calculateOneMinusMatrix(matrix);
+                return matrix.elementProduct(oneMinusHidden);
+            case TANH:
+                Matrix oneMinusA2 = new Matrix(matrix.getRow(), 1);
+                Matrix a2 = matrix.elementProduct(matrix);
+                for (int i = 0; i < oneMinusA2.getRow(); i++) {
+                    oneMinusA2.setValue(i, 0, 1.0 - a2.getValue(i, 0));
+                }
+                return oneMinusA2;
+            case RELU:
+                Matrix der = new Matrix(matrix.getRow(), 1);
+                for (int i = 0; i < matrix.getRow(); i++) {
+                    if (matrix.getValue(i, 0) > 0) {
+                        der.setValue(i, 0, 1.0);
+                    }
+                }
+                return der;
+        }
+    }
+
     protected void activationFunction(Matrix matrix, ActivationFunction function) {
         switch (function) {
             case SIGMOID:
