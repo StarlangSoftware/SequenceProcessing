@@ -164,9 +164,20 @@ public abstract class Model implements Serializable {
         }
     }
 
-    protected abstract void calculateOutput(LabelledVectorizedWord word) throws MatrixRowColumnMismatch, MatrixDimensionMismatch;
+    protected void clear() {
+        oldLayersUpdate();
+        setLayersValuesToZero();
+    }
 
-    protected abstract void clear();
+    protected void clearOldValues() {
+        for (Matrix oldLayer : this.oldLayers) {
+            for (int k = 0; k < oldLayer.getRow(); k++) {
+                oldLayer.setValue(k, 0, 0.0);
+            }
+        }
+    }
+
+    protected abstract void calculateOutput(LabelledVectorizedWord word) throws MatrixRowColumnMismatch, MatrixDimensionMismatch;
 
     public ArrayList<String> predict(Sentence sentence) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
         ArrayList<String> classLabels = new ArrayList<>();
@@ -184,11 +195,7 @@ public abstract class Model implements Serializable {
             classLabels.add(best);
             clear();
         }
-        for (Matrix oldLayer : this.oldLayers) {
-            for (int k = 0; k < oldLayer.getRow(); k++) {
-                oldLayer.setValue(k, 0, 0.0);
-            }
-        }
+        clearOldValues();
         return classLabels;
     }
 

@@ -96,11 +96,7 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                     }
                     clear();
                 }
-                for (Matrix oldLayer : this.oldLayers) {
-                    for (int k = 0; k < oldLayer.getRow(); k++) {
-                        oldLayer.setValue(k, 0, 0.0);
-                    }
-                }
+                clearOldValues();
             }
             learningRate *= parameters.getEtaDecrease();
         }
@@ -129,8 +125,7 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
 
     @Override
     protected void clear() {
-        oldLayersUpdate();
-        setLayersValuesToZero();
+        super.clear();
         for (int l = 0; l < this.layers.size() - 2; l++) {
             for (int m = 0; m < aVectors.get(l).getRow(); m++) {
                 aVectors.get(l).setValue(m, 0, 0.0);

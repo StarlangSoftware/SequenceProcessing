@@ -47,11 +47,7 @@ public class RecurrentNeuralNetworkModel extends Model implements Serializable {
                     }
                     clear();
                 }
-                for (Matrix oldLayer : this.oldLayers) {
-                    for (int k = 0; k < oldLayer.getRow(); k++) {
-                        oldLayer.setValue(k, 0, 0.0);
-                    }
-                }
+                clearOldValues();
             }
             learningRate *= parameters.getEtaDecrease();
         }
@@ -68,11 +64,5 @@ public class RecurrentNeuralNetworkModel extends Model implements Serializable {
         }
         layers.get(layers.size() - 1).add(this.weights.get(this.weights.size() - 1).multiply(layers.get(layers.size() - 2)));
         normalizeOutput();
-    }
-
-    @Override
-    protected void clear() {
-        oldLayersUpdate();
-        setLayersValuesToZero();
     }
 }
