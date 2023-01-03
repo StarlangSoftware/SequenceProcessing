@@ -59,7 +59,7 @@ public class RecurrentNeuralNetworkModel extends Model implements Serializable {
         for (int l = 0; l < this.layers.size() - 2; l++) {
             layers.get(l + 1).add(this.recurrentWeights.get(l).multiply(oldLayers.get(l)));
             layers.get(l + 1).add(this.weights.get(l).multiply(this.layers.get(l)));
-            activationFunction(layers.get(l + 1), this.activationFunction);
+            layers.set(l + 1, activationFunction(layers.get(l + 1), this.activationFunction));
             layers.set(l + 1, biased(layers.get(l + 1)));
         }
         layers.get(layers.size() - 1).add(this.weights.get(this.weights.size() - 1).multiply(layers.get(layers.size() - 2)));

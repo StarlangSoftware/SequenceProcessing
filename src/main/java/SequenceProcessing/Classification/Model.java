@@ -142,26 +142,30 @@ public abstract class Model implements Serializable {
         }
     }
 
-    protected void activationFunction(Matrix matrix, ActivationFunction function) {
+    protected Matrix activationFunction(Matrix matrix, ActivationFunction function) {
+        Matrix r = new Matrix(matrix.getRow(), matrix.getColumn());
         switch (function) {
             case SIGMOID:
                 for (int i = 0; i < matrix.getRow(); i++) {
-                    matrix.setValue(i, 0, 1 / (1 + Math.exp(-matrix.getValue(i, 0))));
+                    r.setValue(i, 0, 1 / (1 + Math.exp(-matrix.getValue(i, 0))));
                 }
                 break;
             case RELU:
                 for (int i = 0; i < matrix.getRow(); i++) {
                     if (matrix.getValue(i, 0) < 0) {
-                        matrix.setValue(i, 0, 0.0);
+                        r.setValue(i, 0, 0.0);
+                    } else {
+                        r.setValue(i, 0, matrix.getValue(i, 0));
                     }
                 }
                 break;
             case TANH:
                 for (int i = 0; i < matrix.getRow(); i++) {
-                    matrix.setValue(i, 0, Math.tanh(matrix.getValue(i, 0)));
+                    r.setValue(i, 0, Math.tanh(matrix.getValue(i, 0)));
                 }
                 break;
         }
+        return r;
     }
 
     protected void clear() {

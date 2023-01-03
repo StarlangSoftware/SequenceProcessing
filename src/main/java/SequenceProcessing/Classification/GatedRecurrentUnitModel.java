@@ -110,11 +110,11 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
             zVectors.get(l).add(zWeights.get(l).multiply(layers.get(l)));
             rVectors.get(l).add(rRecurrentWeights.get(l).multiply(oldLayers.get(l)));
             zVectors.get(l).add(zRecurrentWeights.get(l).multiply(oldLayers.get(l)));
-            activationFunction(rVectors.get(l), this.activationFunction);
-            activationFunction(zVectors.get(l), this.activationFunction);
+            rVectors.set(l, activationFunction(rVectors.get(l), this.activationFunction));
+            zVectors.set(l, activationFunction(zVectors.get(l), this.activationFunction));
             aVectors.get(l).add(this.recurrentWeights.get(l).multiply(rVectors.get(l).elementProduct(oldLayers.get(l))));
             aVectors.get(l).add(this.weights.get(l).multiply(layers.get(l)));
-            activationFunction(aVectors.get(l), ActivationFunction.TANH);
+            aVectors.set(l, activationFunction(aVectors.get(l), ActivationFunction.TANH));
             layers.get(l + 1).add(calculateOneMinusMatrix(zVectors.get(l)).elementProduct(oldLayers.get(l)));
             layers.get(l + 1).add(zVectors.get(l).elementProduct(aVectors.get(l)));
             layers.set(l + 1, biased(layers.get(l + 1)));
