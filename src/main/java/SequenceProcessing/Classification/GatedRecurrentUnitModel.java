@@ -58,17 +58,16 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                     ArrayList<Matrix> zDeltaWeights = new ArrayList<>();
                     ArrayList<Matrix> zDeltaRecurrentWeights = new ArrayList<>();
                     deltaWeights.add(rMinusY.multiply(layers.get(layers.size() - 2).transpose()));
-                    deltaWeights.add(rMinusY);
-                    deltaRecurrentWeights.add(rMinusY);
-                    rDeltaWeights.add(rMinusY);
-                    rDeltaRecurrentWeights.add(rMinusY);
-                    zDeltaWeights.add(rMinusY);
-                    zDeltaRecurrentWeights.add(rMinusY);
+                    deltaWeights.add(rMinusY.transpose().multiply(weights.get(weights.size() - 1).partial(0, weights.get(weights.size() - 1).getRow() - 1, 0, weights.get(weights.size() - 1).getColumn() - 2)).transpose());
+                    deltaRecurrentWeights.add(deltaWeights.get(deltaWeights.size() - 1).clone());
+                    rDeltaWeights.add(deltaWeights.get(deltaWeights.size() - 1).clone());
+                    rDeltaRecurrentWeights.add(deltaWeights.get(deltaWeights.size() - 1).clone());
+                    zDeltaWeights.add(deltaWeights.get(deltaWeights.size() - 1).clone());
+                    zDeltaRecurrentWeights.add(deltaWeights.get(deltaWeights.size() - 1).clone());
                     for (int l = parameters.layerSize() - 1; l >= 0; l--) {
-                        Matrix zDelta = deltaWeights.get(deltaWeights.size() - 1).transpose().multiply(weights.get(l + 1).partial(0, weights.get(l + 1).getRow() - 1, 0, weights.get(l + 1).getColumn() - 2)).transpose();
-                        Matrix delta = zDelta.elementProduct(zVectors.get(l)).elementProduct(derivative(aVectors.get(l), ActivationFunction.TANH));
-                        zDelta = zDelta.elementProduct(aVectors.get(l).difference(oldLayers.get(l))).elementProduct(derivative(zVectors.get(l), this.activationFunction));
-                        Matrix rDelta = delta.transpose().multiply(recurrentWeights.get(l)).transpose().elementProduct(oldLayers.get(l)).elementProduct(derivative(rVectors.get(l), this.activationFunction));
+                        Matrix delta = deltaWeights.get(deltaWeights.size() - 1).elementProduct(zVectors.get(l)).elementProduct(derivative(aVectors.get(l), ActivationFunction.TANH));
+                        Matrix zDelta = zDeltaWeights.get(zDeltaWeights.size() - 1).elementProduct(aVectors.get(l).difference(oldLayers.get(l))).elementProduct(derivative(zVectors.get(l), this.activationFunction));
+                        Matrix rDelta = rDeltaWeights.get(rDeltaWeights.size() - 1).elementProduct(aVectors.get(l).difference(oldLayers.get(l))).elementProduct(derivative(zVectors.get(l), this.activationFunction)).transpose().multiply(recurrentWeights.get(l)).transpose().elementProduct(oldLayers.get(l)).elementProduct(derivative(rVectors.get(l), this.activationFunction));
                         deltaWeights.set(deltaWeights.size() - 1, delta.multiply(layers.get(l).transpose()));
                         deltaRecurrentWeights.set(deltaRecurrentWeights.size() - 1, delta.multiply((rVectors.get(l).elementProduct(oldLayers.get(l))).transpose()));
                         zDeltaWeights.set(zDeltaWeights.size() - 1, zDelta.multiply(layers.get(l).transpose()));
@@ -76,12 +75,12 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
                         rDeltaWeights.set(rDeltaWeights.size() - 1, rDelta.multiply(layers.get(l).transpose()));
                         rDeltaRecurrentWeights.set(rDeltaRecurrentWeights.size() - 1, rDelta.multiply(oldLayers.get(l).transpose()));
                         if (l > 0) {
-                            deltaWeights.add(delta);
-                            deltaRecurrentWeights.add(delta);
-                            zDeltaWeights.add(zDelta);
-                            zDeltaRecurrentWeights.add(zDelta);
-                            rDeltaWeights.add(rDelta);
-                            rDeltaRecurrentWeights.add(rDelta);
+                            deltaWeights.add(delta.transpose().multiply(weights.get(l).partial(0, weights.get(l).getRow() - 1, 0, weights.get(l).getColumn() - 2)).transpose());
+                            deltaRecurrentWeights.add(delta.transpose().multiply(weights.get(l).partial(0, weights.get(l).getRow() - 1, 0, weights.get(l).getColumn() - 2)).transpose());
+                            zDeltaWeights.add(zDelta.transpose().multiply(zWeights.get(l).partial(0, zWeights.get(l).getRow() - 1, 0, zWeights.get(l).getColumn() - 2)).transpose());
+                            zDeltaRecurrentWeights.add(zDelta.transpose().multiply(zWeights.get(l).partial(0, zWeights.get(l).getRow() - 1, 0, zWeights.get(l).getColumn() - 2)).transpose());
+                            rDeltaWeights.add(rDelta.transpose().multiply(rWeights.get(l).partial(0, rWeights.get(l).getRow() - 1, 0, rWeights.get(l).getColumn() - 2)).transpose());
+                            rDeltaRecurrentWeights.add(rDelta.transpose().multiply(rWeights.get(l).partial(0, rWeights.get(l).getRow() - 1, 0, rWeights.get(l).getColumn() - 2)).transpose());
                         }
                     }
                     weights.get(weights.size() - 1).add(deltaWeights.get(0));
