@@ -141,15 +141,16 @@ public class LongShortTermMemoryModel extends Model implements Serializable {
         ArrayList<Matrix> jVectors = new ArrayList<>();
         for (int i = 0; i < this.layers.size() - 2; i++) {
             fVectors.get(i).add(fRecurrentWeights.get(i).multiply(this.oldLayers.get(i)).sum(fWeights.get(i).multiply(this.layers.get(i))));
-            activationFunction(fVectors.get(i), this.activationFunction);
+            fVectors.set(i, activationFunction(fVectors.get(i), this.activationFunction));
             kVectors.add(cOldVectors.get(i).elementProduct(fVectors.get(i)));
             gVectors.get(i).add(gRecurrentWeights.get(i).multiply(this.oldLayers.get(i)).sum(gWeights.get(i).multiply(this.layers.get(i))));
-            activationFunction(gVectors.get(i), ActivationFunction.TANH);
+            gVectors.set(i, activationFunction(gVectors.get(i), ActivationFunction.TANH));
             iVectors.get(i).add(iRecurrentWeights.get(i).multiply(this.oldLayers.get(i)).sum(iWeights.get(i).multiply(this.layers.get(i))));
             iVectors.set(i, activationFunction(iVectors.get(i), this.activationFunction));
             jVectors.add(gVectors.get(i).elementProduct(iVectors.get(i)));
             cVectors.get(i).add(jVectors.get(i).sum(kVectors.get(i)));
             oVectors.get(i).add(oRecurrentWeights.get(i).multiply(this.oldLayers.get(i)).sum(oWeights.get(i).multiply(this.layers.get(i))));
+            oVectors.set(i, activationFunction(oVectors.get(i), this.activationFunction));
             layers.get(i + 1).add(oVectors.get(i).elementProduct(activationFunction(cVectors.get(i), ActivationFunction.TANH)));
             layers.set(i + 1, biased(layers.get(i + 1)));
         }
