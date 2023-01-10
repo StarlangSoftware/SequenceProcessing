@@ -1,6 +1,6 @@
 For Developers
 ============
-
+You can also see [C++](https://github.com/StarlangSoftware/SequenceProcessing-CPP), or [C#](https://github.com/StarlangSoftware/SequenceProcessing-CS) repository.
 ## Requirements
 
 * [Java Development Kit 8 or higher](#java), Open JDK or Oracle JDK
