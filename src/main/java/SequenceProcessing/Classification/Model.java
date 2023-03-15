@@ -3,6 +3,7 @@ package SequenceProcessing.Classification;
 import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
 import Corpus.Sentence;
+import SequenceProcessing.Initializer.Initializer;
 import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 
@@ -24,7 +25,7 @@ public abstract class Model implements Serializable {
     protected ArrayList<String> classLabels;
     protected ActivationFunction activationFunction;
 
-    public Model(SequenceCorpus corpus, DeepNetworkParameter parameters) {
+    public Model(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) {
         this.corpus = corpus;
         this.activationFunction = parameters.getActivationFunction();
         ArrayList<Matrix> layers = new ArrayList<>();
@@ -37,11 +38,11 @@ public abstract class Model implements Serializable {
         for (int i = 0; i < parameters.layerSize(); i++) {
             oldLayers.add(new Matrix(parameters.getHiddenNodes(i), 1));
             layers.add(new Matrix(parameters.getHiddenNodes(i), 1));
-            recurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
+            recurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
         }
         layers.add(new Matrix(classLabels.size(), 1));
         for (int i = 0; i < layers.size() - 1; i++) {
-            weights.add(new Matrix(layers.get(i + 1).getRow(), layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
+            weights.add(initializer.initialize(layers.get(i + 1).getRow(), layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
         }
         this.layers = layers;
         this.oldLayers = oldLayers;

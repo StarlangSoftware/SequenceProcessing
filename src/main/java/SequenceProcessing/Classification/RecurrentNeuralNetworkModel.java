@@ -2,6 +2,7 @@ package SequenceProcessing.Classification;
 
 import Classification.Parameter.DeepNetworkParameter;
 import Corpus.Sentence;
+import SequenceProcessing.Initializer.Initializer;
 import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 
@@ -12,8 +13,8 @@ import Math.*;
 
 public class RecurrentNeuralNetworkModel extends Model implements Serializable {
 
-    public RecurrentNeuralNetworkModel(SequenceCorpus corpus, DeepNetworkParameter parameters) throws MatrixDimensionMismatch, MatrixRowColumnMismatch {
-        super(corpus, parameters);
+    public RecurrentNeuralNetworkModel(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) throws MatrixDimensionMismatch, MatrixRowColumnMismatch {
+        super(corpus, parameters, initializer);
         int epoch = parameters.getEpoch();
         double learningRate = parameters.getLearningRate();
         for (int i = 0; i < epoch; i++) {

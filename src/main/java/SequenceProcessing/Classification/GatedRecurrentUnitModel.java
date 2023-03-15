@@ -3,6 +3,7 @@ package SequenceProcessing.Classification;
 import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
 import Corpus.Sentence;
+import SequenceProcessing.Initializer.Initializer;
 import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 
@@ -22,8 +23,8 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
     private ArrayList<Matrix> rWeights;
     private ArrayList<Matrix> rRecurrentWeights;
 
-    public GatedRecurrentUnitModel(SequenceCorpus corpus, DeepNetworkParameter parameters) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
-        super(corpus, parameters);
+    public GatedRecurrentUnitModel(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
+        super(corpus, parameters, initializer);
         int epoch = parameters.getEpoch();
         double learningRate = parameters.getLearningRate();
         aVectors = new ArrayList<>();
@@ -37,10 +38,10 @@ public class GatedRecurrentUnitModel extends Model implements Serializable {
             aVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             zVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             rVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
-            zWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
-            rWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
-            zRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
-            rRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
+            zWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            rWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            zRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
+            rRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
         }
         for (int i = 0; i < epoch; i++) {
             corpus.shuffleSentences(parameters.getSeed());

@@ -3,6 +3,7 @@ package SequenceProcessing.Classification;
 import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
 import Corpus.Sentence;
+import SequenceProcessing.Initializer.Initializer;
 import SequenceProcessing.Sequence.LabelledVectorizedWord;
 
 import java.io.Serializable;
@@ -29,8 +30,8 @@ public class LongShortTermMemoryModel extends Model implements Serializable {
     private ArrayList<Matrix> cVectors;
     private ArrayList<Matrix> cOldVectors;
 
-    public LongShortTermMemoryModel(SequenceCorpus corpus, DeepNetworkParameter parameters) throws MatrixDimensionMismatch, MatrixRowColumnMismatch {
-        super(corpus, parameters);
+    public LongShortTermMemoryModel(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) throws MatrixDimensionMismatch, MatrixRowColumnMismatch {
+        super(corpus, parameters, initializer);
         int epoch = parameters.getEpoch();
         double learningRate = parameters.getLearningRate();
         fVectors = new ArrayList<>();
@@ -54,14 +55,14 @@ public class LongShortTermMemoryModel extends Model implements Serializable {
             oVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             cVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             cOldVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
-            fWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
-            gWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
-            iWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
-            oWeights.add(new Matrix(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, -0.01, +0.01, new Random(parameters.getSeed())));
-            fRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
-            gRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
-            iRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
-            oRecurrentWeights.add(new Matrix(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), -0.01, +0.01, new Random(parameters.getSeed())));
+            fWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            gWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            iWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            oWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            fRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
+            gRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
+            iRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
+            oRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
         }
         for (int i = 0; i < epoch; i++) {
             corpus.shuffleSentences(parameters.getSeed());
