@@ -1,0 +1,1831 @@
+<S>
+Müziğe NOUN
+piyano NOUN
+katarak ADV
+ahenk NOUN
+verdi VERB
+. PUNCT
+</S>
+<S>
+Pandemi PROPN
+yüzünden ADV
+işinden NOUN
+olmuştu VERB
+. PUNCT
+</S>
+<S>
+Beni PRON
+görünce ADV
+artık ADV
+yolunu NOUN
+değiştiriyor VERB
+. PUNCT
+</S>
+<S>
+Yarı ADJ
+yolda NOUN
+kaptan NOUN
+hava NOUN
+durumuna NOUN
+bakıp ADV
+rota NOUN
+değiştirdi VERB
+. PUNCT
+</S>
+<S>
+Köyü NOUN
+sular NOUN
+altında NOUN
+kalmaktan NOUN
+kurtarmak NOUN
+için ADP
+nehri NOUN
+aktaracağız VERB
+. PUNCT
+</S>
+<S>
+Son ADJ
+sürat NOUN
+giden ADJ
+araba NOUN
+, PUNCT
+önüne NOUN
+geyik NOUN
+çıkınca ADV
+bir DET
+anda NOUN
+çark NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Çalışanlar NOUN
+, PUNCT
+şirketi NOUN
+hortumlayıp ADV
+kaçtı VERB
+. PUNCT
+</S>
+<S>
+Geceleri ADV
+, PUNCT
+arka ADJ
+sokakta NOUN
+haraca NOUN
+kesiyorlar VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+durumdan NOUN
+onun PRON
+kesesine NOUN
+bir DET
+şey NOUN
+girmiyor VERB
+. PUNCT
+</S>
+<S>
+Kırmızı ADJ
+renk NOUN
+gücü NOUN
+temsil NOUN
+eder VERB
+. PUNCT
+</S>
+<S>
+Kıpırda VERB
+biraz ADV
+, PUNCT
+Ayşe'ye PROPN
+yer NOUN
+aç VERB
+! PUNCT
+</S>
+<S>
+Tüm DET
+gün NOUN
+arkadaşlarını NOUN
+çekiştirdi VERB
+. PUNCT
+</S>
+<S>
+İnsanların NOUN
+arkasından NOUN
+konuşur VERB
+ama CCONJ
+yüzüne NOUN
+güler VERB
+</S>
+<S>
+Bütün ADJ
+kazancını NOUN
+faize NOUN
+yatırdı VERB
+. PUNCT
+</S>
+<S>
+Paranı NOUN
+değerlendir VERB
+, PUNCT
+faizlendir VERB
+. PUNCT
+</S>
+<S>
+Ekme VERB
+dedim VERB
+ama CCONJ
+dinlemedi VERB
+, PUNCT
+bütün ADJ
+parasını NOUN
+kaybetmiş VERB
+. PUNCT
+</S>
+<S>
+Mağdur ADJ
+etmek NOUN
+için ADP
+elinden NOUN
+geleni NOUN
+yapıyorlar VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+işten NOUN
+zarar NOUN
+eden ADJ
+ben PRON
+oldum VERB
+. PUNCT
+</S>
+<S>
+İlk ADJ
+ay NOUN
+maaşını NOUN
+buna PRON
+yatırdı VERB
+. PUNCT
+</S>
+<S>
+Kombi NOUN
+bozulunca ADV
+500 NUM
+lira NOUN
+çıkmak NOUN
+zorunda NOUN
+kaldı VERB
+. PUNCT
+</S>
+<S>
+İki NUM
+maaşımı NOUN
+hastalığına NOUN
+harcadığım ADJ
+talebe NOUN
+, PUNCT
+sonbaharla NOUN
+beraber ADP
+ölmüştü VERB
+. PUNCT
+</S>
+<S>
+Emekli ADJ
+albay NOUN
+ikramiyesini NOUN
+eritti VERB
+. PUNCT
+</S>
+<S>
+Birikimini NOUN
+saf NOUN
+gibi ADP
+araya NOUN
+verdi VERB
+. PUNCT
+</S>
+<S>
+Senin PRON
+okulun NOUN
+için ADP
+o PRON
+kadar ADP
+masraf NOUN
+ettik VERB
+. PUNCT
+</S>
+<S>
+Babama NOUN
+yük NOUN
+oluyorum VERB
+ve CCONJ
+bundan ADV
+utanıyorum VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+proje NOUN
+için ADP
+babam NOUN
+çok ADJ
+masrafa NOUN
+girdi VERB
+. PUNCT
+</S>
+<S>
+Adam NOUN
+çok ADV
+bonkör ADJ
+, PUNCT
+her DET
+yemekte NOUN
+masrafı NOUN
+çekiyor VERB
+. PUNCT
+</S>
+<S>
+Düşeş NOUN
+atınca NOUN
+oğlanın NOUN
+pulunu NOUN
+vurdu VERB
+. PUNCT
+</S>
+<S>
+Eline NOUN
+güvenen ADJ
+Mişa PROPN
+, PUNCT
+rest NOUN
+çekti VERB
+. PUNCT
+</S>
+<S>
+Kumarhane NOUN
+sahibinin NOUN
+restini NOUN
+gördü VERB
+. PUNCT
+</S>
+<S>
+Devlet NOUN
+iltica NOUN
+edenleri NOUN
+vatandaşlıktan NOUN
+çıkardı VERB
+. PUNCT
+</S>
+<S>
+Araplar NOUN
+İstanbul'u PROPN
+birkaç DET
+kez NOUN
+kuşattıysa VERB
+da CCONJ
+şehri NOUN
+almayı NOUN
+başaramadı VERB
+. PUNCT
+</S>
+<S>
+Oturup ADV
+eski ADJ
+günleri NOUN
+yâd NOUN
+ettik VERB
+</S>
+<S>
+Zarfın NOUN
+üstündeki ADJ
+yazıyı NOUN
+hemen ADV
+tanıdı VERB
+. PUNCT
+</S>
+<S>
+Annem NOUN
+sobayı NOUN
+durmadan ADV
+süngüledi VERB
+. PUNCT
+</S>
+<S>
+Mekana NOUN
+kimliksiz ADJ
+sokmadı VERB
+. PUNCT
+</S>
+<S>
+Sevecenliğiyle NOUN
+nam NOUN
+kazanmıştı VERB
+. PUNCT
+</S>
+<S>
+Kalbini NOUN
+kazanmıştım VERB
+, PUNCT
+bu DET
+beni PRON
+mutlu ADJ
+ediyordu VERB
+. PUNCT
+</S>
+<S>
+İşler NOUN
+güzeldi VERB
+, PUNCT
+para NOUN
+basıyordum VERB
+. PUNCT
+</S>
+<S>
+Yeni ADJ
+çalışanım NOUN
+sayesinde ADV
+çok ADV
+para NOUN
+bastım VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+ay NOUN
+çok ADV
+kazandım VERB
+, PUNCT
+para NOUN
+kestim VERB
+. PUNCT
+</S>
+<S>
+Çok ADV
+zengindi VERB
+paraya NOUN
+para NOUN
+demiyordu VERB
+. PUNCT
+</S>
+<S>
+Bayağı ADJ
+para NOUN
+yapmıştı VERB
+, PUNCT
+hepsi PRON
+, PUNCT
+bankada NOUN
+duruyordu VERB
+. PUNCT
+</S>
+<S>
+Sınıfımda NOUN
+popülarite NOUN
+kazandım VERB
+, PUNCT
+herkesle PRON
+aram NOUN
+iyiydi VERB
+. PUNCT
+</S>
+<S>
+Genç ADJ
+sporcu NOUN
+olimpiyatlarda NOUN
+güzel ADJ
+bir DET
+puan NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Ailemin NOUN
+gözünde ADV
+puan NOUN
+kazandım VERB
+. PUNCT
+</S>
+<S>
+Geçtiği ADJ
+aşamalarda NOUN
+fazlaca ADV
+puan NOUN
+toplamıştı VERB
+. PUNCT
+</S>
+<S>
+Sonunda ADV
+biraz ADV
+pul NOUN
+tuttum VERB
+. PUNCT
+</S>
+<S>
+Bütün ADJ
+bu DET
+projeler NOUN
+süresince ADV
+israfa NOUN
+kaçma VERB
+lütfen ADV
+mümkünse VERB
+. PUNCT
+</S>
+<S>
+Fazlasına NOUN
+gerek NOUN
+yok NOUN
+, PUNCT
+tava NOUN
+getir VERB
+yeter ADJ
+. PUNCT
+</S>
+<S>
+Yemek NOUN
+yaparken ADV
+dalgınlıkla ADV
+yağ NOUN
+yakmış VERB
+. PUNCT
+</S>
+<S>
+Dinamiti NOUN
+eline NOUN
+aldığı NOUN
+gibi ADP
+fitilledi VERB
+. PUNCT
+</S>
+<S>
+Onun PRON
+yaptıklarını NOUN
+durmadan ADV
+över VERB
+, PUNCT
+göklere NOUN
+çıkarırdı VERB
+. PUNCT
+</S>
+<S>
+Hâlimizi PROPN
+görüp ADV
+bize PRON
+merhamet NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+O DET
+çocukların NOUN
+ağlamasına NOUN
+içi NOUN
+sızladı VERB
+. PUNCT
+</S>
+<S>
+Her DET
+söylediğimize NOUN
+armudun NOUN
+sapı NOUN
+var ADJ
+, PUNCT
+üzümün NOUN
+çöpü NOUN
+var ADJ
+dedi VERB
+. PUNCT
+</S>
+<S>
+Bugünkü ADJ
+çalışmalarımızı NOUN
+noksan NOUN
+buldu VERB
+. PUNCT
+</S>
+<S>
+Bankalarda NOUN
+bu PRON
+ay NOUN
+çok ADJ
+para NOUN
+kazanıldı VERB
+. PUNCT
+</S>
+<S>
+Buzlar NOUN
+sıvılaştı VERB
+. PUNCT
+</S>
+<S>
+Geri ADV
+kalan ADJ
+parayı NOUN
+hesaptan NOUN
+düş VERB
+artık ADV
+. PUNCT
+</S>
+<S>
+Biraz ADJ
+hız NOUN
+ver VERB
+arabaya NOUN
+. PUNCT
+</S>
+<S>
+Bu PRON
+ay NOUN
+bütçede NOUN
+biraz ADJ
+kısıntı NOUN
+yaptık VERB
+. PUNCT
+</S>
+<S>
+Uçağın NOUN
+sorti NOUN
+yapması NOUN
+kulenin NOUN
+ilgisini NOUN
+çekmişti VERB
+. PUNCT
+</S>
+<S>
+Bizim PRON
+primleri NOUN
+de CCONJ
+tenzil NOUN
+ettiler VERB
+. PUNCT
+</S>
+<S>
+Vites NOUN
+büyütmezsek VERB
+işler NOUN
+yetişmeyecek VERB
+. PUNCT
+</S>
+<S>
+Yaşlı ADJ
+hükümdar NOUN
+tahttan NOUN
+indirildi VERB
+. PUNCT
+</S>
+<S>
+Müdür NOUN
+yardımcısını NOUN
+vekâleten ADV
+atadılar VERB
+. PUNCT
+</S>
+<S>
+Yeni ADJ
+iş NOUN
+şansını NOUN
+fevt NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Babasının NOUN
+tüm DET
+bağırışlarını NOUN
+giydi VERB
+ve CCONJ
+odadan NOUN
+çıktı VERB
+. PUNCT
+</S>
+<S>
+Çok ADV
+kızgın ADJ
+bir DET
+fikir NOUN
+çarpışmasının NOUN
+üzerine NOUN
+gelmişim VERB
+, PUNCT
+kulak NOUN
+kesildim VERB
+. PUNCT
+</S>
+<S>
+Etrafta NOUN
+biri PRON
+olup ADV
+olmadığını NOUN
+anlamak NOUN
+için ADP
+sokaktan NOUN
+gelen ADJ
+seslere NOUN
+kulak NOUN
+kabartıyorum VERB
+. PUNCT
+</S>
+<S>
+Ana ADJ
+çorbaya NOUN
+tuz NOUN
+atıyor VERB
+, PUNCT
+baba NOUN
+mancanın NOUN
+tadına NOUN
+bakıyor VERB
+. PUNCT
+</S>
+<S>
+Tuzundan NOUN
+emin ADJ
+olmak NOUN
+için ADP
+tatlı ADJ
+kaşığıyla NOUN
+çorbanın NOUN
+çeşnisine NOUN
+baktım VERB
+. PUNCT
+</S>
+<S>
+Fasulyeden NOUN
+de CCONJ
+tat VERB
+biraz ADV
+. PUNCT
+</S>
+<S>
+İçeri ADJ
+girdiği NOUN
+gibi ADP
+, PUNCT
+etrafta NOUN
+toz NOUN
+bulayım VERB
+diye ADP
+tüm DET
+sehpaları NOUN
+parmakladı VERB
+. PUNCT
+</S>
+<S>
+Durup ADV
+durup ADV
+kıza NOUN
+elleşme VERB
+! PUNCT
+</S>
+<S>
+Ham ADJ
+maddeler NOUN
+burada ADV
+işleniyor VERB
+. PUNCT
+</S>
+<S>
+Dantelleri NOUN
+bir DET
+güzel ADJ
+işledik VERB
+annemle NOUN
+. PUNCT
+</S>
+<S>
+Bu DET
+fabrikada NOUN
+taşlar NOUN
+taranıyor VERB
+. PUNCT
+</S>
+<S>
+Ahşap ADJ
+döşemelerimiz NOUN
+kirişlendi VERB
+. PUNCT
+</S>
+<S>
+Malzemeler NOUN
+tornalandı VERB
+. PUNCT
+</S>
+<S>
+Doktor NOUN
+Sevim PROPN
+, PUNCT
+hastayı NOUN
+ilk ADV
+gördüğü NOUN
+an NOUN
+kendinde NOUN
+değil AUX
+sanmıştı VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+aralar NOUN
+bilim NOUN
+- PUNCT
+kurgu NOUN
+filmlerine NOUN
+sardırdı VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+tek ADJ
+ailesinin NOUN
+oturduğu ADJ
+ev NOUN
+kalmıştı VERB
+. PUNCT
+</S>
+<S>
+Tam ADJ
+terhis NOUN
+olacakken ADV
+tezkere NOUN
+bıraktı VERB
+. PUNCT
+</S>
+<S>
+Annesinin NOUN
+hastalığından NOUN
+sonra ADP
+işi NOUN
+gücü NOUN
+bıraktı VERB
+. PUNCT
+</S>
+<S>
+Bugünlük ADV
+paydos NOUN
+diyoruz VERB
+, PUNCT
+yarın NOUN
+görüşmek NOUN
+üzere ADP
+. PUNCT
+</S>
+<S>
+Uzmanlar NOUN
+Salı NOUN
+günü NOUN
+için ADP
+yoğun ADJ
+kar NOUN
+yağışı NOUN
+bildirdi VERB
+. PUNCT
+</S>
+<S>
+Annesi NOUN
+ona PRON
+nerede ADV
+hata NOUN
+yaptığını NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Avukat NOUN
+hanım NOUN
+sorunu NOUN
+mahkemeye NOUN
+şerh NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Merak NOUN
+etmeyin VERB
+kısa ADJ
+tutacağım VERB
+. PUNCT
+</S>
+<S>
+Orada ADV
+tanıştığı NOUN
+birileri PRON
+hemencecik ADV
+derdine NOUN
+deva NOUN
+bulacaktı VERB
+. PUNCT
+</S>
+<S>
+O PRON
+kadın ADJ
+bu DET
+tür NOUN
+şeyleri NOUN
+sezinliyor VERB
+. PUNCT
+</S>
+<S>
+Minik ADJ
+serçe NOUN
+kanat NOUN
+çırptı VERB
+. PUNCT
+</S>
+<S>
+Yıldız NOUN
+kaydı VERB
+ve CCONJ
+dilek NOUN
+diledim VERB
+. PUNCT
+</S>
+<S>
+Öfkelenince ADV
+ok NOUN
+gibi ADP
+fırladı VERB
+. PUNCT
+</S>
+<S>
+Arabayı NOUN
+, PUNCT
+kuvvetli ADJ
+atlar NOUN
+tenha ADJ
+yolda NOUN
+uçuruyordu VERB
+. PUNCT
+</S>
+<S>
+Böyle ADV
+uzaklaştı VERB
+ağır ADJ
+ağır ADJ
+o PRON
+bizden PRON
+/ PUNCT
+Biz PRON
+ayrı ADJ
+düşmedik VERB
+, PUNCT
+ant NOUN
+içmiştik VERB
+denizden NOUN
+. PUNCT
+</S>
+<S>
+İki NUM
+genç ADJ
+, PUNCT
+kılıçlama ADV
+kaçıyorlardı VERB
+. PUNCT
+</S>
+<S>
+Odanın NOUN
+halısı NOUN
+biraz ADV
+sağa NOUN
+kaçmış VERB
+. PUNCT
+</S>
+<S>
+Okul NOUN
+bitmişti VERB
+; PUNCT
+payandaları NOUN
+çözmüştüm VERB
+. PUNCT
+</S>
+<S>
+Sonunda ADV
+senden PRON
+kurtuldum VERB
+. PUNCT
+</S>
+<S>
+Sırf ADV
+bu DET
+parayı NOUN
+ödeyemiyorum VERB
+diye ADP
+çekip ADV
+gitti VERB
+insafsızca ADV
+. PUNCT
+</S>
+<S>
+Silahını NOUN
+hatta CCONJ
+başındaki ADJ
+şapkasını NOUN
+bırakıp ADV
+kaçtı VERB
+. PUNCT
+</S>
+<S>
+Konuşmadık VERB
+, PUNCT
+cehennem NOUN
+olup ADV
+gitti VERB
+. PUNCT
+</S>
+<S>
+Annesi NOUN
+arkasına NOUN
+bakmadan ADV
+gitti VERB
+. PUNCT
+</S>
+<S>
+Küçük ADJ
+kedi NOUN
+birden ADV
+tun NOUN
+tun NOUN
+kaçtı VERB
+. PUNCT
+</S>
+<S>
+Yaşlı ADJ
+güreşçi NOUN
+, PUNCT
+minderden NOUN
+kaçtı VERB
+. PUNCT
+</S>
+<S>
+Aliş PROPN
+kulübeye NOUN
+girerken ADV
+tozu NOUN
+dumana NOUN
+kattı VERB
+. PUNCT
+</S>
+<S>
+Taş ADJ
+aldığımı NOUN
+görmüş ADJ
+gibi ADP
+tabana NOUN
+kuvvet NOUN
+kaçıyor VERB
+. PUNCT
+</S>
+<S>
+Bekir PROPN
+, PUNCT
+kaşla NOUN
+göz NOUN
+arasında NOUN
+dışarıya NOUN
+sızdı VERB
+. PUNCT
+</S>
+<S>
+Borcu NOUN
+için ADP
+ona PRON
+biraz ADV
+daha ADV
+zaman NOUN
+tanıdım VERB
+. PUNCT
+</S>
+<S>
+Kredinin NOUN
+vadesini NOUN
+uzattı VERB
+. PUNCT
+</S>
+<S>
+Çok ADV
+üşüdüm VERB
+, PUNCT
+soba NOUN
+bayağı ADV
+sağırlaşmış VERB
+. PUNCT
+</S>
+<S>
+Misafirler NOUN
+üşümesin VERB
+diye ADP
+eski ADJ
+elektrikli ADJ
+ısıtıcının NOUN
+ensesinde NOUN
+boza NOUN
+pişir VERB
+. PUNCT
+</S>
+<S>
+Bebeğe NOUN
+mamasını NOUN
+verirken ADV
+önce ADV
+püflüyordu VERB
+. PUNCT
+</S>
+<S>
+Bebek NOUN
+mamasına NOUN
+biraz ADJ
+su NOUN
+eklesene NOUN
+, PUNCT
+biraz ADV
+ılıştır VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+alandaki ADJ
+çalışmaları NOUN
+ile ADP
+yeni ADJ
+bir DET
+çığır NOUN
+açtı VERB
+. PUNCT
+</S>
+<S>
+Bizim PRON
+müdür NOUN
+yine ADV
+ağzını NOUN
+açtı VERB
+, PUNCT
+en ADV
+az ADJ
+yarım ADJ
+saat NOUN
+buradayız VERB
+. PUNCT
+</S>
+<S>
+Ne CCONJ
+çalışıyor VERB
+ne CCONJ
+okuyor VERB
+, PUNCT
+sadece ADV
+para NOUN
+yiyor VERB
+. PUNCT
+</S>
+<S>
+Eyvah INTJ
+, PUNCT
+dedi VERB
+panikle NOUN
+, PUNCT
+cüzdanımı NOUN
+evde NOUN
+unuttum VERB
+! PUNCT
+</S>
+<S>
+Ne CCONJ
+yardan NOUN
+geçer VERB
+ne CCONJ
+de CCONJ
+serden NOUN
+. PUNCT
+</S>
+<S>
+Soğuk ADJ
+hava NOUN
+öyle ADV
+bir ADV
+esti VERB
+ki SCONJ
+tüylerim NOUN
+diken NOUN
+diken NOUN
+oldu VERB
+. PUNCT
+</S>
+<S>
+Sınavın NOUN
+sessizliğinde NOUN
+karnım NOUN
+guruldadı VERB
+. PUNCT
+</S>
+<S>
+Yemek NOUN
+hala ADV
+hazır ADJ
+değil AUX
+, PUNCT
+çok ADV
+acıktım VERB
+. PUNCT
+</S>
+<S>
+Kafam NOUN
+uğulduyor VERB
+sanki ADV
+, PUNCT
+gözlerimi NOUN
+açamıyorum VERB
+. PUNCT
+</S>
+<S>
+Gözlerim NOUN
+kararıyor NOUN
+, PUNCT
+kulaklarım NOUN
+uğulduyordu VERB
+. PUNCT
+</S>
+<S>
+Okul NOUN
+öğleden NOUN
+sonra ADP
+tatil NOUN
+oldu VERB
+. PUNCT
+</S>
+<S>
+Kireç NOUN
+ile ADP
+zeminler NOUN
+stabilize ADJ
+edildi VERB
+. PUNCT
+</S>
+<S>
+Bel NOUN
+kaslarını NOUN
+kuvvetlendirmek NOUN
+için ADP
+her DET
+gün NOUN
+okulda NOUN
+yüzüyordu VERB
+. PUNCT
+</S>
+<S>
+Revizyon NOUN
+sürecinde NOUN
+romanı NOUN
+ciddi ADJ
+anlamda NOUN
+değiştirdi VERB
+. PUNCT
+</S>
+<S>
+Zeki ADJ
+olmasına NOUN
+rağmen ADP
+okumuyor VERB
+. PUNCT
+</S>
+<S>
+O DET
+üniversitede NOUN
+tahsil NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Geçmişi NOUN
+her DET
+başladığı ADJ
+işe NOUN
+set NOUN
+çekiyordu VERB
+. PUNCT
+</S>
+<S>
+Babasının NOUN
+kucağına NOUN
+kurulup ADV
+uyumaya NOUN
+başladı VERB
+. PUNCT
+</S>
+<S>
+Babasının NOUN
+kucağına NOUN
+oturarak ADV
+nasihat NOUN
+verdi VERB
+. PUNCT
+</S>
+<S>
+Öylesine ADV
+yorgundu VERB
+ki SCONJ
+, PUNCT
+gelir NOUN
+gelmez ADJ
+külçe NOUN
+gibi ADP
+oturdu VERB
+. PUNCT
+</S>
+<S>
+Haline NOUN
+baksana NOUN
+, PUNCT
+leş NOUN
+gibi ADP
+serilmiş VERB
+. PUNCT
+</S>
+<S>
+Secde NOUN
+ederek ADV
+dua NOUN
+etmeye NOUN
+başladı VERB
+. PUNCT
+</S>
+<S>
+Secdeye NOUN
+kapandı VERB
+, PUNCT
+namazına NOUN
+devam NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Semeri NOUN
+devirmiş ADJ
+gibi ADP
+yatması NOUN
+hiç ADV
+uygun ADJ
+gözükmüyor VERB
+. PUNCT
+</S>
+<S>
+Kendi PRON
+evine NOUN
+gidip ADV
+serilip ADV
+yatmak NOUN
+istiyordu VERB
+. PUNCT
+</S>
+<S>
+Sırtını NOUN
+verdi VERB
+ve CCONJ
+çöktü VERB
+. PUNCT
+</S>
+<S>
+Meyveler NOUN
+yumuşamış VERB
+. PUNCT
+</S>
+<S>
+Dizlerim VERB
+kabuklaştı VERB
+. PUNCT
+</S>
+<S>
+Kaynayan ADJ
+süt NOUN
+kaymak NOUN
+tuttu VERB
+. PUNCT
+</S>
+<S>
+Yoğurt NOUN
+ilginç ADJ
+bir DET
+şekilde NOUN
+jöleleşti VERB
+. PUNCT
+</S>
+<S>
+Cildim NOUN
+pürüzsüzleşti VERB
+. PUNCT
+</S>
+<S>
+Madde NOUN
+plastikleşti VERB
+. PUNCT
+</S>
+<S>
+Ameliyat NOUN
+öncesi NOUN
+doktorlar NOUN
+onu PRON
+bir DET
+gün NOUN
+boyunca ADP
+aç ADJ
+bıraktı VERB
+. PUNCT
+</S>
+<S>
+Dizüstü NOUN
+bilgisayarımı NOUN
+ödünç ADJ
+verdim VERB
+. PUNCT
+</S>
+<S>
+Uzun ADJ
+vadeli ADJ
+ödünç ADJ
+aldı VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+seneyi NOUN
+de CCONJ
+kazasız ADV
+belasız ADJ
+tamamladık VERB
+. PUNCT
+</S>
+<S>
+Tramvay NOUN
+caddesine NOUN
+çıktı VERB
+, PUNCT
+bir DET
+eczaneye NOUN
+girdi VERB
+, PUNCT
+reçete NOUN
+yaptırdı VERB
+. PUNCT
+</S>
+<S>
+Galip PROPN
+takım NOUN
+sahada NOUN
+tur NOUN
+atıyordu VERB
+. PUNCT
+</S>
+<S>
+Rakibinin NOUN
+sol ADJ
+kroşesini NOUN
+karşıladı VERB
+. PUNCT
+</S>
+<S>
+Turnuva NOUN
+haftaya NOUN
+başlıyor VERB
+, PUNCT
+bugün ADV
+ad NOUN
+çekmeye NOUN
+girecekler VERB
+. PUNCT
+</S>
+<S>
+Kaleci NOUN
+, PUNCT
+serbest ADJ
+atış NOUN
+yapacak ADJ
+oyuncuyu NOUN
+gördü VERB
+ve CCONJ
+sol ADJ
+üst ADJ
+köşeye NOUN
+doğru ADP
+hamle NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Orta ADJ
+sahayı NOUN
+boş ADJ
+bırakmayın VERB
+, PUNCT
+baskı NOUN
+yapın VERB
+! PUNCT
+</S>
+<S>
+Rakibine NOUN
+salto NOUN
+attı VERB
+, PUNCT
+gol NOUN
+atacağı NOUN
+kesindi VERB
+. PUNCT
+</S>
+<S>
+Dişli ADJ
+rakibini NOUN
+kolayca ADV
+engelledi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+seneyi NOUN
+de CCONJ
+kazasız ADV
+belasız ADJ
+neticelendirdik VERB
+. PUNCT
+</S>
+<S>
+İhalede NOUN
+herkesten PRON
+yüksek ADJ
+teklif NOUN
+vererek ADV
+düşeş NOUN
+attı VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+konuyu NOUN
+çok ADV
+zor ADJ
+anladım VERB
+. PUNCT
+</S>
+<S>
+Gömleğin NOUN
+düğmeleri NOUN
+kopunca ADV
+iğne NOUN
+ile ADP
+tutturdum VERB
+. PUNCT
+</S>
+<S>
+Kolilerin NOUN
+tamamını NOUN
+bantladım VERB
+. PUNCT
+</S>
+<S>
+Hevesini NOUN
+kırmalarına NOUN
+izin NOUN
+vermeyecekti VERB
+, PUNCT
+elbiseyi NOUN
+dikmeye NOUN
+sıfırdan NOUN
+başladı VERB
+. PUNCT
+</S>
+<S>
+Kaptan NOUN
+kontağı NOUN
+çevirip ADV
+bismillah NOUN
+dedi VERB
+. PUNCT
+</S>
+<S>
+Yavru NOUN
+köpek NOUN
+sevimli ADJ
+bakışlarıyla NOUN
+sahibinin NOUN
+kalbini NOUN
+eritti VERB
+. PUNCT
+</S>
+<S>
+Erik NOUN
+çıkmış ADJ
+, PUNCT
+çilek PROPN
+daha ADV
+çıkmadı VERB
+. PUNCT
+</S>
+<S>
+Borcunu NOUN
+takside NOUN
+bağladı VERB
+. PUNCT
+</S>
+<S>
+Amcasından NOUN
+kalan ADJ
+mirastan NOUN
+ziftlendi VERB
+. PUNCT
+</S>
+<S>
+Okuduğu NOUN
+kitaplar NOUN
+onun PRON
+için ADP
+yararlı ADJ
+oldu VERB
+. PUNCT
+</S>
+<S>
+Almanya'da PROPN
+1 NUM
+sene NOUN
+çalışmanın NOUN
+faydasını NOUN
+gördü VERB
+. PUNCT
+</S>
+<S>
+Hastalığı NOUN
+hâlâ ADV
+çok ADV
+ağır ADJ
+seyrediyor VERB
+. PUNCT
+</S>
+<S>
+Bugünlük ADV
+dükkanı NOUN
+tatil NOUN
+ettik VERB
+. PUNCT
+</S>
+<S>
+Şaşırtıcı ADJ
+bir DET
+şekilde NOUN
+Nihal'in PROPN
+buna PRON
+aklı NOUN
+erdi VERB
+. PUNCT
+</S>
+<S>
+Gizli ADJ
+konular NOUN
+hakkında ADV
+malumat NOUN
+alıyordu VERB
+. PUNCT
+</S>
+<S>
+Neler VERB
+yapabileceğine NOUN
+, PUNCT
+kasabayı NOUN
+, PUNCT
+memurları NOUN
+iki NUM
+parmağı NOUN
+üstünde NOUN
+oynattığına NOUN
+çok ADV
+şahit NOUN
+olmuşlardı VERB
+. PUNCT
+</S>
+<S>
+Olabilecekleri ADJ
+tasavvur NOUN
+edemiyorum VERB
+. PUNCT
+</S>
+<S>
+Kendime PRON
+geldiğimde NOUN
+kaçış NOUN
+planımı NOUN
+en ADV
+ince ADJ
+ayrıntısına NOUN
+kadar ADP
+zihninde NOUN
+tasarladı VERB
+. PUNCT
+</S>
+<S>
+Onun PRON
+kaçamak ADJ
+bakışlarını NOUN
+yakaladım VERB
+. PUNCT
+</S>
+<S>
+O DET
+sınav NOUN
+sonuçlarından NOUN
+beri ADP
+üniversiteyi NOUN
+kazanamayacağım VERB
+diye ADP
+çocuğu NOUN
+bir DET
+düşüncedir VERB
+aldı VERB
+. PUNCT
+</S>
+<S>
+Cansev PROPN
+geçmişte NOUN
+olanları NOUN
+düşünüp ADV
+efkarlanıyordu VERB
+. PUNCT
+</S>
+<S>
+Her DET
+on NUM
+yılda NOUN
+bir DET
+, PUNCT
+geçmişten NOUN
+bu PRON
+yana NOUN
+süregelen ADJ
+edebiyatı NOUN
+alaşağı ADV
+ediyoruz VERB
+. PUNCT
+</S>
+<S>
+Baban NOUN
+bana PRON
+fena ADJ
+giydirdi VERB
+. PUNCT
+</S>
+<S>
+Müsaade NOUN
+ederseniz VERB
+size PRON
+başka ADJ
+bir DET
+cihetten NOUN
+sitem NOUN
+edeceğim VERB
+. PUNCT
+</S>
+<S>
+Başkan NOUN
+bu DET
+sistemi NOUN
+fiskeledi VERB
+. PUNCT
+</S>
+<S>
+Garibanın NOUN
+kısmetini NOUN
+bağlayıverdiler VERB
+. PUNCT
+</S>
+<S>
+Neden ADV
+hep ADV
+kısmetine NOUN
+mani NOUN
+oluyorsunuz VERB
+? PUNCT
+</S>
+<S>
+Müzede NOUN
+gezerken ADV
+sayısız ADJ
+fotoğraf NOUN
+çekti VERB
+. PUNCT
+</S>
+<S>
+Robotu NOUN
+demonte NOUN
+ettim VERB
+, PUNCT
+başka ADJ
+türlü NOUN
+taşınmazdı VERB
+. PUNCT
+</S>
+<S>
+Bizi PRON
+işimizde NOUN
+gücümüzde NOUN
+serbest ADJ
+bırakmak NOUN
+şöyle ADV
+dursun VERB
+, PUNCT
+çoluk NOUN
+çocuğumuzun NOUN
+nafakasına NOUN
+el NOUN
+koydular VERB
+. PUNCT
+</S>
+<S>
+Sizler PRON
+için ADP
+en ADV
+yeni ADJ
+ürünleri NOUN
+getirdik VERB
+. PUNCT
+</S>
+<S>
+Adam NOUN
+, PUNCT
+diğer ADJ
+dövüşçüyü NOUN
+kafakola NOUN
+alıyordu VERB
+. PUNCT
+</S>
+<S>
+Krupiye NOUN
+kâğıt NOUN
+açtı VERB
+, PUNCT
+oynamaya NOUN
+başladık VERB
+. PUNCT
+</S>
+<S>
+Ayaklarını NOUN
+boşluğa NOUN
+savururken ADV
+küçük ADJ
+dolap NOUN
+gürültüyle NOUN
+yıkıldı VERB
+. PUNCT
+</S>
+<S>
+Saçları NOUN
+savrulurcasına ADV
+uçuyor VERB
+. PUNCT
+</S>
+<S>
+Deniz NOUN
+kaynıyor VERB
+. PUNCT
+</S>
+<S>
+İpek NOUN
+gibi ADP
+saçları NOUN
+birdenbire ADV
+yelelenirdi VERB
+. PUNCT
+</S>
+<S>
+Sular ADJ
+indi VERB
+. PUNCT
+</S>
+<S>
+İki NUM
+kız ADJ
+kardeş NOUN
+güle NOUN
+söyleye VERB
+sofralarını NOUN
+hazırlayıp ADV
+yemeklerini NOUN
+kotardılar VERB
+. PUNCT
+</S>
+<S>
+Hele CCONJ
+dur VERB
+öfkemi NOUN
+tekmilleyeyim VERB
+. PUNCT
+</S>
+<S>
+Tatil NOUN
+için ADP
+tüm DET
+hazırlıkları NOUN
+tamamladık VERB
+. PUNCT
+</S>
+<S>
+Tüm DET
+tekerler NOUN
+sonuna NOUN
+kadar ADP
+şişti VERB
+. PUNCT
+</S>

@@ -1,0 +1,6006 @@
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+25 B-depart_date.day_number
+Nisan'da B-depart_date.month_name
+kalkan O
+ve O
+6 B-return_date.day_number
+Mayıs'ta B-return_date.month_name
+dönen O
+en B-cost_relative
+ucuz I-cost_relative
+uçuşu O
+istiyorum O
+</S>
+<S>
+Memphis'ten B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+en B-arrive_time.time_relative
+geç I-arrive_time.time_relative
+akşam B-arrive_time.time
+saat I-arrive_time.time
+3'te I-arrive_time.time
+varacak O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Bana O
+gelecek B-depart_date.date_relative
+salı B-depart_date.day_name
+kalkan O
+ve O
+ertesi B-return_date.date_relative
+gün I-return_date.date_relative
+dönen O
+Chicago'dan B-fromloc.city_name
+Detroit'e B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşlarını O
+gösterin O
+</S>
+<S>
+yemek B-meal
+için O
+d B-meal_code
+s I-meal_code
+ne O
+anlama O
+geliyor O
+</S>
+<S>
+Bana O
+Atlanta'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+yarından B-depart_date.today_relative
+sonraki I-depart_date.today_relative
+gün I-depart_date.today_relative
+saat B-depart_time.time
+5'ten I-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+tüm O
+uçuşları O
+gösterin O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+olan O
+hangi O
+uçuş O
+sabah B-arrive_time.period_of_day
+en B-arrive_time.period_mod
+erken B-arrive_time.period_mod
+gelir O
+</S>
+<S>
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Montreal B-toloc.city_name
+Kanada'ya B-toloc.country_name
+Çarşamba B-depart_date.day_name
+günü O
+kalkan O
+uçuşların O
+listesini O
+alabilir O
+miyim O
+</S>
+<S>
+Pazartesi B-day_name
+günleri O
+olan O
+kule B-airline_name
+hava I-airline_name
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+US B-airline_name
+Air I-airline_name
+ile O
+Washington B-stoploc.city_name
+DC'de B-stoploc.state_code
+mola O
+vererek O
+Toronto'dan B-fromloc.city_name
+San B-toloc.city_name
+Diego'ya I-toloc.city_name
+giden O
+tüm O
+uçuşları O
+görüntüleyin O
+</S>
+<S>
+Kısıtlama O
+Ap57 B-restriction_code
+nedir O
+</S>
+<S>
+Denver B-city_name
+Colorado'da B-state_name
+kara O
+taşımacılığı O
+ile O
+ilgili O
+bilgiye O
+ihtiyacım O
+var O
+</S>
+<S>
+22 B-arrive_date.day_number
+Mayıs B-arrive_date.month_name
+Cumartesi B-arrive_date.day_name
+günü O
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Burbank'a B-toloc.city_name
+varan O
+aktarmasız B-flight_stop
+uçuşlar O
+nelerdir O
+</S>
+<S>
+1 B-depart_date.day_number
+Haziran B-depart_date.month_name
+öğleden B-depart_time.period_of_day
+sonrası I-depart_time.period_of_day
+için O
+Los B-fromloc.city_name
+Angeles'ten I-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+bir O
+uçuş O
+rezervasyonu O
+yapmak O
+istiyorum O
+</S>
+<S>
+yemek O
+kodu O
+sb B-meal_code
+nedir O
+</S>
+<S>
+Ve O
+şimdi O
+bana O
+gece B-period_of_day
+geç B-period_of_day
+saatlerde O
+Boston'a B-city_name
+gidebileceğim O
+kara O
+ulaşımını O
+gösterin O
+</S>
+<S>
+Bana O
+Atlanta'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+öğleden B-arrive_time.period_of_day
+sonra B-arrive_time.period_of_day
+kalkan O
+ve O
+öğleden B-arrive_time.period_of_day
+sonra B-arrive_time.period_of_day
+430 B-arrive_time.start_time
+- O
+630 B-arrive_time.end_time
+arasında O
+varan O
+aktarmasız B-flight_stop
+uçuşları O
+gösterin O
+</S>
+<S>
+Bana O
+akşam I-arrive_time.time
+4'ten B-arrive_time.time
+sonra B-arrive_time.time_relative
+Dallas'tan O
+kalkan O
+Dallas O
+- O
+San O
+Francisco O
+arası O
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuşlarını O
+göster O
+</S>
+<S>
+Bana O
+Washington B-city_name
+DC'deki B-state_code
+tüm O
+kara O
+ulaşımını O
+gösterin O
+</S>
+<S>
+Bana O
+Baltimore'den B-fromloc.city_name
+Dallas'a B-toloc.city_name
+olan O
+ekonomi B-economy
+sınıfı I-economy
+uçuşları O
+gösterebilir O
+misiniz O
+</S>
+<S>
+10 B-depart_time.start_time
+- O
+2 B-depart_time.end_time
+arası O
+Pittsburgh'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+olan O
+uçuşlar O
+</S>
+<S>
+Tampa'dan B-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+Amerikan B-airline_name
+811 B-flight_number
+uçuşunda O
+hangi O
+yemekler B-meal
+servis O
+edilir O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+gitmem O
+gerekiyor O
+ve O
+aynı O
+gün B-return_date.date_relative
+geri O
+dönmem O
+gerekiyor O
+Bana O
+Boston'dan B-fromloc.city_name
+en B-flight_mod
+erken I-flight_mod
+uçuşu O
+bulun O
+</S>
+<S>
+Orlando'ya B-toloc.city_name
+Houston'dan B-fromloc.city_name
+gelen O
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+nedir O
+</S>
+<S>
+Chicago'dan B-fromloc.city_name
+Kansas B-toloc.city_name
+City'e I-toloc.city_name
+önümüzdeki B-arrive_date.date_relative
+Perşembe B-arrive_date.day_name
+akşam B-arrive_time.time
+7:00 I-arrive_time.time
+civarında B-arrive_time.time_relative
+varan O
+uçuşlar O
+için O
+birinci B-class_type
+sınıf I-class_type
+ve O
+otobüs B-class_type
+ücretleri O
+nedir O
+</S>
+<S>
+AP B-restriction_code
+57 I-restriction_code
+ne O
+anlama O
+geliyor O
+</S>
+<S>
+AP B-restriction_code
+57 I-restriction_code
+kısıtlamasını O
+açıklayın O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+en O
+az O
+bir B-flight_stop
+durakla I-flight_stop
+uçmak O
+istiyorum O
+</S>
+<S>
+Lütfen O
+Ontario B-fromloc.city_name
+California'dan B-fromloc.state_name
+Orlando B-toloc.city_name
+Florida'ya B-toloc.state_name
+olan O
+en B-flight_mod
+kısa I-flight_mod
+tek B-flight_stop
+aktarmalı I-flight_stop
+uçuşu O
+listeleyin O
+</S>
+<S>
+Bana O
+önümüzdeki B-depart_date.date_relative
+Pazartesi B-depart_date.day_name
+Atlanta'dan B-fromloc.city_name
+kalkan O
+ve O
+Charlotte B-toloc.city_name
+Kuzey B-toloc.city_name
+Carolina'ya I-toloc.state_name
+giden O
+uçuşları O
+söyleyin O
+Charlotte'ye B-toloc.city_name
+akşam B-arrive_time.period_of_day
+415 B-arrive_time.start_time
+ile O
+530 B-arrive_time.end_time
+arasında O
+varacak O
+uçuşları O
+bilmem O
+gerekiyor O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Charlotte B-toloc.city_name
+North B-toloc.state_name
+Carolina'ya I-toloc.state_name
+önümüzdeki B-depart_date.date_relative
+Pazartesi B-depart_date.day_name
+günü O
+kalkan O
+tüm O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Bana O
+Dallas B-fromloc.city_name
+Fort I-fromloc.city_name
+Worth I-fromloc.city_name
+ile O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+veya B-or
+Oakland B-toloc.city_name
+arasındaki O
+akşam I-depart_time.end_time
+5 B-depart_time.start_time
+- O
+7 B-depart_time.end_time
+saatleri O
+arasında O
+kalkan O
+tüm O
+uçuşları O
+gösterin O
+</S>
+<S>
+JFK'den B-fromloc.airport_code
+Miami'ye B-toloc.city_name
+olan O
+Delta B-airline_name
+Havayolları I-airline_name
+uçuşlarını O
+gösterin O
+</S>
+<S>
+SFO'dan B-fromloc.airport_code
+Long B-toloc.city_name
+Beach'a I-toloc.city_name
+olan O
+tüm O
+uçuşlar O
+</S>
+<S>
+American B-airline_name
+Havayolları'nda I-airline_name
+birinci B-class_type
+sınıf I-class_type
+uçuş O
+sayısı O
+kaçtır O
+</S>
+<S>
+US B-airline_name
+Air I-airline_name
+ile O
+Orlando'dan B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+olan O
+uçuşun O
+numarasını O
+bulmaya O
+çalışıyorum O
+ve O
+saat O
+10 B-arrive_time.time
+civarında B-arrive_time.time_relative
+varıyor O
+</S>
+<S>
+Boston'da B-city_name
+kiralık B-transport_type
+arabalar I-transport_type
+</S>
+<S>
+Lütfen O
+Pittsburgh'taki B-city_name
+kiralık B-transport_type
+araba I-transport_type
+bilgilerini O
+listeleyin O
+</S>
+<S>
+AP57 B-restriction_code
+kısıtlaması O
+nedir O
+</S>
+<S>
+Atlanta'ya B-toloc.city_name
+Boston'dan B-fromloc.city_name
+4 B-arrive_time.start_time
+- O
+8 B-arrive_time.end_time
+saatleri O
+arasında O
+varan O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Denver'e B-toloc.city_name
+akşam B-arrive_time.period_of_day
+8 B-arrive_time.start_time
+- O
+9 B-arrive_time.end_time
+arasında O
+varan O
+her O
+tür O
+uçakla O
+ilgili O
+tüm O
+uçuşları O
+listeleyin O
+</S>
+<S>
+American B-airline_name
+Havayolları I-airline_name
+tarafından O
+sağlanan O
+Atlanta B-fromloc.city_name
+ve O
+DFW B-toloc.airport_code
+uçuşları O
+için O
+ücretler O
+nelerdir O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+BWI'ye B-toloc.airport_code
+öğle B-meal_description
+yemeği B-meal_description
+servisi O
+yapan O
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+America B-airline_name
+West I-airline_name
+Boston'dan B-fromloc.city_name
+hangi O
+şehirlere O
+birinci B-class_type
+sınıf I-class_type
+uçuyor O
+</S>
+<S>
+Northwest B-airline_name
+hangi O
+şehirlerden O
+uçuyor O
+</S>
+<S>
+Öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+12 B-depart_time.start_time
+ile O
+4 B-depart_time.end_time
+arasında O
+Pittsburgh'tan B-fromloc.city_name
+kalkan O
+tüm O
+US B-airline_name
+Air I-airline_name
+uçuşlarını O
+gösterin O
+</S>
+<S>
+Boston B-city_name
+şehri I-city_name
+için O
+limuzin B-transport_type
+ücretlerini O
+listeleyin O
+</S>
+<S>
+Atlanta B-fromloc.airport_name
+Havaalanı'ndan I-fromloc.airport_name
+şehir O
+merkezine O
+limuzinle B-transport_type
+gitmenin O
+maliyeti O
+nedir O
+</S>
+<S>
+Lütfen O
+Dallas'tan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+4 B-depart_date.day_number
+Temmuz B-depart_date.month_name
+1991'deki B-depart_date.year
+tüm O
+uçuşları O
+listeleyin O
+</S>
+<S>
+11 B-depart_date.day_number
+Kasım B-depart_date.month_name
+1991 B-depart_date.year
+Pazartesi B-depart_date.day_name
+Denver'den B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+</S>
+<S>
+Bana O
+1 B-depart_date.day_number
+Eylül B-depart_date.month_name
+1991 B-depart_date.year
+için O
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+uçuşların O
+listesini O
+gösterin O
+</S>
+<S>
+United B-airline_name
+Airlines'in I-airline_name
+Denver'den B-fromloc.city_name
+Boston'a B-toloc.city_name
+olan O
+son B-flight_mod
+uçuşunun O
+kalkış B-flight_time
+saati I-flight_time
+nedir O
+</S>
+<S>
+saat B-depart_time.time
+10'dan I-depart_time.time
+sonra B-depart_time.time_relative
+ve O
+2'den B-depart_time.time
+önce I-depart_time.time
+olan O
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+kalkış B-flight_time
+saatlerini I-flight_time
+listeleyin O
+</S>
+<S>
+Lütfen O
+Newark'tan B-fromloc.city_name
+Boston'a B-toloc.city_name
+uçuş B-flight_time
+saatlerini I-flight_time
+listeleyin O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+sabah B-depart_time.period_of_day
+kalkan O
+gidiş B-round_trip
+dönüş I-round_trip
+bir O
+yolculuğa O
+ve O
+ücretlerine O
+ihtiyacım O
+var O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+12'den B-depart_time.time
+sonra B-depart_time.time_relative
+1100 B-fare_amount
+dolardan I-fare_amount
+daha O
+az B-cost_relative
+gidiş B-round_trip
+dönüş I-round_trip
+tüm O
+uçuşlar O
+ve O
+ücretler O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+tüm O
+uçuşları O
+ve O
+ücretleri O
+gösterin O
+</S>
+<S>
+Mia B-airport_code
+nedir O
+</S>
+<S>
+Ewr B-airport_code
+ne O
+anlama O
+geliyor O
+</S>
+<S>
+Atlanta'ya B-toloc.city_name
+ATL B-airport_code
+kara O
+taşımacılığı O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+uçmak O
+ne O
+kadar O
+sürüyor O
+</S>
+<S>
+Toronto B-fromloc.airport_name
+Uluslararası I-fromloc.airport_name
+Havaalanı'ndan I-fromloc.airport_name
+Toronto B-city_name
+şehir O
+merkezine O
+olan O
+mesafeyi O
+mil O
+cinsinden O
+listeleyin O
+</S>
+<S>
+Orlando B-fromloc.airport_name
+Havaalanı'ndan I-fromloc.airport_name
+şehre O
+olan O
+mesafeyi O
+söyleyin O
+</S>
+<S>
+Denver'deki B-city_name
+havaalanının O
+adı O
+ne O
+</S>
+<S>
+Havaalanları O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+olan O
+uçuşlar O
+nerede O
+durur B-flight_stop
+</S>
+<S>
+B B-fare_basis_code
+ücret O
+kodu O
+business B-class_type
+sınıfı I-class_type
+ile O
+aynı B-mod
+mı O
+</S>
+<S>
+Akşam B-depart_time.period_of_day
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+Dallas'tan B-fromloc.city_name
+kalkan O
+iki B-mod
+American B-airline_name
+Havayolları I-airline_name
+uçuşu O
+hangileri O
+</S>
+<S>
+Boston B-fromloc.city_name
+ve O
+Denver B-toloc.city_name
+arasında O
+Boston'a B-fromloc.city_name
+varmak O
+için O
+en O
+az B-mod
+durak O
+gerektiren O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+General B-toloc.airport_name
+Mitchell I-toloc.airport_name
+International'daki I-toloc.airport_name
+tüm O
+inişleri O
+listeleyin O
+</S>
+<S>
+Bana O
+Love B-toloc.airport_name
+Field'e I-toloc.airport_name
+olan O
+uçuşları O
+gösterin O
+</S>
+<S>
+Hangi O
+uçuşlar O
+herhangi O
+bir O
+şehirden O
+General B-toloc.airport_name
+Mitchell I-toloc.airport_name
+International'a I-toloc.airport_name
+iner O
+</S>
+<S>
+Bana O
+gidiş B-round_trip
+dönüş I-round_trip
+466 B-fare_amount
+dolardan I-fare_amount
+daha B-fare_amount
+az B-cost_relative
+olan O
+Salı B-depart_date.day_name
+günü O
+New B-fromloc.city_name
+York B-toloc.city_name
+- B-toloc.city_name
+Miami B-toloc.city_name
+uçuşlarını O
+gösterin O
+</S>
+<S>
+Denver'e B-toloc.city_name
+500 B-fare_amount
+doların I-fare_amount
+altında B-cost_relative
+uçmak O
+istiyorum B-fare_amount
+Lütfen O
+bana O
+Pittsburgh B-fromloc.city_name
+ve O
+Denver B-toloc.city_name
+arasındaki O
+uçuş O
+ücretlerini B-fare_amount
+gösterin O
+</S>
+<S>
+Bana O
+Dallas'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+415 B-fare_amount
+dolarlık I-fare_amount
+uçuşları O
+gösterin O
+</S>
+<S>
+M80 B-aircraft_code
+uçağının O
+koltuk O
+kapasitesi O
+nedir O
+</S>
+<S>
+733 B-aircraft_code
+uçağının O
+koltuk O
+kapasitesi O
+nedir O
+</S>
+<S>
+757'nin B-aircraft_code
+koltuk O
+kapasitesi O
+nedir O
+</S>
+<S>
+M80 B-aircraft_code
+uçağındaki O
+oturma O
+kapasitesi O
+nedir O
+</S>
+<S>
+Ekonomi B-economy
+sınıfı I-economy
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+ekonomi B-economy
+ücretlerini O
+görmek O
+istiyorum O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+tek B-round_trip
+yön I-round_trip
+ekonomi B-economy
+ücretlerini O
+gösterebilir O
+misin O
+</S>
+<S>
+Üzgünüm O
+TWA B-airline_code
+ile O
+uçmak O
+istedim. O
+TWA B-airline_code
+ile O
+Dallas B-stoploc.city_name
+Fort I-stoploc.city_name
+Worth'da I-stoploc.city_name
+mola O
+olacak O
+şekilde O
+Oakland B-fromloc.city_name
+ve O
+Boston B-toloc.city_name
+arasında O
+bir O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Tampa'dan B-fromloc.city_name
+Montreal'a B-toloc.city_name
+New B-stoploc.city_name
+York'ta I-stoploc.city_name
+mola O
+veren O
+ve O
+öğle B-meal_description
+yemeği B-meal_description
+servisi O
+yapan O
+bir O
+uçuş O
+bulmak O
+istiyorum O
+</S>
+<S>
+Fort B-stoploc.city_name
+Worth I-stoploc.city_name
+Dallas'ta B-stoploc.city_name
+mola O
+veren O
+Boston B-fromloc.city_name
+- B-fromloc.city_name
+San B-fromloc.city_name
+Francisco I-toloc.city_name
+uçuşunuz O
+var O
+mı O
+</S>
+<S>
+St. B-stoploc.city_name
+Louis'te I-stoploc.city_name
+mola O
+veren O
+ve O
+akşam B-meal_description
+yemeği B-meal_description
+servis O
+eden O
+bir O
+Charlotte B-fromloc.city_name
+- B-fromloc.city_name
+Las B-fromloc.city_name
+Vegas I-toloc.city_name
+uçuşu O
+bulun O
+ve O
+bu O
+uçuş O
+için O
+havayolu O
+bulmak O
+istiyorum O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+direkt B-connect
+uçuşunuz O
+var O
+mı O
+</S>
+<S>
+7 B-depart_date.day_number
+Mayıs'ta B-depart_date.month_name
+Atlanta'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+direkt B-connect
+uçuşun O
+ne O
+kadar O
+olacağına O
+bakalım O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+saat B-depart_time.time
+4'ten I-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+aktarmalı B-connect
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Bana O
+sabah B-depart_time.time
+10'da I-depart_time.time
+Boston'dan B-fromloc.city_name
+kalkan O
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+aktarmalı B-connect
+uçuşun O
+güzergahını O
+gösterin O
+</S>
+<S>
+5 B-depart_date.day_number
+Haziran'da B-depart_date.month_name
+Chicago'dan B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+olan O
+bağlantılı B-connect
+uçuşlar O
+nelerdir O
+</S>
+<S>
+Bana O
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Boston'a B-toloc.city_name
+olan O
+Cuma B-depart_date.day_name
+sabah B-depart_time.period_of_day
+uçuşlarını O
+gösterin O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+sabah B-depart_time.period_of_day
+erkenden B-depart_time.period_mod
+kalkan O
+bir O
+uçuşa O
+ihtiyacım O
+var O
+</S>
+<S>
+Sabah B-depart_time.period_of_day
+erkenden B-depart_time.period_mod
+ayrılmak O
+istiyorum O
+</S>
+<S>
+Yarın B-depart_date.today_relative
+erken B-depart_time.period_mod
+saatte O
+Columbus'tan B-fromloc.city_name
+Minneapolis'e B-toloc.city_name
+uçmak O
+istiyorum O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+sabah B-depart_time.period_of_day
+erkenden B-depart_time.period_mod
+kalkan O
+TWA B-airline_code
+uçuşunuz O
+var O
+mı O
+</S>
+<S>
+United B-airline_name
+Airline'nin I-airline_name
+Denver'den B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+olan O
+günlük B-flight_days
+uçuşlarını O
+birinci B-class_type
+sınıf I-class_type
+hizmetle O
+listeleyin O
+</S>
+<S>
+St. B-fromloc.city_name
+Louis'ten I-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+günlük B-flight_days
+bir O
+uçuşa O
+ihtiyacım O
+var O
+</S>
+<S>
+Philadelphia B-fromloc.city_name
+ve O
+Pittsburgh B-toloc.city_name
+arasında O
+günde B-flight_days
+kaç O
+tane O
+US B-airline_name
+Air I-airline_name
+uçuşu O
+var O
+</S>
+<S>
+Oakland B-fromloc.city_name
+ve O
+Salt B-toloc.city_name
+Lake I-toloc.city_name
+City I-toloc.city_name
+arasındaki O
+en B-flight_mod
+son I-flight_mod
+günlük B-flight_days
+uçuş O
+nedir O
+</S>
+<S>
+2 B-arrive_date.day_number
+Mart'ta B-arrive_date.month_name
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+aktarmasız B-flight_stop
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+4 B-arrive_date.day_number
+Temmuz'da B-arrive_date.month_name
+birinci B-class_type
+sınıf I-class_type
+United B-airline_name
+Airlines I-airline_name
+ile O
+Denver'den B-fromloc.city_name
+kalkan O
+ve O
+Baltimore'ye B-toloc.city_name
+varan O
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+nedir O
+</S>
+<S>
+Bana O
+Pittsburgh'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+oraya O
+14 B-arrive_date.day_number
+Haziran'da B-arrive_date.month_name
+varan O
+uçuşları O
+gösterin O
+</S>
+<S>
+1 B-arrive_date.day_number
+Mart'ta B-arrive_date.month_name
+Dallas'tan B-fromloc.city_name
+Houston'a B-toloc.city_name
+ilk B-flight_mod
+uçuşu O
+ve O
+yine O
+1 B-arrive_date.day_number
+Mart'ta B-arrive_date.month_name
+Houston'dan B-toloc.city_name
+Dallas'a B-fromloc.city_name
+son B-flight_mod
+uçuşu O
+istiyorum O
+</S>
+<S>
+Delta B-airline_name
+Havayolları I-airline_name
+tarafından O
+birinci B-class_type
+sınıf I-class_type
+uçuşlarla O
+kaç O
+şehre O
+hizmet O
+verilmektedir O
+</S>
+<S>
+Delta'nın B-airline_name
+kaç O
+gece B-depart_time.period_of_day
+uçuşu O
+birinci O
+sınıftır O
+</S>
+<S>
+Continental'ın B-airline_name
+kaç O
+tane O
+Atlanta'ya B-fromloc.city_name
+gidiş O
+ve O
+dönüş O
+uçuşu O
+var O
+</S>
+<S>
+Her O
+havayolunun O
+birinci B-class_type
+sınıf I-class_type
+hizmetle O
+kaç O
+uçuşu O
+var O
+</S>
+<S>
+Sabah B-depart_time.period_of_day
+9'dan B-depart_time.time
+önce B-depart_time.time_relative
+Dallas B-toloc.city_name
+Fort I-toloc.city_name
+Worth'a I-toloc.city_name
+Boston'dan B-fromloc.city_name
+kalkan O
+uçuşların O
+sayısını O
+listeleyin O
+</S>
+<S>
+1 B-depart_date.day_number
+Ağustos'ta B-depart_date.month_name
+Atlanta'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+olan O
+uçuşların O
+tarifesi B-flight_time
+nedir O
+</S>
+<S>
+Salı B-depart_date.day_name
+günü O
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+uçuşların O
+tarifesini B-flight_time
+istiyorum O
+</S>
+<S>
+7 B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+San B-fromloc.city_name
+Francisco’dan I-fromloc.city_name
+Pittsburg’e B-toloc.city_name
+uçuş O
+yapan O
+uçaklarınızın O
+saatleri B-flight_time
+nelerdir O
+</S>
+<S>
+TWA B-airline_code
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+gitmek O
+için O
+Boston'dan B-fromloc.city_name
+kaçta O
+kalkıyor O
+</S>
+<S>
+New B-city_name
+York'ta I-city_name
+bir O
+arabaya B-transport_type
+ihtiyacım O
+olacak O
+</S>
+<S>
+Pittsburgh B-airport_name
+Havaalanı'nda I-airport_name
+limuzin B-transport_type
+servisi O
+var O
+mı O
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+Phoenix B-fromloc.city_name
+Arizona'dan B-fromloc.state_name
+Ontario B-toloc.city_name
+California'ya B-toloc.state_name
+olan O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Pazar B-depart_date.day_name
+akşamı B-depart_time.period_of_day
+San B-toloc.city_name
+Diego I-toloc.city_name
+California'ya B-toloc.state_name
+olan O
+bir O
+uçuşla O
+Montreal B-fromloc.city_name
+Quebec'den B-fromloc.state_name
+ayrılmak O
+istiyorum O
+</S>
+<S>
+Lütfen O
+Ontario B-fromloc.city_name
+California'dan B-fromloc.state_name
+Orlando B-toloc.city_name
+Florida'ya B-toloc.state_name
+olan O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Lütfen O
+Miami B-fromloc.city_name
+Florida'dan B-fromloc.state_name
+Las B-toloc.city_name
+Vegas I-toloc.city_name
+Nevada'ya B-toloc.state_name
+saat O
+4'ten B-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+bir O
+uçuş O
+bulun O
+</S>
+<S>
+Boston B-fromloc.city_name
+ve O
+Baltimore B-toloc.city_name
+arasındaki O
+en B-cost_relative
+ucuz I-cost_relative
+uçak O
+bileti O
+nedir O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+en B-cost_relative
+pahalı I-cost_relative
+uçuş O
+nedir O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+12 B-depart_date.day_number
+Ekim'de B-depart_date.month_name
+kalkan O
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+bilet O
+nedir O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+en B-cost_relative
+pahalı I-cost_relative
+uçuş O
+nedir O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+en B-cost_relative
+düşük I-cost_relative
+maliyetli I-cost_relative
+uçuşları O
+listeleyin O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+uçmanın O
+en B-cost_relative
+ucuz I-cost_relative
+yolu O
+nedir O
+</S>
+<S>
+Bana O
+Nashville B-airport_name
+Havaalanı'ndaki I-airport_name
+kara O
+ulaşımından O
+bahsedin O
+</S>
+<S>
+Charlotte B-airport_name
+havaalanı I-airport_name
+ile O
+Charlotte B-city_name
+şehir O
+merkezi O
+arasındaki O
+kara O
+ulaşımı O
+nedir O
+</S>
+<S>
+Baltimore B-airport_name
+havalimanında I-airport_name
+hangi O
+kara O
+ulaşımı O
+mevcut O
+</S>
+<S>
+Denver B-airport_name
+havalimanında I-airport_name
+kara O
+ulaşımı O
+mevcut O
+mu O
+</S>
+<S>
+San B-city_name
+Francisco I-city_name
+kara O
+ulaşımı O
+</S>
+<S>
+Dallas B-city_name
+Fort I-city_name
+Worth'da I-city_name
+hangi O
+kara O
+ulaşımı O
+seçenekleri O
+mevcut O
+</S>
+<S>
+havalimanından O
+Las B-city_name
+Vegas'a I-city_name
+kara O
+ulaşımı O
+seçeneklerini O
+öğrenmek O
+istiyorum O
+</S>
+<S>
+Milwaukee'den B-fromloc.city_name
+St. B-city_name
+Louise I-city_name
+olan O
+tüm O
+uçuşları O
+bul O
+</S>
+<S>
+United'in B-airline_name
+salı B-depart_date.day_name
+ve B-or
+çarşamba B-depart_date.day_name
+günleri B-depart_date.day_name
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+yaptığı O
+uçuşları O
+listele O
+</S>
+<S>
+bana O
+Delta B-airline_name
+ve B-or
+Twa'nin B-airline_code
+Atlanta'dan B-stoploc.city_name
+geçen O
+uçuşlarını O
+göster O
+</S>
+<S>
+bana O
+Baltimore'den B-fromloc.city_name
+Philadelphia B-toloc.city_name
+ya B-or
+da B-or
+Denver'e B-fromloc.city_name
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+ya B-or
+da B-or
+Pittsburgh'tan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+tüm O
+uçuşların O
+bir O
+listesini O
+ver O
+</S>
+<S>
+bana O
+cumartesi B-depart_date.day_name
+ya B-or
+da B-or
+pazar B-depart_date.day_name
+kalkışlı O
+Milwaukee'den B-fromloc.city_name
+Phoenix'e B-toloc.city_name
+giden O
+uçuşları O
+göster O
+</S>
+<S>
+ücret O
+kodu O
+qx B-fare_basis_code
+ne O
+anlama O
+geliyor O
+</S>
+<S>
+rezervasyon O
+sınıfı O
+c B-fare_basis_code
+nedir O
+</S>
+<S>
+ücret O
+kodu O
+c B-fare_basis_code
+nedir O
+</S>
+<S>
+ücret O
+kodu O
+m B-fare_basis_code
+nedir O
+</S>
+<S>
+ücret O
+kodunu O
+tekrar O
+görmek O
+istiyorum O
+qx B-fare_basis_code
+</S>
+<S>
+yn B-fare_basis_code
+kodu O
+ne O
+anlama O
+geliyor O
+</S>
+<S>
+Perşembe B-depart_date.day_name
+günü O
+Atlanta'dan B-fromloc.city_name
+kalkıp O
+öğleden B-arrive_time.time
+sonra I-arrive_time.time
+5’ten I-arrive_time.time
+önce B-arrive_time.time_relative
+Oakland'a B-toloc.city_name
+varan O
+ve O
+yemek B-meal
+servisi O
+yapan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+en B-flight_mod
+erken I-flight_mod
+saatte O
+giden O
+ve O
+yemek B-meal
+servis O
+eden O
+uçuşun O
+bilgilerini O
+istiyorum O
+</S>
+<S>
+Continental'ın B-airline_name
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya B-toloc.city_name
+giden O
+1765 B-flight_number
+numaralı O
+uçuşunda O
+ne O
+yemek B-meal
+servis O
+ediliyor O
+</S>
+<S>
+Cumartesi B-depart_date.day_name
+günü O
+Oakland'dan B-fromloc.city_name
+Philadelphia’ya B-fromloc.city_name
+giden O
+ve O
+yemek B-meal
+servisi O
+yapan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Lütfen O
+bana O
+Atlanta'dan B-fromloc.city_name
+kalkıp O
+Baltimore'ye B-toloc.city_name
+öğleden B-arrive_time.time
+sonra I-arrive_time.time
+7’de I-arrive_time.time
+iniş O
+yapan O
+aktarmasız B-flight_stop
+bir O
+Boeing O
+757 B-aircraft_code
+uçuşu O
+bulabilir O
+misin O
+</S>
+<S>
+M80 B-aircraft_code
+ne O
+tür O
+bir O
+uçak O
+</S>
+<S>
+San B-toloc.city_name
+Francisco’dan I-toloc.city_name
+Baltimore'ye B-fromloc.city_name
+747 B-aircraft_code
+ile O
+sefer O
+yapıyor O
+musunuz O
+</S>
+<S>
+Oakland'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+kahvaltı B-meal_description
+uçuşu O
+lütfen O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+giden O
+ve O
+öğle B-meal_description
+yemeği B-meal_description
+servis O
+eden O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+St. B-fromloc.city_name
+Paul'dan I-fromloc.city_name
+Kansas B-toloc.city_name
+City'e I-toloc.city_name
+cuma B-depart_date.day_name
+günü O
+giden O
+hangi O
+uçuşlarda O
+akşam B-meal_description
+yemeği B-meal_description
+servisi O
+yapılıyor O
+</S>
+<S>
+Bana O
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+giden O
+ve O
+kahvaltı B-meal_description
+servisi O
+yapan O
+en B-flight_mod
+erken I-flight_mod
+uçuşu O
+bul O
+</S>
+<S>
+Long B-fromloc.city_name
+Beach'tan I-fromloc.city_name
+St. B-toloc.city_name
+Louis'e I-toloc.city_name
+gitmek O
+istiyorum O
+ve O
+Dallas'ta B-stoploc.city_name
+durmak O
+istiyorum O
+bir O
+de O
+uçuşum O
+sırasında O
+öğle B-meal_description
+yemeği B-meal_description
+yemek O
+istiyorum O
+</S>
+<S>
+Oakland'dan B-fromloc.city_name
+ayrılıp O
+öğleden B-arrive_time.period_of_day
+sonra B-arrive_time.period_of_day
+saat O
+5'te B-arrive_time.time
+Boston'a B-toloc.city_name
+varmak O
+istiyorum O
+</S>
+<S>
+Hangi O
+havayollarının O
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+aktarmasız B-flight_stop
+öğleden B-arrive_time.period_of_day
+sonra B-arrive_time.period_of_day
+uçuşları O
+var O
+</S>
+<S>
+St. B-fromloc.city_name
+Petersburg I-fromloc.city_name
+ve O
+Charlotte B-toloc.city_name
+arasında O
+öğleden B-depart_time.period_of_day
+sonra B-depart_time.time_relative
+kalkan O
+ve O
+akşamüstü B-arrive_time.time
+5'ten I-arrive_time.time
+kısa O
+süre O
+sonra B-arrive_time.time_relative
+iniş O
+yapan O
+tüm O
+aktarmasız B-flight_stop
+uçuşları O
+listeleyebilir O
+misin O
+</S>
+<S>
+Hangi O
+uçuşlar O
+on O
+üç B-depart_date.day_number
+Nisan B-depart_date.month_name
+çarşamba B-depart_date.day_name
+günü O
+Indianapolis'ten B-fromloc.city_name
+kalkıyor O
+ve O
+sabah B-arrive_time.period_of_day
+Montreal'a B-toloc.city_name
+varıyor O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+giden O
+ve O
+çarşamba B-arrive_date.day_name
+sabahı B-arrive_time.period_of_day
+saat O
+8'den B-arrive_time.time
+önce B-arrive_time.time_relative
+iniş O
+yapan O
+uçuşları O
+bilmek O
+istiyorum O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+ayrılan O
+ve O
+akşamüstü O
+saat O
+5 B-arrive_time.time
+civarında B-arrive_time.time_relative
+Denver'e B-toloc.city_name
+varan O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Washington B-fromloc.city_name
+DC'den B-fromloc.state_code
+Denver'e B-toloc.city_name
+hangi O
+uçuşlar O
+gidiyor O
+</S>
+<S>
+Lütfen O
+Washington B-fromloc.city_name
+DC'den B-fromloc.state_code
+Atlanta'ya B-toloc.city_name
+olan O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Washington B-fromloc.city_name
+DC'den B-fromloc.state_code
+Philadelphia'ya B-toloc.city_name
+giden O
+2 B-depart_date.day_number
+Aralık B-depart_date.month_name
+tarihli O
+uçuşları O
+ver O
+</S>
+<S>
+Washington B-fromloc.city_name
+DC'den B-fromloc.state_code
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+tüm O
+birinci B-class_type
+sınıf I-class_type
+uçuşlar O
+</S>
+<S>
+Washington B-fromloc.city_name
+DC'den B-fromloc.state_code
+Denver'e B-toloc.city_name
+saat O
+dörtte B-depart_time.time
+bir O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Washington B-fromloc.city_name
+DC'den B-fromloc.state_code
+San B-toloc.city_name
+Diego'ya I-toloc.city_name
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+US B-airline_name
+Air I-airline_name
+2153 B-flight_number
+numaralı O
+San B-fromloc.city_name
+Francisco B-toloc.city_name
+- B-toloc.city_name
+Baltimore B-toloc.city_name
+uçuşunda O
+uçak O
+saat B-flight_time
+kaçta O
+ve O
+hangi O
+şehirde O
+duruyor O
+</S>
+<S>
+United B-airline_name
+Airlines'in I-airline_name
+21 B-flight_number
+sefer O
+sayılı O
+uçuşundaki O
+uçak O
+türü O
+nedir O
+</S>
+<S>
+Perşembe B-depart_date.day_name
+gecesi B-depart_time.period_of_day
+Chicago'dan B-fromloc.city_name
+Kansas B-toloc.city_name
+City'e I-toloc.city_name
+United B-airline_name
+Airlines I-airline_name
+415 B-flight_number
+sefer O
+sayılı O
+uçuşunun O
+fiyatı O
+nedir O
+</S>
+<S>
+Washington'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+324 B-flight_number
+no'lu O
+uçuş O
+ile O
+2 B-depart_date.day_number
+Ağustos'ta B-depart_date.month_name
+gitmek O
+istiyorum O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+giden B-flight_number
+DL B-airline_code
+402 B-flight_number
+uçuşunun O
+fiyatı O
+ne O
+kadar O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+giden O
+813 B-flight_number
+sefer O
+sayılı O
+American B-airline_name
+uçuşunun O
+başka O
+bir O
+şehirde O
+duraklama O
+yapıp O
+yapmayacağını O
+bilmek O
+istiyorum O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Dallas B-fromloc.city_name
+Fort I-fromloc.city_name
+Worth'dan I-fromloc.city_name
+Boston'a B-toloc.city_name
+giden O
+928 B-flight_number
+sefer O
+sayılı O
+uçuşunun O
+ücreti O
+nedir O
+</S>
+<S>
+Bu O
+hafta O
+cuma B-depart_date.day_name
+günü O
+Atlanta'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+giden O
+uçağın O
+türünü O
+öğrenmek O
+istiyorum O
+</S>
+<S>
+Bana O
+CP'nin B-airline_code
+kullandığı O
+uçak O
+tipini O
+göster O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+sabah B-depart_time.time
+8 I-depart_time.time
+uçuşunda O
+ne O
+tür O
+uçak O
+kullanılır O
+</S>
+<S>
+Charlotte'den B-fromloc.city_name
+tüm O
+uçuşlar O
+için O
+uçak O
+türlerini O
+listeleyin O
+</S>
+<S>
+Delta B-airline_name
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+2 B-depart_date.day_number
+Ağustos'ta B-depart_date.month_name
+sabah B-depart_time.time
+8'den I-depart_time.time
+önce B-depart_time.time_relative
+ne O
+tür O
+bir O
+uçak O
+ile O
+uçuyor O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+ayrılacağım O
+ve O
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+gitmek O
+istiyorum O
+ve O
+birinci B-class_type
+sınıf I-class_type
+American B-airline_name
+ile O
+uçmak O
+istiyorum O
+ve O
+Dallas'ta B-stoploc.city_name
+durmak O
+istiyorum O
+lütfen O
+bana O
+ne O
+tür O
+bir O
+uçakla O
+uçacağınızı O
+söyler O
+misiniz O
+</S>
+<S>
+Boston B-fromloc.airport_name
+havaalanından I-fromloc.airport_name
+Boston B-toloc.city_name
+şehir O
+merkezine O
+kara O
+ulaşımı O
+var O
+mı O
+</S>
+<S>
+La B-fromloc.airport_name
+Guardia I-fromloc.airport_name
+Havaalanı'ndan I-fromloc.airport_name
+San B-toloc.city_name
+Jose'ye I-toloc.city_name
+giden O
+bir O
+uçuş O
+bulmak O
+istiyorum O
+uçuşun O
+United B-airline_name
+Airlines I-airline_name
+ile O
+olmasını O
+ve O
+akşam I-arrive_time.time
+10 B-arrive_time.time
+civarında B-arrive_time.time_relative
+San B-toloc.city_name
+Jose'ye I-toloc.city_name
+varmasını O
+istiyorum O
+</S>
+<S>
+Lütfen O
+General B-fromloc.airport_name
+Mitchell I-fromloc.airport_name
+International'dan I-fromloc.airport_name
+gelen O
+ve O
+giden O
+tüm O
+uçuşları O
+listeleyin O
+</S>
+<S>
+General B-fromloc.airport_name
+Mitchell I-fromloc.airport_name
+International'daki I-fromloc.airport_name
+tüm O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Cumartesi B-depart_date.day_name
+günü O
+Charlotte B-fromloc.airport_name
+Havaalanı'ndan I-fromloc.airport_name
+öğlen B-depart_time.time
+saat I-depart_time.time
+1'de I-depart_time.time
+kalkan O
+US B-airline_name
+Air I-airline_name
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+Bana O
+Love B-fromloc.airport_name
+Field'deki I-fromloc.airport_name
+havayollarını O
+göster O
+</S>
+<S>
+Yarın B-depart_date.today_relative
+kalkan O
+Boston B-fromloc.city_name
+- B-fromloc.city_name
+San B-fromloc.city_name
+Francisco B-toloc.city_name
+uçuşları O
+nelerdir O
+</S>
+<S>
+Yarın B-depart_date.today_relative
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Bugün B-depart_date.today_relative
+Los B-fromloc.city_name
+Angeles'ten I-fromloc.city_name
+Charlotte'ye B-toloc.city_name
+sabah B-depart_time.period_of_day
+erken B-depart_time.period_of_day
+saatte O
+kalkan O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Yarın B-depart_date.today_relative
+Pittsburgh'tan B-fromloc.city_name
+kalkan O
+ve O
+Baltimore'ye B-toloc.city_name
+akşamüstü B-arrive_time.time
+5'ten I-arrive_time.time
+sonra B-arrive_time.time_relative
+varan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Yarın B-depart_date.today_relative
+akşam B-depart_time.period_of_day
+Tacoma B-toloc.city_name
+için O
+Milwaukee'den B-fromloc.city_name
+saat O
+akşam B-depart_time.time
+810'dan I-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Bana O
+yarın B-depart_date.today_relative
+St. B-fromloc.city_name
+Petersburg'dan I-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+giden O
+en B-flight_mod
+erken I-flight_mod
+United B-airline_name
+Airlines I-airline_name
+uçuşunu O
+ver O
+</S>
+<S>
+Bu B-depart_date.today_relative
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+Cincinnati'den B-fromloc.city_name
+Burbank'a B-toloc.city_name
+bir O
+American B-airline_name
+uçuşuyla O
+gitmek O
+istiyorum O
+</S>
+<S>
+Cumartesi B-arrive_date.day_name
+günü O
+öğleden B-arrive_time.time
+sonra I-arrive_time.time
+1'de I-arrive_time.time
+Charlotte'ye B-toloc.city_name
+varan O
+tüm O
+US B-airline_name
+Air I-airline_name
+uçuşlarını O
+listele O
+</S>
+<S>
+Cleveland'dan B-fromloc.city_name
+cumartesi O
+günü O
+öğlen O
+1'de O
+kalkıp O
+Kansas B-toloc.city_name
+City'e I-toloc.city_name
+pazartesi B-arrive_date.day_name
+öğleden B-arrive_time.time
+sonra I-arrive_time.time
+3'ten I-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+tüm O
+US O
+Air O
+uçuşlarını O
+listele O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Newark'a B-toloc.city_name
+çarşamba B-arrive_date.day_name
+öğleden B-arrive_time.time
+önce B-arrive_time.time_relative
+aktarmasız B-flight_stop
+uçuşları O
+listeleyin O
+</S>
+<S>
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Cleveland'a B-toloc.city_name
+giden O
+uçuş O
+çarşamba B-arrive_date.day_name
+aşamüstü B-arrive_time.time
+5'ten I-arrive_time.time
+önce B-arrive_time.time_relative
+varıyor O
+</S>
+<S>
+Los B-fromloc.city_name
+Angeles'ten I-fromloc.city_name
+kalkan O
+ve O
+Pittsburgh'a B-toloc.city_name
+pazartesi B-arrive_date.day_name
+saat O
+5'ten B-arrive_time.time
+sonra B-arrive_time.time_relative
+varan O
+aktarmasız B-flight_stop
+uçuşları O
+listeleyin O
+</S>
+<S>
+Önümüzdeki B-depart_date.date_relative
+hafta O
+çarşamba B-depart_date.day_name
+saat O
+5'ten B-depart_time.time
+sonra B-depart_time.time_relative
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+başka O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Bana O
+önümüzdeki B-depart_date.date_relative
+salı B-depart_date.day_name
+akşam I-depart_time.time
+7 B-depart_time.time
+civarında B-depart_time.time_relative
+Charlotte'den B-fromloc.city_name
+kalkıp O
+Atlanta'ya B-toloc.city_name
+giden O
+uçuşları O
+göster O
+</S>
+<S>
+Önümüzdeki B-depart_date.date_relative
+salı B-depart_date.day_name
+Boston'dan B-fromloc.city_name
+Washington'a B-toloc.city_name
+hangi O
+uçuşlar O
+gidecek O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+aynı B-depart_date.date_relative
+gün O
+içinde O
+gitmem O
+gerekiyor O
+bana O
+Boston'dan B-fromloc.city_name
+en B-flight_mod
+erken I-flight_mod
+ayrılan O
+uçuşu O
+bul O
+</S>
+<S>
+Önümüzdeki B-depart_date.date_relative
+çarşamba B-depart_date.day_name
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+öğleden B-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Önümüzdeki B-depart_date.date_relative
+pazar B-depart_date.day_name
+yapılacak O
+San B-fromloc.city_name
+Jose I-fromloc.city_name
+- O
+Houston B-toloc.city_name
+uçuşlarını O
+listele O
+</S>
+<S>
+Bana O
+gelecek B-depart_date.date_relative
+pazar B-depart_date.day_name
+Miami'den B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+gidecek O
+uçuşların O
+fiyatlarını O
+göster O
+</S>
+<S>
+Önümüzdeki B-depart_date.date_relative
+çarşamba B-depart_date.day_name
+Phoenix B-fromloc.city_name
+ve O
+Milwaukee B-toloc.city_name
+arasında O
+yapılacak O
+uçuşları O
+göster O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+perşembe B-depart_date.day_name
+günü O
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+nedir O
+</S>
+<S>
+Bana O
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Oakland'dan B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+pazar B-depart_date.day_name
+günü O
+uçuşları O
+nelerdir O
+</S>
+<S>
+Bana O
+Denver'den B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+giden O
+en B-flight_mod
+son I-flight_mod
+aktarmasız B-flight_stop
+uçuşu O
+göster O
+</S>
+<S>
+Lütfen O
+23 B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Dallas B-fromloc.city_name
+Fort I-fromloc.city_name
+Worth'dan I-fromloc.city_name
+DC B-toloc.state_code
+Baltimore'ye B-toloc.city_name
+giden O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+perşembe B-depart_date.day_name
+günkü O
+uçuşları O
+göster O
+</S>
+<S>
+Oakland B-fromloc.city_name
+- O
+Washington B-toloc.city_name
+DC B-toloc.state_code
+arası O
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuş O
+nedir O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Washington B-toloc.city_name
+DC'ye B-toloc.state_code
+aktarmasız B-flight_stop
+uçuşları O
+listeleyin O
+</S>
+<S>
+Burbank'tan B-fromloc.city_name
+Tacoma B-toloc.city_name
+Washington'a B-toloc.state_name
+giden O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Cincinnati'den B-fromloc.city_name
+San B-toloc.city_name
+Jose I-toloc.city_name
+California'ya B-toloc.state_name
+gidiş B-round_trip
+dönüş I-round_trip
+bir O
+uçuşa O
+ihtiyacım O
+var O
+</S>
+<S>
+Bana O
+Philadelphia'dan B-fromloc.city_name
+Atlanta B-toloc.city_name
+Georgia'ya B-toloc.state_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Lütfen O
+Las B-fromloc.city_name
+Vegas'tan I-fromloc.city_name
+Michigan'a B-toloc.state_name
+bir O
+uçuş O
+bul O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+23 B-depart_date.day_number
+Ocak B-depart_date.month_name
+için O
+uçuş O
+bilgileri O
+</S>
+<S>
+22 B-depart_date.day_number
+Mayıs B-depart_date.month_name
+Cumartesi B-depart_date.day_name
+günü O
+Las B-fromloc.city_name
+Vegas'tan I-fromloc.city_name
+Burbank'a B-toloc.city_name
+uçuşlar O
+nelerdir O
+</S>
+<S>
+23 B-depart_date.day_number
+Kasım'da B-depart_date.month_name
+American B-airline_name
+Airlines'in I-airline_name
+Boston B-fromloc.city_name
+ile O
+Denver B-toloc.city_name
+arasında O
+hangi O
+uçuşları O
+var O
+</S>
+<S>
+27 B-depart_date.day_number
+Ağustos B-depart_date.month_name
+sabahı B-depart_time.period_of_day
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+nedir O
+</S>
+<S>
+23 B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+American B-airline_name
+ile O
+erken B-flight_mod
+bir O
+uçuş O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+27 B-depart_date.day_number
+Ağustos B-depart_date.month_name
+sabahı B-depart_time.period_of_day
+hangi O
+uçuş O
+var O
+</S>
+<S>
+Tamam O
+tam O
+23 B-depart_date.day_number
+Kasım'da B-depart_date.month_name
+Atlanta'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+uçmak O
+istiyorum O
+ve O
+hangi O
+uçuşların O
+müsait O
+olduğunu O
+bilmem O
+gerekiyor O
+</S>
+<S>
+24 B-depart_date.day_number
+Aralık'ta B-depart_date.month_name
+Dallas'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+uçmak O
+için O
+en B-cost_relative
+ucuz I-cost_relative
+hava O
+yolu O
+hangisi O
+</S>
+<S>
+Bana O
+31 B-depart_date.day_number
+Ağustos'taki B-depart_date.month_name
+San B-fromloc.city_name
+Francisco B-stoploc.city_name
+- B-stoploc.city_name
+Boston B-stoploc.city_name
+uçuşlarını O
+göster O
+</S>
+<S>
+Canadian B-airline_name
+Airlines I-airline_name
+International'ın I-airline_name
+kısaltması O
+nedir O
+</S>
+<S>
+Philadelphia B-fromloc.city_name
+- O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+uçuşlarını O
+hangi O
+ücret O
+kodları O
+kapsar O
+</S>
+<S>
+dl B-airline_code
+nedir O
+</S>
+<S>
+Airline O
+NW B-airline_code
+nedir O
+</S>
+<S>
+TWA'deki B-airline_code
+hizmet O
+sınıfları O
+nelerdir O
+</S>
+<S>
+Columbus'tan B-fromloc.city_name
+St. B-toloc.city_name
+Louis'e I-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçuş O
+ne O
+kadar O
+tutuyor O
+</S>
+<S>
+Tamam O
+TWA'nin B-airline_code
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+uçuşu O
+var O
+mı O
+</S>
+<S>
+Columbus'tan B-fromloc.city_name
+St. B-toloc.city_name
+Louis'e I-toloc.city_name
+TWA'nin B-airline_code
+en B-cost_relative
+ucuz I-cost_relative
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşu O
+hangisi O
+</S>
+<S>
+Columbus'tan B-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+TWA B-airline_code
+ile O
+uçmanın O
+maliyeti O
+nedir O
+</S>
+<S>
+Orlando'dan B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+US B-airline_name
+Air'in I-airline_name
+akşam I-arrive_time.time
+10 B-arrive_time.time
+civarı B-arrive_time.time_relative
+gelen O
+uçuşları O
+nelerdir O
+</S>
+<S>
+Hangi O
+uçuşlar O
+Boston'dan B-fromloc.city_name
+ayrılıp O
+Philadelphia'ya B-toloc.city_name
+sabah I-arrive_time.time
+7'den B-arrive_time.time
+önce B-arrive_time.time_relative
+varıyor O
+</S>
+<S>
+Bana O
+Denver B-fromloc.city_name
+ile O
+Oakland B-toloc.city_name
+arasındaki O
+öğleden B-arrive_time.time
+sonra B-arrive_time.time_relative
+kalkan O
+ve O
+5'ten B-arrive_time.time
+sonra B-arrive_time.time_relative
+varan O
+tüm O
+aktarmasız B-flight_stop
+uçuşları O
+göster O
+</S>
+<S>
+Orlando'dan B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+saat O
+10 B-arrive_time.time
+civarında B-arrive_time.time_relative
+varan O
+hangi O
+uçuşlar O
+uygun O
+</S>
+<S>
+Oakland B-fromloc.city_name
+ile O
+Boston B-toloc.city_name
+arasında O
+saat O
+5'ten B-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Herhangi O
+bir O
+havaalanından O
+Baltimore'ye B-toloc.city_name
+perşembe B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+saat O
+9'dan B-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+tüm O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Minneapolis'ten B-fromloc.city_name
+San B-toloc.city_name
+Diego'ya I-toloc.city_name
+7'den B-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+aktarmasız B-flight_stop
+uçup O
+saat O
+7'de B-arrive_time.time
+oraya O
+varmak O
+istiyorum O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+giden O
+bir O
+uçuşa O
+ihtiyacım O
+var O
+ve O
+bu O
+uçuş O
+akşam B-arrive_time.period_of_day
+saat O
+7'de B-arrive_time.time
+varmalı O
+lütfen O
+</S>
+<S>
+Denver'e B-city_name
+hangi O
+havayolları O
+hizmet O
+ediyor O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giderken O
+Denver'de B-stoploc.city_name
+duran O
+bir O
+havayolunuz O
+var O
+mı O
+</S>
+<S>
+Hangi O
+havayolu O
+Denver B-city_name
+Pittsburgh B-city_name
+ve O
+Atlanta'ya B-city_name
+hizmet O
+veriyor O
+</S>
+<S>
+Hangi O
+havayolları O
+Boston'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+uçuyor O
+</S>
+<S>
+Denver'e B-city_name
+veya O
+Denver'den B-city_name
+uçuşu O
+olan O
+havayollarını O
+listeleyin O
+</S>
+<S>
+Detroit B-fromloc.city_name
+ve O
+Westchester B-toloc.city_name
+County I-toloc.city_name
+arasında O
+hangi O
+havayolları O
+uçuyor O
+</S>
+<S>
+Pittsburgh B-fromloc.city_name
+- O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arası O
+uçan O
+tüm O
+hava O
+yollarını O
+göster O
+</S>
+<S>
+Boston B-fromloc.city_name
+ve O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arasında O
+hangi O
+havayolları O
+uçuyor O
+</S>
+<S>
+Herhangi O
+bir O
+havayolunun O
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+erken B-depart_time.period_of_day
+saatlerde O
+uçuşu O
+var O
+mı O
+</S>
+<S>
+Hangi O
+havayollarının O
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Chicago'ya B-toloc.city_name
+aktarmasız B-flight_stop
+uçuşları O
+var O
+</S>
+<S>
+Atlanta B-fromloc.city_name
+ve O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arasında O
+hangi O
+havayolları O
+uçuyor O
+</S>
+<S>
+Hangi O
+havayolu O
+business B-class_type
+class I-class_type
+uçuşlar O
+sağlıyor O
+</S>
+<S>
+Denver'den B-toloc.city_name
+Kansas B-toloc.city_name
+City'e I-toloc.city_name
+aktarmasız B-flight_stop
+uçuşlar O
+</S>
+<S>
+Pazar B-depart_date.day_name
+günü O
+San B-fromloc.city_name
+Francisco I-fromloc.city_name
+- O
+Pittsburgh B-toloc.city_name
+aktarmasız B-flight_stop
+uçuşları O
+listele O
+</S>
+<S>
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+St. B-toloc.city_name
+Paul'a I-toloc.city_name
+giden O
+uçuşların O
+hepsi O
+aktarmasız B-flight_stop
+mı O
+</S>
+<S>
+Toronto B-fromloc.city_name
+- O
+St. B-toloc.city_name
+Petersburg I-toloc.city_name
+arası O
+aktarmasız B-flight_stop
+uçuşları O
+göster O
+</S>
+<S>
+Perşembe B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+Indianapolis'ten B-fromloc.city_name
+Toronto'ya B-toloc.city_name
+giden O
+aktarmasız B-flight_stop
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Toronto'dan B-fromloc.city_name
+St. B-toloc.city_name
+Louis'e I-toloc.city_name
+giden O
+aktarmasız B-flight_stop
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Salt B-fromloc.city_name
+Lake I-fromloc.city_name
+City'den I-fromloc.city_name
+Cincinnati'ye B-toloc.city_name
+mümkünse O
+aktarmasız B-flight_stop
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşlar O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+bir O
+uçak O
+bileti O
+almak O
+istiyorum O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Sallas'a O
+birinci B-class_type
+sınıf I-class_type
+bir O
+biletin O
+maliyeti O
+nedir O
+</S>
+<S>
+Bana O
+pazartesi B-depart_date.day_name
+günü O
+Pittsburgh B-fromloc.city_name
+- O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+uçuşlarının O
+birinci B-class_type
+sınıf I-class_type
+ücretlerini O
+göster O
+</S>
+<S>
+Bana O
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+salı B-depart_date.day_name
+günü O
+kalkan O
+birinci B-class_type
+sınıf I-class_type
+uçuşları O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+birinci B-class_type
+sınıf I-class_type
+bir O
+biletin O
+gidiş B-round_trip
+dönüş I-round_trip
+maliyeti O
+nedir O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+birinci B-class_type
+sınıf I-class_type
+uçak O
+bileti O
+hangisi O
+</S>
+<S>
+Bana O
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+birinci B-class_type
+sınıf I-class_type
+gidiş B-round_trip
+dönüş I-round_trip
+biletleri O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Toronto'ya B-toloc.city_name
+giden O
+US B-airline_name
+Air I-airline_name
+business B-class_type
+class I-class_type
+ücretlerini O
+göster O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Dallas'a B-toloc.city_name
+birinci B-class_type
+sınıf I-class_type
+olmayan O
+uçuşları O
+göster O
+</S>
+<S>
+Detroit'ten B-fromloc.city_name
+St. B-toloc.city_name
+Petersburg'a I-toloc.city_name
+birinci B-class_type
+sınıf I-class_type
+gidiş B-round_trip
+dönüş I-round_trip
+uçak O
+biletlerini O
+listeleyin O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+giden O
+United B-airline_name
+Airlines'ten I-airline_name
+birinci B-class_type
+sınıf I-class_type
+bir O
+bilete O
+ihtiyacım O
+var O
+</S>
+<S>
+7 B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Denver'den B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+giden O
+United B-airline_name
+Airlines I-airline_name
+uçuşlarında O
+birinci B-class_type
+sınıf I-class_type
+bir O
+gidiş B-round_trip
+dönüş I-round_trip
+biletinin O
+maliyeti O
+nedir O
+</S>
+<S>
+Bana O
+1'den B-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+uçuşlarını O
+göster O
+</S>
+<S>
+Bana O
+St. B-fromloc.city_name
+Petersburg'dan I-fromloc.city_name
+Toronto'ya B-toloc.city_name
+öğleden B-arrive_time.time
+önce B-arrive_time.time_relative
+varan O
+uçuşları O
+göster O
+</S>
+<S>
+Bana O
+çarşamba B-depart_date.day_name
+günü O
+öğlen B-depart_time.period_of_day
+12 B-depart_time.time
+civarında B-depart_time.time_relative
+kalkan O
+Boston B-fromloc.city_name
+- O
+Baltimore B-toloc.city_name
+arası O
+ekonomi B-class_type
+sınıfı I-class_type
+uçuşları O
+göster O
+</S>
+<S>
+Las B-fromloc.city_name
+Vegas'tan I-fromloc.city_name
+Detroit'e B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+gidiş B-round_trip
+dönüş I-round_trip
+ekonomi B-class_type
+sınıfı I-class_type
+bilet O
+ücretini O
+göster O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+ekonomi B-class_type
+sınıfı I-class_type
+ücretini O
+göster O
+</S>
+<S>
+Charlotte'de B-city_name
+hangi O
+kara O
+ulaşımı O
+mevcut O
+</S>
+<S>
+Lütfen O
+Pittsburgh'taki B-city_name
+mevcut O
+kara O
+ulaşımını O
+listeleyin O
+</S>
+<S>
+Kara O
+ulaşımı O
+Dallas B-city_name
+</S>
+<S>
+American B-airline_name
+Airlines I-airline_name
+için O
+Atlanta'daki B-city_name
+kalkış O
+ve O
+varışları O
+göster O
+</S>
+<S>
+Oakland'da B-city_name
+kara O
+ulaşımı O
+nasıldır O
+</S>
+<S>
+Dallas'ta B-city_name
+ne O
+tür O
+bir O
+kara O
+ulaşımı O
+var O
+</S>
+<S>
+Midwest B-airline_name
+Express O
+Baltimore'de B-city_name
+hizmet O
+veriyor B-airline_name
+mu O
+</S>
+<S>
+Atlanta'da B-city_name
+kara O
+ulaşımı O
+nedir O
+</S>
+<S>
+Boston'a B-city_name
+hangi O
+kara O
+ulaşımını O
+alabilirim O
+</S>
+<S>
+Bana O
+Toronto'daki B-city_name
+kara O
+ulaşımını O
+anlat O
+</S>
+<S>
+Denver'de B-city_name
+kara O
+ulaşımı O
+</S>
+<S>
+Bana O
+Denver'deki B-city_name
+kara O
+ulaşımını O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+Denver B-stoploc.city_name
+aktarmalı O
+uçmak O
+istiyorum O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+hangi O
+Dallas B-stoploc.city_name
+aktarmalı O
+uçuşlar O
+kalkıyor O
+</S>
+<S>
+Denver B-fromloc.city_name
+- O
+Pittsburgh B-toloc.city_name
+arası O
+Atlanta'da B-stoploc.city_name
+duran O
+en B-cost_relative
+ucuz I-cost_relative
+uçuşlar O
+hangileri O
+</S>
+<S>
+Dallas'ta B-stoploc.city_name
+mola O
+vererek O
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+seyahat O
+etmek O
+istiyorum O
+</S>
+<S>
+Continental B-airline_name
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+Denver B-stoploc.city_name
+aktarmalı O
+uçuyor O
+mu O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+ve O
+Denver'de B-stoploc.city_name
+duran O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Columbus'tan B-fromloc.city_name
+Phoenix'e B-toloc.city_name
+Cincinnati B-stoploc.city_name
+aktarmalı O
+bir O
+uçuş O
+bulmaya O
+çalışıyorum O
+</S>
+<S>
+Dallas'ta B-stoploc.city_name
+durarak O
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+gitmek O
+istiyorum O
+</S>
+<S>
+Aslında O
+Ontario'dan B-fromloc.city_name
+Westchester'e B-toloc.city_name
+Chicago B-stoploc.city_name
+üzerinden O
+gitmek O
+istiyorum O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Washington'a B-toloc.city_name
+Indianapolis B-stoploc.city_name
+üzerinden O
+hangi O
+uçuşlar O
+gidiyor O
+</S>
+<S>
+Seattle'den B-fromloc.city_name
+Boston'a B-toloc.city_name
+Minneapolis B-stoploc.city_name
+üzerinden O
+hangi O
+uçuşlar O
+kalkıyor O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+Dallas B-stoploc.city_name
+üzerinden O
+giden O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+Atlanta'da B-stoploc.city_name
+mola O
+veren O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Washington'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+ve O
+Denver'de B-stoploc.city_name
+duran O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Pittsburgh'ta B-stoploc.city_name
+aktarma O
+yapan O
+Denver B-fromloc.city_name
+- O
+Atlanta B-toloc.city_name
+arası O
+en B-cost_relative
+ucuz I-cost_relative
+uçuşu O
+bulun O
+</S>
+<S>
+Boston'da B-toloc.city_name
+havalimanı O
+ile O
+şehir O
+merkezi O
+arasında O
+kara O
+ulaşımınız O
+var O
+mı O
+</S>
+<S>
+Atlanta'daki B-fromloc.city_name
+havaalanından O
+kara O
+ulaşımı O
+hakkında O
+bilgiye O
+ihtiyacım O
+var O
+</S>
+<S>
+Akşam B-depart_time.time
+5'ten I-depart_time.time
+sonra B-depart_time.time_relative
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+gitmek O
+istiyorum O
+bana O
+uygun O
+uçuşları O
+söyleyebilir O
+misin O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Denver'e B-toloc.city_name
+akşam B-depart_time.time
+saat I-depart_time.time
+3'ten I-depart_time.time
+sonra B-depart_time.time_relative
+hangi O
+uçuşlar O
+kalkıyor O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+yaklaşık B-depart_time.time_relative
+615'te B-depart_time.time
+uçmak O
+istiyorum O
+</S>
+<S>
+Bana O
+akşam B-depart_time.time
+saat I-depart_time.time
+9'dan I-depart_time.time
+sonra B-depart_time.time_relative
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+kalkan O
+Boston B-toloc.city_name
+- O
+San B-fromloc.city_name
+Francisco I-fromloc.city_name
+arası O
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuşu O
+göster O
+</S>
+<S>
+Perşembe B-depart_date.day_name
+günü O
+saat O
+5'ten B-depart_time.time
+önce B-depart_time.time_relative
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+tüm O
+uçuşları O
+listele O
+</S>
+<S>
+Continental'ın B-airline_name
+Denver'den B-fromloc.city_name
+Chicago'ya B-toloc.city_name
+pazar B-depart_date.day_name
+günü O
+934'ten B-depart_time.time
+sonra B-depart_time.time_relative
+hareket O
+eden O
+tüm O
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+Saat O
+9'dan B-depart_time.time
+önce B-depart_time.time_relative
+Montreal'dan B-fromloc.city_name
+Philly'e B-toloc.city_name
+giden O
+uçuşları O
+listeleyin O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+akşam B-depart_time.time
+6'dan I-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+uçuşları O
+bul O
+</S>
+<S>
+Merhaba O
+Pittsburgh'tan B-fromloc.city_name
+Denver'e B-toloc.city_name
+2'den B-depart_time.time
+sonra B-depart_time.time_relative
+giden O
+bir O
+uçuş O
+bulmaya O
+çalışıyorum O
+</S>
+<S>
+Tamam O
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+saat O
+8'den B-depart_time.time
+önce B-depart_time.time_relative
+kalkan O
+bir O
+uçak O
+istiyorum O
+</S>
+<S>
+Bana O
+Pittsburgh'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+perşembe B-depart_date.day_name
+günü O
+saat O
+3'ten B-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+gecesi B-depart_time.period_of_day
+saat O
+8'den B-depart_time.time
+sonra B-depart_time.time_relative
+Dallas'tan B-fromloc.city_name
+Boston'a B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Milwaukee'den B-fromloc.city_name
+Indianapolis'e B-toloc.city_name
+pazartesi B-depart_date.day_name
+sabah B-depart_time.time
+9'dan I-depart_time.time
+önce B-depart_time.time_relative
+kalkan O
+bir O
+uçağa O
+ihtiyacım O
+var O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+pazartesi B-depart_date.day_name
+günü O
+sabah B-depart_time.time
+saat I-depart_time.time
+8'den I-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Washington'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+öğlen B-depart_time.time
+saat I-depart_time.time
+1'den I-depart_time.time
+sonraki O
+ilk B-flight_mod
+uçuş O
+nedir O
+</S>
+<S>
+Akşam B-depart_time.time
+9 I-depart_time.time
+sonrası B-depart_time.time_relative
+Pittsburgh'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+hangi O
+uçuşları O
+bulabilirim O
+</S>
+<S>
+Sabah I-depart_time.time
+815 B-depart_time.time
+sonrası B-depart_time.time_relative
+kalkan O
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+bir O
+United B-airline_name
+Havayolları I-airline_name
+uçuşu O
+istiyorum O
+</S>
+<S>
+Öğlen B-depart_time.time
+1'de I-depart_time.time
+Charlotte'den B-fromloc.city_name
+kalkan O
+US B-airline_name
+Air I-airline_name
+uçuşları O
+</S>
+<S>
+Akşam B-depart_time.time
+7'de I-depart_time.time
+Chicago'dan B-fromloc.city_name
+Kansas B-toloc.city_name
+City'e I-toloc.city_name
+dönmek O
+istıyorum O
+</S>
+<S>
+Indianapolis'ten B-fromloc.city_name
+Memphis'e B-toloc.city_name
+herhangi O
+bir O
+gün O
+sabah B-depart_time.time
+10'dan I-depart_time.time
+önceki B-depart_time.time_relative
+uçuşları O
+göster O
+</S>
+<S>
+Milwaukee'den B-fromloc.city_name
+Orlando'ya B-toloc.city_name
+en B-flight_mod
+kısa I-flight_mod
+uçuşu O
+alabilir O
+miyim O
+</S>
+<S>
+Oakland'dan B-fromloc.city_name
+Salt B-toloc.city_name
+Lake I-toloc.city_name
+City'e I-toloc.city_name
+çarşamba B-depart_date.day_name
+günü O
+geç B-flight_mod
+bir O
+uçuşa O
+ihtiyacım O
+var O
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+günü O
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+en B-flight_mod
+erken I-flight_mod
+uçuşları O
+göster O
+</S>
+<S>
+Phoenix'den B-fromloc.city_name
+Salt B-toloc.city_name
+Lake I-toloc.city_name
+City'e I-toloc.city_name
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+en B-flight_mod
+geç I-flight_mod
+uçuşunuz O
+hangisi O
+</S>
+<S>
+Newark'tan B-fromloc.city_name
+Los B-toloc.city_name
+Angeles'e I-toloc.city_name
+çarşamba B-depart_date.day_name
+günü O
+en B-flight_mod
+geç I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+ilk B-flight_mod
+uçuşu O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+ilk B-flight_mod
+uçuşu O
+göster O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Denver'e B-toloc.city_name
+giden O
+en B-flight_mod
+geç I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+7 B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+en B-flight_mod
+geç I-flight_mod
+kalkışlı O
+uçuş O
+hangisi O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Boston'a B-toloc.city_name
+giden O
+en B-flight_mod
+geç I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+Atlanta B-fromloc.city_name
+ve O
+Denver B-toloc.city_name
+arası O
+en B-flight_mod
+erken I-flight_mod
+uçuşu O
+söyle O
+</S>
+<S>
+Salt B-fromloc.city_name
+Lake I-fromloc.city_name
+City'den I-fromloc.city_name
+St. B-toloc.city_name
+Petersburg'a I-toloc.city_name
+en B-flight_mod
+geç I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+Toronto'dan B-fromloc.city_name
+Salt B-toloc.city_name
+Lake I-toloc.city_name
+City'e I-toloc.city_name
+en B-flight_mod
+erken I-flight_mod
+varışlı O
+uçuş O
+hangisi O
+</S>
+<S>
+7 B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Boston'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+en B-flight_mod
+geç I-flight_mod
+uçuşlar O
+hangileri O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+en B-flight_mod
+geç I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+Washington'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+Cuma B-depart_date.day_name
+günü O
+en B-flight_mod
+erken I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+7 B-depart_date.day_number
+Ekim B-depart_date.month_name
+Çarşamba B-depart_date.day_name
+kalkan O
+en B-flight_mod
+erken I-flight_mod
+Washington'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+uçuş O
+hangisi O
+</S>
+<S>
+San B-fromloc.city_name
+Jose'den I-fromloc.city_name
+Houston'a B-toloc.city_name
+en B-flight_mod
+kısa I-flight_mod
+uçuşları O
+listele O
+</S>
+<S>
+Salt B-fromloc.city_name
+Lake I-fromloc.city_name
+City'den I-fromloc.city_name
+Phoenix'e B-toloc.city_name
+en B-flight_mod
+geç I-flight_mod
+uçuş O
+hangisi O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuşu O
+söyleyebilir O
+misiniz O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Oakland'a B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuş O
+hangisi O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuş O
+hangisi O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuş O
+hangisi O
+</S>
+<S>
+Boston B-fromloc.city_name
+ve O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arası O
+en B-cost_relative
+ucuz I-cost_relative
+uçuşu O
+söyleyebilir O
+misin O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuş O
+hangisi O
+</S>
+<S>
+Orlando'dan B-fromloc.city_name
+Tacoma'ya B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuş O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Boston'a B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuşları O
+göster O
+</S>
+<S>
+San B-toloc.city_name
+Francisco I-toloc.city_name
+ve O
+Philadelphia B-fromloc.city_name
+arası O
+bulabileceğim O
+en B-cost_relative
+ucuz I-cost_relative
+uçuş O
+hangisi O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+tarife O
+hangisi O
+</S>
+<S>
+Indianapolis'ten B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+en B-cost_relative
+uygun O
+tarifeyle O
+uçmak O
+istiyorum O
+</S>
+<S>
+Miami'den B-fromloc.city_name
+New B-toloc.city_name
+York'a I-toloc.city_name
+Pazar B-depart_date.day_name
+kalkışlı O
+en B-cost_relative
+ucuz I-cost_relative
+tarifeleri O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+tarife O
+hangisi O
+</S>
+<S>
+Milwaukee'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+en B-cost_relative
+ucuz I-cost_relative
+nasıl O
+gidilir O
+</S>
+<S>
+Houston'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuşu O
+göster O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuş O
+hangisi O
+</S>
+<S>
+Nashville'den B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+uçmak O
+istiyorum O
+ve O
+en B-cost_relative
+ucuz I-cost_relative
+gidiş B-round_trip
+dönüş I-round_trip
+tarifesini O
+istiyorum O
+</S>
+<S>
+Charlotte'den B-fromloc.city_name
+Long B-toloc.city_name
+Beach'a I-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuşu O
+ver O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Denver'e B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+tek B-round_trip
+yön I-round_trip
+uçuşu O
+istiyorum O
+</S>
+<S>
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+en B-cost_relative
+ucuz I-cost_relative
+uçuşlar O
+hangileri O
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+öğleden B-depart_time.time
+sonra B-depart_time.time_relative
+ve O
+Perşembe B-depart_date.day_name
+öğleden B-depart_time.time
+önce B-depart_time.time_relative
+kalkan O
+Milwaukee'den B-fromloc.city_name
+Orlando'ya B-toloc.city_name
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Nashville'den B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+pazar B-depart_date.day_name
+günü O
+9'dan B-depart_time.time
+önce B-depart_time.time_relative
+</S>
+<S>
+Washington'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+2'den B-depart_time.time
+sonra B-depart_time.time_relative
+kalkan O
+tüm O
+uçuşlar O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+1205'te B-depart_time.time
+hangi O
+uçuşlar O
+gidiyor O
+</S>
+<S>
+Öğleden B-depart_time.period_of_day
+sonra B-depart_time.time_relative
+3'te B-depart_time.time
+Pittsburgh'tan B-fromloc.city_name
+Boston'a B-toloc.city_name
+giden O
+uçuşları O
+listele O
+</S>
+<S>
+Lütfen O
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+tüm O
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşları O
+göster O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşları O
+göster O
+</S>
+<S>
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+San B-toloc.city_name
+Jose'ye I-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+bir O
+tarife O
+istiyorum O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşu O
+için O
+seyahat O
+düzenlemeleri O
+bulun O
+</S>
+<S>
+Kansas B-fromloc.city_name
+şehrinden I-fromloc.city_name
+Chicago'ya B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçak O
+bileti O
+rezervasyonu O
+yapmak O
+istiyorum O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+tek B-round_trip
+yönlü I-round_trip
+bir O
+uçuşun O
+maliyeti O
+nedir O
+</S>
+<S>
+Bana O
+Pittsburgh'tan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+giden O
+tüm O
+uçuşların O
+ücretlerini O
+göster O
+</S>
+<S>
+Şimdi O
+Pittsburgh'tan B-fromloc.city_name
+Denver'e B-toloc.city_name
+tek B-round_trip
+yönlü I-round_trip
+bir O
+uçuşa O
+ihtiyacım O
+var O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşları O
+hangileri O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+uçuşu O
+için O
+seyahat O
+düzenlemeleri O
+bulun O
+</S>
+<S>
+Bana O
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+üç B-depart_date.day_number
+Aralık B-depart_date.month_name
+için O
+dönüş B-round_trip
+uçuşları O
+ver O
+</S>
+<S>
+On B-depart_date.day_number
+bir I-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Boston B-fromloc.city_name
+ve O
+Atlanta B-toloc.city_name
+arasında O
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+saat O
+birde B-depart_time.time
+kalkan O
+uçuşları O
+istiyorum O
+</S>
+<S>
+Yirmi B-depart_date.day_number
+Ağustos B-depart_date.month_name
+için O
+Washington'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+olan O
+bir O
+uçuş O
+istiyorum O
+</S>
+<S>
+Altı B-depart_date.day_number
+Ağustos B-depart_date.month_name
+akşamı B-depart_time.period_of_day
+olan O
+Pittsburgh'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+uçuşları O
+listeleyin O
+</S>
+<S>
+San B-fromloc.city_name
+Jose'den I-fromloc.city_name
+Nashville'ye B-toloc.city_name
+üç B-depart_date.day_number
+Haziran B-depart_date.month_name
+cuma B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+olan O
+uçuşları O
+istiyorum O
+</S>
+<S>
+Hangi O
+United B-airline_name
+Airlines I-airline_name
+uçuşları O
+sekiz B-depart_date.day_number
+Haziran'da B-depart_date.month_name
+Westchester B-fromloc.city_name
+bölgesinden I-fromloc.city_name
+Cincinnati'ye B-toloc.city_name
+gidiyor O
+</S>
+<S>
+United B-airline_name
+Airlines'in I-airline_name
+yirmi B-depart_date.day_number
+Eylül B-depart_date.month_name
+sabahı B-depart_time.period_of_day
+uçuşları O
+hangileri O
+</S>
+<S>
+Charlotte'den B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+bir B-depart_date.day_number
+Haziran'da B-depart_date.month_name
+uçuşunuz O
+var O
+mı O
+</S>
+<S>
+St. B-fromloc.city_name
+Petersburg'dan I-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+on B-depart_date.day_number
+bir I-depart_date.day_number
+Haziran'da B-depart_date.month_name
+bir O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+bir B-depart_date.day_number
+ekim B-depart_date.month_name
+salı B-depart_date.day_name
+günü O
+uçuşları O
+hangileri O
+</S>
+<S>
+Bir B-depart_date.day_number
+Temmuz'da B-depart_date.month_name
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Newark'a B-toloc.city_name
+bir O
+uçak O
+bileti O
+istiyorum O
+</S>
+<S>
+Lütfen O
+bana O
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Chicago'ya B-toloc.city_name
+ayın B-arrive_date.month_name
+on B-depart_date.day_number
+altısındaki I-depart_date.day_number
+uçuşları O
+verin O
+</S>
+<S>
+Denver B-fromloc.city_name
+ve O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arasındaki O
+on B-depart_date.day_number
+yedi I-depart_date.day_number
+Eylül B-depart_date.month_name
+uçuşlarını O
+göster O
+</S>
+<S>
+Westchester B-fromloc.city_name
+bölgesinden I-fromloc.city_name
+Cincinnati'ye B-toloc.city_name
+olan O
+sekiz B-depart_date.day_number
+Haziran B-depart_date.month_name
+uçuşlarını O
+listele O
+</S>
+<S>
+Nashville'den B-fromloc.city_name
+Tacoma'ya B-toloc.city_name
+olan O
+ayın O
+on B-depart_date.day_number
+sekizindeki I-depart_date.day_number
+uçuşlar O
+hangileri O
+</S>
+<S>
+Delta B-airline_name
+havayollarının I-airline_name
+Boston'dan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+gidiş O
+uçuşlarının O
+fiyatlarını O
+listeleyin O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+uçuşların O
+fiyatlarını O
+listeleyin O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+olan O
+uçuşların O
+fiyatları O
+nedir O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+olan O
+uçuşun O
+maliyeti O
+nedir O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh B-toloc.city_name
+ve O
+Atlanta'ya B-toloc.city_name
+olan O
+bir O
+bilet O
+hakkında O
+biraz O
+bilgi O
+almak O
+istiyorum O
+</S>
+<S>
+Lütfen O
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+uçuşların O
+fiyatlarını O
+verin O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+olan O
+sabah B-depart_time.period_of_day
+uçuşlarının O
+fiyatları O
+nedir O
+</S>
+<S>
+Philadephia B-fromloc.city_name
+ve O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arasındaki O
+gece B-depart_time.period_of_day
+uçuşlarının O
+fiyatlarını O
+gösterin O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Philadelphia'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+olan O
+sabah B-depart_time.period_of_day
+uçuşlarını O
+tekrar O
+söyleyin O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+Bana O
+American B-airline_name
+Airlines'in I-airline_name
+Phoenix'den B-fromloc.city_name
+Milwaukee B-toloc.city_name
+olan O
+çarşamba B-depart_date.day_name
+günü O
+uçuşlarını O
+gösterin O
+</S>
+<S>
+Salı B-depart_date.day_name
+günü O
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+hangi O
+US B-airline_name
+Air I-airline_name
+uçuşları O
+var O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Philadelphia'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+olan O
+uçuşlarını O
+verin O
+</S>
+<S>
+Lütfen O
+American B-airline_name
+Airlines'in I-airline_name
+Houston'dan B-fromloc.city_name
+Milwaaukee'ye B-toloc.city_name
+olan O
+cuma B-depart_date.day_name
+günü O
+akşam B-depart_time.period_of_day
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+Alaska B-airline_name
+Airline'nin I-airline_name
+Burbank B-fromloc.city_name
+kalkışlı O
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+United B-airline_name
+Airlines'in I-airline_name
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+uçuşu O
+var O
+mı O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Milwaukee'den B-fromloc.city_name
+Phoenix'e B-toloc.city_name
+olan O
+cuma B-depart_date.day_name
+günkü O
+tüm O
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco I-fromloc.city_name
+kalkışlı O
+herhangi O
+bir O
+Us B-airline_name
+Air I-airline_name
+uçuşu O
+var O
+mı O
+</S>
+<S>
+Canadian B-airline_name
+Airlines I-airline_name
+uluslararası I-airline_name
+hangi O
+bölgelere O
+uçuyor O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+bir O
+uçak O
+bileti O
+rezervasyonu O
+yapmak O
+istiyorum O
+ve O
+Eastern B-airline_name
+Airlines'e I-airline_name
+gitmek O
+istiyorum O
+</S>
+<S>
+United B-airline_name
+Airline'nin I-airline_name
+Dallas'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+uçuşları O
+hangileri O
+bilmek O
+istiyorum O
+</S>
+<S>
+American B-airline_name
+Airlines'ten I-airline_name
+Cincinnati'den B-fromloc.city_name
+Burbank'a B-toloc.city_name
+giden O
+bir O
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+bileti O
+istiyorum O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airport_name
+çarşamba B-depart_date.day_name
+günü O
+Phoenix'den B-fromloc.city_name
+kalkıp O
+Milwaukee'ye B-toloc.city_name
+inen O
+uçuşlarını O
+göster O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Phoenix B-fromloc.city_name
+kalkışlı O
+uçuşları O
+hangileri O
+</S>
+<S>
+American B-airline_name
+Airlines'in I-airline_name
+Houston'dan B-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+olan O
+cuma B-depart_date.day_name
+akşam B-depart_time.period_of_day
+uçuşlarını O
+listele O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+perşembe B-depart_date.day_name
+akşamı B-depart_time.period_of_day
+kalkan O
+tüm O
+uçuşlar O
+hakkında O
+bilgi O
+almak O
+istiyorum O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Bana O
+San B-fromloc.city_name
+Jose'den I-fromloc.city_name
+Nashville'ye B-toloc.city_name
+olan O
+cumartesi B-depart_date.day_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+uçuşlarını O
+söyleyebilir O
+misin O
+</S>
+<S>
+Bana O
+Atlanta'dan B-fromloc.city_name
+Boston'a B-toloc.city_name
+olan O
+sabah B-depart_time.period_of_day
+uçuşlarının O
+bir O
+listesini O
+ver O
+</S>
+<S>
+Bana O
+cumartesi B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+Chicago'dan B-fromloc.city_name
+kalkan O
+Continental B-airline_name
+uçuşlarını O
+göster O
+</S>
+<S>
+Cumartesi B-depart_date.day_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+Charlotte B-fromloc.city_name
+kalkışlı O
+uçuşları O
+listele O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+Baltimore'den B-fromloc.city_name
+Dallas'a B-toloc.city_name
+bir O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+tüm O
+salı B-depart_date.day_name
+akşam B-depart_time.period_of_day
+uçuşlarını O
+listele O
+</S>
+<S>
+Lütfen O
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+kalkan O
+uçuşlar O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Newark'a B-toloc.city_name
+bir O
+sabah B-depart_time.period_of_day
+uçuşu O
+alabilir O
+miyim O
+lütfen O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Dallas'a B-toloc.city_name
+öğleden O
+sonraları O
+hangi O
+uçuşlar O
+uygun O
+</S>
+<S>
+Dallas'tan B-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+bir O
+akşam B-depart_time.period_of_day
+uçuşu O
+istiyorum O
+</S>
+<S>
+Öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+Boston'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+uçmak O
+istiyorum O
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Denver B-fromloc.city_name
+ve O
+Dallas B-toloc.city_name
+arasındaki O
+hangi O
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+uçuşları O
+müsait O
+</S>
+<S>
+Salı B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+Denver'den B-fromloc.city_name
+St. B-toloc.city_name
+Louis'e I-toloc.city_name
+giden O
+uçuşlar O
+hangileri O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+sabah B-depart_time.period_of_day
+uçuşlarını O
+göster O
+</S>
+<S>
+Lütfen O
+bana O
+çarşamba B-depart_date.day_name
+günü O
+sabah B-depart_time.period_of_day
+erken B-depart_time.period_of_day
+saatlerdeki O
+Atlanta'dan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Cincinnati B-fromloc.city_name
+ve O
+Tampa B-toloc.city_name
+arasındaki O
+sabah B-depart_time.period_of_day
+erken B-depart_time.period_of_day
+saatlerdeki O
+uçuşlar O
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+Baltimore'den B-fromloc.city_name
+Newark'a B-toloc.city_name
+giden O
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Hoston'dan B-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+giden O
+akşam B-depart_time.period_of_day
+uçuşlarını O
+listeleyin O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+sabah B-depart_time.period_of_day
+San B-fromloc.city_name
+Diego'dan I-fromloc.city_name
+Phoenix B-toloc.city_name
+olan O
+uçuşları O
+bul O
+</S>
+<S>
+Akşamleyin B-depart_time.period_of_day
+Indianapolis'ten B-fromloc.city_name
+Montreal'a B-toloc.city_name
+nasıl O
+gidebilirim O
+</S>
+<S>
+Bana O
+sabahleyin B-depart_time.period_of_day
+Atlanta'dan B-fromloc.city_name
+kalkan O
+Baltimore'ye B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Washington B-fromloc.city_name
+ve O
+Boston B-toloc.city_name
+arasındaki O
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+uçuşları O
+hangileri O
+</S>
+<S>
+Cincinnati'den B-fromloc.city_name
+Burbank'a B-toloc.city_name
+bir O
+uçak O
+bileti O
+istiyorum O
+uçuş O
+Amerikan B-airline_name
+olmalı O
+öğleden B-depart_time.period_of_day
+sonra I-depart_time.period_of_day
+kalkmalı O
+uçak O
+ve O
+uçuş O
+numarasını O
+da O
+bilmem O
+gerekiyor O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+olan O
+akşam B-depart_time.period_of_day
+uçuşları O
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+sabahı B-depart_time.period_of_day
+Baltimore'den B-fromloc.city_name
+Newark'a B-toloc.city_name
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+uçuş O
+hakkında O
+bilgi O
+</S>
+<S>
+Bana O
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+olan O
+salı B-depart_date.day_name
+günkü O
+uygun O
+uçuşları O
+ve O
+fiyatlarını O
+göster O
+</S>
+<S>
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+günü O
+Salt B-fromloc.city_name
+Lake I-fromloc.city_name
+City'den I-fromloc.city_name
+St. B-toloc.city_name
+Petersburg'a I-toloc.city_name
+geri O
+uçmak O
+istiyorum O
+</S>
+<S>
+Cuma B-depart_date.day_name
+günü O
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Denver'e B-toloc.city_name
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Boston'a B-toloc.city_name
+çarşamba B-depart_date.day_name
+günü O
+olan O
+bir O
+uçuş O
+bul O
+</S>
+<S>
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Cleveland'a B-toloc.city_name
+olan O
+uçuşlar O
+ve O
+fiyatları O
+</S>
+<S>
+Kansas B-fromloc.city_name
+City'den I-fromloc.city_name
+Denver'e B-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+St. B-fromloc.city_name
+Petersburg I-fromloc.city_name
+ve O
+Charlotte B-toloc.city_name
+arasındaki O
+uçuşlar O
+</S>
+<S>
+Salt B-fromloc.city_name
+Lake I-fromloc.city_name
+City'den I-fromloc.city_name
+St. B-toloc.city_name
+Petersburg'a I-toloc.city_name
+olan O
+çarşamba B-depart_date.day_name
+günkü O
+uçuşları O
+göster O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Seattle'ye B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Lütfen O
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+olan O
+salı B-depart_date.day_name
+günü O
+uçuşlarını O
+listele O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Denver'e B-toloc.city_name
+</S>
+<S>
+Pazar B-depart_date.day_name
+günü O
+New B-fromloc.city_name
+York I-fromloc.city_name
+City'den I-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+uçuşlarını O
+ve O
+pazar B-depart_date.day_name
+günü O
+Memphis'ten B-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+uçuşlarını O
+ver O
+</S>
+<S>
+St. B-fromloc.city_name
+Louis'ten I-fromloc.city_name
+Charlotte'ye B-toloc.city_name
+bir O
+uçak O
+bileti O
+istiyorum O
+</S>
+<S>
+Las B-fromloc.city_name
+Vegas'tan I-fromloc.city_name
+Phoenix'e B-toloc.city_name
+olan O
+uçuşlar O
+</S>
+<S>
+New B-fromloc.city_name
+York'tan I-fromloc.city_name
+Miami'ye B-toloc.city_name
+olan O
+salı B-depart_date.day_name
+günü O
+uçuşlarını O
+ve O
+Miami'den B-toloc.city_name
+New B-fromloc.city_name
+York'a I-fromloc.city_name
+olan O
+pazar B-depart_date.day_name
+günü O
+uçuşlarını O
+göster O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Dallas'a B-toloc.city_name
+olan O
+uçuşları O
+göster O
+lütfen O
+</S>
+<S>
+San B-fromloc.city_name
+Francisco'dan I-fromloc.city_name
+Denver'e B-toloc.city_name
+salı B-depart_date.day_name
+günü O
+</S>
+<S>
+San B-fromloc.city_name
+Diego'dan I-fromloc.city_name
+Newark'a B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Delta'nın B-airline_name
+Dallas B-fromloc.city_name
+ve O
+Denver B-toloc.city_name
+arasında O
+hangi O
+uçuşları O
+var O
+</S>
+<S>
+Atlanta B-fromloc.city_name
+kalkışlı O
+Delta B-airline_name
+uçuşları O
+var O
+mı O
+</S>
+<S>
+Atlanta B-toloc.city_name
+için O
+Boston'dan B-fromloc.city_name
+kalkan O
+Delta B-airline_name
+uçuşları O
+</S>
+<S>
+Cincinnati'den B-fromloc.city_name
+Burbank'a B-toloc.city_name
+bir O
+American B-airline_name
+uçuşu O
+istiyorum O
+</S>
+<S>
+Lufthansa B-airline_name
+Boston B-fromloc.city_name
+ve O
+Oakland B-toloc.city_name
+arasında O
+uçuyor O
+mu O
+</S>
+<S>
+Newark B-fromloc.city_name
+ve O
+Nashville B-toloc.city_name
+arasındaki O
+American B-airline_name
+uçuşları O
+hangileri O
+</S>
+<S>
+Seattle'den B-fromloc.city_name
+Salt B-toloc.city_name
+Lake I-toloc.city_name
+City'e I-toloc.city_name
+olan O
+Delta B-airline_name
+uçuşlarını O
+uçak O
+tipiyle O
+birlikte O
+listeleyin O
+</S>
+<S>
+Cincinnati'den B-fromloc.city_name
+Houston'a B-toloc.city_name
+olan O
+American B-airline_name
+uçuşları O
+</S>
+<S>
+Pazar B-depart_date.day_name
+günü O
+Denver'den B-fromloc.city_name
+Chicago'ya B-toloc.city_name
+Continental B-airline_name
+uçuşları O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+çarşamba B-depart_date.day_name
+günü O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+salı B-depart_date.day_name
+çarşamba B-depart_date.day_name
+perşembe B-depart_date.day_name
+cuma B-depart_date.day_name
+günleri O
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+uçuşlar O
+hangileri O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+günü O
+Phoenix'den B-fromloc.city_name
+Denver'e B-toloc.city_name
+</S>
+<S>
+Çarşamba B-depart_date.day_name
+günü O
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+</S>
+<S>
+Indianapolis'ten B-fromloc.city_name
+Charlotte'ye B-toloc.city_name
+olan O
+pazartesi B-depart_date.day_name
+günkü O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Boston'a B-toloc.city_name
+olan O
+salı B-depart_date.day_name
+günkü O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+pazartesi B-depart_date.day_name
+günkü O
+uçuşları O
+göster O
+</S>
+<S>
+Houston'dan B-fromloc.city_name
+Memphis'e B-toloc.city_name
+olan O
+cuma B-depart_date.day_name
+günkü O
+uçuşları O
+bul O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+günü O
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+</S>
+<S>
+Cuma B-depart_date.day_name
+günü O
+Newark'tan B-fromloc.city_name
+kalkan O
+Lampa B-toloc.city_name
+uçuşları O
+hangileri O
+</S>
+<S>
+Pekala O
+çarşamba B-depart_date.day_name
+günü O
+Oakland'dan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+ne O
+var O
+</S>
+<S>
+Cumartesi B-depart_date.day_name
+günü O
+Montreal'dan B-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Cleveland'dan B-fromloc.city_name
+Kansas'a B-toloc.city_name
+giden O
+pazartesi B-depart_date.day_name
+günkü O
+tüm O
+uçuşları O
+listele O
+</S>
+<S>
+Memphis'ten B-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+olan O
+pazar B-depart_date.day_name
+günü O
+uçuşları O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+günü O
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+gitmek O
+istiyorum O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+giden O
+tüm O
+cumartesi B-depart_date.day_name
+uçuşlarını O
+göster O
+</S>
+<S>
+Oakland'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+giden O
+tüm O
+pazar B-depart_date.day_name
+günü O
+uçuşlarını O
+göster O
+</S>
+<S>
+Lütfen O
+salı B-depart_date.day_name
+günkü O
+Dallas B-fromloc.city_name
+- B-fromloc.city_name
+Atlanta B-fromloc.city_name
+uçuşlarını O
+listele O
+</S>
+<S>
+Pazartesi B-depart_date.day_name
+günü O
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+</S>
+<S>
+Detroit'ten B-fromloc.city_name
+San B-toloc.city_name
+Diego'ya I-toloc.city_name
+salı B-depart_date.day_name
+günü O
+için O
+uçuş O
+bul O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Toronto'dan B-fromloc.city_name
+San B-toloc.city_name
+Diego'ya I-toloc.city_name
+olan O
+uçuşları O
+listele O
+</S>
+<S>
+Philadelphia'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+olan O
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Tacoma'dan B-fromloc.city_name
+San B-toloc.city_name
+Jose'ye I-toloc.city_name
+hangi O
+uçuşlar O
+gider O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+giden O
+uçuşları O
+göster O
+</S>
+<S>
+Pekala O
+şimdi O
+Seattle'den B-fromloc.city_name
+San B-toloc.city_name
+Diego'ya I-toloc.city_name
+kalkan O
+bir O
+uçağa O
+ihtiyacım O
+var O
+</S>
+<S>
+Tampa B-fromloc.city_name
+ve O
+St. B-toloc.city_name
+Louis I-toloc.city_name
+arasındaki O
+uçuşlar O
+</S>
+<S>
+Memphis'ten B-fromloc.city_name
+Las B-toloc.city_name
+Vegas'a I-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Bana O
+Cincinnati'den B-fromloc.city_name
+New B-toloc.city_name
+York I-toloc.city_name
+City I-toloc.city_name
+bölgesindeki O
+herhangi O
+bir O
+havaalanına O
+giden O
+bir O
+uçuş O
+bul O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+hangi O
+uçuşlar O
+müsait O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Fort B-toloc.city_name
+Worth'a I-toloc.city_name
+uçmak O
+istiyorum O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+ve O
+sonrasında O
+da O
+San B-toloc.city_name
+Francisco'dan I-toloc.city_name
+tekrar O
+Boston'a B-fromloc.city_name
+uçmam O
+gerekiyor O
+</S>
+<S>
+Boston B-fromloc.city_name
+ve O
+San B-toloc.city_name
+Francisco I-toloc.city_name
+arasında O
+uçmak O
+istiyorum O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+San B-toloc.city_name
+Francisco'ya I-toloc.city_name
+giden O
+uçuşları O
+göster O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Salt B-toloc.city_name
+Lake I-toloc.city_name
+City'e I-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+giden O
+uçuşlar O
+hangileri O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Boston B-fromloc.city_name
+ve O
+Denver B-toloc.city_name
+arasında O
+bir O
+uçak O
+bileti O
+ver O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+uçuşlar O
+lütfen O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+olan O
+tüm O
+uçuşları O
+görmek O
+istiyorum O
+</S>
+<S>
+Atlanta'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+olan O
+uçuşları O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Washington'a B-toloc.city_name
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Tampa'dan B-fromloc.city_name
+Milwaukee'ye B-toloc.city_name
+uçuş O
+istiyorum O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+</S>
+<S>
+Lütfen O
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+gelen O
+uçuşları O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Pittsburgh'tan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+uçuşları O
+görmek O
+istiyorum O
+</S>
+<S>
+Pittsburgh B-fromloc.city_name
+Milwaukee B-toloc.city_name
+arası O
+uçuşları O
+listele O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Nashville'den B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+uçuş O
+</S>
+<S>
+Şimdi O
+Denver'den B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Phoenix'den B-fromloc.city_name
+Newark'a B-toloc.city_name
+uçuşlar O
+</S>
+<S>
+Newark'tan B-fromloc.city_name
+Cleveland'a B-toloc.city_name
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Uçuş O
+Boston'dan B-fromloc.city_name
+başlayacak O
+</S>
+<S>
+Denver'de B-fromloc.city_name
+yaşıyorum O
+ve O
+Pittsburgh'a B-toloc.city_name
+seyahat O
+etmek O
+istiyorum O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Baltimore'ye B-toloc.city_name
+olan O
+uçuşlar O
+nelerdir O
+</S>
+<S>
+Bana O
+Pittsburgh B-fromloc.city_name
+ve O
+Philadelphia B-toloc.city_name
+arası O
+bir O
+uçuş O
+verebilir O
+misiniz O
+</S>
+<S>
+Charlotte'den B-fromloc.city_name
+olan O
+tüm O
+uçuşlar O
+</S>
+<S>
+Pittsburgh'dan B-fromloc.city_name
+Dallas'a B-toloc.city_name
+giden O
+uçuşların O
+listesini O
+istiyorum O
+</S>
+<S>
+Indianapolis'ten B-fromloc.city_name
+Houston'a B-toloc.city_name
+uçuşları O
+listele O
+</S>
+<S>
+Tacoma'da B-toloc.city_name
+havaalanından O
+şehir O
+merkezine O
+nasıl O
+giderim O
+</S>
+<S>
+Toronto'dan B-fromloc.city_name
+Cincinnati'ye B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+uçmak O
+istiyorum O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Dallas'a B-toloc.city_name
+uçuşları O
+gösterebilir O
+misin O
+</S>
+<S>
+Milwaukee'den B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+uçuş O
+istiyorum O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Atlanta'ya B-toloc.city_name
+giden O
+uçuş O
+var O
+mı O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Dallas'a B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Washington'dan B-fromloc.city_name
+Seattle'ye B-toloc.city_name
+uçuşlar O
+</S>
+<S>
+Charlotte'den B-fromloc.city_name
+Miami'ye B-toloc.city_name
+uçuş O
+istiyorum O
+</S>
+<S>
+Columbus'tan B-fromloc.city_name
+Charlotte'ye B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+uçmak O
+istiyorum O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+gitmek O
+istiyorum O
+</S>
+<S>
+Pittsburgh'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+gidiş B-round_trip
+dönüş I-round_trip
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Orlando'ya B-toloc.city_name
+giden O
+bir O
+uçuşa O
+ihtiyacım O
+var O
+</S>
+<S>
+Denver'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+tüm O
+uçuşları O
+görmek O
+istiyorum O
+</S>
+<S>
+Lütfen O
+Dallas'tan B-fromloc.city_name
+Denver'e B-toloc.city_name
+uçuşları O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Oakland'a B-toloc.city_name
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Indianapolis'ten B-fromloc.city_name
+Montreal'a B-toloc.city_name
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Aynı O
+zamanda O
+Oakland'dan B-fromloc.city_name
+Denver'e B-toloc.city_name
+tüm O
+uçuşları O
+göster O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Washington'a B-toloc.city_name
+hangi O
+uçuşlar O
+var O
+</S>
+<S>
+Boston'dan B-fromloc.city_name
+Pittsburgh'a B-toloc.city_name
+uçuşlar O
+</S>
+<S>
+Houston B-fromloc.city_name
+Orlando B-toloc.city_name
+arası O
+uçuşları O
+göster O
+</S>
+<S>
+Baltimore'den B-fromloc.city_name
+Philadelphia'ya B-toloc.city_name
+uçuşları O
+görmek O
+istiyorum O
+</S>
+<S>
+Cleveland'dan B-fromloc.city_name
+Miami'ye B-toloc.city_name
+uçuşlar O
+</S>
+<S>
+Nashville'den B-fromloc.city_name
+Phoenix'e B-toloc.city_name
+hangi O
+uçuşlar O
+gidiyor O
+</S>
+<S>
+Oakland'a B-toloc.city_name
+giden O
+tüm O
+uçuşlar O
+aynı O
+yere O
+mi O
+iniyor O
+</S>

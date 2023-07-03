@@ -1,0 +1,8238 @@
+<S>
+Devasa ADJ
+ölçekli ADJ
+yeni ADJ
+kanunda NOUN
+kullanılan ADJ
+karmaşık ADJ
+ve CCONJ
+çetrefilli ADJ
+dil NOUN
+kavgayı NOUN
+bulandırdı VERB
+. PUNCT
+</S>
+<S>
+Gelir NOUN
+Artırma NOUN
+Usulleri NOUN
+Komitesi NOUN
+gelecek ADJ
+Salı NOUN
+günü NOUN
+kanun NOUN
+tasarısı NOUN
+hakkında ADV
+bir DET
+duruşma NOUN
+yapacak VERB
+. PUNCT
+</S>
+<S>
+Reklam NOUN
+ve CCONJ
+tanıtımın NOUN
+işe NOUN
+yarayıp ADV
+yaramadığını NOUN
+görmek NOUN
+üzereyiz VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+defa NOUN
+, PUNCT
+daha ADV
+da CCONJ
+hızlı ADJ
+hareket NOUN
+ediyorlar VERB
+. PUNCT
+</S>
+<S>
+Shearson PROPN
+Lehman PROPN
+Hutton PROPN
+Inc. PROPN
+dün NOUN
+öğleden NOUN
+sonraya NOUN
+kadar ADP
+yeni ADJ
+TV NOUN
+reklamları NOUN
+yazmıştı VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+kez NOUN
+, PUNCT
+firmalar NOUN
+hazırdı VERB
+. PUNCT
+</S>
+<S>
+Diyaloğun NOUN
+sürdürülmesi NOUN
+kesinlikle ADV
+temel ADJ
+öneme NOUN
+haizdir VERB
+. PUNCT
+</S>
+<S>
+Cuma PROPN
+günü NOUN
+bunların PRON
+üzerine ADV
+düşünüldüğünde NOUN
+çok ADV
+geç ADV
+kalmış ADJ
+olunacaktı VERB
+. PUNCT
+</S>
+<S>
+Bunun PRON
+hakkında ADV
+önceden ADV
+düşünmemiz NOUN
+gerekiyordu VERB
+. PUNCT
+</S>
+<S>
+İsme NOUN
+göre ADP
+çeşitlilik NOUN
+gösteren ADJ
+birkaç DET
+kefaret NOUN
+fonunun NOUN
+reklamını NOUN
+yapmak NOUN
+için ADP
+devam NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+PaineWebber PROPN
+1987 NUM
+tarihli ADJ
+iflas NOUN
+sayesinde ADV
+daha ADV
+çabuk ADJ
+bir DET
+şekilde NOUN
+vites NOUN
+yükseltebilmişti VERB
+. PUNCT
+</S>
+<S>
+Tanıtım NOUN
+dün NOUN
+gece NOUN
+CNN'de PROPN
+3 NUM
+kere NOUN
+gösterilecek VERB
+şekilde NOUN
+programlandı VERB
+. PUNCT
+</S>
+<S>
+PaineWebber PROPN
+belirli ADJ
+hisseleri NOUN
+öneren ADJ
+daha ADV
+sert ADJ
+bir DET
+satışı NOUN
+dikkate NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Ekledi VERB
+, PUNCT
+" PUNCT
+Bu PRON
+1987'nin NOUN
+yeniden ADV
+ziyaret NOUN
+edilmesi ADJ
+değil AUX
+. PUNCT
+" PUNCT
+</S>
+<S>
+Ekledi VERB
+... PUNCT
+</S>
+<S>
+ARNOLD PROPN
+REKLAMCILIK NOUN
+: PUNCT
+</S>
+<S>
+Anlaşma NOUN
+şartları NOUN
+açıklanmadı VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+hesap NOUN
+Della PROPN
+Femina PROPN
+, PUNCT
+McNamee PROPN
+WCRS PROPN
+tarafından ADV
+idare NOUN
+edildi VERB
+. PUNCT
+</S>
+<S>
+EĞİTİM NOUN
+REKLAMLARI NOUN
+: PUNCT
+</S>
+<S>
+Ortalamalar NOUN
+yasasının NOUN
+ne PRON
+demek NOUN
+olduğunu NOUN
+biliyorsun VERB
+değil AUX
+mi AUX
+? PUNCT
+</S>
+<S>
+Bu PRON
+Giant'ın PROPN
+fanatiklerini NOUN
+rahatlatacak ADJ
+bir DET
+ortalama NOUN
+değildir AUX
+. PUNCT
+</S>
+<S>
+Bugün ADV
+Giantlardan PROPN
+yanayım VERB
+ancak ADV
+yalnızca ADV
+dün NOUN
+kaybettikleri NOUN
+için ADP
+. PUNCT
+</S>
+<S>
+Her DET
+ikisini NOUN
+de CCONJ
+seviyorum VERB
+. PUNCT
+</S>
+<S>
+Yukarıdaki ADJ
+ilgisizlik NOUN
+veya CCONJ
+kibarlığın NOUN
+bir DET
+zaferini NOUN
+temsil NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Onun PRON
+sıkı NOUN
+ve CCONJ
+güçlü ADJ
+vurucu ADJ
+McGwire'nin PROPN
+kendi PRON
+imzası NOUN
+değil AUX
+. PUNCT
+</S>
+<S>
+Sıfır NOUN
+sayı NOUN
+vuruşu NOUN
+ve CCONJ
+gol NOUN
+vuruşu NOUN
+ile CCONJ
+burada ADV
+kolektif ADJ
+5/24'e NOUN
+gittiler VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+beyzboldur VERB
+. PUNCT
+</S>
+<S>
+Tedavüldeki ADJ
+ortalama NOUN
+hisseler NOUN
+82.1 NUM
+milyondan NOUN
+75.8 NUM
+milyon NUM
+seviyesine NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Gelirler NOUN
+1.41 NUM
+milyardan NOUN
+% NUM
+1'lik ADJ
+düşüşle NOUN
+1.39 NUM
+milyar NUM
+dolar NUM
+geriledi VERB
+. PUNCT
+</S>
+<S>
+Şimdi ADV
+, PUNCT
+yeni ADJ
+bir DET
+ürün NOUN
+gibi ADP
+olmayacak ADJ
+. PUNCT
+</S>
+<S>
+Phyllis PROPN
+Kyle PROPN
+Stephenson PROPN
+Newport NOUN
+News PROPN
+Va PROPN
+. PUNCT
+</S>
+<S>
+Öğle NOUN
+arası NOUN
+saatine NOUN
+kadar ADP
+satış NOUN
+hemen ADV
+hemen ADV
+paniğe NOUN
+yakın ADJ
+bir DET
+istim NOUN
+üzerindeydi VERB
+. PUNCT
+</S>
+<S>
+Böylece ADV
+Londra'nın PROPN
+finans NOUN
+merkezinin NOUN
+işlem NOUN
+odalarında NOUN
+dün NOUN
+gitti VERB
+. PUNCT
+</S>
+<S>
+Ve CCONJ
+Londra PROPN
+açısından NOUN
+karmaşık ADJ
+sinyaller NOUN
+bıraktı VERB
+. PUNCT
+</S>
+<S>
+Ekranlarda NOUN
+görülen ADJ
+kırmızı ADJ
+rakamlar NOUN
+değeri NOUN
+düşen ADJ
+hisseleri NOUN
+, PUNCT
+mavi ADJ
+rakamlar NOUN
+yükselen ADJ
+hisseleri NOUN
+gösteriyor VERB
+. PUNCT
+</S>
+<S>
+Çok ADJ
+sıkı ADJ
+ve CCONJ
+disiplinli ADJ
+bir DET
+idareye NOUN
+meyilliyiz VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Bu PRON
+son ADJ
+derece NOUN
+sinir NOUN
+bozucu ADJ
+. PUNCT
+" PUNCT
+</S>
+<S>
+Reuters PROPN
+hissesi NOUN
+için ADP
+arayışını NOUN
+geçici ADJ
+olarak ADV
+bıraktı VERB
+. PUNCT
+</S>
+<S>
+Kaçınılmaz ADJ
+olarak ADV
+birçok DET
+türbülansın NOUN
+içindeyiz VERB
+... PUNCT
+</S>
+<S>
+Haklıydı VERB
+. PUNCT
+</S>
+<S>
+Londra PROPN
+piyasası NOUN
+Öğle NOUN
+vaktine NOUN
+kadar ADP
+tam ADJ
+bir DET
+geri ADV
+çekilmedeydi VERB
+. PUNCT
+</S>
+<S>
+İletişim NOUN
+patronların NOUN
+çoğunun NOUN
+TV'de NOUN
+en ADV
+son ADJ
+verilen ADJ
+piyasa NOUN
+istatistiklerini NOUN
+izlemesi ADJ
+nedeniyle ADV
+hafifledi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+piyasa NOUN
+çok ADJ
+kötü ADJ
+hasar NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Tümünü PRON
+elden ADV
+çıkarma NOUN
+sayesinde ADV
+yaratılan ADJ
+bir DET
+fırsat NOUN
+gördüler VERB
+. PUNCT
+</S>
+<S>
+Aniden ADV
+yaklaşık ADJ
+45 NUM
+dakika NOUN
+sonra ADP
+, PUNCT
+ABD PROPN
+piyasaları NOUN
+toparlandı VERB
+. PUNCT
+</S>
+<S>
+Wall PROPN
+Street PROPN
+direnç NOUN
+kazandığı ADJ
+için ADP
+Londra PROPN
+işlem NOUN
+odası NOUN
+çılgınlaştı VERB
+. PUNCT
+</S>
+<S>
+Aracılar NOUN
+ekranlarında NOUN
+Wall PROPN
+Street PROPN
+üzerinde NOUN
+sürekli ADJ
+daralan ADJ
+bir DET
+zarar NOUN
+belirdikçe ADV
+bağırdılar VERB
+</S>
+<S>
+" PUNCT
+Bu PRON
+panik NOUN
+alımı NOUN
+! PUNCT
+" PUNCT
+</S>
+<S>
+Bu PRON
+kadar ADP
+kötümser ADJ
+olmayın VERB
+Bay NOUN
+Büyükelçi NOUN
+. PUNCT
+</S>
+<S>
+Frank PROPN
+Tremdine PROPN
+</S>
+<S>
+Boeing'deki PROPN
+iş NOUN
+; PUNCT
+müfettişler NOUN
+, PUNCT
+gözetmenler VERB
+ve CCONJ
+üretim NOUN
+hatlarına NOUN
+yerleştirilen ADJ
+grevde NOUN
+olmayan ADJ
+personelle NOUN
+sürdürülüyor VERB
+. PUNCT
+</S>
+<S>
+Kansas PROPN
+çalışma NOUN
+hakkı NOUN
+kanunlarına NOUN
+göre ADP
+, PUNCT
+sözleşmeler VERB
+çalışanların NOUN
+sendika NOUN
+üyesi NOUN
+olmasını NOUN
+gerektirmeyebiliyor VERB
+. PUNCT
+</S>
+<S>
+Sendika NOUN
+yetkililerine NOUN
+yorum NOUN
+almak NOUN
+için ADP
+ulaşamadık VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+DPC PROPN
+sözcüsü NOUN
+, PUNCT
+grubun NOUN
+yeni ADJ
+planı NOUN
+hakkında ADV
+detay NOUN
+vermeyi NOUN
+istemedi VERB
+. PUNCT
+</S>
+<S>
+Avrupalı NOUN
+yatırımcıların NOUN
+bugün ADV
+ABD PROPN
+sıçraması ADJ
+sonrasında NOUN
+iyimserlik NOUN
+için ADP
+başka ADJ
+bir DET
+sebebi NOUN
+var ADJ
+. PUNCT
+</S>
+<S>
+Hisse NOUN
+fiyatları NOUN
+Milan PROPN
+, PUNCT
+Amsterdam PROPN
+, PUNCT
+Zürih PROPN
+, PUNCT
+Madrid PROPN
+ve CCONJ
+Stockholm'da PROPN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+bilgisayar NOUN
+arızasının NOUN
+alım NOUN
+satım NOUN
+işlemlerini NOUN
+kesintiye NOUN
+uğrattığı ADJ
+Brüksel'deki PROPN
+fiyatlar NOUN
+da CCONJ
+alt ADJ
+üst ADJ
+oldu VERB
+. PUNCT
+</S>
+<S>
+Aşağıdaki ADJ
+büyük ADJ
+bir DET
+piyasa NOUN
+faaliyetinin NOUN
+bozulmasıdır VERB
+</S>
+<S>
+FRANKFURT PROPN
+: PUNCT
+</S>
+<S>
+Endeks NOUN
+203.56 NUM
+puan NOUN
+düşüşle NOUN
+1385.72 NUM
+seviyesinde NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+En ADV
+kurumsal ADJ
+yatırımcılar NOUN
+dahil NOUN
+herkes NOUN
+halen ADV
+güvenliydi VERB
+. PUNCT
+</S>
+<S>
+Batı PROPN
+Almanya'nın PROPN
+bazı DET
+en ADV
+iyi ADJ
+kalite ADJ
+ve CCONJ
+güvenilir ADJ
+hisse NOUN
+senetleri NOUN
+bazı DET
+en ADV
+yüksek ADJ
+artışları NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Londra PROPN
+: PUNCT
+</S>
+<S>
+Hacim NOUN
+959.3 NUM
+milyon NUM
+adet NOUN
+hisseyle NOUN
+son ADJ
+seviyelerin NOUN
+3 NUM
+katından NOUN
+fazlaydı VERB
+. PUNCT
+</S>
+<S>
+Paris PROPN
+: PUNCT
+</S>
+<S>
+J.P. PROPN
+Morgan PROPN
+& PUNCT
+Co PROPN
+. PUNCT
+</S>
+<S>
+Son ADJ
+çeyreğin NOUN
+zararı NOUN
+hisse NOUN
+başına NOUN
+9.92 NUM
+dolar NOUN
+. PUNCT
+</S>
+<S>
+Faiz NOUN
+dışı NOUN
+giderler NOUN
+%16'lık NOUN
+artışla NOUN
+496 NUM
+milyon NUM
+dolara NOUN
+dayandı VERB
+. PUNCT
+</S>
+<S>
+NCNB PROPN
+Corp PROPN
+. PUNCT
+</S>
+<S>
+Sonuçlar NOUN
+piyasa NOUN
+kapandıktan NOUN
+sonra ADV
+yayınlandı VERB
+. PUNCT
+</S>
+<S>
+Security PROPN
+Pacific PROPN
+Corp PROPN
+. PUNCT
+</S>
+<S>
+Kredi NOUN
+büyüme NOUN
+dengesi NOUN
+kriz NOUN
+içindeki ADJ
+Arizona PROPN
+piyasasında NOUN
+gayrimenkul NOUN
+kredi NOUN
+zararlarını NOUN
+sürdürüyor VERB
+. PUNCT
+</S>
+<S>
+Faiz PROPN
+dışı NOUN
+giderler NOUN
+dönem NOUN
+içinde ADV
+yalnızca ADV
+% NUM
+4 NUM
+arttı VERB
+. PUNCT
+</S>
+<S>
+Mektup NOUN
+6 NUM
+Ekim PROPN
+tarihliydi VERB
+. PUNCT
+</S>
+<S>
+Telerate PROPN
+3 NUM
+Kasım PROPN
+tarihinde NOUN
+süresi NOUN
+dolacak VERB
+olan ADJ
+teklifi NOUN
+reddetti VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+hareket NOUN
+koruma NOUN
+temelinde NOUN
+Kanada PROPN
+hükümeti NOUN
+tarafından NOUN
+savunuldu VERB
+. PUNCT
+</S>
+<S>
+Bayan NOUN
+Hills PROPN
+dün NOUN
+bu DET
+Kanada PROPN
+hükümeti NOUN
+argümanını NOUN
+reddettiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Atıl ADJ
+Düşünce NOUN
+</S>
+<S>
+-- PUNCT
+May PROPN
+Richstone PROPN
+. PUNCT
+</S>
+<S>
+Telecussed PROPN
+</S>
+<S>
+-- PUNCT
+Dick PROPN
+Emmons PROPN
+. PUNCT
+</S>
+<S>
+BSN PROPN
+halihazırda ADV
+ödenmemiş ADJ
+4.6 NUM
+milyon NUM
+adi ADJ
+hisseye NOUN
+sahiptir VERB
+. PUNCT
+</S>
+<S>
+Teklifler NOUN
+Kasım PROPN
+ortası NOUN
+ile CCONJ
+sonu NOUN
+arasında NOUN
+sona NOUN
+erecek ADJ
+şekilde NOUN
+programlandı VERB
+. PUNCT
+</S>
+<S>
+Varlık-yönetim PROPN
+ücreti NOUN
+gelirleri NOUN
+% NUM
+12 NUM
+artışla NOUN
+151 NUM
+milyon NUM
+dolara NOUN
+ulaştı VERB
+. PUNCT
+</S>
+<S>
+Piyasa NOUN
+değişimlerinin NOUN
+henüz ADV
+bir DET
+nakit NOUN
+sıkıntısını NOUN
+tetiklemediği ADJ
+açıkça ADV
+görülüyor VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Bu PRON
+iyi ADJ
+bir DET
+haber NOUN
+, PUNCT
+zira CCONJ
+hepimiz PRON
+Bu DET
+suda NOUN
+yüzüyoruz VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Şimdi ADV
+, PUNCT
+yarına NOUN
+gelince ADV
+, PUNCT
+peki ADV
+, PUNCT
+kim PRON
+bilir ADJ
+? PUNCT
+</S>
+<S>
+Ancak CCONJ
+piyasalar NOUN
+daha ADV
+yüksek ADJ
+veya CCONJ
+daha ADV
+düşük ADJ
+verimlilikle NOUN
+işleyebilir VERB
+. PUNCT
+</S>
+<S>
+Teorinin NOUN
+gerçekçi ADJ
+olup ADV
+olmadığını NOUN
+bilmek NOUN
+imkansızdır VERB
+. PUNCT
+</S>
+<S>
+Cuma PROPN
+günü NOUN
+olan ADJ
+bitenler NOUN
+tüm DET
+dünyanın NOUN
+en ADV
+kötüsüydü VERB
+. PUNCT
+</S>
+<S>
+Options PROPN
+piyasaları NOUN
+birçok DET
+hissede NOUN
+alım NOUN
+satımı NOUN
+durdurdu VERB
+. PUNCT
+</S>
+<S>
+New PROPN
+York PROPN
+Borsası NOUN
+, PUNCT
+kendi PRON
+koşulları NOUN
+altında NOUN
+, PUNCT
+açık ADV
+kaldı VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+piyasada NOUN
+likidite NOUN
+zayıfladığı ADJ
+için ADP
+fiyatlar NOUN
+keskin ADJ
+düşüş NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Aracılar NOUN
+stratejilerini NOUN
+değiştirebilir VERB
+ve CCONJ
+kendi PRON
+emirlerini NOUN
+bu DET
+stratejilerden NOUN
+biri NOUN
+dahilinde NOUN
+yürütebilir VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+yüzden ADV
+her DET
+piyasa NOUN
+için ADP
+farklı ADJ
+devre NOUN
+kırıcıları NOUN
+kabul NOUN
+etmesinin NOUN
+bir DET
+anlamı NOUN
+olmaz VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+piyasa NOUN
+performansının NOUN
+geliştirilmesi ADJ
+görevi NOUN
+henüz ADV
+bitmemiş ADJ
+şekilde NOUN
+duruyor VERB
+. PUNCT
+</S>
+<S>
+Birleşik NOUN
+bir DET
+Avrupa PROPN
+işgücü NOUN
+problemleri NOUN
+doğuruyor VERB
+ve CCONJ
+ABD PROPN
+firmalarında NOUN
+arıyor VERB
+. PUNCT
+</S>
+<S>
+Kulüplere NOUN
+akan ADJ
+bir DET
+fan NOUN
+Baltimore PROPN
+Orioles'in PROPN
+hatası NOUN
+değildi AUX
+. PUNCT
+</S>
+<S>
+Hemşire NOUN
+eksikliğiyle NOUN
+başa NOUN
+çıkılmasına NOUN
+yönelik ADP
+olarak ADV
+teklifler NOUN
+ortaya NOUN
+konuluyor VERB
+. PUNCT
+</S>
+<S>
+Birçoğu PROPN
+ayrıca ADV
+istihdam NOUN
+ikramiyeleri NOUN
+, PUNCT
+eğitim NOUN
+geri ADV
+ödemeleri NOUN
+, PUNCT
+kredi NOUN
+ödemeleri NOUN
+veya CCONJ
+çocuk NOUN
+bakım NOUN
+yardımı NOUN
+kullanıyor VERB
+. PUNCT
+</S>
+<S>
+Bazıları PRON
+götürü ADJ
+teşvikler NOUN
+veriyor VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+onların PRON
+en ADV
+yüksek ADJ
+beş NUM
+çalışma NOUN
+değeri NOUN
+. PUNCT
+</S>
+<S>
+3000 NUM
+çalışma NOUN
+saati NOUN
+devlete NOUN
+55000 NUM
+dolar NOUN
+tasarruf NOUN
+sağlıyor VERB
+. PUNCT
+</S>
+<S>
+Konut NOUN
+satışı NOUN
+zararları NOUN
+yükseliyor VERB
+ancak CCONJ
+genellikle ADV
+çalışanlar NOUN
+tarafından ADV
+kapatılıyor VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+hasarı NOUN
+sınırlandırmak NOUN
+için ADP
+yöntem NOUN
+arayışı NOUN
+içindeler VERB
+. PUNCT
+</S>
+<S>
+Tüm DET
+veya CCONJ
+bazı DET
+zararlar NOUN
+için ADP
+yaklaşık ADJ
+% NUM
+72 NUM
+telafi NOUN
+. PUNCT
+</S>
+<S>
+RJR PROPN
+Nabisco PROPN
+düzeltmeler NOUN
+ve CCONJ
+iyileştirmeler NOUN
+dahil NOUN
+azami ADJ
+30.000 NUM
+dolar NOUN
+bedelinde NOUN
+zararı NOUN
+ödüyor VERB
+. PUNCT
+</S>
+<S>
+Tavuk NOUN
+zincirleri NOUN
+müşteri NOUN
+kaybı NOUN
+nedeniyle ADV
+dalgalandı VERB
+</S>
+<S>
+Daha ADV
+fazla ADJ
+müşteri NOUN
+kaybı NOUN
+bir DET
+dizi NOUN
+problemin NOUN
+son NOUN
+halkasıdır VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+şirket NOUN
+yorum NOUN
+yapmayı NOUN
+reddediyor VERB
+. PUNCT
+</S>
+<S>
+Gönülsüz ADJ
+reklamcılar NOUN
+yumuşak ADJ
+Satış NOUN
+Spotlarını NOUN
+deniyor VERB
+</S>
+<S>
+Bunu PRON
+reklam NOUN
+vermeme NOUN
+olarak ADV
+adlandırın VERB
+. PUNCT
+</S>
+<S>
+Onun PRON
+taktiği NOUN
+: PUNCT
+Faydalı ADJ
+ipuçları NOUN
+sunan ADJ
+60-saniyelik NOUN
+radyo NOUN
+reklamları NOUN
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+bu DET
+reklamlar NOUN
+çok ADJ
+yumuşak ADJ
+olabilir VERB
+. PUNCT
+</S>
+<S>
+Perakendeci NOUN
+Çevresel ADJ
+Baskılarda NOUN
+Gizli ADJ
+Tehlikeler NOUN
+Görüyor VERB
+</S>
+<S>
+Ancak CCONJ
+zincir NOUN
+bu DET
+tür NOUN
+ciroların NOUN
+gizli ADJ
+tehlikelerini NOUN
+hemen ADV
+fark NOUN
+etmektedir VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+Procter PROPN
+& PUNCT
+Gamble PROPN
+Co.'yu PROPN
+Cascade PROPN
+bulaşık NOUN
+deterjanı NOUN
+üreticisi ADJ
+çok ADJ
+heyecanlandırmadı VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Ve CCONJ
+kesin ADJ
+Ve CCONJ
+doğru ADJ
+olmak NOUN
+çok ADV
+önemli ADJ
+. PUNCT
+" PUNCT
+</S>
+<S>
+Ancak CCONJ
+sonunda ADV
+, PUNCT
+müşterilerin NOUN
+istekleri NOUN
+geçerli ADJ
+olacaktır VERB
+. PUNCT
+</S>
+<S>
+Büyük ADJ
+Ayı NOUN
+geri NOUN
+dönüşüme NOUN
+uygun ADJ
+olmayan ADJ
+tek ADJ
+kullanımlık ADJ
+bezlerle NOUN
+ilgilenmiyor VERB
+. PUNCT
+</S>
+<S>
+Hala ADV
+ebeveynler NOUN
+bunu PRON
+talep NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Ufak ADJ
+Tefek X
+Şeyler NOUN
+</S>
+<S>
+Düzenlilik NOUN
+önem NOUN
+taşır VERB
+en ADV
+azından NOUN
+bir DET
+bakkalda NOUN
+. PUNCT
+</S>
+<S>
+Hangi PRON
+ünlü ADJ
+cirantalar NOUN
+en ADV
+güvenilirleridir VERB
+? PUNCT
+</S>
+<S>
+Sonradan ADV
+gelişen ADJ
+bağışıklık NOUN
+yetersizliği NOUN
+sendromu NOUN
+üzerinde NOUN
+birkaç DET
+görev NOUN
+gücünde NOUN
+de CCONJ
+yer NOUN
+alıyor VERB
+. PUNCT
+</S>
+<S>
+Sürmekte NOUN
+olan ADJ
+HUD PROPN
+skandalları NOUN
+dizisi NOUN
+milletvekili NOUN
+seçim NOUN
+ödeneği NOUN
+politikasının NOUN
+kederli ADJ
+bir DET
+biçimde NOUN
+önceden ADV
+kestirilebilmiş VERB
+bir DET
+sonucudur VERB
+. PUNCT
+</S>
+<S>
+Daha ADV
+fazla ADJ
+devlet NOUN
+harcaması ADJ
+için ADP
+bastıran ADJ
+İş NOUN
+grupları NOUN
+hiç ADV
+de CCONJ
+garip ADJ
+bir DET
+olgu NOUN
+değildir AUX
+. PUNCT
+</S>
+<S>
+Halen ADV
+dokunulması ADJ
+hassas ADJ
+konularda NOUN
+... PUNCT
+</S>
+<S>
+Adil ADJ
+hissemizden NOUN
+fazlasını NOUN
+aldık VERB
+. PUNCT
+</S>
+<S>
+Örneğin NOUN
+, PUNCT
+FHA PROPN
+vasıtasıyla ADV
+yapılan ADJ
+dolaylı ADJ
+sübvansiyonlar NOUN
+daha ADV
+iyi ADJ
+. PUNCT
+</S>
+<S>
+Bu PRON
+konut NOUN
+inşaatçılarının NOUN
+istediği ADJ
+şey NOUN
+mi AUX
+? PUNCT
+</S>
+<S>
+Bay NOUN
+Bandow PROPN
+bir DET
+Cato PROPN
+Institute PROPN
+hocasıdır VERB
+. PUNCT
+</S>
+<S>
+Hükümetler NOUN
+arası NOUN
+konferansın NOUN
+toplanma NOUN
+süreci NOUN
+oybirliği NOUN
+gerektirmiyor VERB
+. PUNCT
+</S>
+<S>
+Gri ADJ
+Cuma'daki PROPN
+gibiydi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+geçit NOUN
+töreninin NOUN
+büyük ADJ
+tefrişatçısı NOUN
+aşırı ADJ
+kaldırma NOUN
+gücünde NOUN
+olacak ADJ
+gibi ADP
+görünüyor VERB
+. PUNCT
+</S>
+<S>
+Alım NOUN
+satım NOUN
+hisseleri NOUN
+en ADV
+ağır ADJ
+zararları NOUN
+emdiği ADJ
+için ADP
+piyasayı NOUN
+aşağıya NOUN
+düşürdü VERB
+. PUNCT
+</S>
+<S>
+İkisi NOUN
+de CCONJ
+dün NOUN
+daha ADV
+fazla ADJ
+vuruş NOUN
+aldılar VERB
+. PUNCT
+</S>
+<S>
+Hilton PROPN
+cuma NOUN
+günü NOUN
+% NUM
+20 NUM
+kayba NOUN
+uğrarken ADV
+; PUNCT
+Paramount'un PROPN
+kaybı NOUN
+hemen ADV
+hemen ADV
+% NUM
+11 NUM
+oldu VERB
+. PUNCT
+</S>
+<S>
+Kesinlikle ADV
+değil AUX
+. PUNCT
+</S>
+<S>
+Pek ADV
+şaşırtıcı ADJ
+değil AUX
+, PUNCT
+bazen ADV
+ısırır VERB
+. PUNCT
+</S>
+<S>
+Gerçek NOUN
+, PUNCT
+Washington'ın PROPN
+politikayı NOUN
+ekonomiden NOUN
+daha ADV
+iyi ADJ
+anlamasıdır VERB
+. PUNCT
+</S>
+<S>
+Endeks NOUN
+Pazartesi PROPN
+günü NOUN
+647.33 NUM
+puan NOUN
+ya CCONJ
+da CCONJ
+% NUM
+1.8 NUM
+kaydı VERB
+. PUNCT
+</S>
+<S>
+Günün NOUN
+düşüşü NOUN
+genellikle ADV
+analistlerin NOUN
+hafta NOUN
+sonu NOUN
+tahminlerine NOUN
+uygundu VERB
+. PUNCT
+</S>
+<S>
+Düşen ADJ
+hisseler NOUN
+yükselenleri NOUN
+941 NUM
+- PUNCT
+105 NUM
+düşürdü VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+526.2 NUM
+milyonluk ADJ
+hacim NOUN
+, PUNCT
+Cuma PROPN
+günkü ADJ
+574.7 NUM
+milyonla NOUN
+karşılaştırılınca ADV
+biraz ADJ
+zayıf ADJ
+kaldı VERB
+. PUNCT
+</S>
+<S>
+Böylece ADV
+, PUNCT
+piyasa NOUN
+katılımcıları NOUN
+dün NOUN
+sinirli ADJ
+bir DET
+şekilde NOUN
+Wall PROPN
+Street'in PROPN
+açılışını NOUN
+bekliyorlardı VERB
+. PUNCT
+</S>
+<S>
+Bizim NOUN
+kurumsal ADJ
+yatırımcılar NOUN
+için ADP
+satın NOUN
+alma NOUN
+fırsatı NOUN
+geldi VERB
+. PUNCT
+</S>
+<S>
+Diğer ADJ
+fon NOUN
+yöneticileri NOUN
+benzer ADJ
+şekilde NOUN
+neşeli ADJ
+ve CCONJ
+umutluydu VERB
+. PUNCT
+</S>
+<S>
+Bangkok PROPN
+, PUNCT
+Manila PROPN
+, PUNCT
+Seoul PROPN
+, PUNCT
+Taipei PROPN
+ve CCONJ
+Jakarta PROPN
+sadece ADV
+küçük ADJ
+kayıplarla NOUN
+kurtuldular VERB
+. PUNCT
+</S>
+<S>
+Alım NOUN
+satım NOUN
+işlemi NOUN
+Cuma PROPN
+günkü ADJ
+473.9 NUM
+milyonluk ADJ
+hacim NOUN
+sonrasında NOUN
+1 NUM
+milyar NUM
+hisseyle NOUN
+epey ADV
+ağırdı VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+hacim NOUN
+Cuma PROPN
+günkü ADJ
+143 NUM
+milyon NUM
+sonrasında NOUN
+yalnızca ADV
+162 NUM
+milyon NUM
+hisseye NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Financial PROPN
+Times PROPN
+30-hisse NOUN
+endeksi NOUN
+79.3 NUM
+puan NOUN
+düşüşle NOUN
+1738.7 NUM
+puandan NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Hacim NOUN
+, PUNCT
+Cuma PROPN
+günkü ADJ
+473.9 NUM
+milyonluk ADJ
+hacmin NOUN
+iki NUM
+katını NOUN
+aşarak ADV
+959.3 NUM
+milyon NUM
+seviyesine NOUN
+erişti VERB
+. PUNCT
+</S>
+<S>
+Frankfurt PROPN
+Menkul NOUN
+Kıymetler NOUN
+Borsası'ndaki ADJ
+Fiyatlar NOUN
+ağır ADJ
+alım NOUN
+satımda NOUN
+alt ADJ
+üst ADJ
+oldu VERB
+. PUNCT
+</S>
+<S>
+Yüzde NOUN
+değişimi NOUN
+yol NOUN
+sonundan NOUN
+itibarendir VERB
+. PUNCT
+</S>
+<S>
+Yalnızca ADV
+California PROPN
+sakinleri NOUN
+değil AUX
+tüm DET
+Amerikalılar NOUN
+bunun PRON
+geçmesi ADJ
+halinde NOUN
+ödeyecekler VERB
+. PUNCT
+</S>
+<S>
+Her DET
+zamanki ADJ
+gibi ADP
+yeşil ADJ
+lobinin NOUN
+teklifi NOUN
+bilimsel ADJ
+gerçeklikten NOUN
+kopuktur VERB
+. PUNCT
+</S>
+<S>
+Sera NOUN
+etkisi NOUN
+hususunu NOUN
+göz NOUN
+önünde NOUN
+bulundur VERB
+. PUNCT
+</S>
+<S>
+Teklif NOUN
+edilen ADJ
+girişim NOUN
+karbon NOUN
+dioksit NOUN
+salınımında NOUN
+% NUM
+40'lık ADJ
+bir DET
+kesintiyi NOUN
+zorunlu ADJ
+kılacak VERB
+. PUNCT
+</S>
+<S>
+Buradaki ADJ
+temel ADJ
+husus NOUN
+Genel ADJ
+Eyalet NOUN
+Savcısı NOUN
+John PROPN
+Van PROPN
+de NOUN
+Kamp'ın PROPN
+hırsı NOUN
+. PUNCT
+</S>
+<S>
+Valiliğe NOUN
+koşuyor VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+ayrıca ADV
+valilik NOUN
+seçimleri NOUN
+günüdür VERB
+. PUNCT
+</S>
+<S>
+Ve CCONJ
+bu PRON
+da CCONJ
+Bay NOUN
+Van PROPN
+De PROPN
+Kamp'a PROPN
+kampanya NOUN
+harcama NOUN
+sınırları NOUN
+etrafında NOUN
+gezinme NOUN
+imkanı NOUN
+sunuyor VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+kısa ADJ
+zaman NOUN
+önce ADV
+Prop. PROPN
+65 NUM
+anti-toksik NOUN
+girişimini NOUN
+geçiren ADJ
+eyalet NOUN
+. PUNCT
+</S>
+<S>
+Elbette ADV
+eyaletin NOUN
+liberalleri NOUN
+henüz ADV
+bir DET
+millet NOUN
+oluşturmadılar VERB
+. PUNCT
+</S>
+<S>
+Önce ADV
+bir DET
+idam NOUN
+mahkumu NOUN
+bekçisi NOUN
+vardı VERB
+. PUNCT
+</S>
+<S>
+Daha ADV
+sonra ADV
+neşe NOUN
+. PUNCT
+</S>
+<S>
+Nasdaq PROPN
+tezgah NOUN
+üstü NOUN
+endeksi NOUN
+6.31 NUM
+puan NOUN
+düşüşle NOUN
+460.98'den NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+yalnızca ADV
+garip ADJ
+bir DET
+duygu NOUN
+. PUNCT
+</S>
+<S>
+Kimsenin NOUN
+oradan NOUN
+ayrıldığını NOUN
+sanmıyorum VERB
+diye ADP
+fısıldadı VERB
+Dixie PROPN
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+aracılar NOUN
+için ADP
+, PUNCT
+saat NOUN
+9:30'daki ADJ
+açılış NOUN
+zili NOUN
+bir DET
+felaket NOUN
+gibi ADP
+görünüyordu VERB
+. PUNCT
+</S>
+<S>
+Dow PROPN
+Jones PROPN
+Sanayi NOUN
+ortalaması ADJ
+9:30'dan NOUN
+kısa ADJ
+süre NOUN
+sonra ADV
+1.64 NUM
+aşağıda NOUN
+açıldı VERB
+. PUNCT
+</S>
+<S>
+Yapmadılar VERB
+. PUNCT
+</S>
+<S>
+Program NOUN
+borsacıları NOUN
+da CCONJ
+, PUNCT
+elbette ADV
+, PUNCT
+oradaydı VERB
+. PUNCT
+</S>
+<S>
+Walt PROPN
+Disney PROPN
+Co.'da PROPN
+işlem NOUN
+yapmak NOUN
+özellikle ADV
+borsacıların NOUN
+dikkatini NOUN
+çekti VERB
+. PUNCT
+</S>
+<S>
+Borsa PROPN
+geç ADJ
+ve CCONJ
+8 NUM
+1/2 NUM
+düşüşle NOUN
+114 NUM
+1/2'den NOUN
+açıldı VERB
+. PUNCT
+</S>
+<S>
+Düzenliydi VERB
+. PUNCT
+</S>
+<S>
+Birlikte ADV
+bazı ADJ
+emirler NOUN
+girdik VERB
+. PUNCT
+</S>
+<S>
+Yurt NOUN
+içi NOUN
+veya CCONJ
+uluslar NOUN
+arası NOUN
+olmak NOUN
+üzere ADP
+, PUNCT
+çok ADJ
+fazla ADJ
+panik NOUN
+satışı NOUN
+yoktu VERB
+... PUNCT
+</S>
+<S>
+Parçalarına NOUN
+ayrıldığı ADJ
+Cuma PROPN
+günü NOUN
+gibi ADP
+değil AUX
+. PUNCT
+</S>
+<S>
+Menkul NOUN
+Kıymetler NOUN
+Borsası NOUN
+katında NOUN
+ve CCONJ
+alım NOUN
+satım NOUN
+bankolarında NOUN
+borsacılar NOUN
+onaylarını NOUN
+çığlık NOUN
+çığlığa NOUN
+bağırarak ADV
+verdiler VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+herkesin NOUN
+para NOUN
+kazanabildiği ADJ
+söylenemez ADJ
+. PUNCT
+</S>
+<S>
+Merck PROPN
+, PUNCT
+Major PROPN
+Markets PROPN
+endeksindeki ADJ
+en ADV
+önemli ADJ
+hisse NOUN
+senetlerinden NOUN
+biridir VERB
+. PUNCT
+</S>
+<S>
+Ve CCONJ
+dün NOUN
+, PUNCT
+en ADV
+yüksek ADJ
+performans NOUN
+gösteren ADJ
+sanayi NOUN
+grubu NOUN
+petrol NOUN
+sahası NOUN
+ekipmanı NOUN
+hisseleridir VERB
+. PUNCT
+</S>
+<S>
+Üç NUM
+aracılık NOUN
+firmasının NOUN
+hisseleri NOUN
+kar NOUN
+bildirimi NOUN
+sonrasında NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Phelan PROPN
+piyasanın NOUN
+dün NOUN
+tekrar ADV
+yükseldiğine NOUN
+yönelik ADP
+bir DET
+teselli NOUN
+ifade NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+19 NUM
+Ekim'de PROPN
+olanların NOUN
+tam ADJ
+tersi NOUN
+oldu VERB
+. PUNCT
+</S>
+<S>
+Kendi PRON
+muhakemelerini NOUN
+kullandılar VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+sabah NOUN
+ilk ADJ
+satış NOUN
+turunda NOUN
+panik NOUN
+yapmadılar VERB
+. PUNCT
+</S>
+<S>
+Belki ADV
+bazı ADJ
+dersler NOUN
+aldılar VERB
+. PUNCT
+</S>
+<S>
+Cuma PROPN
+günü NOUN
+Wall PROPN
+Street PROPN
+borsacıları NOUN
+alım VERB
+satımların NOUN
+geçici ADJ
+olarak ADV
+durdurulmasından NOUN
+şikayet NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+James PROPN
+A. PROPN
+White PROPN
+ve CCONJ
+Sonja PROPN
+Steptoe PROPN
+bu DET
+makaleye NOUN
+katkı NOUN
+yaptılar VERB
+. PUNCT
+</S>
+<S>
+Elbette ADV
+öyleydi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+altı NUM
+saatlik ADJ
+tavizler NOUN
+kısa ADJ
+süre NOUN
+sonra ADV
+müteakip ADJ
+tartışmalarda NOUN
+mutabakata NOUN
+vardı VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Ancak CCONJ
+bir DET
+talepte NOUN
+bulunursanız VERB
+, PUNCT
+komiteyi NOUN
+desteklemelisiniz VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Kongre PROPN
+önceden ADV
+altı NUM
+havalimanını NOUN
+bu DET
+yıl NOUN
+için ADP
+kesmişti VERB
+. PUNCT
+</S>
+<S>
+Pittsburgh PROPN
+merkezli ADJ
+Aristech PROPN
+yetkilileri NOUN
+, PUNCT
+yorum NOUN
+yapmadı VERB
+. PUNCT
+</S>
+<S>
+Senatör NOUN
+Pete PROPN
+Domenici PROPN
+bu DET
+çabayı NOUN
+" PUNCT
+demokrasinin NOUN
+İlk ADJ
+armağanı NOUN
+" PUNCT
+olarak ADV
+adlandırıyor VERB
+. PUNCT
+</S>
+<S>
+Poles PROPN
+onu PRON
+bir DET
+Truva PROPN
+atı NOUN
+olarak ADV
+göstererek ADV
+daha ADV
+iyisini NOUN
+yapabilir VERB
+. PUNCT
+</S>
+<S>
+Hiçbir DET
+olağan ADJ
+üstü NOUN
+öğe NOUN
+yok ADJ
+. PUNCT
+</S>
+<S>
+Waterford PROPN
+ara NOUN
+temettü NOUN
+ödenmesine NOUN
+karşı ADV
+karar NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Epey ADV
+zorlu ADJ
+ve CCONJ
+vahşi ADJ
+bir DET
+gündü VERB
+. PUNCT
+</S>
+<S>
+Firmalar NOUN
+arasında NOUN
+Merrill PROPN
+Lynch PROPN
+& PUNCT
+Co. PROPN
+ve CCONJ
+Dean PROPN
+Witter PROPN
+Reynolds PROPN
+Inc PROPN
+vardı VERB
+. PUNCT
+</S>
+<S>
+Oran NOUN
+EFD PROPN
+politikasındaki ADJ
+değişikliğe NOUN
+yönelik ADP
+bir DET
+erken ADV
+uyarıydı VERB
+. PUNCT
+</S>
+<S>
+Aslında ADV
+, PUNCT
+bazı ADJ
+ekonomistler NOUN
+geçen ADJ
+haftaki ADJ
+son ADJ
+iç NOUN
+açıcı ADJ
+başlangıçtan NOUN
+tatmin NOUN
+oldular VERB
+. PUNCT
+</S>
+<S>
+Tersine NOUN
+dönüş NOUN
+kısa ADJ
+vadeli ADJ
+hazine NOUN
+kağıtları NOUN
+arasında NOUN
+daha ADV
+belirgindi VERB
+. PUNCT
+</S>
+<S>
+Yatırım NOUN
+kategorisi NOUN
+özel ADJ
+sektör NOUN
+tahvilleri NOUN
+, PUNCT
+ipoteğe NOUN
+dayalı ADJ
+menkul NOUN
+kıymetler NOUN
+ve CCONJ
+yerel ADJ
+yönetim NOUN
+tahvilleri NOUN
+de CCONJ
+düştü VERB
+. PUNCT
+</S>
+<S>
+Bazı ADJ
+borsacılar NOUN
+yüksek ADJ
+verimli ADJ
+piyasanın NOUN
+aktif ADJ
+kurumsal ADJ
+alım NOUN
+tarafından NOUN
+yardım NOUN
+gördüğümü NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+Japon ADJ
+hisseleri NOUN
+tekrar ADV
+yükseldiği ADJ
+için ADP
+hazineler NOUN
+geriledi VERB
+ve CCONJ
+yalnızca ADV
+hafif ADJ
+yükselişte NOUN
+tamamladı VERB
+. PUNCT
+</S>
+<S>
+Tokyo'da PROPN
+, PUNCT
+alım NOUN
+satım NOUN
+işlemleri NOUN
+öğle NOUN
+tatili NOUN
+esnasında ADV
+durdu VERB
+. PUNCT
+</S>
+<S>
+Tokyo'nun PROPN
+piyasası NOUN
+ABD PROPN
+alım-satımı NOUN
+için ADP
+kötü ADJ
+bir DET
+elebaşına NOUN
+dönüştü VERB
+. PUNCT
+</S>
+<S>
+Bize PRON
+zarar NOUN
+verebilir VERB
+. PUNCT
+</S>
+<S>
+New PROPN
+Yorklu PROPN
+borsacı NOUN
+" PUNCT
+birçok DET
+arz NOUN
+var ADJ
+" PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Önümüzde NOUN
+2 NUM
+ya CCONJ
+da CCONJ
+3 NUM
+zorlu ADJ
+hafta NOUN
+var ADJ
+. PUNCT
+" PUNCT
+</S>
+<S>
+Hazine NOUN
+Kağıtları NOUN
+</S>
+<S>
+Hazine NOUN
+Bonolarının NOUN
+fiyatları NOUN
+aktif ADJ
+alım-satımda NOUN
+az ADJ
+miktarda NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Referans NOUN
+hisse NOUN
+üzerindeki ADJ
+verim NOUN
+% NUM
+7.82 NUM
+seviyesinden NOUN
+% NUM
+7.97'ye NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Kısa ADJ
+vadeli ADJ
+faiz NOUN
+oranları NOUN
+dün NOUN
+hükümetin NOUN
+haftalık ADJ
+Hazine NOUN
+bonosu NOUN
+ihalesinde NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+İşte ADV
+ihalenin NOUN
+ayrıntıları NOUN
+: PUNCT
+</S>
+<S>
+Oranlar NOUN
+satın NOUN
+alma NOUN
+fiyatı NOUN
+ile CCONJ
+nominal ADJ
+değer NOUN
+arasındaki ADJ
+fark NOUN
+ile CCONJ
+belirlenir VERB
+. PUNCT
+</S>
+<S>
+Böylece ADV
+, PUNCT
+daha ADV
+yüksek ADJ
+fiyat NOUN
+verme NOUN
+yatırımcının NOUN
+getirisini NOUN
+daraltırken ADV
+, PUNCT
+düşük ADJ
+fiyat NOUN
+verme NOUN
+genişletir VERB
+. PUNCT
+</S>
+<S>
+iki NUM
+ihraç NOUN
+da CCONJ
+19 NUM
+Ekim PROPN
+tarihlidir VERB
+. PUNCT
+</S>
+<S>
+Özel ADJ
+Sektör NOUN
+Hisseleri NOUN
+</S>
+<S>
+Yatırım NOUN
+kategorisi NOUN
+şirket NOUN
+tahvilleri NOUN
+bire NOUN
+1 NUM
+1\/2 NUM
+puan NOUN
+düşük ADJ
+sonlandı VERB
+. PUNCT
+</S>
+<S>
+Yeni ADJ
+ihraçlar NOUN
+yok ADJ
+. PUNCT
+</S>
+<S>
+Yabancı ADJ
+Tahviller NOUN
+</S>
+<S>
+Yabancı ADJ
+tahviller NOUN
+, PUNCT
+Amerikan ADJ
+doları NOUN
+birçok DET
+önde NOUN
+gelen ADJ
+dövizler NOUN
+karşısında NOUN
+zayıfladığı ADJ
+için ADP
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Verim NOUN
+% NUM
+5.245 NUM
+. PUNCT
+</S>
+<S>
+İpoteğe NOUN
+Dayalı ADJ
+Menkul NOUN
+Kıymetler NOUN
+</S>
+<S>
+Cuma PROPN
+günü NOUN
+mortgage NOUN
+hisseleri NOUN
+1 NUM
+5/32 NUM
+kazandı VERB
+. PUNCT
+</S>
+<S>
+Türev NOUN
+piyasalarda NOUN
+yeni ADJ
+ihraç NOUN
+faaliyeti NOUN
+yoktu VERB
+. PUNCT
+</S>
+<S>
+Yerel ADJ
+Yönetimler PROPN
+</S>
+<S>
+Profesyoneller NOUN
+seans NOUN
+boyunca ADP
+yerel ADJ
+yönetim NOUN
+hisselerinin NOUN
+alım NOUN
+satım NOUN
+işlemlerine NOUN
+hükmetti VERB
+. PUNCT
+</S>
+<S>
+Seri ADJ
+tahvil NOUN
+verimleri NOUN
+yaklaşık ADJ
+0.05 NUM
+puan NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Satışlar NOUN
+178.6 NUM
+milyar NUM
+yenden NOUN
+% NUM
+40 NUM
+artışla NOUN
+250.17 NUM
+milyar NUM
+Yen'e PROPN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Net NOUN
+gelir VERB
+26.68 NUM
+milyardan NOUN
+% NUM
+11 NUM
+artışla NOUN
+29.62 NUM
+milyar NUM
+Yen'e PROPN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Yurt PROPN
+içi NOUN
+tatil NOUN
+satışları NOUN
+, PUNCT
+bununla PRON
+birlikte NOUN
+, PUNCT
+daha ADV
+düşüktü VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Yalnızca ADV
+doğru ADP
+fiyattan NOUN
+satacağız VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Tezgah NOUN
+üstü NOUN
+alım NOUN
+satımlarda NOUN
+, PUNCT
+Interspec PROPN
+37.5 NUM
+Cent'lik PROPN
+düşüşle NOUN
+4.25 NUM
+dolara NOUN
+geriledi VERB
+. PUNCT
+</S>
+<S>
+New PROPN
+York PROPN
+merkezli ADJ
+şirketlerin NOUN
+İkisi ADJ
+de CCONJ
+hisse NOUN
+senetleri NOUN
+ve CCONJ
+para NOUN
+basımı NOUN
+yapıyor VERB
+. PUNCT
+</S>
+<S>
+1 NUM
+Temmuz PROPN
+tarihinde NOUN
+yapılan ADJ
+teklif NOUN
+birkaç DET
+kez NOUN
+uzatıldı VERB
+. PUNCT
+</S>
+<S>
+Eski ADJ
+ve CCONJ
+revize NOUN
+edilen ADJ
+rakamların NOUN
+ikisi ADJ
+de CCONJ
+ek ADJ
+satış NOUN
+hükümlerini NOUN
+içeriyor VERB
+. PUNCT
+</S>
+<S>
+Goldman PROPN
+, PUNCT
+Sachs PROPN
+& PUNCT
+Co. PROPN
+ve CCONJ
+Drexel PROPN
+Burnham PROPN
+Lambert PROPN
+Inc. PROPN
+öncü ADJ
+sigortacılar NOUN
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Goldberg PROPN
+, PUNCT
+Rose PROPN
+Partners'deki PROPN
+yegane ADJ
+sınırsız ADJ
+sorumlu ADJ
+ortaktır ADV
+. PUNCT
+</S>
+<S>
+Buraya NOUN
+ait ADP
+olmayan ADJ
+nedir VERB
+? PUNCT
+</S>
+<S>
+A. PROPN
+elle NOUN
+yazılan ADJ
+daktilolar NOUN
+, PUNCT
+B. PROPN
+Siyah-beyaz ADJ
+enstantaneler NOUN
+, PUNCT
+C. PROPN
+radyo NOUN
+macera NOUN
+şovları NOUN
+. PUNCT
+</S>
+<S>
+siyah ADJ
+ve CCONJ
+beyaz ADJ
+enstantaneleri NOUN
+tahmin NOUN
+ettiyseniz VERB
+, PUNCT
+haklısınız VERB
+. PUNCT
+</S>
+<S>
+Arka ADJ
+plana NOUN
+düştüğü ADJ
+yıllar NOUN
+sonrasında NOUN
+, PUNCT
+iki-tonlu NOUN
+fotoğrafçılık NOUN
+Geri ADV
+dönüyor VERB
+. PUNCT
+</S>
+<S>
+Ve CCONJ
+siyah ADJ
+Ve CCONJ
+beyaz ADJ
+fotoğraf NOUN
+sınıfları NOUN
+artık ADV
+öğrencilerle NOUN
+dolup ADV
+taşıyor VERB
+. PUNCT
+</S>
+<S>
+Neden ADV
+tüm DET
+ilgi NOUN
+? PUNCT
+</S>
+<S>
+Siyah ADJ
+ve CCONJ
+beyaz ADJ
+ticari ADJ
+film NOUN
+işleme NOUN
+geçen ADJ
+yıl NOUN
+% NUM
+24'lük ADJ
+artışla NOUN
+18.7 NUM
+milyon NUM
+rulo NOUN
+sayısına NOUN
+erişti VERB
+. PUNCT
+</S>
+<S>
+Portre NOUN
+stüdyoları NOUN
+da CCONJ
+bu DET
+trendi NOUN
+benimsediler VERB
+. PUNCT
+</S>
+<S>
+Bunu PRON
+arkadaşlarıma NOUN
+gösterdim VERB
+ve CCONJ
+hepsi PRON
+vay INTJ
+dediler VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+renk NOUN
+gibi ADP
+sıradan ADJ
+değil AUX
+. PUNCT
+</S>
+<S>
+Büyük ADJ
+bir DET
+engel NOUN
+de CCONJ
+birkaç DET
+eczanenin NOUN
+artık ADV
+film NOUN
+üretiyor VERB
+olmasıdır VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+fotoğraf NOUN
+tab NOUN
+edenler NOUN
+için ADP
+siyah-beyaz ADJ
+film NOUN
+banyosuna NOUN
+yönelik ADP
+maliyetler NOUN
+daha ADV
+yüksek ADJ
+. PUNCT
+</S>
+<S>
+Bazı ADJ
+şirketler NOUN
+bu DET
+sorunu NOUN
+çözmeye NOUN
+çalışıyor VERB
+. PUNCT
+</S>
+<S>
+Diğer ADJ
+şirketler NOUN
+ilgili ADJ
+ürünler NOUN
+sunmaktadır VERB
+. PUNCT
+</S>
+<S>
+Günümüzde NOUN
+Renkli ADJ
+baskı NOUN
+on NUM
+yıl NOUN
+önceki ADJ
+baskı NOUN
+kalitesine NOUN
+göre ADP
+çok ADV
+daha ADV
+üstündür VERB
+. PUNCT
+</S>
+<S>
+Aynısını NOUN
+siyah ADJ
+ve CCONJ
+beyaz ADJ
+için ADP
+söyleyemezsiniz NOUN
+. PUNCT
+</S>
+<S>
+İşte ADV
+itiraz NOUN
+. PUNCT
+</S>
+<S>
+Fiyat PROPN
+açıklanmadı VERB
+. PUNCT
+</S>
+<S>
+Menkul NOUN
+kıymetler NOUN
+borsası NOUN
+fiyatları NOUN
+düşerken ADV
+geçen ADJ
+Cuma PROPN
+günü NOUN
+de CCONJ
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Devralma NOUN
+değeri NOUN
+açıklanmadı VERB
+. PUNCT
+</S>
+<S>
+Şirket NOUN
+alımı NOUN
+BSN'nin PROPN
+Avrupa PROPN
+makarna NOUN
+piyasasındaki ADJ
+konumunu NOUN
+güçlendiriyor VERB
+. PUNCT
+</S>
+<S>
+Ajans NOUN
+American PROPN
+Continental'ın PROPN
+tercih NOUN
+edilen ADJ
+hisse NOUN
+puanının NOUN
+C PROPN
+olduğunu NOUN
+teyit NOUN
+ettiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+CENTRUST PROPN
+SAVINGS PROPN
+BANK PROPN
+( PUNCT
+Miami NOUN
+) PUNCT
+-- PUNCT
+</S>
+<S>
+Dolar PROPN
+da CCONJ
+değer NOUN
+kazanırken ADV
+, PUNCT
+tahvil NOUN
+fiyatları NOUN
+düştü VERB
+ve CCONJ
+Hazine NOUN
+bonoları NOUN
+oranları NOUN
+hızla ADV
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Iskarta NOUN
+tahviller NOUN
+de CCONJ
+bir ADJ
+şekilde NOUN
+düzeldi VERB
+ancak CCONJ
+alım-satım NOUN
+işlemleri NOUN
+durduruldu VERB
+. PUNCT
+</S>
+<S>
+Altın PROPN
+da CCONJ
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Dolar PROPN
+Tokyo'da PROPN
+da CCONJ
+yükselişe NOUN
+geçti VERB
+. PUNCT
+</S>
+<S>
+AMR PROPN
+22.125 NUM
+Dolar PROPN
+düşüşle NOUN
+, PUNCT
+76.50 NUM
+Dolardı VERB
+. PUNCT
+</S>
+<S>
+UAL PROPN
+56.875 NUM
+dolar NOUN
+düşüşle NOUN
+, PUNCT
+222.875 NUM
+dolardan NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Analistler NOUN
+IBM'nin PROPN
+önümüzdeki ADJ
+birkaç DET
+çeyrek NOUN
+için ADP
+görünümü NOUN
+hakkında NOUN
+karamsar ADJ
+. PUNCT
+</S>
+<S>
+Darman PROPN
+bir DET
+sermaye NOUN
+açığı NOUN
+planını NOUN
+bitirmek NOUN
+için ADP
+Kongreyi NOUN
+teşvik NOUN
+edebilmeyi NOUN
+umut NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+doğal ADJ
+gaz NOUN
+kanunu NOUN
+Bir DET
+federal ADJ
+temyiz NOUN
+mahkemesi NOUN
+tarafından NOUN
+hükümsüz ADJ
+kılındı VERB
+. PUNCT
+</S>
+<S>
+Merrill PROPN
+Lynch'in PROPN
+karı NOUN
+üçüncü NUM
+çeyrekte NOUN
+% NUM
+37 NUM
+azaldı VERB
+. PUNCT
+</S>
+<S>
+Atılımlar NOUN
+firmaya NOUN
+A.B.D. PROPN
+geçici-destek NOUN
+piyasasındaki ADJ
+egemenliğini NOUN
+pekiştirmesinde NOUN
+yardımcı NOUN
+olabilir VERB
+. PUNCT
+</S>
+<S>
+NCNB'nin PROPN
+karı NOUN
+iki NUM
+katından NOUN
+fazla ADJ
+. PUNCT
+</S>
+<S>
+Piyasalar NOUN
+-- PUNCT
+</S>
+<S>
+Hisseler NOUN
+: PUNCT
+Hacim NOUN
+416290000 NUM
+hisse NOUN
+. PUNCT
+</S>
+<S>
+Tahviller NOUN
+: PUNCT
+Shearson PROPN
+Lehman PROPN
+Hutton PROPN
+Treasury PROPN
+endeksi NOUN
+3393.51 NUM
+. PUNCT
+</S>
+<S>
+Dolar PROPN
+: PUNCT
+141.85 NUM
+yen NOUN
+, PUNCT
+düşüş NOUN
+0.25 NUM
+; PUNCT
+1.8685 NUM
+mark NOUN
+, PUNCT
+düşüş NOUN
+0.0055 NUM
+. PUNCT
+</S>
+<S>
+16 NUM
+Ekim PROPN
+1989 NUM
+, PUNCT
+Pazartesi PROPN
+</S>
+<S>
+ANA ADJ
+FAİZ NOUN
+ORANI NOUN
+: PUNCT
+% NUM
+10 NUM
+1\/2 NUM
+. PUNCT
+</S>
+<S>
+Büyük ADJ
+A.B.D. PROPN
+para NOUN
+merkezi NOUN
+ticari ADJ
+bankalarındaki ADJ
+kurumsal ADJ
+kredilere NOUN
+yönelik ADP
+baz NOUN
+oran NOUN
+. PUNCT
+</S>
+<S>
+Kaynak NOUN
+: PUNCT
+Fulton PROPN
+Prebon PROPN
+( PUNCT
+U.S.A PROPN
+. PUNCT
+) PUNCT
+Inc PROPN
+. PUNCT
+</S>
+<S>
+İSKONTO NOUN
+ORANI NOUN
+: PUNCT
+% NUM
+7 NUM
+. PUNCT
+</S>
+<S>
+New PROPN
+York PROPN
+Federal ADJ
+Reserve PROPN
+Bank PROPN
+tarafından NOUN
+mevduat NOUN
+kuruluşlarında NOUN
+kredilerdeki ADJ
+komisyon NOUN
+. PUNCT
+</S>
+<S>
+VADESİZ ADJ
+KREDİ NOUN
+: PUNCT
+% NUM
+9 NUM
+3/4 NUM
+ila CCONJ
+% NUM
+10 NUM
+. PUNCT
+</S>
+<S>
+Menkul NOUN
+kıymetler NOUN
+borsası NOUN
+teminatlarında NOUN
+borsacılara NOUN
+kredi NOUN
+komisyonu NOUN
+. PUNCT
+</S>
+<S>
+Minimum ADJ
+birim NOUN
+100000 NUM
+dolar NOUN
+. PUNCT
+</S>
+<S>
+Tipik ADJ
+olarak ADV
+bir DET
+ithalat NOUN
+siparişini NOUN
+finanse NOUN
+eden ADJ
+devredilebilir ADJ
+banka NOUN
+teminatlı ADJ
+iş NOUN
+kredisi NOUN
+araçları NOUN
+. PUNCT
+</S>
+<S>
+Bu DET
+oran NOUN
+göstergeleri NOUN
+doğrudan ADJ
+kıyaslanabilir ADJ
+değildir AUX
+, PUNCT
+kredi NOUN
+verme NOUN
+uygulamaları NOUN
+mekana NOUN
+göre ADP
+değişiklik NOUN
+gösterir VERB
+. PUNCT
+</S>
+<S>
+Kaynak NOUN
+: PUNCT
+Telerate PROPN
+Systems PROPN
+Inc PROPN
+. PUNCT
+</S>
+<S>
+Kaynak NOUN
+: PUNCT
+Telerate PROPN
+Systems PROPN
+Inc PROPN
+. PUNCT
+</S>
+<S>
+MERRILL PROPN
+LYNCH PROPN
+READY PROPN
+ASSETS PROPN
+TRUST PROPN
+: PUNCT
+% NUM
+8.49 NUM
+. PUNCT
+</S>
+<S>
+Alliant PROPN
+gelecekteki ADJ
+ürünlerde NOUN
+mikro-işlemci NOUN
+kullanmayı NOUN
+planladıklarını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Mevcut ADJ
+ürün NOUN
+yelpazesini NOUN
+geliştirmeye NOUN
+yönelik ADP
+planları NOUN
+tartışmayı NOUN
+reddetti VERB
+. PUNCT
+</S>
+<S>
+SHV PROPN
+ayrıca ADV
+Calor'un PROPN
+% NUM
+40'ına NOUN
+sahip NOUN
+. PUNCT
+</S>
+<S>
+Grup NOUN
+, PUNCT
+Weslock PROPN
+Corp. PROPN
+ve CCONJ
+JPI PROPN
+Modern ADJ
+Inc PROPN
+şirketlerinden NOUN
+oluşuyor VERB
+. PUNCT
+</S>
+<S>
+Amerikalı NOUN
+Bir DET
+gazeteci NOUN
+halihazırda ADV
+Namibya'da PROPN
+yargılanıyor VERB
+. PUNCT
+</S>
+<S>
+Kazanması NOUN
+en ADV
+muhtemel ADJ
+aday NOUN
+Marksist-görüşlü PROPN
+SWAPO PROPN
+isyancıları NOUN
+. PUNCT
+</S>
+<S>
+Seçimlerin NOUN
+tarihi NOUN
+7 NUM
+Kasım PROPN
+. PUNCT
+</S>
+<S>
+Hem CCONJ
+Güney PROPN
+Afrika PROPN
+hem CCONJ
+de CCONJ
+SWAPO PROPN
+radikalleri NOUN
+seçmenlerin NOUN
+gözünü NOUN
+korkutuyor VERB
+. PUNCT
+</S>
+<S>
+Şimdi ADV
+Namibya'daki PROPN
+bu DET
+kaydı NOUN
+telafi NOUN
+etme NOUN
+şansına NOUN
+sahip NOUN
+. PUNCT
+</S>
+<S>
+Dün NOUN
+, PUNCT
+borsanın NOUN
+etkisi NOUN
+ilk ADJ
+başta ADJ
+asabiyet NOUN
+yarattı VERB
+. PUNCT
+</S>
+<S>
+Pamuk NOUN
+ve CCONJ
+şekerde NOUN
+alım-satım NOUN
+sinirliydi VERB
+ve CCONJ
+küçük ADJ
+düşüşler NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Chicago'da PROPN
+, PUNCT
+tahıl NOUN
+ve CCONJ
+soya NOUN
+fasulyesi NOUN
+fiyatları NOUN
+hafif ADJ
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Gümüş PROPN
+sessizce ADV
+performans NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Aralık PROPN
+ayında NOUN
+Gümüş PROPN
+2.3 NUM
+cent NOUN
+yükselerek ADV
+ons NOUN
+başına NOUN
+5.163 NUM
+dolar NOUN
+fiyatına NOUN
+erişti VERB
+. PUNCT
+</S>
+<S>
+Dünkü ADJ
+4 NUM
+dolarlık ADJ
+Ekim PROPN
+kazancı NOUN
+bununla PRON
+kıyaslandığında NOUN
+çok ADJ
+ufaktı VERB
+. PUNCT
+</S>
+<S>
+Enerji NOUN
+: PUNCT
+</S>
+<S>
+Bakır PROPN
+: PUNCT
+</S>
+<S>
+Aralık PROPN
+sözleşmesi NOUN
+3.05 NUM
+cent NOUN
+düşüşle NOUN
+1.2745 NUM
+dolar NOUN
+seviyesine NOUN
+geriledi VERB
+. PUNCT
+</S>
+<S>
+London PROPN
+metal NOUN
+Borsası NOUN
+bakır NOUN
+stokları NOUN
+geçen ADJ
+hafta NOUN
+13575 NUM
+ton NOUN
+düşerek ADV
+89300 NUM
+tonda NOUN
+kaldı VERB
+. PUNCT
+</S>
+<S>
+Pamuk PROPN
+: PUNCT
+</S>
+<S>
+Bu DET
+satış NOUN
+dün NOUN
+devam NOUN
+etti VERB
+ve CCONJ
+fiyatları NOUN
+baskı NOUN
+altında NOUN
+tuttu VERB
+, PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+henüz ADV
+borsacıların NOUN
+dikkatini NOUN
+çekmedi VERB
+, PUNCT
+diye ADP
+ekledi VERB
+. PUNCT
+</S>
+<S>
+Şeker PROPN
+: PUNCT
+</S>
+<S>
+Vadeli ADJ
+sözleşmeler NOUN
+piyasası NOUN
+fiyatları NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Mart PROPN
+sözleşmesi NOUN
+0.32 NUM
+cent NOUN
+düşerek ADV
+13.97 NUM
+centte NOUN
+kaldı VERB
+. PUNCT
+</S>
+<S>
+TARIM NOUN
+ürünleri NOUN
+: PUNCT
+</S>
+<S>
+Oturumun NOUN
+ilk ADJ
+safhasında NOUN
+, PUNCT
+birçok DET
+soya NOUN
+fasulyesi NOUN
+sözleşmesi NOUN
+yeni ADJ
+düşük ADJ
+seviyeler NOUN
+gördü VERB
+. PUNCT
+</S>
+<S>
+Teklifin NOUN
+gösterge NOUN
+değeri NOUN
+268 NUM
+milyon NUM
+Dolardır VERB
+. PUNCT
+</S>
+<S>
+Dunkin PROPN
+' PUNCT
+Donuts PROPN
+merkezi NOUN
+Randolph PROPN
+, PUNCT
+Massacushets'de PROPN
+bulunmaktadır VERB
+. PUNCT
+</S>
+<S>
+CFC'ler PROPN
+geniş ADJ
+ölçüde NOUN
+solventler NOUN
+, PUNCT
+soğutucular NOUN
+ve CCONJ
+yangın NOUN
+söndürücüler NOUN
+olarak ADV
+kullanılmaktadır VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+sözcü NOUN
+o DET
+andan NOUN
+itibaren ADP
+2.6 NUM
+milyon NUM
+hissenin NOUN
+satın NOUN
+alındığını NOUN
+belirtti VERB
+. PUNCT
+</S>
+<S>
+Kamu NOUN
+hizmetleri NOUN
+şirketinin NOUN
+halihazırda ADV
+tedavülde NOUN
+82.1 NUM
+milyon NUM
+hissesi NOUN
+bulunmaktadır VERB
+. PUNCT
+</S>
+<S>
+Morgan PROPN
+Stanley PROPN
+& PUNCT
+Co. PROPN
+yeniden ADV
+satın NOUN
+alım NOUN
+işlemi NOUN
+için ADP
+tek ADJ
+yetkili NOUN
+aracı ADJ
+olarak ADV
+hareket NOUN
+edecek VERB
+. PUNCT
+</S>
+<S>
+Anlaşmanın NOUN
+hükümleri NOUN
+açıklanmadı VERB
+. PUNCT
+</S>
+<S>
+Hughes PROPN
+satışın NOUN
+yıl NOUN
+sonuna NOUN
+kadar ADP
+kapanacağının NOUN
+beklendiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Onaylama NOUN
+işlemini NOUN
+Philedelphia PROPN
+merkezli ADJ
+firmaya NOUN
+karşı ADP
+girişilen ADJ
+23 NUM
+günlük ADJ
+bir DET
+grev NOUN
+takip NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Sendikalar NOUN
+ve CCONJ
+şirket NOUN
+geçen ADJ
+hafta NOUN
+arabuluculuk ADJ
+üzerinde NOUN
+anlaştı VERB
+. PUNCT
+</S>
+<S>
+CWA PROPN
+40000 NUM
+Nynex PROPN
+işçisini NOUN
+temsil NOUN
+eder VERB
+ve CCONJ
+IBEW PROPN
+de CCONJ
+20.000 NUM
+işçiyi NOUN
+temsil NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Şimdilik ADV
+, PUNCT
+en ADV
+azından NOUN
+, PUNCT
+Wall PROPN
+street'de NOUN
+endişenin NOUN
+yerini NOUN
+coşku NOUN
+ve CCONJ
+mutluluk NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Çoğu NOUN
+pazarlığa NOUN
+oturdu VERB
+. PUNCT
+</S>
+<S>
+Öncelikle ADV
+, PUNCT
+tarih NOUN
+kendini PRON
+tekerrür NOUN
+etmiş VERB
+gibi ADP
+göründü VERB
+. PUNCT
+</S>
+<S>
+88.12 NUM
+puan NOUN
+kazançla NOUN
+sona NOUN
+erdi VERB
+. PUNCT
+</S>
+<S>
+Genel ADJ
+olarak ADV
+, PUNCT
+New PROPN
+York PROPN
+borsasındaki ADJ
+hisselerde NOUN
+kaybedenler NOUN
+kazananlardan NOUN
+fazlaydı VERB
+. PUNCT
+</S>
+<S>
+Dünya NOUN
+çapında NOUN
+, PUNCT
+alım-satım NOUN
+işlemi NOUN
+genel ADJ
+olarak ADV
+yönetilebilir ADJ
+nitelikteydi VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Buna PRON
+sıkıcı ADJ
+bir DET
+konu NOUN
+olarak ADV
+bakıyorum VERB
+, PUNCT
+" PUNCT
+diyor VERB
+. PUNCT
+</S>
+<S>
+Birçok DET
+diğer ADJ
+faktör NOUN
+dünkü ADJ
+geri ADJ
+gelişte NOUN
+rol NOUN
+oynadı VERB
+. PUNCT
+</S>
+<S>
+Para NOUN
+yöneticisi NOUN
+Barry PROPN
+Schrager PROPN
+" PUNCT
+Çok ADJ
+fazla ADJ
+rehavet NOUN
+var ADJ
+" PUNCT
+diyor VERB
+. PUNCT
+</S>
+<S>
+Tokya'daki PROPN
+göreceli NOUN
+sakinlik NOUN
+Avrupa'daki PROPN
+piyasa NOUN
+açılışlarına NOUN
+biraz ADJ
+rahatlık NOUN
+getirdi VERB
+. PUNCT
+</S>
+<S>
+Ekran NOUN
+kırmızı ADJ
+renkli ADJ
+bir DET
+denizdi VERB
+. PUNCT
+</S>
+<S>
+9:45'e NOUN
+kadar ADP
+, PUNCT
+sanayi NOUN
+ortalaması NOUN
+27 NUM
+puan NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Sabah NOUN
+saat NOUN
+10'a NOUN
+kadar ADP
+49 NUM
+puan NOUN
+düşmüştü VERB
+. PUNCT
+</S>
+<S>
+Shearson'un PROPN
+Londra PROPN
+seans NOUN
+odası NOUN
+delirdi VERB
+. PUNCT
+</S>
+<S>
+Shearson'dan PROPN
+Andy PROPN
+Rosen PROPN
+" PUNCT
+toparlanma NOUN
+, PUNCT
+toparlanma VERB
+, PUNCT
+" PUNCT
+diye ADP
+bağırdı VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Bu PRON
+panik NOUN
+alımı NOUN
+. PUNCT
+" PUNCT
+</S>
+<S>
+Japonların NOUN
+ağır ADJ
+alıcılar NOUN
+olduğu NOUN
+söylendi VERB
+. PUNCT
+</S>
+<S>
+Alman ADJ
+ve CCONJ
+Hollandalı PROPN
+yatırımcılar NOUN
+, PUNCT
+söylenenlere NOUN
+göre ADP
+Kellogg PROPN
+Co PROPN
+üzerine NOUN
+yükleniyor VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Başımıza NOUN
+gelen ADJ
+gerçek ADJ
+, PUNCT
+eski ADJ
+moda NOUN
+bir DET
+toparlanmaydı VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Normal ADJ
+olan ADJ
+, PUNCT
+herhalde ADV
+, PUNCT
+Batterymarch'dan PROPN
+Dean PROPN
+LeBaron'du PROPN
+. PUNCT
+</S>
+<S>
+Herkes NOUN
+para NOUN
+kazanamıyordu VERB
+. PUNCT
+</S>
+<S>
+Piyasa NOUN
+gün NOUN
+içinde ADV
+en ADV
+yükseğe NOUN
+ulaştıktan NOUN
+dakikalar NOUN
+sonra ADP
+kapandı VERB
+</S>
+<S>
+Ben PRON
+ellerimi NOUN
+üzerine ADV
+koyabileceğim NOUN
+parayı NOUN
+tercih NOUN
+ederim VERB
+. PUNCT
+</S>
+<S>
+Halk NOUN
+halen ADV
+dikkatli ADJ
+. PUNCT
+</S>
+<S>
+Daha ADV
+düşük ADJ
+faiz NOUN
+oranları NOUN
+ödeyen ADJ
+Hazine PROPN
+bonolarıyla NOUN
+20 NUM
+milyar NUM
+dolar NOUN
+daha ADV
+toplanacak VERB
+. PUNCT
+</S>
+<S>
+1987 NUM
+kazasından NOUN
+birkaç DET
+gün NOUN
+sonra ADV
+, PUNCT
+büyük ADJ
+aracı NOUN
+kurumlar NOUN
+yatırımcıları NOUN
+sakinleştirmek NOUN
+için ADP
+reklamlar NOUN
+verdi VERB
+. PUNCT
+</S>
+<S>
+Fidelity PROPN
+Investments PROPN
+dün NOUN
+gazetelere NOUN
+yeni ADJ
+reklamlar NOUN
+verdi VERB
+ve CCONJ
+bugün ADV
+yayınlanacak ADJ
+yeni ADJ
+bir DET
+reklam NOUN
+daha ADV
+yazdı VERB
+. PUNCT
+</S>
+<S>
+Diğer ADJ
+aracı NOUN
+kurumlar NOUN
+, PUNCT
+Merrill PROPN
+Lynch PROPN
+& PUNCT
+Co. PROPN
+dahil NOUN
+olmak NOUN
+üzere ADP
+, PUNCT
+potansiyel NOUN
+yeni ADJ
+reklam NOUN
+strateji NOUN
+planlarını NOUN
+çıkardı VERB
+. PUNCT
+</S>
+<S>
+Örneğin CCONJ
+Fidelity PROPN
+, PUNCT
+birkaç DET
+ay NOUN
+önce ADP
+pazarın NOUN
+düşmesi NOUN
+ihtimaline NOUN
+karşı ADP
+reklamlar NOUN
+hazırladı VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Cuma PROPN
+günü NOUN
+bunu PRON
+sevdiyseniz VERB
+ve CCONJ
+satın NOUN
+aldıysanız VERB
+, PUNCT
+gerçek ADJ
+değeri NOUN
+değişmedi. NOUN
+" PUNCT
+</S>
+<S>
+" PUNCT
+Bu DET
+noktada NOUN
+bir DET
+şey NOUN
+söylenmesi NOUN
+gerektiğini NOUN
+düşünmüyoruz VERB
+. PUNCT
+</S>
+<S>
+Fakat CCONJ
+onların PRON
+reklamlarının NOUN
+daha ADV
+etkili ADJ
+olup ADV
+olmayacağı NOUN
+görülecekti VERB
+. PUNCT
+</S>
+<S>
+Şimdi ADV
+firmalar NOUN
+, PUNCT
+reklamların NOUN
+bu DET
+sefer NOUN
+işe NOUN
+yarayabileceğini NOUN
+kanıtlamak NOUN
+için ADP
+ellerinden NOUN
+geleni NOUN
+yapmalıdır VERB
+. PUNCT
+</S>
+<S>
+John PROPN
+Verret PROPN
+, PUNCT
+ajansın NOUN
+başkanı NOUN
+ve CCONJ
+CEO'su PROPN
+, PUNCT
+başkan NOUN
+ünvanını NOUN
+muhafaza NOUN
+edecekti VERB
+. PUNCT
+</S>
+<S>
+Dergi NOUN
+zamdan NOUN
+gelen ADJ
+brüt ADJ
+gelirlerin NOUN
+% NUM
+10'unu NOUN
+yenilikçi ADJ
+öğretmenlere NOUN
+hibe NOUN
+olarak ADV
+dağıtacaktır VERB
+. PUNCT
+</S>
+<S>
+Birkaç DET
+kişi NOUN
+, PUNCT
+her DET
+iki NUM
+takımın NOUN
+renklerini NOUN
+ve CCONJ
+amblemlerini NOUN
+taşıyan ADJ
+şapkalar NOUN
+bile ADV
+giydi VERB
+. PUNCT
+</S>
+<S>
+Her DET
+neyse CCONJ
+, PUNCT
+A'lar PROPN
+sana ADV
+destekleyebileceğin ADJ
+bir DET
+sürü NOUN
+kahraman NOUN
+verdi VERB
+. PUNCT
+</S>
+<S>
+Sahada NOUN
+yerinizi NOUN
+alınca ADV
+her DET
+topu NOUN
+olağanüstü ADJ
+bir DET
+şekilde NOUN
+görüyorsunuz VERB
+, PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+Dodger'in PROPN
+sert ADJ
+oyuncusu NOUN
+, PUNCT
+rüzgarın NOUN
+ne PRON
+zaman NOUN
+tekrar ADV
+ondan PRON
+yana NOUN
+eseceğine NOUN
+dair ADP
+bir DET
+öngörüde NOUN
+bulunmayacak ADJ
+kadar ADP
+bilgeydi VERB
+. PUNCT
+</S>
+<S>
+Gelir NOUN
+projeksiyonları NOUN
+6.20 NUM
+milyardan NOUN
+, PUNCT
+6.03 NUM
+milyar NUM
+dolara NOUN
+indirilecektir VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Bütün ADJ
+gece NOUN
+boyunca ADP
+Birleşik PROPN
+Devletler'den PROPN
+telefon NOUN
+geldi VERB
+, PUNCT
+" PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Saat NOUN
+başı NOUN
+uyandırıldım VERB
+- PUNCT
+1:30 NUM
+, PUNCT
+2:30 NUM
+, PUNCT
+3:30 NUM
+, PUNCT
+4:30 NUM
+. PUNCT
+</S>
+<S>
+Ama CCONJ
+çılgın ADJ
+Wall PROPN
+Street PROPN
+esinlerini NOUN
+taşıyan ADJ
+miting NOUN
+sona NOUN
+erdi VERB
+, PUNCT
+şehir NOUN
+rahat ADJ
+bir DET
+nefes NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Wall PROPN
+Street'in PROPN
+geçen ADJ
+Cuma PROPN
+günkü ADJ
+düşüşünün NOUN
+ardından NOUN
+, PUNCT
+Londra PROPN
+pazarı NOUN
+özellikle ADV
+savunmasız ADJ
+kabul NOUN
+edildi VERB
+. PUNCT
+</S>
+<S>
+Birkaç DET
+saniye NOUN
+sonra ADP
+İskoç PROPN
+ve CCONJ
+Newcastle PROPN
+için ADP
+7.500 NUM
+hisseli ADJ
+" PUNCT
+satış NOUN
+" PUNCT
+emri NOUN
+geldi VERB
+. PUNCT
+</S>
+<S>
+00:49'da NOUN
+endeks NOUN
+204.2 NUM
+puan NOUN
+düşerek ADV
+2029.7 NUM
+seviyesine NOUN
+geriledi VERB
+. PUNCT
+</S>
+<S>
+`` PUNCT
+İspanya PROPN
+%10 X
+düştü VERB
+ve CCONJ
+askıya NOUN
+alındı VERB
+, PUNCT
+İsveç'in PROPN
+% NUM
+8 NUM
+, PUNCT
+Norveç PROPN
+% NUM
+11 NUM
+. PUNCT
+</S>
+<S>
+Yatırımcılar NOUN
+hala ADV
+burada ADV
+Jaguar PROPN
+için ADP
+teklifleri NOUN
+Ford PROPN
+Motor NOUN
+Co. PROPN
+ve CCONJ
+General PROPN
+Motors PROPN
+Corp'tan PROPN
+bekliyor VERB
+. PUNCT
+</S>
+<S>
+Ardından ADV
+, PUNCT
+dokuz NUM
+dakika NOUN
+sonra ADP
+, PUNCT
+Wall PROPN
+Street PROPN
+aniden ADV
+gününde NOUN
+kazanca NOUN
+ulaştı VERB
+. PUNCT
+</S>
+<S>
+Londra PROPN
+pazarı NOUN
+yükselirken ADV
+, PUNCT
+bazıları PRON
+endişe NOUN
+ve CCONJ
+stres NOUN
+dolu ADJ
+bir DET
+haftasonunun NOUN
+buna PRON
+değip ADV
+değmediğini NOUN
+merak NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Temsilci NOUN
+Oberstar PROPN
+, PUNCT
+Bay NOUN
+Trump'ın PROPN
+iddialarını NOUN
+" PUNCT
+kendi PRON
+anlaşmasının NOUN
+başarısızlığına NOUN
+bir DET
+bahane NOUN
+" PUNCT
+olarak ADV
+değerlendirip ADV
+önemsemedi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+UAL PROPN
+ve CCONJ
+AMR PROPN
+örneklerini NOUN
+bu DET
+yasayı NOUN
+yürürlüğe NOUN
+koymak NOUN
+için ADP
+hızlı ADJ
+hareket NOUN
+etmenin NOUN
+nedenleri NOUN
+olarak ADV
+gösterdiler VERB
+. PUNCT
+</S>
+<S>
+Boeing PROPN
+şu DET
+anda NOUN
+, PUNCT
+makinistlere NOUN
+saatlik ADJ
+ortalama NOUN
+13.39 NUM
+dolar NOUN
+ödeme NOUN
+yapıldığını NOUN
+, PUNCT
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Orada ADV
+bir DET
+ya CCONJ
+da CCONJ
+bir DET
+başka ADJ
+psikolojik ADJ
+, PUNCT
+teknik ADJ
+reaksiyon NOUN
+olabilir VERB
+, PUNCT
+fakat CCONJ
+onlar PRON
+temele NOUN
+dayalı ADJ
+değildir AUX
+. PUNCT
+</S>
+<S>
+Batı PROPN
+Almanya PROPN
+ve CCONJ
+Avrupa PROPN
+Komisyonu NOUN
+( PUNCT
+Avrupa PROPN
+Topluluğu NOUN
+) PUNCT
+ekonomisi NOUN
+oldukça ADV
+istikrarlıdır VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Keskin ADJ
+düşüşlerden NOUN
+biri PRON
+de CCONJ
+, PUNCT
+Avrupa'nın PROPN
+en ADV
+güçlü ADJ
+ekonomisinin NOUN
+finans NOUN
+merkezinde NOUN
+meydana NOUN
+geldi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+bu DET
+sefer NOUN
+birçok DET
+küçük ADJ
+yatırımcı NOUN
+bu DET
+kadar ADP
+hızlı ADJ
+hareket NOUN
+ederek ADV
+zarar NOUN
+görmüş ADJ
+olabilir VERB
+. PUNCT
+</S>
+<S>
+Commerzbank PROPN
+AG'nin PROPN
+komisyoncusu NOUN
+Nigel PROPN
+Longley PROPN
+`` PUNCT
+Başlangıçta NOUN
+kaotikti VERB
+'' PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Geç ADJ
+satışlar NOUN
+, PUNCT
+günün NOUN
+erken ADJ
+saatlerinde NOUN
+hızla ADV
+düşen ADJ
+Paris PROPN
+Borsası'nın NOUN
+düşüş NOUN
+hızını NOUN
+yavaşlattı VERB
+. PUNCT
+</S>
+<S>
+CAC PROPN
+Genel ADJ
+endeksi NOUN
+cumadan NOUN
+bu DET
+yana NOUN
+29.6 NUM
+puan NOUN
+kaybederek ADV
+%5.4 X
+düşüp ADV
+523.6'da NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+`` PUNCT
+Wall PROPN
+Street PROPN
+açılışından NOUN
+kısa ADJ
+bir DET
+süre NOUN
+sonra ADP
+yön NOUN
+değiştirdiğinde NOUN
+Paris'te PROPN
+insanlar NOUN
+panik NOUN
+içinde ADV
+alım NOUN
+yapmaya NOUN
+başladı VERB
+. PUNCT
+'' PUNCT
+</S>
+<S>
+Wall PROPN
+Street PROPN
+yön NOUN
+değiştirince ADV
+kodamanlar NOUN
+kelepir NOUN
+bulmak NOUN
+için ADP
+piyasaya NOUN
+giriyor VERB
+. PUNCT
+</S>
+<S>
+Geçen ADJ
+yıl NOUN
+bu DET
+çeyrekte NOUN
+Morgan PROPN
+233.6 NUM
+milyar NUM
+dolar NOUN
+veya CCONJ
+1.25 NUM
+dolarlık ADJ
+hisse NOUN
+kazandı VERB
+. PUNCT
+</S>
+<S>
+Prudential-Bache PROPN
+Securities PROPN
+Inc.'te PROPN
+analist NOUN
+olan ADJ
+George PROPN
+M. PROPN
+Salem PROPN
+, PUNCT
+sonuçları NOUN
+`` PUNCT
+hafif ADJ
+bir DET
+hayal NOUN
+kırıklığı NOUN
+" PUNCT
+olarak ADV
+adlandırdı VERB
+. PUNCT
+</S>
+<S>
+Net PROPN
+faiz NOUN
+geliri NOUN
+bu DET
+çeyrekte NOUN
+%27 X
+azalarak ADV
+254 NUM
+milyon NUM
+dolardan NOUN
+347 NUM
+milyon NUM
+dolara NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Banka NOUN
+bu DET
+artışların NOUN
+düşük ADJ
+ticaret NOUN
+sebebiyle NOUN
+kısmen ADV
+ötelendiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Donuk ADJ
+olanlar NOUN
+, PUNCT
+bir NUM
+önceki ADJ
+yılın NOUN
+üçüncü NUM
+çeyreğinde NOUN
+230.8 NUM
+milyon NUM
+dolara NOUN
+veya CCONJ
+%1.27'ye X
+erişti VERB
+. PUNCT
+</S>
+<S>
+Dün NOUN
+Big PROPN
+Board PROPN
+kompozit ADJ
+ticaretinde NOUN
+NCNB PROPN
+hisse NOUN
+başına NOUN
+3.50 NUM
+$ PUNCT
+artarak ADV
+51 NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+NCNB, PROPN
+üçüncü NUM
+çeyrek NOUN
+sonuçlarının NOUN
+Teksas PROPN
+operasyonunun NOUN
+1 NUM
+Ağustos'tan PROPN
+bu DET
+yanaki NOUN
+kazançlarının NOUN
+%100'ünü NOUN
+yansıttığını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Security PROPN
+Pacific PROPN
+hisseleri NOUN
+, PUNCT
+Big PROPN
+Board PROPN
+kompozit ADJ
+ticaretinde NOUN
+37.5 NUM
+sent NOUN
+düşüşle NOUN
+44.625$'dan NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Ulusal PROPN
+kote NOUN
+olmamış ADJ
+hisse NOUN
+senedi NOUN
+alım NOUN
+satımında NOUN
+, PUNCT
+LIN PROPN
+2.75 NUM
+$ PUNCT
+düşüşle NOUN
+104.75$'dan NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Teklifimiz NOUN
+, PUNCT
+18$'dan NOUN
+başlayan ADJ
+tüm DET
+hisseleri NOUN
+satın NOUN
+almaktır VERB
+. PUNCT
+</S>
+<S>
+Bayan NOUN
+Hills PROPN
+, PUNCT
+ABD PROPN
+ve CCONJ
+Kanada'nın PROPN
+anlaşmazlıklarını NOUN
+çözmek NOUN
+için ADP
+13 NUM
+Kasım'a PROPN
+kadar ADP
+vakti NOUN
+olduğunu NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+tür NOUN
+sözleşmeler NOUN
+sonuçlanmadan ADV
+önce ADP
+Kanada'daki PROPN
+kısıtlamaların NOUN
+kaldırılması NOUN
+gerektiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Şirket NOUN
+, PUNCT
+varantları NOUN
+her DET
+biri PRON
+1 NUM
+dolar NOUN
+olacak ADJ
+şekilde NOUN
+talep NOUN
+edebileceğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Teklif NOUN
+, PUNCT
+belirli ADJ
+bir DET
+miktarda NOUN
+borcun NOUN
+veya CCONJ
+hissenin NOUN
+borsada NOUN
+alınıp ADV
+verilmesine NOUN
+bağlı ADJ
+değildir AUX
+. PUNCT
+</S>
+<S>
+BSN, PROPN
+sermayesini NOUN
+küçültmeyi NOUN
+ve CCONJ
+hissedar NOUN
+değerini NOUN
+artırmayı NOUN
+teklif NOUN
+ettiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+`` PUNCT
+Bununla PRON
+başa NOUN
+çıkmak NOUN
+için ADP
+yeterli ADJ
+nakit NOUN
+akışımız NOUN
+var ADJ
+'' PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Toplam NOUN
+gelir NOUN
+2.57 NUM
+milyardan NOUN
+% NUM
+10 NUM
+yükselerek ADV
+, PUNCT
+2.83 NUM
+milyar NUM
+dolara NOUN
+ulaştı VERB
+. PUNCT
+</S>
+<S>
+Yatırım NOUN
+bankacılığı NOUN
+geliri NOUN
+, PUNCT
+daha ADV
+az ADJ
+özkaynak NOUN
+ve CCONJ
+belediye NOUN
+yüklenmeleri NOUN
+nedeniyle ADV
+%22 X
+düşerek ADV
+296.6 NUM
+milyon NUM
+$'a NOUN
+geriledi VERB
+. PUNCT
+</S>
+<S>
+Faiz NOUN
+ve CCONJ
+temettülerden NOUN
+elde NOUN
+edilen ADJ
+gelir NOUN
+%30 X
+artışla NOUN
+1.4 NUM
+milyar NUM
+dolara NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Brüt ADJ
+gelir NOUN
+478.9 NUM
+milyon NUM
+$'dan NOUN
+% NUM
+21 NUM
+artışla NOUN
+580.4 NUM
+milyon NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Menkul NOUN
+kıymetler NOUN
+firması NOUN
+, PUNCT
+kendi PRON
+hesabı NOUN
+için ADP
+ticaretten NOUN
+elde NOUN
+edilen ADJ
+kârın NOUN
+düştüğünü NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Yatırım NOUN
+bankacılığı NOUN
+geliri NOUN
+%25 X
+artarken ADV
+, PUNCT
+komisyon NOUN
+geliri NOUN
+daha ADV
+güçlü ADJ
+bir DET
+perakende ADJ
+pazarında NOUN
+%31 X
+arttı VERB
+. PUNCT
+</S>
+<S>
+Bear PROPN
+Stearns PROPN
+, PUNCT
+yatırım NOUN
+bankacılığı NOUN
+ve CCONJ
+aracılık NOUN
+şirketi NOUN
+Bear PROPN
+, PUNCT
+Stearns PROPN
+& PUNCT
+Co.'nun PROPN
+holding NOUN
+şirketidir VERB
+. PUNCT
+</S>
+<S>
+Net PROPN
+faiz NOUN
+dahil NOUN
+gelir NOUN
+444.9 NUM
+milyon NUM
+dolardı VERB
+, PUNCT
+450.7 NUM
+milyon NUM
+dolardan NOUN
+biraz ADV
+düşmüştü VERB
+. PUNCT
+</S>
+<S>
+Big PROPN
+Board PROPN
+kompozit ADJ
+ticaretinde NOUN
+dün NOUN
+, PUNCT
+PaineWebber PROPN
+75 NUM
+sent NOUN
+artışla NOUN
+18.50$'dan NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Sistem NOUN
+ve CCONJ
+prosedürle NOUN
+uğraşmak NOUN
+, PUNCT
+piyasaların NOUN
+panik NOUN
+bir DET
+satış NOUN
+dalgasına NOUN
+maruz ADJ
+kalmasını NOUN
+hiçbir DET
+şekilde NOUN
+engelleyemez VERB
+. PUNCT
+</S>
+<S>
+Ticaretin NOUN
+geçici ADJ
+olarak ADV
+kesilmesi NOUN
+, PUNCT
+satış NOUN
+paniğinin NOUN
+kendi PRON
+kendini PRON
+beslemesine NOUN
+engel NOUN
+olabilir VERB
+. PUNCT
+</S>
+<S>
+Ticaret NOUN
+piyasaları NOUN
+ve CCONJ
+Washington PROPN
+arasındaki ADJ
+yoğun ADJ
+telefon NOUN
+görüşmelerinden NOUN
+sonra ADP
+3:30'da NOUN
+vadeli ADJ
+işlem NOUN
+borsaları NOUN
+yeniden ADV
+açıldı VERB
+. PUNCT
+</S>
+<S>
+( PUNCT
+Tabii ADJ
+ki SCONJ
+, PUNCT
+uzmanların NOUN
+eylemleri NOUN
+tek ADJ
+başına NOUN
+hisse NOUN
+senedi NOUN
+fiyatlarında NOUN
+büyük ADJ
+bir DET
+kırılmayı NOUN
+asla ADV
+engelleyemez VERB
+. PUNCT
+</S>
+<S>
+Oyuncular NOUN
+, PUNCT
+otoparkta NOUN
+daha ADV
+fazla ADV
+alay NOUN
+edilmesinin NOUN
+bir DET
+kavgaya NOUN
+yol NOUN
+açtığını NOUN
+söylediler VERB
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Phelan PROPN
+, PUNCT
+pazar NOUN
+kapandıktan NOUN
+sonra ADP
+" PUNCT
+Hiçbir DET
+operasyon NOUN
+problemimiz NOUN
+yoktu VERB
+, PUNCT
+" PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Kentucky PROPN
+Fried PROPN
+Chicken PROPN
+ayrıca ADV
+, PUNCT
+akşam NOUN
+yemeğini NOUN
+evde NOUN
+yiyenler NOUN
+arasında NOUN
+büyük ADJ
+bir DET
+hit NOUN
+olabilecek ADJ
+eve NOUN
+teslim NOUN
+tavuk NOUN
+servisini NOUN
+de CCONJ
+test NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Testin NOUN
+Chicago PROPN
+, PUNCT
+Columbus PROPN
+, PUNCT
+Ohio PROPN
+ve CCONJ
+diğer ADJ
+birkaç DET
+şehirde NOUN
+devam NOUN
+ettiğini NOUN
+söylüyor VERB
+. PUNCT
+</S>
+<S>
+Pittsburgh PROPN
+danışmanı NOUN
+David PROPN
+Bear PROPN
+, PUNCT
+göz NOUN
+önünde NOUN
+olmak NOUN
+isteyen ADJ
+ancak CCONJ
+ısrarcı ADJ
+reklamlardan NOUN
+kaçınan ADJ
+müşterilere NOUN
+yumuşak ADJ
+bir DET
+yaklaşım NOUN
+satıyor VERB
+. PUNCT
+</S>
+<S>
+Sponsor NOUN
+için ADP
+yapılan ADJ
+tek ADJ
+tanıtım NOUN
+, PUNCT
+reklamın NOUN
+sonundaki ADJ
+kısa ADJ
+bir DET
+anmadan NOUN
+ibaret ADJ
+. PUNCT
+</S>
+<S>
+Reklamlarını NOUN
+çeken ADJ
+yeni ADJ
+firmalar NOUN
+arasında NOUN
+bir DET
+Butler PROPN
+, PUNCT
+Pa.'ya PROPN
+bağlı ADJ
+bir DET
+mimarlık NOUN
+firması NOUN
+olan ADJ
+Burt PROPN
+Hill PROPN
+Kosar PROPN
+Rittlemann PROPN
+Associates PROPN
+da CCONJ
+bulunmaktadır VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Bu PRON
+, PUNCT
+olası ADJ
+bilinirlik NOUN
+kaybına NOUN
+karşılık NOUN
+ne PRON
+kadar ADP
+güvenilirlik NOUN
+kazandığınız NOUN
+sorusudur VERB
+. PUNCT
+</S>
+<S>
+HERE, PROPN
+çevre NOUN
+açısından NOUN
+güvenli ADJ
+ambalaj NOUN
+ve CCONJ
+ürünleri NOUN
+kabul NOUN
+ettirmeye NOUN
+çalışma NOUN
+konusunda NOUN
+sert ADJ
+davranmaya NOUN
+başlayan ADJ
+bir DET
+perakendeci NOUN
+. PUNCT
+</S>
+<S>
+Örneğin CCONJ
+, PUNCT
+klorsuz ADJ
+bulaşık NOUN
+makinesi NOUN
+deterjanı NOUN
+önerir VERB
+ve CCONJ
+Sunlighti NOUN
+çevre NOUN
+açısından NOUN
+güvenliler NOUN
+listesine NOUN
+koyar VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Amacımız NOUN
+en ADV
+iyi ADJ
+alternatifi NOUN
+tanıtmak NOUN
+'' PUNCT
+diyor VERB
+. PUNCT
+</S>
+<S>
+Michael PROPN
+J. PROPN
+Fox PROPN
+, PUNCT
+Bruce PROPN
+Willis'in PROPN
+yerini NOUN
+alarak ADV
+üçüncü NUM
+sırada NOUN
+; PUNCT
+Cher PROPN
+ikinci NUM
+kez NOUN
+dördüncü NUM
+oldu VERB
+. PUNCT
+</S>
+<S>
+Colton PROPN
+, PUNCT
+" PUNCT
+HUD PROPN
+bütçesi NOUN
+1980'den NOUN
+bu DET
+yana NOUN
+%70'ten NOUN
+fazla ADV
+düştü VERB
+, PUNCT
+" PUNCT
+diyor VERB
+. PUNCT
+</S>
+<S>
+Diğer ADJ
+programlar NOUN
+da CCONJ
+benzer ADJ
+bir DET
+güçlükle NOUN
+karşılaşmış ADJ
+olsaydı VERB
+sorun NOUN
+yaşamazdım. NOUN
+" PUNCT
+</S>
+<S>
+Herkesin PRON
+söylediği NOUN
+gibi ADP
+, PUNCT
+federal ADJ
+hükümet NOUN
+zaten ADV
+900 NUM
+milyar NUM
+dolardan NOUN
+fazla ADJ
+ipoteği NOUN
+garanti NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Ulusal PROPN
+Vergi PROPN
+Mükellefleri NOUN
+Birliği'nden PROPN
+Sheila PROPN
+MacDonald PROPN
+şöyle ADV
+açıklıyor VERB
+: PUNCT
+" PUNCT
+İki NUM
+dünyaya NOUN
+yayılıyor VERB
+. PUNCT
+</S>
+<S>
+Ne CCONJ
+yazık ADV
+ki SCONJ
+, PUNCT
+örgütün NOUN
+domuz NOUN
+eti NOUN
+arzusu NOUN
+, PUNCT
+genel ADJ
+mali ADJ
+sorumluluğa NOUN
+olan ADJ
+bağlılığını NOUN
+geçersiz ADJ
+kılma NOUN
+eğilimindedir VERB
+. PUNCT
+</S>
+<S>
+Asıl ADJ
+anahtar NOUN
+ekonominin NOUN
+işlemesini NOUN
+sağlamak NOUN
+ve CCONJ
+faiz NOUN
+oranlarını NOUN
+düşürmektir VERB
+. PUNCT
+</S>
+<S>
+Törenler NOUN
+Cuma PROPN
+öğleden NOUN
+sonra ADP
+UAL PROPN
+satın NOUN
+alımının NOUN
+başarısız ADJ
+olduğu NOUN
+söylentisi NOUN
+yayıldığında NOUN
+başladı VERB
+. PUNCT
+</S>
+<S>
+AMR, PROPN
+Perşembe PROPN
+günkü ADJ
+kapanıştan NOUN
+yaklaşık ADJ
+%20 X
+düşerek ADV
+Pazartesi PROPN
+günü NOUN
+80 NUM
+dolardan NOUN
+açıldı VERB
+. PUNCT
+</S>
+<S>
+Çürük ADJ
+tahvil NOUN
+piyasası NOUN
+, PUNCT
+Cuma PROPN
+günkü ADJ
+ciddi ADJ
+artış NOUN
+için ADP
+birkaç DET
+haftadır ADV
+zemin NOUN
+hazırlıyordu VERB
+. PUNCT
+</S>
+<S>
+Bu PRON
+, PUNCT
+özel ADJ
+pazarların NOUN
+Washington'un PROPN
+Wall PROPN
+Street'i PROPN
+yıkmasını NOUN
+onayladığı ADJ
+bir DET
+durum NOUN
+mudur AUX
+? PUNCT
+</S>
+<S>
+Salı NOUN
+günkü ADJ
+işlemin NOUN
+ilk ADJ
+25 NUM
+dakikasında NOUN
+Nikkei PROPN
+endeksi NOUN
+664.83 NUM
+puan NOUN
+artarak ADV
+35133.83 NUM
+seviyesine NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Pazartesi PROPN
+heyelanı NOUN
+diğer ADJ
+piyasalara NOUN
+çok ADV
+yön NOUN
+vermeyen ADJ
+, PUNCT
+nispeten ADV
+sakin ADJ
+bir DET
+oturumda NOUN
+gerçekleşti VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Ticaret NOUN
+Avrupa PROPN
+ve CCONJ
+New PROPN
+York PROPN
+üzerinden NOUN
+dolaşana NOUN
+kadar ADP
+beklemek NOUN
+ve CCONJ
+görmek NOUN
+istiyoruz VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Ancak CCONJ
+telaşlı ADJ
+ticaretin NOUN
+yokluğunda NOUN
+onun PRON
+varlığı NOUN
+asla ADV
+açık ADJ
+bir DET
+şekilde NOUN
+hissedilmedi VERB
+. PUNCT
+</S>
+<S>
+Daha ADV
+kapsamlı ADJ
+Tokyo PROPN
+Hisse NOUN
+Senedi NOUN
+Fiyatları NOUN
+Endeksi NOUN
+45.66 NUM
+veya CCONJ
+% NUM
+1.7 NUM
+değer NOUN
+kaybederek ADV
+2600.88 NUM
+seviyesine NOUN
+geriledi VERB
+. PUNCT
+</S>
+<S>
+Piyasa NOUN
+keskin ADJ
+bir DET
+düşüş NOUN
+ile ADP
+açıldı VERB
+, PUNCT
+Nikkei PROPN
+ortalaması NOUN
+20 NUM
+dakika NOUN
+sonra ADP
+yaklaşık ADJ
+600 NUM
+düştü VERB
+. PUNCT
+</S>
+<S>
+Tokyo PROPN
+pazarının NOUN
+ikinci NOUN
+kısmındaki ADJ
+daha ADV
+küçük ADJ
+stoklar NOUN
+da CCONJ
+yılın NOUN
+en ADV
+büyük ADJ
+düşüşünü NOUN
+kaydetti VERB
+. PUNCT
+</S>
+<S>
+İkinci NOUN
+bölüm NOUN
+için ADP
+Tokyo PROPN
+Menkul NOUN
+Kıymetler PROPN
+Borsası NOUN
+endeksi NOUN
+100.96 NUM
+veya CCONJ
+% NUM
+2.7 NUM
+düşerek ADV
+3655.40'a NOUN
+indi VERB
+. PUNCT
+</S>
+<S>
+Japon ADJ
+yatırımcılar NOUN
+ve CCONJ
+tüccarlar NOUN
+Tokyo PROPN
+pazarının NOUN
+daha ADV
+keskin ADJ
+bir DET
+şekilde NOUN
+düşmediği NOUN
+için ADP
+rahatladıklarını NOUN
+dile NOUN
+getirdiler VERB
+. PUNCT
+</S>
+<S>
+Başlıca ADJ
+endeksler NOUN
+Avustralya PROPN
+ve CCONJ
+Yeni ADJ
+Zelanda'da PROPN
+%8'den NOUN
+, PUNCT
+Hong PROPN
+Kong'da PROPN
+%6.5'ten NOUN
+fazla ADV
+düşüş NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Benzer ADJ
+şekilde NOUN
+, PUNCT
+Kuala PROPN
+Lumpur'un PROPN
+kompozit ADJ
+endeksi NOUN
+dün NOUN
+1988 NUM
+kapanışının NOUN
+% NUM
+27.5 NUM
+üzerinde ADV
+gerçekleşti VERB
+. PUNCT
+</S>
+<S>
+Hong PROPN
+Kong'da PROPN
+, PUNCT
+Hang PROPN
+Seng PROPN
+Endeksi NOUN
+2601.70 NUM
+seviyesinden NOUN
+bitirmek NOUN
+üzere ADP
+180.60 NUM
+düştü VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+seans NOUN
+, PUNCT
+piyasanın NOUN
+1987 NUM
+çöküşünden NOUN
+sonraki ADJ
+dört NUM
+günlük ADJ
+kapanışının NOUN
+aksine ADV
+düzenli ADJ
+bir DET
+şekilde NOUN
+gerçekleşti VERB
+. PUNCT
+</S>
+<S>
+Düşük ADJ
+değerindeyken ADV
+, PUNCT
+Wall PROPN
+Street PROPN
+açılmadan ADV
+kısa ADJ
+bir DET
+süre NOUN
+önce ADP
+, PUNCT
+130 NUM
+puandan NOUN
+daha ADV
+yüksekti VERB
+. PUNCT
+</S>
+<S>
+Bunları PRON
+doğrudan ADJ
+karşılaştırılabilir ADJ
+yapmak NOUN
+için ADP
+, PUNCT
+her DET
+bir DET
+endeks NOUN
+1969'un NOUN
+100'e NOUN
+yakın ADJ
+kapanışına NOUN
+dayanır VERB
+. PUNCT
+</S>
+<S>
+İlginçtir VERB
+ki SCONJ
+, PUNCT
+Çevre NOUN
+Savunma NOUN
+Fonu'nun NOUN
+bununla PRON
+hiçbir DET
+ilgisi NOUN
+yoktur VERB
+. PUNCT
+</S>
+<S>
+Kansas PROPN
+buğday NOUN
+çiftçileri NOUN
+ve CCONJ
+Florida PROPN
+meyve NOUN
+yetiştiricileri NOUN
+adapte ADJ
+olmak NOUN
+ya CCONJ
+da CCONJ
+Kaliforniya PROPN
+pazarından NOUN
+vazgeçmek NOUN
+zorunda NOUN
+kalacaklardı VERB
+. PUNCT
+</S>
+<S>
+Diğer ADJ
+bir DET
+deyişle NOUN
+, PUNCT
+Californiya PROPN
+milletin NOUN
+çiftliği NOUN
+politikasının NOUN
+kontrolünü NOUN
+ele NOUN
+geçirmek NOUN
+için ADP
+çabalıyordu VERB
+. PUNCT
+</S>
+<S>
+Eğer SCONJ
+bu DET
+yeni ADJ
+teklif NOUN
+yasa NOUN
+haline NOUN
+gelirse VERB
+, PUNCT
+yeşil ADJ
+lobi NOUN
+bundan ADV
+doğrudan ADJ
+faydalanacaktır VERB
+. PUNCT
+</S>
+<S>
+Dow PROPN
+, PUNCT
+ticaretin NOUN
+ilk ADJ
+40 NUM
+dakikasında NOUN
+63.52 NUM
+kaybederek ADV
+düşüşünü NOUN
+hızlandırdı VERB
+. PUNCT
+</S>
+<S>
+Program NOUN
+tüccarları NOUN
+iş NOUN
+başında NOUN
+görünürken ADV
+alıcılar NOUN
+piyasadan NOUN
+uzaklaştı VERB
+ve CCONJ
+hisse NOUN
+senetlerinin NOUN
+düşüşünü NOUN
+izledi VERB
+. PUNCT
+</S>
+<S>
+Ve CCONJ
+bu DET
+sefer NOUN
+sorumlu ADJ
+olanlar NOUN
+sadece ADV
+çeşitlendirilmiş ADJ
+portfolyolara NOUN
+ait ADP
+menkulleri NOUN
+alıp ADV
+satan ADJ
+tüccarlar NOUN
+değildi AUX
+. PUNCT
+</S>
+<S>
+Yine ADV
+de CCONJ
+, PUNCT
+piyasa NOUN
+henüz ADV
+pozitif ADJ
+bölgeye NOUN
+geçmemişti VERB
+ve CCONJ
+tüccarlar NOUN
+kasvetliydi VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+Big PROPN
+Board PROPN
+uzmanı NOUN
+, PUNCT
+" PUNCT
+Olumlu ADJ
+tarafından NOUN
+bakarsak VERB
+bir DET
+kargaşaydı VERB
+'' PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Chicago PROPN
+merkezli ADJ
+bir DET
+opsiyon NOUN
+tüccarı NOUN
+, PUNCT
+" PUNCT
+Kesinlikle ADV
+öldürüldüler VERB
+, PUNCT
+katledildiler VERB
+, PUNCT
+" PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+sefer NOUN
+kurumlar NOUN
+gelen ADJ
+programları NOUN
+gördü VERB
+ve CCONJ
+geri ADV
+çekildi VERB
+. PUNCT
+</S>
+<S>
+Uzmanlar NOUN
+, PUNCT
+Cuma PROPN
+günkü ADJ
+düşüş NOUN
+sırasında NOUN
+düzenli ADJ
+piyasaları NOUN
+sürdürememeleri NOUN
+nedeniyle ADV
+eleştirildi VERB
+. PUNCT
+</S>
+<S>
+Son ADJ
+iki NUM
+gündür ADV
+jirasyonlarda NOUN
+pazarın NOUN
+hiçbir DET
+sektörü NOUN
+es NOUN
+geçilmemiştir VERB
+. PUNCT
+</S>
+<S>
+UAL PROPN
+ve CCONJ
+AMR PROPN
+devrimleri NOUN
+nedeniyle ADV
+, PUNCT
+havayolları NOUN
+dün NOUN
+piyasanın NOUN
+en ADV
+zayıf ADJ
+sektörü NOUN
+oldu VERB
+. PUNCT
+</S>
+<S>
+Yakın ADJ
+zamanda NOUN
+popüler ADJ
+bir DET
+hisse NOUN
+senedi NOUN
+olan ADJ
+Federal PROPN
+Ulusal PROPN
+İpotek NOUN
+Derneği NOUN
+, PUNCT
+yaklaşık ADJ
+1.6 NUM
+milyon NUM
+hisseye NOUN
+4 NUM
+ila CCONJ
+124 NUM
+tırmandı VERB
+. PUNCT
+</S>
+<S>
+Bunun PRON
+yerine ADV
+, PUNCT
+zayıf ADJ
+hisseleri NOUN
+satın NOUN
+aldılar VERB
+ve CCONJ
+bunları PRON
+piyasayı NOUN
+düzenli ADJ
+tutan ADJ
+güce NOUN
+sattılar VERB
+. PUNCT
+</S>
+<S>
+`` PUNCT
+Onlar PRON
+mükemmel ADJ
+bir DET
+iş NOUN
+yaptı VERB
+, PUNCT
+'' PUNCT
+dedi VERB
+Bay NOUN
+Phelan PROPN
+uzmanlar NOUN
+hakkında ADV
+. PUNCT
+</S>
+<S>
+House PROPN
+müzakerecileri NOUN
+6-4 X
+farkla NOUN
+dün NOUN
+gece NOUN
+tüm DET
+iç NOUN
+hat NOUN
+uçuşlarını NOUN
+kapsayan ADJ
+bir DET
+Senato NOUN
+hükmünü NOUN
+reddetti VERB
+. PUNCT
+</S>
+<S>
+Başından NOUN
+beri ADP
+, PUNCT
+tütün NOUN
+endüstrisi NOUN
+hangi PRON
+stratejiyi NOUN
+takip NOUN
+edeceğinden NOUN
+emin ADJ
+değildi AUX
+. PUNCT
+</S>
+<S>
+Continental'in PROPN
+sahibi NOUN
+Texas PROPN
+Air PROPN
+Corp. PROPN
+ve CCONJ
+Hava PROPN
+Taşımacılığı NOUN
+Birliği NOUN
+lobicilikte NOUN
+öne NOUN
+çıktı VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+hisse NOUN
+senetleri NOUN
+yükselmeye NOUN
+başladığında NOUN
+Hazine NOUN
+bonosu NOUN
+fiyatları NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Tüccarlar NOUN
+, PUNCT
+dünün NOUN
+mütevazı ADJ
+genişlemesinin NOUN
+, PUNCT
+büyük ADJ
+ölçüde NOUN
+beklendiği NOUN
+için ADP
+pek ADV
+coşku NOUN
+yaratmadığını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Bazıları PRON
+ise VERB
+daha ADV
+agresif ADJ
+bir DET
+gevşeme NOUN
+bekledikleri NOUN
+için ADP
+bazı DET
+yatırımcıların NOUN
+hayal NOUN
+kırıklığına NOUN
+uğradığını NOUN
+belirtiyor VERB
+. PUNCT
+</S>
+<S>
+Çürük ADJ
+tahviller NOUN
+dört NUM
+puan NOUN
+kadar ADP
+düştü VERB
+, PUNCT
+ancak CCONJ
+hisse NOUN
+senedi NOUN
+fiyatlarının NOUN
+yükselmesi NOUN
+ile ADP
+mütevazı ADJ
+bir DET
+dönüş NOUN
+yaptı VERB
+. PUNCT
+</S>
+<S>
+ABD PROPN
+Hazine PROPN
+bonoları NOUN
+Japonya'da PROPN
+öğleden NOUN
+sonra ADP
+7.30'da NOUN
+( PUNCT
+EDT PROPN
+) PUNCT
+açılan ADJ
+gecelik ADJ
+ticarette NOUN
+daha ADV
+yüksekti VERB
+. PUNCT
+</S>
+<S>
+Piyasa NOUN
+burada ADV
+açıldığında NOUN
+, PUNCT
+borsa NOUN
+yeniden ADV
+güçlenirken ADV
+tahvil NOUN
+fiyatları NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+13 NUM
+haftalık ADJ
+faturalar NOUN
+18 NUM
+Ocak PROPN
+1990'da NOUN
+ve CCONJ
+26 NUM
+haftalık ADJ
+faturalar NOUN
+19 NUM
+Nisan PROPN
+1990'da NOUN
+olgunlaştı VERB
+. PUNCT
+</S>
+<S>
+Aktif ADJ
+nüshalar NOUN
+24/32 NUM
+ila CCONJ
+30/32 NUM
+puan NOUN
+daha ADV
+düşük ADJ
+sona NOUN
+erdiğinden NOUN
+, PUNCT
+ipotek NOUN
+menkul ADJ
+kıymetleri NOUN
+Cuma PROPN
+günkü ADJ
+kazançların NOUN
+çoğunu PRON
+bıraktı VERB
+. PUNCT
+</S>
+<S>
+Federal PROPN
+Home PROPN
+Loan PROPN
+Mortgage NOUN
+Corp.% PROPN
+9 NUM
+menkul NOUN
+kıymetler NOUN
+97 NUM
+1/4 NUM
+, PUNCT
+3/4 NUM
+düştü VERB
+. PUNCT
+</S>
+<S>
+Ribaund PROPN
+hisse NOUN
+senetleri NOUN
+ve CCONJ
+zayıf ADJ
+Hazine PROPN
+fiyatları NOUN
+, PUNCT
+geç ADJ
+saatlerde NOUN
+belediye NOUN
+tahvillerini NOUN
+1/4 NUM
+ila CCONJ
+3/4 NUM
+puan NOUN
+düşürdü VERB
+. PUNCT
+</S>
+<S>
+Florida PROPN
+Eğitim NOUN
+Kurulu'nun NOUN
+2023 NUM
+tarihli ADJ
+7 NUM
+1/4 NUM
+sayısı NOUN
+99 NUM
+1/2 NUM
+teklifinde NOUN
+5/8 NUM
+puan NOUN
+daha ADV
+zayıftı VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+güvenlik NOUN
+hizmetleri NOUN
+ve CCONJ
+açık ADJ
+artırma NOUN
+şirketi NOUN
+olan ADJ
+ADT, PROPN
+Londra PROPN
+Menkul NOUN
+Kıymetler PROPN
+Borsası'nda NOUN
+işlem NOUN
+görmektedir VERB
+. PUNCT
+</S>
+<S>
+Montreal PROPN
+taşımacılığı NOUN
+, PUNCT
+kaynakları NOUN
+ve CCONJ
+endüstriyel ADJ
+holding NOUN
+kuruluşu NOUN
+olan ADJ
+Canadian PROPN
+Pacific PROPN
+Ltd. PROPN
+tarafından NOUN
+Laidlaw'ın PROPN
+%47'si NOUN
+kontrol NOUN
+edilmektedir VERB
+. PUNCT
+</S>
+<S>
+Pershare PROPN
+net NOUN
+, PUNCT
+giderler NOUN
+ve CCONJ
+sermaye NOUN
+düzeltmeleri NOUN
+nedeniyle ADV
+457.7 NUM
+yen'den NOUN
+423.3 NUM
+yen'e NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Hertz NOUN
+Equipment PROPN
+, PUNCT
+ABD, PROPN
+Fransa PROPN
+, PUNCT
+İspanya PROPN
+ve CCONJ
+Birleşik PROPN
+Krallık'ta PROPN
+büyük ADJ
+bir DET
+kiralık ADJ
+ekipman NOUN
+tedarikçisidir VERB
+. PUNCT
+</S>
+<S>
+Interspec PROPN
+Inc., PROPN
+31 NUM
+Ağustos'ta PROPN
+sona NOUN
+eren ADJ
+mali ADJ
+çeyrekte NOUN
+2.4 NUM
+milyon NUM
+$ PUNCT
+net NOUN
+zarar NOUN
+bildirdi VERB
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Simmons PROPN
+, PUNCT
+üçüncü NUM
+çeyrek NOUN
+sonuçlarının NOUN
+verimlilik NOUN
+ve CCONJ
+faaliyet NOUN
+marjlarındaki ADJ
+sürekli ADV
+gelişmeleri NOUN
+yansıttığını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+ABD PROPN
+Banknotu NOUN
+, PUNCT
+" PUNCT
+Hiçbir DET
+güvence NOUN
+olamaz VERB
+, PUNCT
+" PUNCT
+dedi VERB
+, PUNCT
+bir DET
+satış NOUN
+anlaşması NOUN
+yapılacaktı VERB
+. PUNCT
+</S>
+<S>
+ABD PROPN
+Banknotu NOUN
+, PUNCT
+Citibank'ın PROPN
+üst ADJ
+düzey NOUN
+güvenli ADJ
+finansman NOUN
+taahhüdünün NOUN
+sona NOUN
+erme NOUN
+tarihini NOUN
+15 NUM
+Kasım'a PROPN
+kadar ADP
+uzattığını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+sonuçlar NOUN
+, PUNCT
+borcun NOUN
+geri ADV
+ödenmesi NOUN
+ile ADP
+ilgili ADJ
+2.7 NUM
+milyon NUM
+$'lık NOUN
+bir DET
+masrafı NOUN
+içermektedir VERB
+. PUNCT
+</S>
+<S>
+Tekliften NOUN
+elde NOUN
+edilen ADJ
+net NOUN
+gelirin NOUN
+200 NUM
+milyon NUM
+$'a NOUN
+yakın ADJ
+olması NOUN
+bekleniyor VERB
+. PUNCT
+</S>
+<S>
+DIG, PROPN
+Rose PROPN
+Partners PROPN
+L.P'nin PROPN
+bir DET
+birimi NOUN
+olan ADJ
+DIG PROPN
+Holding NOUN
+Corp'un PROPN
+bir DET
+birimidir VERB
+. PUNCT
+</S>
+<S>
+Modaya NOUN
+uygun ADJ
+dergi NOUN
+reklamları NOUN
+, PUNCT
+Hollywood PROPN
+ünlülerinin NOUN
+kot NOUN
+pantolon NOUN
+, PUNCT
+ayakkabı NOUN
+ve CCONJ
+likör NOUN
+tanıtan ADJ
+, PUNCT
+çarığıcı NOUN
+siyah ADJ
+beyaz ADJ
+fotoğraflarını NOUN
+içeriyor VERB
+. PUNCT
+</S>
+<S>
+Sadece ADV
+renkli ADJ
+çekim NOUN
+yapmaya NOUN
+alışkın ADJ
+olan ADJ
+portre NOUN
+stüdyoları NOUN
+, PUNCT
+siyah ADJ
+beyaz ADJ
+portre NOUN
+siparişlerinde NOUN
+bir DET
+artış NOUN
+olduğunu NOUN
+belirtiyor VERB
+. PUNCT
+</S>
+<S>
+İki NUM
+yıl NOUN
+öncesine NOUN
+kadar ADP
+, PUNCT
+siyah-beyaz ADJ
+film NOUN
+satışları NOUN
+1960'lardan NOUN
+bu DET
+yana NOUN
+istikrarlı ADJ
+bir DET
+şekilde NOUN
+azalıyordu VERB
+. PUNCT
+</S>
+<S>
+Ilford'un PROPN
+pazarlama NOUN
+iletişimi NOUN
+direktörü NOUN
+Laurie PROPN
+DiCara PROPN
+, PUNCT
+" PUNCT
+Trendin NOUN
+sürmesini NOUN
+umuyoruz VERB
+, PUNCT
+" PUNCT
+diyor VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Siyah ADJ
+ve CCONJ
+beyazla NOUN
+gerçekliğin NOUN
+dışına NOUN
+çıkabilirsiniz VERB
+, PUNCT
+" PUNCT
+diye ADP
+ekliyor VERB
+. PUNCT
+</S>
+<S>
+Kampanya NOUN
+, PUNCT
+bir DET
+uzman ADJ
+perakendecinin NOUN
+bu DET
+yılki ADJ
+en ADV
+iyi ADJ
+reklamı NOUN
+olarak ADV
+Cleo PROPN
+ödülü NOUN
+kazandı VERB
+. PUNCT
+</S>
+<S>
+Uzun ADJ
+süredir ADV
+renge NOUN
+bağlı ADJ
+olan ADJ
+gıda NOUN
+ürünleri NOUN
+ve CCONJ
+otomobiller NOUN
+bile ADV
+geçiş NOUN
+yapıyor VERB
+. PUNCT
+</S>
+<S>
+Şu DET
+anda NOUN
+iki NUM
+tonlu ADJ
+reklamlar NOUN
+kullanan ADJ
+diğer ADJ
+şirketler NOUN
+arasında NOUN
+American PROPN
+Express PROPN
+Co. PROPN
+ve CCONJ
+Epson PROPN
+America PROPN
+Inc PROPN
+yer NOUN
+almaktadır VERB
+. PUNCT
+</S>
+<S>
+Yine ADV
+de CCONJ
+, PUNCT
+çoğu ADJ
+tüketici NOUN
+ailenin NOUN
+fotoğrafını NOUN
+çekmek NOUN
+için ADP
+kameralarına NOUN
+siyah ADJ
+beyaz ADJ
+film NOUN
+koymuyor VERB
+. PUNCT
+</S>
+<S>
+Siyah ADJ
+beyaz ADJ
+film NOUN
+tüketicilere NOUN
+için ADP
+renkli ADJ
+filmden NOUN
+biraz ADV
+daha ADV
+az ADJ
+maliyetlidir VERB
+ve CCONJ
+banyo NOUN
+maliyetleri NOUN
+de CCONJ
+aynıdır VERB
+. PUNCT
+</S>
+<S>
+Müşteri NOUN
+çekmeyi NOUN
+amaçlayan ADJ
+şirket NOUN
+, PUNCT
+siyah ADJ
+beyaz ADJ
+fotoğraf NOUN
+derslerine NOUN
+verdiği ADJ
+sponsorluğu NOUN
+da CCONJ
+artırıyor VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+bazı DET
+endüstri NOUN
+gözlemcileri NOUN
+, PUNCT
+siyah ADJ
+ve CCONJ
+beyazın NOUN
+yeniden ADV
+canlanmasının NOUN
+sadece ADV
+bir DET
+heves NOUN
+olduğuna NOUN
+inanıyor VERB
+. PUNCT
+</S>
+<S>
+Satışlar NOUN
+88.3 NUM
+milyon NUM
+$'dan NOUN
+% NUM
+7'den NOUN
+fazla ADV
+94.9 NUM
+milyon NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Satışlar NOUN
+261.3 NUM
+milyon NUM
+$'dan NOUN
+neredeyse ADV
+%7 X
+artışla NOUN
+279.1 NUM
+milyon NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Bu DET
+iki NUM
+teklif NOUN
+özeldi VERB
+ve CCONJ
+sözcüsü NOUN
+teklif NOUN
+veren ADJ
+şirketleri NOUN
+söylemeyi NOUN
+reddetti VERB
+. PUNCT
+</S>
+<S>
+223.0'ın NOUN
+son ADJ
+okuması NOUN
+Temmuz'daki PROPN
+222.3'ten NOUN
+yüksekti VERB
+ve CCONJ
+henüz ADV
+Mart PROPN
+ayında NOUN
+215.3'tü VERB
+. PUNCT
+</S>
+<S>
+Grup NOUN
+normalde NOUN
+ancak ADV
+ekonominin NOUN
+genel ADJ
+gidişatında NOUN
+bir DET
+değişiklik NOUN
+olması NOUN
+muhtemel ADJ
+olduğunda NOUN
+toplanır VERB
+. PUNCT
+</S>
+<S>
+Enflasyon NOUN
+ayarlaması NOUN
+sonrasında NOUN
+, PUNCT
+gayri NOUN
+safi ADJ
+milli ADJ
+hasılada NOUN
+1990 NUM
+yılında NOUN
+%2.6'lık NOUN
+bir DET
+artış NOUN
+bekliyorlar VERB
+. PUNCT
+</S>
+<S>
+Ağustos PROPN
+ayında NOUN
+tahvil NOUN
+tedbiri NOUN
+1987'nin NOUN
+başından NOUN
+bu DET
+yana NOUN
+en ADV
+yüksek ADJ
+aylık NOUN
+ortalamasında NOUN
+gerçekleşti VERB
+. PUNCT
+</S>
+<S>
+BSN PROPN
+başlangıçta NOUN
+, PUNCT
+yakın ADJ
+bir DET
+endişe NOUN
+kaynağı NOUN
+olan ADJ
+Birkel'de PROPN
+%15 X
+faiz NOUN
+kazanacak VERB
+. PUNCT
+</S>
+<S>
+BSN PROPN
+, PUNCT
+devralımın NOUN
+Batı PROPN
+Alman NOUN
+kartel NOUN
+ofisi NOUN
+tarafından ADV
+onay NOUN
+için ADP
+ibraz NOUN
+edildiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Moody's PROPN
+Investors PROPN
+Service PROPN
+Inc., PROPN
+CenTrust'un PROPN
+Caa'ya PROPN
+olan ADJ
+borcunu NOUN
+B-3'ten PROPN
+düşürdü VERB
+. PUNCT
+</S>
+<S>
+Derecelendirme NOUN
+kuruluşu NOUN
+, PUNCT
+yaklaşık ADJ
+85 NUM
+milyon NUM
+dolarlık ADJ
+menkul NOUN
+kıymetin NOUN
+etkilendiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Tokyo PROPN
+hisse NOUN
+senedi NOUN
+fiyatları NOUN
+Pazartesi PROPN
+günkü ADJ
+%1.8'lik NOUN
+düşüşün NOUN
+ardından NOUN
+Salı NOUN
+erken ADJ
+saatlerde NOUN
+toparlandı VERB
+. PUNCT
+</S>
+<S>
+IBM'in PROPN
+kazancı NOUN
+üçüncü NUM
+çeyrekte NOUN
+beklenenden NOUN
+biraz ADV
+daha ADV
+fazla ADV
+, PUNCT
+%30 X
+kadar ADP
+, PUNCT
+düştü VERB
+. PUNCT
+</S>
+<S>
+Bilgisayar NOUN
+devi NOUN
+, PUNCT
+doların NOUN
+yükselişinden NOUN
+ve CCONJ
+yeni ADJ
+yüksek ADJ
+kaliteli ADJ
+disk NOUN
+sürücüsünün NOUN
+geciken ADJ
+teslimatından NOUN
+bahsetti VERB
+. PUNCT
+</S>
+<S>
+ABD'de PROPN
+Japonların NOUN
+sahip NOUN
+olduğu ADJ
+ve CCONJ
+yönettiği ADJ
+fabrikalardaki ADJ
+üretimin NOUN
+%42 X
+artması NOUN
+bekleniyor VERB
+. PUNCT
+</S>
+<S>
+S&L PROPN
+kurtarma NOUN
+ajansının NOUN
+sermayeyi NOUN
+nasıl ADV
+arttıracağı ADJ
+, PUNCT
+yeni ADJ
+bir DET
+yasa NOUN
+tasarısı NOUN
+ile ADP
+kısıtlanacaktı VERB
+. PUNCT
+</S>
+<S>
+The PROPN
+Ways PROPN
+and NOUN
+Means PROPN
+planı NOUN
+hasta ADJ
+ekonomi NOUN
+enstitülerini NOUN
+satmanın NOUN
+önünde NOUN
+başka ADJ
+bir DET
+engel NOUN
+yaratacaktır VERB
+. PUNCT
+</S>
+<S>
+Bear PROPN
+Stearns PROPN
+%7.5 X
+kazanç NOUN
+kaydederken ADV
+PaineWebber PROPN
+bir NUM
+yıl NOUN
+önceye NOUN
+göre ADP
+düşüş NOUN
+gösterdi VERB
+. PUNCT
+</S>
+<S>
+Britanya'nın PROPN
+Blue PROPN
+Arrow'u PROPN
+Manpower PROPN
+ismine NOUN
+dönmeyi NOUN
+ve CCONJ
+büyük ADJ
+meblağda NOUN
+borç NOUN
+sildirmeyi NOUN
+planlıyor VERB
+. PUNCT
+</S>
+<S>
+Dow PROPN
+Jones PROPN
+2657.38 NUM
+, PUNCT
+88.12 NUM
+artış NOUN
+; PUNCT
+ulaştırma NOUN
+1304.23 NUM
+, PUNCT
+102.06 NUM
+düşüş NOUN
+; PUNCT
+kamu NOUN
+hizmetleri NOUN
+214.73 NUM
+, PUNCT
+2.77 NUM
+artış NOUN
+. PUNCT
+</S>
+<S>
+Emtia NOUN
+: PUNCT
+Dow PROPN
+Jones PROPN
+vadeli ADJ
+endeks NOUN
+129.12 NUM
+, PUNCT
+0.15 NUM
+düşüş NOUN
+; PUNCT
+spot NOUN
+endeksi NOUN
+130.16 NUM
+, PUNCT
+0.91 NUM
+artış NOUN
+. PUNCT
+</S>
+<S>
+Ticari ADJ
+bankalar NOUN
+arasında NOUN
+gecelik ADJ
+kullanım NOUN
+için ADP
+1 NUM
+milyon NUM
+dolar NOUN
+veya CCONJ
+daha ADV
+fazla ADV
+tutarda NOUN
+işlem NOUN
+gören ADJ
+rezervler NOUN
+. PUNCT
+</S>
+<S>
+%9.83 X
+standart ADJ
+konvansiyonel ADJ
+sabit ADJ
+oranlı ADJ
+ipotek NOUN
+; PUNCT
+% NUM
+7.875 NUM
+, PUNCT
+% NUM
+2 NUM
+faiz NOUN
+oranı NOUN
+bir NUM
+yıllık ADJ
+ayarlanabilir VERB
+faiz NOUN
+oranlı ADJ
+ipotekleri NOUN
+içermektedir VERB
+. PUNCT
+</S>
+<S>
+Son ADJ
+30 NUM
+güne NOUN
+ait ADP
+giderlerden NOUN
+sonra ADP
+yıllık ADJ
+ortalama NOUN
+getiri NOUN
+oranı NOUN
+; PUNCT
+gelecekteki ADJ
+getirilerin NOUN
+bir DET
+öngörüsü NOUN
+değil AUX
+. PUNCT
+</S>
+<S>
+Omnicare PROPN
+, PUNCT
+bölümün NOUN
+ACCO PROPN
+ticari ADJ
+adı NOUN
+altında NOUN
+faaliyet NOUN
+gösterdiğini NOUN
+ve CCONJ
+tıbbi ADJ
+ve CCONJ
+dental NOUN
+pazarlara NOUN
+tedarikte NOUN
+bulunduğunu NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Faaliyet NOUN
+geliri NOUN
+, PUNCT
+bir DET
+önceki ADJ
+çeyrekte NOUN
+19.7 NUM
+milyon NUM
+$'dan NOUN
+% NUM
+13 NUM
+artışla NOUN
+22.2 NUM
+milyon NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Bundan ADV
+kısa ADJ
+bir DET
+süre NOUN
+sonra ADP
+, PUNCT
+Bay NOUN
+O'Linn PROPN
+, PUNCT
+Scott PROPN
+Stanley'yi PROPN
+tutukladı VERB
+ve CCONJ
+pasaportuna NOUN
+el NOUN
+koydu VERB
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Stanley PROPN
+tutuklandı VERB
+ve CCONJ
+bu DET
+ay NOUN
+Namibya PROPN
+döndüğünde NOUN
+diğerleri NOUN
+ile ADP
+birlikte ADP
+suçlandı VERB
+. PUNCT
+</S>
+<S>
+Hem CCONJ
+Dışişleri NOUN
+Bakanlığı NOUN
+hem CCONJ
+de CCONJ
+Avukatlar NOUN
+Basın NOUN
+Özgürlüğü NOUN
+Komitesi NOUN
+Bay NOUN
+Stanley'in PROPN
+tutuklanmasını NOUN
+protesto NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Emtia NOUN
+vadeli ADJ
+işlem NOUN
+fiyatları NOUN
+genel ADJ
+olarak ADV
+Cuma PROPN
+günkü ADJ
+düşüşünün NOUN
+ardından NOUN
+borsa NOUN
+istikrarını NOUN
+yansıttı VERB
+. PUNCT
+</S>
+<S>
+Ekim PROPN
+ayı NOUN
+altın NOUN
+fiyatı NOUN
+4 NUM
+$'dan NOUN
+367.30 NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+Gold PROPN
+, PUNCT
+iki NUM
+yıl NOUN
+önce ADP
+Black PROPN
+Monday'deki PROPN
+muhteşem ADJ
+performansçı ADJ
+değildi AUX
+artık ADV
+. PUNCT
+</S>
+<S>
+Altının NOUN
+kazançlarını NOUN
+sürdürmesi NOUN
+ve CCONJ
+daha ADV
+da CCONJ
+yükselmesi NOUN
+çok ADV
+muhtemel ADJ
+, PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Bunun PRON
+dolara NOUN
+zarar NOUN
+vereceğini NOUN
+ve CCONJ
+altına NOUN
+destek NOUN
+olacağını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Bazı DET
+analistler NOUN
+, PUNCT
+birkaç DET
+gün NOUN
+süren ADJ
+önemli ADJ
+kazanımların NOUN
+ardından NOUN
+ham ADJ
+petrolün NOUN
+bir DET
+şekilde NOUN
+düzeltilmesi NOUN
+gerektiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Analist NOUN
+, PUNCT
+şimdi ADV
+sadece ADV
+küçük ADJ
+noktaların NOUN
+temizlenmesi ADJ
+gerektiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+New PROPN
+York PROPN
+Ticaret NOUN
+Borsası'ndaki ADJ
+bakır NOUN
+stokları NOUN
+dün NOUN
+516 NUM
+ton NOUN
+artışla NOUN
+10004 NUM
+tona NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+LME PROPN
+hisse NOUN
+senetlerinin NOUN
+düşüşü NOUN
+beklendiği ADJ
+gibi ADP
+gerçekleşti VERB
+, PUNCT
+ancak CCONJ
+Comex PROPN
+kazancı NOUN
+beklenilen ADJ
+şekilde NOUN
+gerçekleşmedi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+analist NOUN
+, PUNCT
+bunun PRON
+borsaya NOUN
+duyulan ADJ
+endişeyle NOUN
+bir DET
+kenara NOUN
+bırakıldığını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Vadeli ADJ
+işlem NOUN
+fiyatları NOUN
+, PUNCT
+piyasadaki ADJ
+herhangi ADJ
+bir DET
+etkiden NOUN
+çok ADV
+Jerry PROPN
+Kasırgası'na NOUN
+tepki NOUN
+olarak ADV
+azaldı VERB
+. PUNCT
+</S>
+<S>
+Aralık PROPN
+ayı NOUN
+sözleşmesi NOUN
+, PUNCT
+74.48 NUM
+sent NOUN
+ile CCONJ
+pound NOUN
+başına NOUN
+0.22 NUM
+cent'lik NOUN
+bir DET
+kayıpla NOUN
+sona NOUN
+erdi VERB
+. PUNCT
+</S>
+<S>
+Analist NOUN
+, PUNCT
+Hindistan'ın PROPN
+son ADJ
+zamanlarda NOUN
+200000 NUM
+ton NOUN
+satın NOUN
+aldığını NOUN
+ve CCONJ
+daha ADV
+fazla ADJ
+satın NOUN
+almasının NOUN
+beklendiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Başka ADJ
+bir DET
+analist NOUN
+, PUNCT
+Hindistan'ın PROPN
+borsa NOUN
+endişesi NOUN
+nedeniyle ADV
+geri ADV
+çekilmiş ADJ
+olabileceğini NOUN
+düşündü VERB
+. PUNCT
+</S>
+<S>
+New PROPN
+York PROPN
+Menkul NOUN
+Kıymetler PROPN
+Borsası NOUN
+kompozit ADJ
+ticaretinde NOUN
+dün NOUN
+, PUNCT
+Knight-Ridder PROPN
+37.5 NUM
+sent NOUN
+düşüşle NOUN
+51.75$'dan NOUN
+kapandı VERB
+. PUNCT
+</S>
+<S>
+DD PROPN
+Acquisition PROPN
+, PUNCT
+Unicorp PROPN
+Canada PROPN
+Corp.'un PROPN
+Kingsbridge PROPN
+Capital PROPN
+Group PROPN
+birimi NOUN
+ve CCONJ
+Cara PROPN
+Operations PROPN
+Ltd'nin PROPN
+bir DET
+ortaklığıdır VERB
+. PUNCT
+</S>
+<S>
+Şirket NOUN
+, PUNCT
+bir DET
+önceki ADJ
+çeyrekte NOUN
+36 NUM
+milyon NUM
+dolar NOUN
+veya CCONJ
+57 NUM
+sent NOUN
+hisse NOUN
+aldı VERB
+. PUNCT
+</S>
+<S>
+Mevduat NOUN
+büyümesi NOUN
+, PUNCT
+bir DET
+önceki ADJ
+yıla NOUN
+göre ADP
+iki NUM
+kattan NOUN
+fazla ADV
+, PUNCT
+393 NUM
+milyon NUM
+dolar NOUN
+olarak ADV
+gerçekleşti VERB
+. PUNCT
+</S>
+<S>
+Daha ADV
+önceki ADJ
+onarımlar NOUN
+, PUNCT
+doğrudan ADJ
+atmosfere NOUN
+giden ADJ
+bir DET
+hortumla NOUN
+CFC'leri PROPN
+evden NOUN
+havalandırdı VERB
+. PUNCT
+</S>
+<S>
+Üretim NOUN
+paylaşım NOUN
+sözleşmesi NOUN
+alanı NOUN
+Endonezya PROPN
+devlet NOUN
+petrol NOUN
+şirketi NOUN
+Pertamina PROPN
+ile ADP
+düzenleniyor VERB
+. PUNCT
+</S>
+<S>
+Şirket NOUN
+daha ADV
+önce ADV
+net NOUN
+2.3 NUM
+milyon NUM
+dolar NOUN
+ya CCONJ
+da CCONJ
+hisse NOUN
+başına NOUN
+15 NUM
+sent NOUN
+bildirdi VERB
+. PUNCT
+</S>
+<S>
+Amerikan NOUN
+Menkul NOUN
+Kıymetler PROPN
+Borsası NOUN
+bileşik ADJ
+ticaretinde NOUN
+, PUNCT
+ISI NOUN
+3.125$'ı NOUN
+18.625$'dan NOUN
+kapadı VERB
+. PUNCT
+</S>
+<S>
+Montreal PROPN
+Exchange PROPN
+ticaretinde NOUN
+, PUNCT
+Memotec PROPN
+10.625 NUM
+Kanada PROPN
+Doları'nda NOUN
+(9.05 NOUN
+ABD PROPN
+Doları) PROPN
+değişmeden ADV
+kapandı VERB
+. PUNCT
+</S>
+<S>
+Memotec PROPN
+, PUNCT
+Montreal PROPN
+merkezli ADJ
+bir DET
+telekomünikasyon NOUN
+ürünleri NOUN
+üreticisi NOUN
+ve CCONJ
+telekomünikasyon NOUN
+ve CCONJ
+bilgisayar NOUN
+hizmetleri NOUN
+sağlayıcısıdır VERB
+. PUNCT
+</S>
+<S>
+ISI, PROPN
+daha ADV
+iyi ADJ
+bir DET
+teklif NOUN
+ortaya NOUN
+çıkarsa VERB
+Memotec PROPN
+ile ADP
+birleşme NOUN
+anlaşmasından NOUN
+çekilebileceğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Elektro-optik PROPN
+sistemlerin NOUN
+yapılmasına NOUN
+ek NOUN
+olarak ADV
+, PUNCT
+ünite NOUN
+ayrıca ADV
+lazer NOUN
+uyarı NOUN
+alıcıları NOUN
+da CCONJ
+üretmektedir VERB
+. PUNCT
+</S>
+<S>
+Hem CCONJ
+sendika NOUN
+hem CCONJ
+de CCONJ
+bölgesel ADJ
+telefon NOUN
+şirketi NOUN
+, PUNCT
+farklılıkları NOUN
+çözmek NOUN
+için ADP
+birlikte ADV
+çalıştıklarını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Ama CCONJ
+sonra ADV
+, PUNCT
+Dow PROPN
+düştüğü ADJ
+anda NOUN
+, PUNCT
+tersine ADV
+dönmeye NOUN
+başladı VERB
+. PUNCT
+</S>
+<S>
+Nitekim ADV
+Dow PROPN
+Jones PROPN
+Ulaşım NOUN
+Ortalaması NOUN
+, PUNCT
+tarihin NOUN
+en ADV
+kötü ADJ
+ikinci NOUN
+düşüşü NOUN
+olan ADJ
+102.06 NUM
+puana NOUN
+geriledi VERB
+. PUNCT
+</S>
+<S>
+Dahası ADV
+, PUNCT
+bu DET
+kısa ADJ
+süreli ADJ
+felaketler NOUN
+atlatılabilir VERB
+ve CCONJ
+panik NOUN
+satışı NOUN
+için ADP
+bir DET
+neden NOUN
+değildir AUX
+. PUNCT
+</S>
+<S>
+Ortalama NOUN
+, PUNCT
+ticaretin NOUN
+ilk ADJ
+20 NUM
+dakikasında NOUN
+yaklaşık ADJ
+600 NUM
+puan NOUN
+veya CCONJ
+% NUM
+1.7 NUM
+düştü VERB
+. PUNCT
+</S>
+<S>
+İki NUM
+yıl NOUN
+önce ADP
+olduğu NOUN
+gibi ADP
+, PUNCT
+Japonya'nın PROPN
+büyük ADJ
+yatırımcılarının NOUN
+çoğu NOUN
+bu DET
+felaketi NOUN
+ortadan NOUN
+kaldırmayı NOUN
+seçti VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+Merrill PROPN
+tüccarı NOUN
+, PUNCT
+müşterilerin NOUN
+hepsinin PRON
+" PUNCT
+pazarın NOUN
+dışında NOUN
+kaldığını NOUN
+" PUNCT
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Frankfurt'un PROPN
+açılışı NOUN
+, PUNCT
+satış NOUN
+emirlerindeki ADJ
+çöküş NOUN
+nedeniyle ADV
+yarım ADJ
+saat NOUN
+ertelendi VERB
+. PUNCT
+</S>
+<S>
+Commerzbank PROPN
+komisyoncusu NOUN
+Nigel PROPN
+Longley PROPN
+, PUNCT
+" PUNCT
+Başlangıç NOUN
+kaotikti VERB
+, PUNCT
+" PUNCT
+diyor VERB
+. PUNCT
+</S>
+<S>
+100 NUM
+tane NOUN
+güvenilir ADJ
+hisse NOUN
+senedini NOUN
+gösteren ADJ
+bilgisayar NOUN
+ekranı NOUN
+, PUNCT
+hisseler NOUN
+düşerken ADV
+her DET
+birini NOUN
+kırmızıya NOUN
+boyuyor VERB
+. PUNCT
+</S>
+<S>
+Chicago'daki PROPN
+vadeli ADJ
+işlem NOUN
+piyasaları NOUN
+, PUNCT
+Dow'un PROPN
+yaklaşık ADJ
+60 NUM
+puan NOUN
+düşeceğini NOUN
+gösteren ADJ
+bir DET
+seviyede NOUN
+açılmıştı VERB
+. PUNCT
+</S>
+<S>
+On NUM
+dakika NOUN
+sonra ADP
+Dow PROPN
+dibe NOUN
+vurdu VERB
+- PUNCT
+63.52 NUM
+puan NOUN
+, PUNCT
+bir DET
+%2.5 X
+daha ADV
+. PUNCT
+</S>
+<S>
+Fakat CCONJ
+Wall PROPN
+Street'in PROPN
+en ADV
+zeki ADJ
+tüccarları NOUN
+kısa ADJ
+bir DET
+süre NOUN
+önce ADP
+bir DET
+dönüş NOUN
+hissettiklerini NOUN
+söylüyor VERB
+. PUNCT
+</S>
+<S>
+" PUNCT
+Bu PRON
+, PUNCT
+insanların NOUN
+panikle NOUN
+tahvillerin NOUN
+güvenli ADJ
+kollarına NOUN
+koşmadığı ADJ
+anlamına NOUN
+geliyordu VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Reuters PROPN
+, PUNCT
+Quotron PROPN
+ve CCONJ
+Telerate PROPN
+ekranları NOUN
+Wall PROPN
+Street'te PROPN
+daralmaya NOUN
+devam NOUN
+eden ADJ
+bir DET
+kayıp NOUN
+gösterirken ADV
+tüccarlar NOUN
+bağırdı VERB
+. PUNCT
+</S>
+<S>
+Sonra ADV
+, PUNCT
+dokuz NUM
+dakika NOUN
+sonra ADP
+, PUNCT
+Wall PROPN
+Street PROPN
+aniden ADV
+dönüş NOUN
+yapıp ADV
+kazanç NOUN
+elde NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Mitinge NOUN
+Philip PROPN
+Morris PROPN
+, PUNCT
+General PROPN
+Motors PROPN
+ve CCONJ
+Proctor PROPN
+& PUNCT
+Gamble PROPN
+gibi ADP
+güvenilir ADJ
+hisse NOUN
+senetleri NOUN
+liderlik NOUN
+etti VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+Big PROPN
+Board PROPN
+uzmanı NOUN
+, PUNCT
+" PUNCT
+İyi ADJ
+anlamda NOUN
+bir DET
+kargaşa NOUN
+vardı VERB
+, PUNCT
+" PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Chicago PROPN
+merkezli ADJ
+bir DET
+opsiyon NOUN
+tüccarı NOUN
+, PUNCT
+`` PUNCT
+Kesinlikle ADV
+öldürüldüler VERB
+, PUNCT
+katledildiler VERB
+'' PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+Bunun PRON
+yerine ADV
+, PUNCT
+miting NOUN
+sadece ADV
+yaklaşık ADJ
+25 NUM
+dakika NOUN
+durakladı VERB
+ve CCONJ
+kurumlar NOUN
+satın NOUN
+almaya NOUN
+devam NOUN
+ettikçe ADV
+şiddetlendi VERB
+. PUNCT
+</S>
+<S>
+Ava PROPN
+belediye NOUN
+başkanı NOUN
+James PROPN
+Norman PROPN
+şöyle ADV
+diyor VERB
+: PUNCT
+" PUNCT
+Hisse NOUN
+senetlerine NOUN
+yatırım NOUN
+yapmıyorum VERB
+. PUNCT
+" PUNCT
+</S>
+<S>
+Başkan PROPN
+Norman PROPN
+pazarın NOUN
+performansını NOUN
+Pazartesi PROPN
+günü NOUN
+güven NOUN
+verici NOUN
+bulurken ADV
+, PUNCT
+hâlâ ADV
+tedirgin ADJ
+olduğunu NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Pittsburg PROPN
+, PUNCT
+Kan NOUN
+merkezli ADJ
+National PROPN
+Pizza NOUN
+, PUNCT
+işlemin NOUN
+döner ADJ
+kredi NOUN
+anlaşması NOUN
+kapsamında NOUN
+finanse NOUN
+edileceğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Aleni ADJ
+satışta NOUN
+Skipper'ın PROPN
+hisseleri NOUN
+50 NUM
+sent NOUN
+artarak ADV
+11 NUM
+$'a NOUN
+yükseldi VERB
+. PUNCT
+</S>
+<S>
+National PROPN
+Pizza NOUN
+, PUNCT
+Pizza NOUN
+Hut'la PROPN
+olan ADJ
+anlaşmazlığını NOUN
+çözerek ADV
+satın NOUN
+alma NOUN
+yapmasına NOUN
+izin NOUN
+verdiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Gorbaçov PROPN
+, PUNCT
+Sovyetler NOUN
+Birliği'nin NOUN
+basınını NOUN
+ülkenin NOUN
+git VERB
+gide VERB
+artan ADJ
+sorunlarına NOUN
+katkıda NOUN
+bulunmakla NOUN
+suçladı VERB
+. PUNCT
+</S>
+<S>
+Uzay PROPN
+ajansı NOUN
+, PUNCT
+hava NOUN
+şartlarının NOUN
+veya CCONJ
+protestocuların NOUN
+kalkışı NOUN
+engellemesini NOUN
+beklemediğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+beş NUM
+Afrika PROPN
+ülkesi NOUN
+değerli ADJ
+fildişlerini NOUN
+satmaya NOUN
+devam NOUN
+edeceklerini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Mısır PROPN
+cumhurbaşkanı NOUN
+görüşmelere NOUN
+devam NOUN
+etmek NOUN
+için ADP
+bugün ADV
+Libya'yı PROPN
+ziyaret NOUN
+edeceğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Seul PROPN
+ve CCONJ
+Pyongyang PROPN
+, PUNCT
+bölünmüş ADJ
+Kore PROPN
+yarımadasında NOUN
+aileler NOUN
+arasında NOUN
+ziyaretlere NOUN
+izin NOUN
+vermek NOUN
+için ADP
+geçici ADJ
+bir DET
+anlaşmaya NOUN
+vardılar VERB
+. PUNCT
+</S>
+<S>
+Ancak CCONJ
+, PUNCT
+Kuzey PROPN
+ve CCONJ
+Güney PROPN
+Kore PROPN
+hükümetleri NOUN
+arasında NOUN
+döviz NOUN
+değişimine NOUN
+dair ADP
+koşullar NOUN
+hakkındaki ADJ
+farklılıklar NOUN
+olduğu NOUN
+gibi ADP
+kaldı VERB
+. PUNCT
+</S>
+<S>
+Polonya'nın PROPN
+yasama NOUN
+organı NOUN
+, PUNCT
+gıda NOUN
+fiyatı NOUN
+artışları NOUN
+için ADP
+özel ADJ
+hükümler NOUN
+olmadan ADV
+otomatik ADJ
+ücret NOUN
+artışlarına NOUN
+ilişkin ADP
+onaylanmış ADJ
+limitleri NOUN
+onayladı VERB
+. PUNCT
+</S>
+<S>
+Ölüm NOUN
+: PUNCT
+Los PROPN
+Angeles'ta PROPN
+, PUNCT
+aktör NOUN
+ve CCONJ
+yönetmen NOUN
+, PUNCT
+74 NUM
+yaşındaki ADJ
+Cornel PROPN
+Wilde PROPN
+, PUNCT
+lösemi NOUN
+... PUNCT
+. PUNCT
+</S>
+<S>
+Yugoslav PROPN
+doğumlu ADJ
+romancı NOUN
+ve CCONJ
+denemeci NOUN
+54 NUM
+yaşındaki ADJ
+Danilo PROPN
+Kis PROPN
+, PUNCT
+Pazar PROPN
+günü NOUN
+Paris'te PROPN
+kanserden NOUN
+. PUNCT
+</S>
+<S>
+Satışın NOUN
+Kasım PROPN
+ayı NOUN
+sonunda ADV
+tamamlanmasının NOUN
+beklendiğini NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+Bir DET
+sözcü NOUN
+, PUNCT
+şirketin NOUN
+1988 NUM
+yılında NOUN
+400 NUM
+milyon NUM
+dolar NOUN
+satış NOUN
+yaptığını NOUN
+söyledi VERB
+. PUNCT
+</S>
+<S>
+New PROPN
+York PROPN
+Menkul NOUN
+Kıymetler PROPN
+Borsası NOUN
+bileşik ADJ
+ticaretinde NOUN
+, PUNCT
+West PROPN
+Point-Pepperell PROPN
+25 NUM
+sent NOUN
+düşerek ADV
+53.875 NUM
+dolara NOUN
+indi VERB
+. PUNCT
+</S>
+<S>
+ABD'deki PROPN
+hisse NOUN
+sahipleri NOUN
+, PUNCT
+geçtiğimiz ADJ
+Ocak PROPN
+ayındaki ADJ
+%9'a NOUN
+kıyasla VERB
+şimdi ADV
+Blue PROPN
+Arrow'un PROPN
+%60'ından NOUN
+fazlasına NOUN
+sahip NOUN
+. PUNCT
+</S>
+<S>
+Hareketler NOUN
+, PUNCT
+hissedarların NOUN
+Mavi PROPN
+Ok'un PROPN
+hengamede NOUN
+bir DET
+şirket NOUN
+olduğu NOUN
+algısını NOUN
+da CCONJ
+silebilir VERB
+. PUNCT
+</S>
+<S>
+Önerilen ADJ
+değişikliklerin NOUN
+hepsinin PRON
+onun PRON
+için ADP
+" PUNCT
+çok ADV
+mantıklı ADJ
+" PUNCT
+olduğunu NOUN
+ekledi VERB
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Fromstein PROPN
+, PUNCT
+Nisan PROPN
+ayında NOUN
+başkanlık NOUN
+görevini NOUN
+üstlenerek ADV
+kontrolünü NOUN
+sağlamlaştırdı VERB
+. PUNCT
+</S>
+<S>
+Bay NOUN
+Fromstein PROPN
+, PUNCT
+" PUNCT
+Bilançolarımız NOUN
+Alice'nin PROPN
+harikalar NOUN
+diyarından NOUN
+gelmiş ADJ
+gibi ADP
+görünüyor VERB
+, PUNCT
+" PUNCT
+dedi VERB
+. PUNCT
+</S>
+<S>
+45 NUM
+yaşındaki ADJ
+eski ADJ
+General PROPN
+Electric PROPN
+Co. PROPN
+yöneticisi NOUN
+bu DET
+sefer NOUN
+daha ADV
+kolay ADJ
+olacağını NOUN
+tahmin NOUN
+ediyor VERB
+. PUNCT
+</S>
+<S>
+Applied PROPN
+tarafından ADV
+147 NUM
+milyon NUM
+dolara NOUN
+işe NOUN
+alınan ADJ
+Barry PROPN
+Wright PROPN
+, PUNCT
+bilgisayar NOUN
+odası NOUN
+ekipmanı NOUN
+ve CCONJ
+titreşim NOUN
+kontrol NOUN
+sistemleri NOUN
+üretiyor VERB
+. PUNCT
+</S>
+<S>
+Watertown PROPN
+, PUNCT
+Mass., PROPN
+Şirketin NOUN
+satışları NOUN
+uykuda NOUN
+kaldı VERB
+ve CCONJ
+karları NOUN
+düştü VERB
+. PUNCT
+</S>
+<S>
+Güçlü ADJ
+kazanç NOUN
+artışı NOUN
+Ağustos PROPN
+1988'de NOUN
+bu DET
+fiyatın NOUN
+planlananın NOUN
+çok ADV
+ötesine NOUN
+ulaşmasına NOUN
+yardımcı NOUN
+oldu VERB
+. PUNCT
+</S>
+<S>
+Ama CCONJ
+Bay NOUN
+Sim NOUN
+, PUNCT
+yeni ADJ
+bir DET
+hedef NOUN
+belirlediğinde NOUN
+</S>
+<S>
+O DET
+dönemde NOUN
+yakında ADV
+tutulan ADJ
+Applied PROPN
+, PUNCT
+kontrolde NOUN
+olan ADJ
+ailenin NOUN
+yönetimi NOUN
+altında NOUN
+durgunlaşmıştı VERB
+. PUNCT
+</S>
+<S>
+Biraz ADJ
+sabırla ADV
+, PUNCT
+bu DET
+işletmeler NOUN
+çok ADV
+tatmin NOUN
+edici ADJ
+bir DET
+performans NOUN
+sergileyecek ADJ
+, PUNCT
+diyor VERB
+Bay NOUN
+Sim NOUN
+</S>
+<S>
+1986 NUM
+yılında NOUN
+Applied'in PROPN
+CEO'su PROPN
+seçildi VERB
+ve CCONJ
+geçen ADJ
+Kasım PROPN
+ayında NOUN
+başkan NOUN
+oldu VERB
+. PUNCT
+</S>

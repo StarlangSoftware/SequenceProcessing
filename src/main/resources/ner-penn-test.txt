@@ -1,0 +1,5677 @@
+<S>
+Hayır NONE
+, NONE
+kara NONE
+pazartesi NONE
+değildi NONE
+. NONE
+</S>
+<S>
+Birilerini NONE
+suçlama NONE
+süreci NONE
+çoktan NONE
+başladı NONE
+. NONE
+</S>
+<S>
+Hisse NONE
+senedi NONE
+piyasası NONE
+likit NONE
+değildi NONE
+. NONE
+</S>
+<S>
+Kapanıştan NONE
+önceki NONE
+Son NONE
+saatteki NONE
+alım NONE
+satım NONE
+işlemi NONE
+108.1 NONE
+milyon NONE
+hisse NONE
+ile NONE
+New LOCATION
+York LOCATION
+Menkul ORGANIZATION
+Kıymetler ORGANIZATION
+Piyasası ORGANIZATION
+için NONE
+rekor NONE
+bir NONE
+seviyeye NONE
+erişti NONE
+. NONE
+</S>
+<S>
+Günün NONE
+sonunda NONE
+, NONE
+251.2 NONE
+milyon NONE
+adet NONE
+hisse NONE
+alım NONE
+satımı NONE
+gerçekleştirildi NONE
+. NONE
+</S>
+<S>
+Dow ORGANIZATION
+Jones ORGANIZATION
+sanayi NONE
+endeksi NONE
+2569.26 NONE
+seviyesinden NONE
+kapandı NONE
+. NONE
+</S>
+<S>
+Dow ORGANIZATION
+Jones ORGANIZATION
+Kara TIME
+Pazartesi'nde TIME
+% NONE
+22.6 NONE
+düştü NONE
+. NONE
+</S>
+<S>
+Birkaç NONE
+borsa NONE
+işlemcisinin NONE
+son NONE
+dakika NONE
+gelişmelerine NONE
+yönelik NONE
+haberler NONE
+verildiğinde NONE
+kafalarını NONE
+salladığı NONE
+görülebilirdi NONE
+. NONE
+</S>
+<S>
+Gelinen NONE
+Bu NONE
+noktada NONE
+, NONE
+Dow ORGANIZATION
+endeksi NONE
+yaklaşık NONE
+35 NONE
+puan NONE
+düşüktü NONE
+. NONE
+</S>
+<S>
+Piyasa NONE
+çöktü NONE
+. NONE
+</S>
+<S>
+Bu NONE
+hisseler NONE
+sonunda NONE
+yeniden NONE
+açıldı NONE
+. NONE
+</S>
+<S>
+Bunun NONE
+sonucunda NONE
+, NONE
+vadeli NONE
+işlemler NONE
+ile NONE
+hisse NONE
+senedi NONE
+piyasaları NONE
+arasındaki NONE
+zincir NONE
+parçalandı NONE
+. NONE
+</S>
+<S>
+Vadeli NONE
+alım NONE
+satımların NONE
+duraklamasına NONE
+bile NONE
+NY ORGANIZATION
+Menkul ORGANIZATION
+Kıymetler ORGANIZATION
+Borsası'nın ORGANIZATION
+borsa NONE
+tacirleri NONE
+tarafından NONE
+saldırıldı NONE
+. NONE
+</S>
+<S>
+Önemli NONE
+bir NONE
+uzman NONE
+" NONE
+Bu NONE
+işleri NONE
+berbat NONE
+etti NONE
+, NONE
+" NONE
+dedi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+hisseler NONE
+değer NONE
+kaybetmeyi NONE
+sürdürdü NONE
+. NONE
+</S>
+<S>
+Dow ORGANIZATION
+sanayi ORGANIZATION
+endeksi NONE
+vadeli NONE
+işlemleri NONE
+durdurulmasından NONE
+önce NONE
+saat NONE
+15 NONE
+sularında NONE
+55 NONE
+puan NONE
+düşmüştü NONE
+. NONE
+</S>
+<S>
+Alıcılar NONE
+vadeli NONE
+işlemler NONE
+mağarasından NONE
+içeri NONE
+girdiler NONE
+. NONE
+</S>
+<S>
+Ve NONE
+ben NONE
+birçok NONE
+kişinin NONE
+bilgisayar NONE
+programı NONE
+destekli NONE
+alım-satım NONE
+üzerinde NONE
+çok NONE
+duracağını NONE
+düşünüyorum NONE
+. NONE
+</S>
+<S>
+Tartışmayı NONE
+hemen NONE
+ve NONE
+tekrardan NONE
+ön NONE
+plana NONE
+çıkaracak NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+ortada NONE
+hiçbir NONE
+alıcı NONE
+yoktu NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+hiç NONE
+kimse NONE
+vadeli NONE
+işlemlerin NONE
+ve NONE
+hisse NONE
+senetlerinin NONE
+bugün NONE
+hangi NONE
+seviyeden NONE
+açılacağını NONE
+bilmiyor NONE
+. NONE
+</S>
+<S>
+Bilmek NONE
+isteyeceğinizi NONE
+düşündük NONE
+. NONE
+</S>
+<S>
+George PERSON
+Morton PERSON
+</S>
+<S>
+Hooker'in PERSON
+felsefesi NONE
+inşa NONE
+etmek NONE
+ve NONE
+satmaktı NONE
+. NONE
+</S>
+<S>
+Biz NONE
+inşa NONE
+etmek NONE
+ve NONE
+tutmak NONE
+istiyoruz NONE
+. NONE
+</S>
+<S>
+Hoare PERSON
+Govett PERSON
+konsorsiyumun NONE
+yatırım NONE
+bankacısı NONE
+olarak NONE
+davranıyor NONE
+. NONE
+</S>
+<S>
+Merksamer PERSON
+zinciri NONE
+halihazırda NONE
+First ORGANIZATION
+Boston ORGANIZATION
+Corp. ORGANIZATION
+tarafından NONE
+satışa NONE
+yönelik NONE
+olarak NONE
+arz NONE
+ediliyor NONE
+. NONE
+</S>
+<S>
+haftanın NONE
+toplamı NONE
+bir NONE
+yıl NONE
+önce NONE
+274,963 NONE
+tondan NONE
+% NONE
+6.2 NONE
+daha NONE
+yukarıdaydı NONE
+. NONE
+</S>
+<S>
+Bunlar NONE
+minimum NONE
+10000 MONEY
+$'lık MONEY
+nominal NONE
+değerlerde NONE
+mevcut NONE
+olacak NONE
+. NONE
+</S>
+<S>
+Bu NONE
+bir NONE
+kerelik NONE
+bir NONE
+işmiş NONE
+gibi NONE
+bir NONE
+his NONE
+veriyor NONE
+. NONE
+</S>
+<S>
+İnsanlar NONE
+paniklemiyor NONE
+. NONE
+</S>
+<S>
+Test NONE
+bugün NONE
+gelebilir NONE
+. NONE
+</S>
+<S>
+Cuma TIME
+gününün NONE
+hisse NONE
+senedi NONE
+borsasındaki NONE
+elden NONE
+çıkarma NONE
+işlemleri NONE
+birçok NONE
+yatırımcı NONE
+için NONE
+harekete NONE
+geçmek NONE
+açısından NONE
+çok NONE
+geç NONE
+ortaya NONE
+çıktı NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+fon NONE
+yöneticileri NONE
+hazır NONE
+olduklarını NONE
+belirttiler NONE
+. NONE
+</S>
+<S>
+Fonların NONE
+tümü NONE
+elbette NONE
+nakit NONE
+seviyelerini NONE
+yükseltmedi NONE
+. NONE
+</S>
+<S>
+Birçok NONE
+fon NONE
+yöneticisi NONE
+halihazırda NONE
+artık NONE
+satın NONE
+alma NONE
+zamanının NONE
+geldiğini NONE
+tartışıyor NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+çoğu NONE
+yatırımcı NONE
+hisse NONE
+fiyatlarını NONE
+ve NONE
+diğer NONE
+bilgileri NONE
+arıyordu NONE
+. NONE
+</S>
+<S>
+İşlem NONE
+hacmi NONE
+normalden NONE
+yalnızca NONE
+biraz NONE
+daha NONE
+yüksekti NONE
+. NONE
+</S>
+<S>
+Hala NONE
+fon NONE
+grupları NONE
+kendini NONE
+riske NONE
+atmıyor NONE
+. NONE
+</S>
+<S>
+Cumartesi TIME
+günü TIME
+Fidelity ORGANIZATION
+ülke NONE
+çapında NONE
+54 NONE
+bağımsız NONE
+yatırımcı NONE
+merkezi NONE
+açtı NONE
+. NONE
+</S>
+<S>
+Merkezler NONE
+normalde NONE
+hafta NONE
+sonları NONE
+kapalıdır NONE
+. NONE
+</S>
+<S>
+Janus ORGANIZATION
+Groupun ORGANIZATION
+yatırımcılara NONE
+yönelik NONE
+benzer NONE
+bir NONE
+kaydı NONE
+var NONE
+. NONE
+</S>
+<S>
+Birçok NONE
+fon NONE
+yöneticisi NONE
+bu NONE
+sabah NONE
+fiyatlar NONE
+istikrarlı NONE
+hale NONE
+gelmeden NONE
+önce NONE
+daha NONE
+sert NONE
+bir NONE
+piyasa NONE
+bekliyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+büyük NONE
+çaplı NONE
+bir NONE
+çöküş NONE
+değildir NONE
+, NONE
+dedi NONE
+. NONE
+</S>
+<S>
+Şimdi NONE
+bu NONE
+yolların NONE
+Ocak TIME
+ayına TIME
+kadar NONE
+başlaması NONE
+beklenmiyor NONE
+. NONE
+</S>
+<S>
+Bunların NONE
+da NONE
+geç NONE
+kalacağı NONE
+hemen NONE
+hemen NONE
+kesin NONE
+gibi NONE
+. NONE
+</S>
+<S>
+" NONE
+Müşterilerinin NONE
+bunu NONE
+çok NONE
+seveceğini NONE
+sanmıyorum NONE
+. NONE
+" NONE
+</S>
+<S>
+yatırım NONE
+topluluğu NONE
+, NONE
+Bilhassa NONE
+hızlı NONE
+bir NONE
+çözüm NONE
+bekliyor NONE
+. NONE
+</S>
+<S>
+" NONE
+Hiçbir NONE
+şey NONE
+için NONE
+acil NONE
+bir NONE
+çözüm NONE
+beklentisi NONE
+içinde NONE
+değilim NONE
+. NONE
+" NONE
+</S>
+<S>
+Bununla NONE
+birlikte NONE
+Sendika NONE
+süresi NONE
+sona NONE
+eren NONE
+sözleşme NONE
+üzerinde NONE
+çalışmayı NONE
+sürdürüyor NONE
+. NONE
+</S>
+<S>
+Uzlaşı NONE
+dün NONE
+sona NONE
+erdi NONE
+. NONE
+</S>
+<S>
+Pratt ORGANIZATION
+& ORGANIZATION
+Whitney ORGANIZATION
+, NONE
+United ORGANIZATION
+Technologies ORGANIZATION
+Inc'in ORGANIZATION
+bir NONE
+birimidir NONE
+. NONE
+</S>
+<S>
+Martinair ORGANIZATION
+Hollanda'ın ORGANIZATION
+merkezi NONE
+, NONE
+Amsterdam'dadır LOCATION
+. NONE
+</S>
+<S>
+Bridget PERSON
+O'Brian PERSON
+bu NONE
+makaleye NONE
+katkıda NONE
+bulundu NONE
+. NONE
+</S>
+<S>
+Projeler NONE
+büyük NONE
+. NONE
+</S>
+<S>
+1 MONEY
+milyar MONEY
+dolar MONEY
+artıda NONE
+olabilirler NONE
+, NONE
+dedi NONE
+Bay PERSON
+Richardson PERSON
+. NONE
+</S>
+<S>
+5 TIME
+Ekim TIME
+tarihli NONE
+bir NONE
+Centennial ORGANIZATION
+Journal ORGANIZATION
+makalesinde NONE
+, NONE
+ücretler NONE
+tersine NONE
+döndürüldü NONE
+. NONE
+</S>
+<S>
+Diamond ORGANIZATION
+Shamrock ORGANIZATION
+Offshore ORGANIZATION
+Partners ORGANIZATION
+, NONE
+Lousiana LOCATION
+eyaletinde NONE
+denizde NONE
+gaz NONE
+kaynağı NONE
+keşfettiğini NONE
+açıkladı NONE
+. NONE
+</S>
+<S>
+Diamond ORGANIZATION
+Shamrock ORGANIZATION
+kuyuda NONE
+% NONE
+100 NONE
+çıkarı NONE
+olan NONE
+operatördür NONE
+. NONE
+</S>
+<S>
+" NONE
+Genellikle NONE
+muhafazakar NONE
+bir NONE
+tutumla NONE
+hareket NONE
+ediyoruz NONE
+. NONE
+" NONE
+</S>
+<S>
+Ancak NONE
+halihazırda NONE
+fiyatlar NONE
+pike NONE
+yaptı NONE
+ve NONE
+Quantum'un ORGANIZATION
+kârı NONE
+büyük NONE
+hızla NONE
+düşüyor NONE
+. NONE
+</S>
+<S>
+Fiyatlandırma NONE
+döngülerinde NONE
+, NONE
+emin NONE
+olmak NONE
+adına NONE
+, NONE
+plastik NONE
+üreticileri NONE
+açısından NONE
+yeni NONE
+hiçbir NONE
+şey NONE
+yok NONE
+. NONE
+</S>
+<S>
+" NONE
+Şimdi NONE
+listenin NONE
+en NONE
+altında NONE
+en NONE
+kötü NONE
+durumdayız NONE
+. NONE
+" NONE
+</S>
+<S>
+" NONE
+İnsanlar NONE
+çantaları NONE
+bile NONE
+istifliyordu NONE
+, NONE
+" NONE
+diyor NONE
+. NONE
+</S>
+<S>
+Şimdi NONE
+üreticiler NONE
+fiyatların NONE
+dibe NONE
+vurmasını NONE
+umut NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+Bazıları NONE
+Kasım TIME
+diyor NONE
+. NONE
+</S>
+<S>
+Ben NONE
+1992 TIME
+diyorum NONE
+. NONE
+</S>
+<S>
+Hızlı NONE
+ve NONE
+keskin NONE
+bir NONE
+toparlanma NONE
+, NONE
+nakit NONE
+gereksinimleri NONE
+halen NONE
+ağır NONE
+derecede NONE
+seyrettiği NONE
+için NONE
+Quantum ORGANIZATION
+açısından NONE
+çok NONE
+önemlidir NONE
+. NONE
+</S>
+<S>
+Bazı NONE
+analistler NONE
+ödemeyi NONE
+hisse NONE
+ele NONE
+geçirme NONE
+spekülasyonunu NONE
+defetmek NONE
+için NONE
+bir NONE
+çaba NONE
+olarak NONE
+gördü NONE
+. NONE
+</S>
+<S>
+Bundan NONE
+sonra NONE
+ikinci NONE
+bir NONE
+patlama NONE
+meydana NONE
+geldi NONE
+. NONE
+</S>
+<S>
+İki NONE
+işçi NONE
+öldü NONE
+ve NONE
+altı NONE
+işçi NONE
+halen NONE
+hastanede NONE
+tedavi NONE
+görüyor NONE
+. NONE
+</S>
+<S>
+" NONE
+Ve NONE
+halen NONE
+müzakere NONE
+etmek NONE
+zorundasınız NONE
+. NONE
+" NONE
+</S>
+<S>
+Quantum ORGANIZATION
+için NONE
+Her NONE
+şey NONE
+ümitsiz NONE
+ve NONE
+amansız NONE
+görünmüyor NONE
+. NONE
+</S>
+<S>
+Petrolane ORGANIZATION
+, NONE
+ABD'deki LOCATION
+en NONE
+büyük NONE
+ikinci NONE
+propan NONE
+distribütörüdür NONE
+. NONE
+</S>
+<S>
+En NONE
+büyük NONE
+, NONE
+Suburban ORGANIZATION
+Propane ORGANIZATION
+, NONE
+zaten NONE
+Quantum'un ORGANIZATION
+şirketiydi NONE
+. NONE
+</S>
+<S>
+Quantum ORGANIZATION
+halen NONE
+bir NONE
+kriz NONE
+içinde NONE
+. NONE
+</S>
+<S>
+Bazı NONE
+analistler NONE
+zayıflayan NONE
+borsanın NONE
+bir NONE
+talibi NONE
+halen NONE
+cezbedebileceği NONE
+spekülasyonunu NONE
+yapıyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+kota NONE
+1984 TIME
+yılında TIME
+% NONE
+6.9 NONE
+gibi NONE
+büyük NONE
+bir NONE
+rakamdaydı NONE
+. NONE
+</S>
+<S>
+Gelir NONE
+toplamı NONE
+5 MONEY
+milyon MONEY
+Dolar MONEY
+. NONE
+</S>
+<S>
+Ölçü NONE
+kaplarının NONE
+yerini NONE
+kısa NONE
+süre NONE
+sonra NONE
+çamaşır NONE
+odasındaki NONE
+yemek NONE
+kaşıkları NONE
+alabilir NONE
+. NONE
+</S>
+<S>
+Bir NONE
+P&G ORGANIZATION
+sözcüsü NONE
+Phoenix'e LOCATION
+yapılan NONE
+sevkiyatların NONE
+geçen NONE
+ay NONE
+sonunda NONE
+başladığını NONE
+teyit NONE
+etti NONE
+. NONE
+</S>
+<S>
+Süper NONE
+konsantreler NONE
+P&G ORGANIZATION
+için NONE
+tamamıyla NONE
+yeni NONE
+değildir NONE
+. NONE
+</S>
+<S>
+Ayrıca NONE
+Kaliforniya'da LOCATION
+bir NONE
+ürün NONE
+test NONE
+fabrikasına NONE
+sahiptir NONE
+. NONE
+</S>
+<S>
+bu NONE
+tür NONE
+açıklamaların NONE
+politikaya NONE
+Nasıl NONE
+tercüme NONE
+edildiği NONE
+aylarca NONE
+anlaşılır NONE
+bir NONE
+hal NONE
+almayacak NONE
+. NONE
+</S>
+<S>
+Çoğu NONE
+kimse NONE
+tarafından NONE
+bu NONE
+stiller NONE
+arasındaki NONE
+bir NONE
+tezat NONE
+olarak NONE
+adlandırıldı NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+bazıları NONE
+bunu NONE
+klasik NONE
+bir NONE
+pazarlık NONE
+taktiği NONE
+olarak NONE
+gördü NONE
+. NONE
+</S>
+<S>
+Çok NONE
+vahşi NONE
+hissetmiyorum NONE
+. NONE
+</S>
+<S>
+Sert NONE
+veya NONE
+yumuşak NONE
+hissetmiyorum NONE
+. NONE
+</S>
+<S>
+Açılan NONE
+piyasaların NONE
+ve NONE
+genişleyen NONE
+işlemlerin NONE
+programına NONE
+bağlı NONE
+kaldığımı NONE
+hissediyorum NONE
+. NONE
+</S>
+<S>
+ABD ORGANIZATION
+hükümetinin NONE
+tanımladığı NONE
+dışlayıcı NONE
+ticari NONE
+teamüllerin NONE
+altını NONE
+çizdi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+, NONE
+yönetilen NONE
+alım NONE
+satım NONE
+işlemine NONE
+karşıyım NONE
+. NONE
+</S>
+<S>
+Şirket NONE
+dördüncü NONE
+çeyrek NONE
+sonuçlarını NONE
+ortaya NONE
+koymadı NONE
+. NONE
+</S>
+<S>
+Sıkı NONE
+sıkıya NONE
+tutulan NONE
+Morris ORGANIZATION
+Communications ORGANIZATION
+Augusta ORGANIZATION
+, NONE
+Ga'da LOCATION
+bulunmaktadır NONE
+. NONE
+</S>
+<S>
+Anlaşma NONE
+şartları NONE
+açıklanmadı NONE
+. NONE
+</S>
+<S>
+Syms ORGANIZATION
+, NONE
+A.B.D.'de LOCATION
+25 NONE
+adet NONE
+ucuz NONE
+fiyatlı NONE
+konfeksiyon NONE
+mağazası NONE
+işletmektedir NONE
+. NONE
+</S>
+<S>
+Petrol NONE
+endüstrisinin NONE
+orta NONE
+halli NONE
+karları NONE
+yılın NONE
+geri NONE
+kalanı NONE
+boyunca NONE
+sürdürülebilir NONE
+. NONE
+</S>
+<S>
+Phillips'in ORGANIZATION
+sonuçlarını NONE
+ön NONE
+göremedi NONE
+. NONE
+</S>
+<S>
+Temmuz TIME
+ayından NONE
+itibaren NONE
+% NONE
+13 NONE
+düşerek NONE
+26 MONEY
+cent MONEY
+seviyelerinde NONE
+geriledi NONE
+. NONE
+</S>
+<S>
+Kimyasal NONE
+fiyatı NONE
+gerilemesinin NONE
+büyük NONE
+nedenlerinden NONE
+biri NONE
+aşırı NONE
+genişlemedir NONE
+. NONE
+</S>
+<S>
+Şirketler NONE
+kızgın NONE
+bir NONE
+şekilde NONE
+kapasite NONE
+ekledi NONE
+. NONE
+</S>
+<S>
+Benzinden NONE
+gelen NONE
+üçüncü NONE
+çeyrek NONE
+kârları NONE
+daha NONE
+zayıftı NONE
+. NONE
+</S>
+<S>
+Aşırı NONE
+arz NONE
+benzin NONE
+fiyatlarını NONE
+bu NONE
+dönemde NONE
+aşağı NONE
+düşürdü NONE
+. NONE
+</S>
+<S>
+1988 TIME
+yılının NONE
+ikinci NONE
+yarısında NONE
+, NONE
+birçok NONE
+şirket NONE
+rekor NONE
+düzeyde NONE
+benzin NONE
+ve NONE
+kimyasal NONE
+karı NONE
+yazdı NONE
+. NONE
+</S>
+<S>
+Ana NONE
+sebep NONE
+hava NONE
+durumu NONE
+olarak NONE
+devam NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+Öte NONE
+yandan NONE
+, NONE
+bu NONE
+yaz NONE
+, NONE
+normalden NONE
+daha NONE
+yumuşak NONE
+bir NONE
+hava NONE
+vardı NONE
+. NONE
+</S>
+<S>
+Olivetti ORGANIZATION
+bu NONE
+aletlerin NONE
+sevkiyatına NONE
+söylentilere NONE
+göre NONE
+1984'te TIME
+başladı NONE
+. NONE
+</S>
+<S>
+İtalya LOCATION
+Cumhurbaşkanı NONE
+Francesco PERSON
+Cossiga PERSON
+Olivetti'nin PERSON
+Cocom ORGANIZATION
+kurallarının NONE
+çiğnendiğine NONE
+yönelik NONE
+hızlı NONE
+bir NONE
+soruşturma NONE
+yapılacağına NONE
+söz NONE
+verdi NONE
+. NONE
+</S>
+<S>
+Northview ORGANIZATION
+yetkililerinin NONE
+yeri NONE
+belirlenemedi NONE
+. NONE
+</S>
+<S>
+Bununla NONE
+birlikte NONE
+, NONE
+anlaşma NONE
+Temmuz TIME
+1984'te TIME
+iptal NONE
+edildi NONE
+. NONE
+</S>
+<S>
+Anlaşma NONE
+hükümleri NONE
+altında NONE
+, NONE
+birleşik NONE
+şirketin NONE
+% NONE
+87.2'sine NONE
+sahip NONE
+olacak NONE
+. NONE
+</S>
+<S>
+Ideal'ın ORGANIZATION
+mevcut NONE
+faaliyetleri NONE
+bileşik NONE
+şirketin NONE
+% NONE
+39.2'sini NONE
+temsil NONE
+edecektir NONE
+. NONE
+</S>
+<S>
+İşlem NONE
+kesin NONE
+bir NONE
+anlaşma NONE
+ve NONE
+Ideal ORGANIZATION
+hissedarlarının NONE
+onayına NONE
+tabidir NONE
+. NONE
+</S>
+<S>
+Ideal NONE
+işlemi NONE
+gelecek NONE
+yılın NONE
+ilk NONE
+aylarında NONE
+tamamlamayı NONE
+beklediğini NONE
+açıkladı NONE
+. NONE
+</S>
+<S>
+Bu NONE
+1970'li TIME
+yılların NONE
+ilk NONE
+yarısından NONE
+beri NONE
+en NONE
+düşük NONE
+seviye NONE
+olacaktı NONE
+. NONE
+</S>
+<S>
+Stoklar NONE
+bu NONE
+yılın NONE
+31 TIME
+Mayıs TIME
+tarihinde NONE
+698 MONEY
+milyon MONEY
+seviyesindeydi NONE
+. NONE
+</S>
+<S>
+Ferruzzi PERSON
+soya NONE
+fasulyesi NONE
+vadeli NONE
+işlemler NONE
+piyasasını NONE
+manipüle NONE
+etmeye NONE
+çalıştığını NONE
+reddetti NONE
+. NONE
+</S>
+<S>
+Bu NONE
+hafta NONE
+diğer NONE
+emtia NONE
+piyasalarına NONE
+bakınca NONE
+: NONE
+</S>
+<S>
+1 NONE
+pound NONE
+1.3210 NONE
+dolar NONE
+seviyesinde NONE
+4.95 MONEY
+cent MONEY
+kayıpla NONE
+hesabını NONE
+ödedi NONE
+. NONE
+</S>
+<S>
+Enerji NONE
+</S>
+<S>
+Bay PERSON
+Spielvogel PERSON
+hasmane NONE
+bir NONE
+teklife NONE
+girişmeyeceğini NONE
+söyledi NONE
+. NONE
+</S>
+<S>
+Şirketi NONE
+düze NONE
+çıkarmak NONE
+için NONE
+işe NONE
+alındı NONE
+. NONE
+</S>
+<S>
+Ekledi NONE
+... NONE
+</S>
+<S>
+YENİ NONE
+MÜŞTERİ NONE
+: NONE
+</S>
+<S>
+HESAP NONE
+GÖZDEN NONE
+GEÇİRME NONE
+: NONE
+</S>
+<S>
+Suçsuzluk NONE
+savunması NONE
+: NONE
+</S>
+<S>
+KORELİ NONE
+AJANS NONE
+: NONE
+</S>
+<S>
+Samsung ORGANIZATION
+zaten NONE
+ülkenin NONE
+en NONE
+büyük NONE
+reklam NONE
+ajansı NONE
+olan NONE
+Korea ORGANIZATION
+First ORGANIZATION
+Advertising ORGANIZATION
+Co.'nun ORGANIZATION
+sahibidir NONE
+. NONE
+</S>
+<S>
+Gelir NONE
+81.5 MONEY
+milyondan MONEY
+117 MONEY
+milyon MONEY
+Dolar MONEY
+seviyesine NONE
+fırladı NONE
+. NONE
+</S>
+<S>
+Gelirler NONE
+161.8 MONEY
+milyondan MONEY
+225.5 MONEY
+milyon MONEY
+Dolar'a MONEY
+yükseldi NONE
+. NONE
+</S>
+<S>
+" NONE
+Perakendeciler NONE
+yalnızca NONE
+kargaşa NONE
+içinde NONE
+. NONE
+" NONE
+</S>
+<S>
+Gelirler NONE
+% NONE
+6 NONE
+artışla NONE
+2.4 MONEY
+milyardan MONEY
+2.55 MONEY
+milyar MONEY
+Dolar'a MONEY
+çıktı NONE
+. NONE
+</S>
+<S>
+Gelirler NONE
+% NONE
+5.3 NONE
+artışla NONE
+383.8 MONEY
+milyondan MONEY
+404.1 MONEY
+milyon MONEY
+Dolar'a MONEY
+çıktı NONE
+. NONE
+</S>
+<S>
+Dergideki NONE
+reklam NONE
+satır NONE
+sayısı NONE
+üçüncü NONE
+çeyrekte NONE
+% NONE
+6.1 NONE
+azaldı NONE
+. NONE
+</S>
+<S>
+Affiliated ORGANIZATION
+Publications ORGANIZATION
+Inc. ORGANIZATION
+geçen NONE
+yıl NONE
+görülen NONE
+üçüncü NONE
+çeyrek NONE
+net NONE
+zararını NONE
+tersine NONE
+çevirdi NONE
+. NONE
+</S>
+<S>
+Sendika NONE
+yetkilileri NONE
+sonuçta NONE
+politik NONE
+olarak NONE
+bozguna NONE
+uğradılar NONE
+. NONE
+</S>
+<S>
+Kanada LOCATION
+yatırım NONE
+kuralları NONE
+büyük NONE
+yabancı NONE
+kaynaklı NONE
+devirlerin NONE
+standarda NONE
+uymasını NONE
+gerektiriyor NONE
+. NONE
+</S>
+<S>
+Hem NONE
+Merieux ORGANIZATION
+, NONE
+hem NONE
+de NONE
+Connaught ORGANIZATION
+biyo-teknoloji NONE
+araştırma NONE
+ve NONE
+aşı NONE
+üretim NONE
+ortaklıklarıdır NONE
+. NONE
+</S>
+<S>
+Hükümetin NONE
+tepkisi NONE
+alışılmadık NONE
+bir NONE
+tepkiydi NONE
+. NONE
+</S>
+<S>
+Bay PERSON
+Andre PERSON
+Yatırım ORGANIZATION
+, NONE
+Investment ORGANIZATION
+Canada'nın ORGANIZATION
+bir NONE
+önerisine NONE
+dayanan NONE
+bir NONE
+hükmü NONE
+yayınladı NONE
+. NONE
+</S>
+<S>
+Investment ORGANIZATION
+Canada ORGANIZATION
+hükümet NONE
+kararının NONE
+ardında NONE
+yatan NONE
+sebepler NONE
+konusunda NONE
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+Üniversite NONE
+, NONE
+Connaught ORGANIZATION
+tarafından NONE
+yapılan NONE
+bir NONE
+çözüm NONE
+önerisi NONE
+üzerinde NONE
+düşünüyor NONE
+. NONE
+</S>
+<S>
+Fransız NONE
+devletine NONE
+ait NONE
+Rhone-Poulenc ORGANIZATION
+S.A. ORGANIZATION
+Merieux'un ORGANIZATION
+% NONE
+51'ini NONE
+aldı NONE
+. NONE
+</S>
+<S>
+Kamibyo NONE
+kuru NONE
+asla NONE
+tesis NONE
+edilemedi NONE
+. NONE
+</S>
+<S>
+Weatherford ORGANIZATION
+piyasa NONE
+koşullarının NONE
+planlanan NONE
+mübadelenin NONE
+iptaline NONE
+yol NONE
+açtığını NONE
+söyledi NONE
+. NONE
+</S>
+<S>
+banka NONE
+borcunu NONE
+bertaraf NONE
+etmek NONE
+ve NONE
+yeniden NONE
+yapılandırmak NONE
+için NONE
+getiriler NONE
+kullanılacak NONE
+. NONE
+</S>
+<S>
+Weatherford ORGANIZATION
+halihazırda NONE
+tedavülde NONE
+yaklaşık NONE
+11.1 NONE
+milyon NONE
+hisseye NONE
+sahip NONE
+. NONE
+</S>
+<S>
+Indianapolis'te LOCATION
+Lilly PERSON
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+Şirket NONE
+resmi NONE
+olarak NONE
+bu NONE
+ayın NONE
+başında NONE
+Bristol-Myers ORGANIZATION
+Co. ORGANIZATION
+ile NONE
+birleşti NONE
+. NONE
+</S>
+<S>
+Bristol-Myers ORGANIZATION
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+New LOCATION
+York'ta LOCATION
+şirket NONE
+yorum NONE
+yapmayı NONE
+reddetti NONE
+. NONE
+</S>
+<S>
+Kalamazoo LOCATION
+, NONE
+Michigan'da LOCATION
+, NONE
+Upjohn PERSON
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+Analistlerin NONE
+dönem NONE
+adına NONE
+küçük NONE
+bir NONE
+kâr NONE
+umdukları NONE
+söyleniyor NONE
+. NONE
+</S>
+<S>
+Relational ORGANIZATION
+Technology ORGANIZATION
+, NONE
+14 MONEY
+dolar MONEY
+hisse NONE
+fiyatıyla NONE
+Mayıs TIME
+1988'de TIME
+halka NONE
+açıldı NONE
+. NONE
+</S>
+<S>
+Geçen NONE
+yıl NONE
+en NONE
+yüksek NONE
+fiyat NONE
+hisse NONE
+başına NONE
+16.375 MONEY
+dolar MONEY
+seviyesiydi NONE
+. NONE
+</S>
+<S>
+Aileleri NONE
+, NONE
+onların NONE
+uyku NONE
+düzenlemelerine NONE
+göre NONE
+analiz NONE
+etti NONE
+. NONE
+</S>
+<S>
+Yabancılık NONE
+dürüstlüğüyle NONE
+ile NONE
+birlikte NONE
+geldiler NONE
+. NONE
+</S>
+<S>
+Bay PERSON
+Friedman PERSON
+bunu NONE
+" NONE
+Bir NONE
+Los LOCATION
+Angeles LOCATION
+çözümü NONE
+, NONE
+" NONE
+olarak NONE
+açıkladı NONE
+. NONE
+</S>
+<S>
+Harry'yi PERSON
+anlamak NONE
+için NONE
+çok NONE
+fazla NONE
+satır NONE
+gerekmiyor NONE
+. NONE
+</S>
+<S>
+O NONE
+bir NONE
+baş NONE
+belası NONE
+. NONE
+</S>
+<S>
+21 NONE
+mil NONE
+karelik NONE
+alan NONE
+kurşun NONE
+, NONE
+çinko NONE
+ve NONE
+diğer NONE
+metallerle NONE
+kirlendi NONE
+. NONE
+</S>
+<S>
+Liderlik NONE
+nerede NONE
+? NONE
+</S>
+<S>
+" NONE
+Bu NONE
+perakendecilerin NONE
+aklını NONE
+daha NONE
+da NONE
+karıştırıyor NONE
+, NONE
+" NONE
+dedi NONE
+. NONE
+</S>
+<S>
+Fiyatlar NONE
+hala NONE
+düşüyorsa NONE
+bir NONE
+kira NONE
+anlaşması NONE
+imzalayıp NONE
+imzalamamaları NONE
+gerektiğini NONE
+merak NONE
+ediyorlar NONE
+. NONE
+</S>
+<S>
+Bir NONE
+mağaza NONE
+açmak NONE
+için NONE
+kötü NONE
+bir NONE
+zaman NONE
+mı NONE
+? NONE
+</S>
+<S>
+Yan NONE
+kapıdaki NONE
+boşlukta NONE
+kim NONE
+olacak NONE
+? NONE
+</S>
+<S>
+Ve NONE
+bazı NONE
+muhitlerde NONE
+kiralar NONE
+adeta NONE
+bir NONE
+durgunluk NONE
+dönemine NONE
+girdi NONE
+. NONE
+</S>
+<S>
+Ofis NONE
+alanlarına NONE
+yönelik NONE
+talebi NONE
+kısıtlayan NONE
+aynı NONE
+etkenler NONE
+perakende NONE
+satış NONE
+faaliyetlerini NONE
+etkiledi NONE
+. NONE
+</S>
+<S>
+Kesinlikle NONE
+, NONE
+fiyatlardaki NONE
+son NONE
+düşüş NONE
+, NONE
+Manhattan'ın LOCATION
+ucuz NONE
+bir NONE
+yer NONE
+olduğu NONE
+anlamına NONE
+gelmiyor NONE
+. NONE
+</S>
+<S>
+Hassas NONE
+dökümler NONE
+yapıyor NONE
+ve NONE
+tezgah NONE
+üstü NONE
+satış NONE
+yapıyor NONE
+. NONE
+</S>
+<S>
+Londra ORGANIZATION
+Uluslararası ORGANIZATION
+Borsası'nda ORGANIZATION
+alım NONE
+satım NONE
+yapmaya NONE
+devam NONE
+edecek NONE
+. NONE
+</S>
+<S>
+Amerikan ORGANIZATION
+Menkul ORGANIZATION
+Kıymetler ORGANIZATION
+Borsası ORGANIZATION
+iki NONE
+şirketi NONE
+kote NONE
+etti NONE
+. NONE
+</S>
+<S>
+Tezgah NONE
+üstünden NONE
+işlem NONE
+gördü NONE
+. NONE
+</S>
+<S>
+Columbia ORGANIZATION
+Laboratories ORGANIZATION
+Inc. ORGANIZATION
+, NONE
+Miami LOCATION
+, NONE
+COB ORGANIZATION
+simgesiyle NONE
+işlem NONE
+görmeye NONE
+başladı NONE
+. NONE
+</S>
+<S>
+Tıbbi NONE
+İlaç NONE
+üreticisi NONE
+tezgah NONE
+üstü NONE
+olarak NONE
+işlem NONE
+gördü NONE
+. NONE
+</S>
+<S>
+Nasqad ORGANIZATION
+tezgah NONE
+üstü NONE
+piyasasının NONE
+Ulusal ORGANIZATION
+Piyasa ORGANIZATION
+Sistemi ORGANIZATION
+bir NONE
+şirketin NONE
+hisselerini NONE
+listeledi NONE
+. NONE
+</S>
+<S>
+Ve NONE
+görüşü NONE
+Ağustos TIME
+ayındaki TIME
+başarılı NONE
+katarakt NONE
+ameliyatı NONE
+sonrasında NONE
+düzeldi NONE
+. NONE
+</S>
+<S>
+RTC ORGANIZATION
+, NONE
+Bu NONE
+anlaşmalar NONE
+altında NONE
+, NONE
+yalnızca NONE
+mevduatları NONE
+ve NONE
+sağlıklı NONE
+varlıkları NONE
+satıyor NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+bu NONE
+kurumların NONE
+bu NONE
+adımları NONE
+atıp NONE
+atmayacağı NONE
+belirsizdi NONE
+. NONE
+</S>
+<S>
+NCNB ORGANIZATION
+, NONE
+Florida LOCATION
+ve NONE
+Teksas LOCATION
+piyasalarındaki NONE
+akınlarını NONE
+sürdürdü NONE
+. NONE
+</S>
+<S>
+Aşağıdaki NONE
+listeler NONE
+Menkul ORGANIZATION
+Kıymetler ORGANIZATION
+ve ORGANIZATION
+Kambiyo ORGANIZATION
+Komisyonu'na ORGANIZATION
+yeni NONE
+ibraz NONE
+edildi NONE
+: NONE
+</S>
+<S>
+" NONE
+Bu NONE
+algı NONE
+magazinin NONE
+ilgisini NONE
+üzerinden NONE
+alıyor NONE
+. NONE
+" NONE
+</S>
+<S>
+" NONE
+Kalite NONE
+ve NONE
+katılım NONE
+yaratmaya NONE
+çalışıyoruz NONE
+. NONE
+" NONE
+</S>
+<S>
+Halen NONE
+, NONE
+Time'in ORGANIZATION
+hareketi NONE
+bir NONE
+kez NONE
+daha NONE
+iyi NONE
+olarak NONE
+alınıyor NONE
+. NONE
+</S>
+<S>
+Süirkülasyona NONE
+katılan NONE
+birkaç NONE
+damlanın NONE
+hiç NONE
+önemi NONE
+yok NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+tüm NONE
+başarısı NONE
+için NONE
+CNN ORGANIZATION
+bir NONE
+durgunluk NONE
+dönemine NONE
+giriyor NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+şekilde NONE
+hayatını NONE
+idame NONE
+ettiremezsin NONE
+. NONE
+" NONE
+</S>
+<S>
+Ancak NONE
+çok NONE
+da NONE
+kolay NONE
+olmayacak NONE
+. NONE
+</S>
+<S>
+CNN ORGANIZATION
+izleyicilerinin NONE
+alışkanlıklarını NONE
+değiştirmek NONE
+istiyor NONE
+. NONE
+</S>
+<S>
+CNN'in ORGANIZATION
+izleyici NONE
+alışkanlıkları NONE
+formatı NONE
+tarafından NONE
+biçimlendirildi NONE
+. NONE
+</S>
+<S>
+Satış NONE
+çabası NONE
+artık NONE
+daha NONE
+kendine NONE
+özgü NONE
+gösteriler NONE
+üzerinde NONE
+. NONE
+</S>
+<S>
+Endüstrideki NONE
+bazıları NONE
+şüpheci NONE
+. NONE
+</S>
+<S>
+Kuşkusuz NONE
+, NONE
+vakalardaki NONE
+ilke NONE
+aynıdır NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+bir NONE
+hukuki NONE
+ihtilafın NONE
+sonucu NONE
+daima NONE
+etkenlere NONE
+bağlıdır NONE
+. NONE
+</S>
+<S>
+Charles PERSON
+F. PERSON
+Vihon PERSON
+</S>
+<S>
+Bunu NONE
+" NONE
+savaşamayacak NONE
+kadar NONE
+döküntüyüz NONE
+" NONE
+savunması NONE
+olarak NONE
+adlandırın NONE
+. NONE
+</S>
+<S>
+Güneş NONE
+kuşağı NONE
+çiftlik NONE
+üzerinde NONE
+engellendi NONE
+. NONE
+</S>
+<S>
+Valley LOCATION
+Ranch'ı LOCATION
+sonuncuya NONE
+verilen NONE
+ödül NONE
+olarak NONE
+bedava NONE
+ve NONE
+temiz NONE
+şekilde NONE
+aldık NONE
+. NONE
+</S>
+<S>
+Yeni NONE
+başkanın NONE
+adı NONE
+açıklanmadı NONE
+. NONE
+</S>
+<S>
+Güney LOCATION
+Afrika LOCATION
+ANC'den LOCATION
+Sisulu PERSON
+ve NONE
+7 NONE
+diğer NONE
+politik NONE
+hükümlüyü NONE
+salıverdi NONE
+. NONE
+</S>
+<S>
+Bu NONE
+salıverilenlerin NONE
+çoğu NONE
+en NONE
+az NONE
+25 NONE
+yılını NONE
+hapishanede NONE
+geçirdi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+önümüzdeki NONE
+birkaç NONE
+ay NONE
+içinde NONE
+tahliye NONE
+edilmesi NONE
+ciddi NONE
+anlamda NONE
+bekleniyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+fonlamaya NONE
+karşı NONE
+muhalefetini NONE
+yineledi NONE
+, NONE
+ancak NONE
+bir NONE
+uzlaşma NONE
+umudunu NONE
+ifade NONE
+etti NONE
+. NONE
+</S>
+<S>
+Cihaz NONE
+değiştirildi NONE
+. NONE
+</S>
+<S>
+2.100'den NONE
+fazlası NONE
+hafta NONE
+sonunda NONE
+Macaristan LOCATION
+vasıtasıyla NONE
+Batı LOCATION
+Almanya'ya LOCATION
+kaçtı NONE
+. NONE
+</S>
+<S>
+Değerlendirmelerini NONE
+Bağdat'daki LOCATION
+bir NONE
+PLO'ya ORGANIZATION
+yaptı NONE
+. NONE
+</S>
+<S>
+DWG ORGANIZATION
+, NONE
+Bay PERSON
+Posner PERSON
+tarafından NONE
+kontrol NONE
+edilen NONE
+bir NONE
+şirkettir NONE
+. NONE
+</S>
+<S>
+" NONE
+Çekirdek NONE
+oran NONE
+pek NONE
+de NONE
+uygunsuz NONE
+değil NONE
+. NONE
+" NONE
+</S>
+<S>
+Gıda NONE
+fiyatları NONE
+Ağustos TIME
+ayındaki TIME
+% NONE
+0.3 NONE
+yükseliş NONE
+sonrasında NONE
+% NONE
+0.6 NONE
+düştü NONE
+. NONE
+</S>
+<S>
+Toplamın NONE
+yaklaşık NONE
+% NONE
+85'i NONE
+gelir NONE
+getirmeyen NONE
+ticari NONE
+gayrimenkul NONE
+varlıklardan NONE
+oluşmaktaydı NONE
+. NONE
+</S>
+<S>
+City ORGANIZATION
+Federal ORGANIZATION
+, NONE
+New LOCATION
+Jersey LOCATION
+ve NONE
+Florida LOCATION
+eyaletlerinde NONE
+105 NONE
+banka NONE
+ofisiyle NONE
+hizmet NONE
+veriyor NONE
+. NONE
+</S>
+<S>
+Düzenleyiciler NONE
+CenTrust'a ORGANIZATION
+tercih NONE
+edilen NONE
+hissenin NONE
+geri NONE
+satın NONE
+alınmasını NONE
+durdurma NONE
+emri NONE
+verdi NONE
+. NONE
+</S>
+<S>
+Çoğu NONE
+kimse NONE
+gecikmeyi NONE
+regülatörlerin NONE
+teklif NONE
+konusunda NONE
+şüpheli NONE
+olmasının NONE
+bir NONE
+göstergesi NONE
+olarak NONE
+yorumluyor NONE
+. NONE
+</S>
+<S>
+Kadın NONE
+iddiayı NONE
+kazandı NONE
+. NONE
+</S>
+<S>
+" NONE
+Pan-Avrupa LOCATION
+" NONE
+program NONE
+üretme NONE
+denemeleri NONE
+genellikle NONE
+düş NONE
+kırıklığı NONE
+ile NONE
+sonuçlandı NONE
+. NONE
+</S>
+<S>
+" NONE
+Hemen NONE
+hemen NONE
+ne NONE
+olursa NONE
+olsun NONE
+" NONE
+başlığı NONE
+altındaki NONE
+bir NONE
+ABD LOCATION
+yapımı NONE
+imitasyon NONE
+hızla NONE
+çöküverdi NONE
+. NONE
+</S>
+<S>
+Birçok NONE
+Britanya LOCATION
+kaynaklı NONE
+programlama NONE
+sonradan NONE
+kazanılan NONE
+bir NONE
+lezzetin NONE
+fazlasıdır NONE
+. NONE
+</S>
+<S>
+Avrupalı LOCATION
+drama NONE
+, NONE
+halen NONE
+karmaşık NONE
+olmasına NONE
+rağmen NONE
+, NONE
+daha NONE
+iyi NONE
+talihe NONE
+sahipti NONE
+. NONE
+</S>
+<S>
+Bu NONE
+tür NONE
+en NONE
+popüler NONE
+gösteriler NONE
+dar NONE
+ulusal NONE
+kaygılar NONE
+üzerine NONE
+odaklanıyor NONE
+. NONE
+</S>
+<S>
+" NONE
+bir NONE
+Seçenek NONE
+sunulunca NONE
+, NONE
+herkes NONE
+ev NONE
+yapımı NONE
+gösteriyi NONE
+izleyecektir NONE
+. NONE
+" NONE
+</S>
+<S>
+Ancak NONE
+sık NONE
+sık NONE
+başka NONE
+seçenek NONE
+bulunmayabilir NONE
+. NONE
+</S>
+<S>
+Sonuç NONE
+programlama NONE
+açısıdan NONE
+yeni NONE
+ve NONE
+büyük NONE
+bir NONE
+lezzettir NONE
+. NONE
+</S>
+<S>
+Şirketler NONE
+yıl NONE
+sonuna NONE
+kadar NONE
+bir NONE
+nihai NONE
+anlaşma NONE
+umudu NONE
+içindeler NONE
+. NONE
+</S>
+<S>
+Girişimin NONE
+Thomson PERSON
+açısından NONE
+önemi NONE
+büyük NONE
+. NONE
+</S>
+<S>
+İngiliz NONE
+Aerospace'in ORGANIZATION
+en NONE
+önde NONE
+gelen NONE
+füze NONE
+ürünleri NONE
+arasında NONE
+17 NONE
+yaşındaki NONE
+Rapier PERSON
+karadan NONE
+havaya NONE
+füzeleri NONE
+bulunur NONE
+. NONE
+</S>
+<S>
+Bu NONE
+giderek NONE
+büyüyen NONE
+bir NONE
+kaygı NONE
+. NONE
+</S>
+<S>
+Sistem NONE
+halihazırda NONE
+günde NONE
+1.55 NONE
+milyon NONE
+varil NONE
+kapasitesi NONE
+sunuyor NONE
+. NONE
+</S>
+<S>
+Inland ORGANIZATION
+üçüncü NONE
+çeyrek NONE
+sonuçlarının NONE
+bu NONE
+haftanın NONE
+ilerleyen NONE
+günlerinde NONE
+ilan NONE
+edileceğini NONE
+söyledi NONE
+. NONE
+</S>
+<S>
+Bilgisayar NONE
+firmalarının NONE
+mali NONE
+sonuçlarının NONE
+tahmin NONE
+edilmesi NONE
+son NONE
+zamanlarda NONE
+oldukça NONE
+zor NONE
+bir NONE
+iş NONE
+haline NONE
+geldi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+bunların NONE
+hepsi NONE
+3 NONE
+ay NONE
+önceki NONE
+hikayeydi NONE
+. NONE
+</S>
+<S>
+" NONE
+Endüstri NONE
+karakterizasyona NONE
+baş NONE
+kaldırıyor NONE
+. NONE
+" NONE
+</S>
+<S>
+International ORGANIZATION
+Business ORGANIZATION
+Machines ORGANIZATION
+Corp.'un ORGANIZATION
+da NONE
+hayal NONE
+kırıklığına NONE
+uğratacak NONE
+sonuçlar NONE
+açıklaması NONE
+beklenmekte NONE
+. NONE
+</S>
+<S>
+Diğer NONE
+çelişkili NONE
+bir NONE
+mesaj NONE
+da NONE
+bir NONE
+bilgisayar NONE
+perakende NONE
+satıcısı NONE
+olan NONE
+Businessland ORGANIZATION
+Inc.'den ORGANIZATION
+geldi NONE
+. NONE
+</S>
+<S>
+Şirketler NONE
+standartlar NONE
+uğruna NONE
+savaşmaya NONE
+devam NONE
+edecek NONE
+. NONE
+</S>
+<S>
+Ancaki NONE
+Adobe'nin ORGANIZATION
+ticari NONE
+faaliyetlerine NONE
+yönelik NONE
+kısa NONE
+vadeli NONE
+görünüm NONE
+güçlü NONE
+olarak NONE
+görülüyor NONE
+. NONE
+</S>
+<S>
+Program NONE
+basılı NONE
+malzemelerin NONE
+kalitesinin NONE
+artırılmasını NONE
+amaçlıyor NONE
+. NONE
+</S>
+<S>
+Aldus ORGANIZATION
+yetkililerine NONE
+yorum NONE
+almak NONE
+için NONE
+ulaşılamadı NONE
+. NONE
+</S>
+<S>
+bir NONE
+Veri NONE
+yolu NONE
+bir NONE
+bilgisayar NONE
+dahilindeki NONE
+Veri NONE
+akışını NONE
+sağlayan NONE
+bir NONE
+otobandır NONE
+. NONE
+</S>
+<S>
+Kazananlar NONE
+ile NONE
+ağır NONE
+davrananlar NONE
+arasındaki NONE
+fark NONE
+büyüyecek NONE
+. NONE
+</S>
+<S>
+Aynı NONE
+zamanda NONE
+, NONE
+ikinci NONE
+ligdeki NONE
+firmalar NONE
+da NONE
+zemin NONE
+kaybetmeye NONE
+devam NONE
+edecek NONE
+. NONE
+</S>
+<S>
+bazı NONE
+geri NONE
+kalan NONE
+rakipler NONE
+bile NONE
+kişisel NONE
+bilgisayar NONE
+işini NONE
+birlikte NONE
+terk NONE
+edebilir NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+hızlı NONE
+hareket NONE
+etmek NONE
+zorundalar NONE
+. NONE
+</S>
+<S>
+Bir NONE
+yığın NONE
+yeni NONE
+bilgisayar NONE
+şirketi NONE
+de NONE
+bu NONE
+" NONE
+server NONE
+" NONE
+piyasasını NONE
+hedefledi NONE
+. NONE
+</S>
+<S>
+orta NONE
+batı NONE
+Eyaletleri NONE
+için NONE
+Nüfus NONE
+Tahliyesi NONE
+Sona NONE
+Eriyor NONE
+</S>
+<S>
+IOWA ORGANIZATION
+bir NONE
+geri NONE
+dönüş NONE
+gerçekleştiriyor NONE
+. NONE
+</S>
+<S>
+Indiana LOCATION
+, NONE
+Ohio LOCATION
+ve NONE
+Michigan LOCATION
+da NONE
+öyle NONE
+. NONE
+</S>
+<S>
+Kazançlar NONE
+, NONE
+elbette NONE
+, NONE
+oldukça NONE
+küçük NONE
+. NONE
+</S>
+<S>
+nüfus NONE
+yarışında NONE
+Northeast LOCATION
+yerini NONE
+koruyor NONE
+. NONE
+</S>
+<S>
+Daha NONE
+Fazla NONE
+Yaşlı NONE
+Bağımsızlığını NONE
+Koruyor NONE
+</S>
+<S>
+Modern NONE
+tıp NONE
+sayesinde NONE
+, NONE
+artık NONE
+daha NONE
+fazla NONE
+çift NONE
+birlikte NONE
+yaşlanıyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+hisse NONE
+1970'ten TIME
+beri NONE
+yaklaşık NONE
+% NONE
+24'te NONE
+kalıyor NONE
+. NONE
+</S>
+<S>
+İnsanlar NONE
+yaşlandıkça NONE
+, NONE
+birçoğu NONE
+dul NONE
+kalıyor NONE
+. NONE
+</S>
+<S>
+Kariyerler NONE
+Çoğunlukla NONE
+Rahatı NONE
+Önemli NONE
+Tutuyor NONE
+</S>
+<S>
+Birçok NONE
+VARLIKLI NONE
+insan NONE
+kişisel NONE
+başarı NONE
+ve NONE
+parayı NONE
+ailenin NONE
+önünde NONE
+tutar NONE
+. NONE
+</S>
+<S>
+Zengin NONE
+piyasanın NONE
+çoğu NONE
+araştırmalarının NONE
+aksine NONE
+, NONE
+bu NONE
+çalışma NONE
+süper-zenginleri NONE
+hariç NONE
+tutuyor NONE
+. NONE
+</S>
+<S>
+Yüzde NONE
+yirmisi NONE
+finansal NONE
+açıdan NONE
+varlık NONE
+içinde NONE
+olduklarını NONE
+hissetmiyor NONE
+bile NONE
+. NONE
+</S>
+<S>
+Varlıklıların NONE
+çoğu NONE
+da NONE
+kendilerinden NONE
+memnun NONE
+değiller NONE
+. NONE
+</S>
+<S>
+Yaklaşık NONE
+% NONE
+40'ı NONE
+diğerlerinden NONE
+daha NONE
+muktedir NONE
+olduğunu NONE
+hissetmiyor NONE
+. NONE
+</S>
+<S>
+Ivır NONE
+Zıvır NONE
+</S>
+<S>
+Yaklaşık NONE
+% NONE
+54'ü NONE
+kadın NONE
+, NONE
+ve NONE
+% NONE
+44'ü NONE
+yarı NONE
+zamanlı NONE
+öğrencidir NONE
+. NONE
+</S>
+<S>
+Bu NONE
+küçük NONE
+Dallas LOCATION
+banliyosunun NONE
+başı NONE
+dertte NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+Addison ORGANIZATION
+Konseyi'nin ORGANIZATION
+büyük NONE
+çoğunluğu NONE
+bu NONE
+argümanlara NONE
+ikna NONE
+olmadı NONE
+. NONE
+</S>
+<S>
+Pandoranın NONE
+kutusunu NONE
+açacaktır NONE
+. NONE
+</S>
+<S>
+Addison ORGANIZATION
+da NONE
+artık NONE
+pandoranın NONE
+kutusuna NONE
+yabancı NONE
+değil NONE
+. NONE
+</S>
+<S>
+Şimdi NONE
+havuz NONE
+dalgalanmasına NONE
+sıra NONE
+geliyor NONE
+. NONE
+</S>
+<S>
+Anita PERSON
+Davis PERSON
+</S>
+<S>
+Elbette NONE
+, NONE
+Bay PERSON
+Mason PERSON
+nötr NONE
+bir NONE
+dil NONE
+kullanmadı NONE
+. NONE
+</S>
+<S>
+İnsanlar NONE
+sıkıştığı NONE
+yeri NONE
+hızla NONE
+terk NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+Neden NONE
+olumlu NONE
+? NONE
+</S>
+<S>
+Ancak NONE
+bunlar NONE
+başlıkları NONE
+oluşturan NONE
+farklar NONE
+değil NONE
+. NONE
+</S>
+<S>
+İki NONE
+onaylanmayan NONE
+akrabanın NONE
+da NONE
+göçmen NONE
+olması NONE
+kayda NONE
+değer NONE
+bir NONE
+husus NONE
+. NONE
+</S>
+<S>
+Bir NONE
+yere NONE
+kadar NONE
+, NONE
+baloncuklar NONE
+az NONE
+sayıda NONE
+ve NONE
+araları NONE
+uzak NONE
+. NONE
+</S>
+<S>
+Tanıdık NONE
+mı NONE
+geliyor NONE
+? NONE
+</S>
+<S>
+Ekonomiyle NONE
+ilgili NONE
+bir NONE
+sorun NONE
+yok NONE
+, NONE
+tüm NONE
+endeksler NONE
+yukarıda NONE
+. NONE
+</S>
+<S>
+Bunu NONE
+daha NONE
+önce NONE
+duydunuz NONE
+mu NONE
+? NONE
+</S>
+<S>
+Önceki NONE
+başkan NONE
+ve NONE
+icra NONE
+başkanı NONE
+, NONE
+Eric PERSON
+W. PERSON
+Markrud PERSON
+, NONE
+Haziran'da TIME
+istifa NONE
+etti NONE
+. NONE
+</S>
+<S>
+Saray ORGANIZATION
+Senato ORGANIZATION
+müzakereleri NONE
+hafta NONE
+ortasında NONE
+başlayacak NONE
+ve NONE
+bir NONE
+süre NONE
+devam NONE
+edecek NONE
+. NONE
+</S>
+<S>
+Kesintiye NONE
+muhalifler NONE
+hırslı NONE
+oynuyorlar NONE
+. NONE
+</S>
+<S>
+Bu NONE
+mevzuat NONE
+ay NONE
+sonuna NONE
+kadar NONE
+yasalaştırılmalıdır NONE
+. NONE
+</S>
+<S>
+Beyaz ORGANIZATION
+Saray ORGANIZATION
+senatörlere NONE
+katılma NONE
+konusunda NONE
+isteksiz NONE
+görünüyor NONE
+. NONE
+</S>
+<S>
+Tartışmanın NONE
+üzerinde NONE
+gezinen NONE
+diğer NONE
+büyük NONE
+bir NONE
+sorun NONE
+da NONE
+Başkan PERSON
+Bush'un PERSON
+ne NONE
+düşündüğüdür NONE
+. NONE
+</S>
+<S>
+Bay PERSON
+Bentsen PERSON
+Senato'nun ORGANIZATION
+bu NONE
+önlemi NONE
+yakında NONE
+göz NONE
+önüne NONE
+alacağını NONE
+umut NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+İşler NONE
+fazla NONE
+ileri NONE
+gitti NONE
+. NONE
+</S>
+<S>
+Sen. PERSON
+Dole PERSON
+her NONE
+Senatör NONE
+tarafından NONE
+hareket NONE
+konusunda NONE
+fedakarlık NONE
+gerektiğini NONE
+söyledi NONE
+. NONE
+</S>
+<S>
+Çoğunlukla NONE
+, NONE
+şirketleri NONE
+etkileyen NONE
+bu NONE
+gelir NONE
+artırıcı NONE
+hükümler NONE
+: NONE
+</S>
+<S>
+Bu NONE
+önlem NONE
+ayrıca NONE
+harcama NONE
+kesintileri NONE
+ve NONE
+federal NONE
+ücretlerde NONE
+artışları NONE
+içeriyor NONE
+. NONE
+</S>
+<S>
+Hükümleri NONE
+arasında NONE
+bulunanlar NONE
+: NONE
+</S>
+<S>
+Plan NONE
+gelecek NONE
+yıl NONE
+doktor NONE
+ücretlerinde NONE
+kısa NONE
+bir NONE
+dondurma NONE
+getirecek NONE
+. NONE
+</S>
+<S>
+Benzer NONE
+bir NONE
+hüküm NONE
+, NONE
+Beyaz ORGANIZATION
+Saray ORGANIZATION
+versiyonunda NONE
+bulunuyor NONE
+. NONE
+</S>
+<S>
+Nükleer ORGANIZATION
+Düzenleme ORGANIZATION
+Komisyonu ORGANIZATION
+ücretlerindeki NONE
+artışın NONE
+toplamı NONE
+54 MONEY
+milyon MONEY
+dolar MONEY
+. NONE
+</S>
+<S>
+John PERSON
+E. PERSON
+Yang PERSON
+bu NONE
+makaleye NONE
+katkıda NONE
+bulundu NONE
+. NONE
+</S>
+<S>
+Şaka NONE
+mı NONE
+yapıyorsun NONE
+? NONE
+</S>
+<S>
+Makalenizin NONE
+ciddi NONE
+bir NONE
+gerçeklik NONE
+kontrolüne NONE
+ihtiyacı NONE
+var NONE
+. NONE
+</S>
+<S>
+Reva PERSON
+Levin PERSON
+</S>
+<S>
+Cambridge LOCATION
+, NONE
+Mass ORGANIZATION
+. NONE
+</S>
+<S>
+Cuma TIME
+günkü TIME
+baskıda NONE
+, NONE
+birimin NONE
+adı NONE
+yanlış NONE
+ifade NONE
+edildi NONE
+. NONE
+</S>
+<S>
+Columbia ORGANIZATION
+Savings ORGANIZATION
+sözde NONE
+ıskarta NONE
+tahvillerin NONE
+büyük NONE
+sahiplerinden NONE
+biridir NONE
+. NONE
+</S>
+<S>
+Columbia ORGANIZATION
+Savings ORGANIZATION
+yetkililerine NONE
+gerileme NONE
+hakkındaki NONE
+yorum NONE
+için NONE
+ulaşılamadı NONE
+. NONE
+</S>
+<S>
+FRANKLIN ORGANIZATION
+SAVINGS ORGANIZATION
+ASSOCIATION ORGANIZATION
+( NONE
+Ottawa LOCATION
+, NONE
+Kanada LOCATION
+) NONE
+-- NONE
+) NONE
+-- NONE
+</S>
+<S>
+Sanırım NONE
+onların NONE
+tarafında NONE
+bu NONE
+biraz NONE
+erken NONE
+oldu NONE
+. NONE
+</S>
+<S>
+Bu NONE
+başka NONE
+bir NONE
+kara NONE
+Pazartesi'nin TIME
+gelişine NONE
+yönelik NONE
+bir NONE
+sinyal NONE
+mi NONE
+? NONE
+</S>
+<S>
+Joseph PERSON
+Granville PERSON
+. NONE
+</S>
+<S>
+Bir NONE
+teknisyenseniz NONE
+, NONE
+sinyallare NONE
+uyarsınız NONE
+. NONE
+</S>
+<S>
+220 NONE
+seviyesine NONE
+kadar NONE
+önemli NONE
+bir NONE
+destek NONE
+görmüyorum NONE
+. NONE
+</S>
+<S>
+Bu NONE
+ay NONE
+2200 NONE
+seviyesine NONE
+gidiş NONE
+olasılığı NONE
+görüyorum NONE
+. NONE
+" NONE
+</S>
+<S>
+Elaine PERSON
+Garzarelli PERSON
+. NONE
+</S>
+<S>
+Şimdi NONE
+, NONE
+bu NONE
+iki NONE
+yıldaki NONE
+gibi NONE
+, NONE
+borsa NONE
+göstergeleri NONE
+olumlu NONE
+. NONE
+</S>
+<S>
+Yani NONE
+hasarın NONE
+kısa NONE
+ömürlü NONE
+ve NONE
+sınırlı NONE
+olacağını NONE
+düşünüyor NONE
+. NONE
+</S>
+<S>
+Benim NONE
+tavsiyem NONE
+satın NONE
+almadır NONE
+. NONE
+</S>
+<S>
+Ned PERSON
+Davis PERSON
+. NONE
+</S>
+<S>
+1987'de TIME
+benzersiz NONE
+bir NONE
+kombinasyon NONE
+vardı NONE
+, NONE
+diyor NONE
+. NONE
+</S>
+<S>
+Borç NONE
+sınırı NONE
+rekor NONE
+derecede NONE
+yükseldi NONE
+. NONE
+</S>
+<S>
+A NONE
+tipi NONE
+yatırım NONE
+fonlarına NONE
+yönelik NONE
+müthiş NONE
+bir NONE
+Halk NONE
+ilgisi NONE
+vardı NONE
+. NONE
+</S>
+<S>
+Borsadaki NONE
+100 MONEY
+milyar MONEY
+dolar MONEY
+buna NONE
+bağlıydı NONE
+. NONE
+</S>
+<S>
+1987'de TIME
+, NONE
+bu NONE
+satış NONE
+bir NONE
+kartopu NONE
+etkisine NONE
+katkıda NONE
+bulundu NONE
+. NONE
+</S>
+<S>
+Gelecek NONE
+birkaç NONE
+ayda NONE
+, NONE
+buna NONE
+rağmen NONE
+, NONE
+işlerin NONE
+kötü NONE
+göründüğünü NONE
+söylüyor NONE
+. NONE
+</S>
+<S>
+Muhtelemen NONE
+bir NONE
+yıl NONE
+sonu NONE
+toparlanması NONE
+göreceğiz NONE
+, NONE
+daha NONE
+sonra NONE
+tekrar NONE
+düşecek NONE
+. NONE
+</S>
+<S>
+Bir NONE
+nevi NONE
+iki NONE
+kademeli NONE
+ayı NONE
+piyasası NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+normal NONE
+bir NONE
+ayı NONE
+piyasası NONE
+olacak NONE
+, NONE
+" NONE
+diyor NONE
+. NONE
+</S>
+<S>
+" NONE
+Sanırım NONE
+bu NONE
+benim NONE
+öngörüm NONE
+. NONE
+" NONE
+</S>
+<S>
+Leon PERSON
+G. PERSON
+Cooperman PERSON
+. NONE
+</S>
+<S>
+" NONE
+Piyasanın NONE
+başka NONE
+bir NONE
+Ekim TIME
+87 NONE
+vakası NONE
+yaşayacağını NONE
+sanmıyorum NONE
+. NONE
+" NONE
+</S>
+<S>
+Şimdi NONE
+ile NONE
+iki NONE
+yıl NONE
+öncesi NONE
+arasında NONE
+birkaç NONE
+önemli NONE
+farkı NONE
+işaretliyor NONE
+. NONE
+</S>
+<S>
+1987'nin TIME
+tersine NONE
+, NONE
+faiz NONE
+oranları NONE
+bu NONE
+yıl NONE
+düşmektedir NONE
+. NONE
+</S>
+<S>
+1987'nin TIME
+aksine NONE
+, NONE
+dolar MONEY
+güçlüdür NONE
+. NONE
+</S>
+<S>
+" NONE
+Yani NONE
+çok NONE
+karmakarışık NONE
+. NONE
+" NONE
+</S>
+<S>
+John PERSON
+Kenneth PERSON
+Galbraith PERSON
+. NONE
+</S>
+<S>
+Bu NONE
+hem NONE
+yatırımcıları NONE
+tedirgin NONE
+etti NONE
+hem NONE
+de NONE
+şirketler NONE
+daha NONE
+kırılgan NONE
+hale NONE
+geldi NONE
+. NONE
+</S>
+<S>
+Bununla NONE
+birlikte NONE
+, NONE
+bir NONE
+durgunluk NONE
+ya NONE
+da NONE
+kriz NONE
+mümkün NONE
+görünmüyor NONE
+. NONE
+</S>
+<S>
+Mario PERSON
+Gabelli PERSON
+. NONE
+</S>
+<S>
+Örnekler NONE
+arasında NONE
+" NONE
+Jaguar'a ORGANIZATION
+bakan NONE
+Ford ORGANIZATION
+, NONE
+LIN ORGANIZATION
+Broadcasting'a ORGANIZATION
+bakan NONE
+BellSout ORGANIZATION
+" NONE
+</S>
+<S>
+Jim PERSON
+Rogers PERSON
+. NONE
+</S>
+<S>
+" NONE
+Cuma TIME
+dolar MONEY
+satamazsın NONE
+, NONE
+" NONE
+diyor NONE
+. NONE
+</S>
+<S>
+Frank PERSON
+Curzio PERSON
+. NONE
+</S>
+<S>
+Birçok NONE
+kişi NONE
+artık NONE
+1987 TIME
+çöküşünün NONE
+tahmin NONE
+edildiğini NONE
+iddia NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+Aksi NONE
+takdirde NONE
+, NONE
+" NONE
+Çok NONE
+yakında NONE
+2200'e NONE
+gidebiliriz NONE
+. NONE
+" NONE
+</S>
+<S>
+Frank PERSON
+W. PERSON
+Terrizzi PERSON
+. NONE
+</S>
+<S>
+Renaissance ORGANIZATION
+parasını NONE
+tamamen NONE
+nakit NONE
+benzeri NONE
+yatırımlarda NONE
+, NONE
+öncelikle NONE
+ABD LOCATION
+hazine NONE
+bonolarında NONE
+tutuyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+yazınızın NONE
+gerçeklere NONE
+dayalı NONE
+olduğunu NONE
+ve NONE
+incelikli NONE
+bir NONE
+şekilde NONE
+aydınlatıcı NONE
+olduğunu NONE
+düşünüyorum NONE
+. NONE
+</S>
+<S>
+Evet NONE
+, NONE
+yaptı NONE
+. NONE
+</S>
+<S>
+Kendi NONE
+tanıklarının NONE
+anayasal NONE
+haklarını NONE
+savunan NONE
+yaklaşık NONE
+56 NONE
+kelime NONE
+sarf NONE
+etti NONE
+. NONE
+</S>
+<S>
+Anayasal NONE
+etin NONE
+övgüsünü NONE
+büyük NONE
+huysuz NONE
+yorum NONE
+dilimlerinin NONE
+arasına NONE
+sıkıştırdı NONE
+. NONE
+</S>
+<S>
+Kesinlikle NONE
+zırva NONE
+. NONE
+</S>
+<S>
+Açıkçası NONE
+, NONE
+mahkeme NONE
+kararı NONE
+içerde NONE
+. NONE
+</S>
+<S>
+Tam NONE
+şimdi NONE
+kanıt NONE
+peşinde NONE
+koşuyorlar NONE
+. NONE
+</S>
+<S>
+Bu NONE
+uygulama NONE
+benim NONE
+okulda NONE
+bulunduğum NONE
+zamana NONE
+nasıl NONE
+atfedildi NONE
+? NONE
+</S>
+<S>
+Ah NONE
+, NONE
+evet NONE
+, NONE
+bir NONE
+Star ORGANIZATION
+Chamber ORGANIZATION
+olarak NONE
+bilinen NONE
+bir NONE
+şey NONE
+. NONE
+</S>
+<S>
+Hiç NONE
+şüphesiz NONE
+bu NONE
+kısmen NONE
+doğrudur NONE
+. NONE
+</S>
+<S>
+Bay PERSON
+Lantos'un PERSON
+mektubunda NONE
+söylediği NONE
+her NONE
+şey NONE
+kısmen NONE
+doğrudur NONE
+. NONE
+</S>
+<S>
+Hayır NONE
+, NONE
+Bay PERSON
+Lantos'un PERSON
+şikayetleri NONE
+erozyona NONE
+uğramayacak NONE
+. NONE
+</S>
+<S>
+Uygun NONE
+anayasal NONE
+tedbirleri NONE
+ve NONE
+pratik NONE
+sağduyuyu NONE
+savundu NONE
+. NONE
+</S>
+<S>
+Sorun NONE
+olan NONE
+sistem NONE
+, NONE
+herhangi NONE
+bir NONE
+belirli NONE
+üye NONE
+değil NONE
+. NONE
+</S>
+<S>
+Kişiler NONE
+her NONE
+zaman NONE
+şamar NONE
+atabilirler NONE
+. NONE
+</S>
+<S>
+Hiçbir NONE
+şekilde NONE
+HUD ORGANIZATION
+yönetimini NONE
+savunmuyorum NONE
+. NONE
+</S>
+<S>
+Raymond PERSON
+Weber PERSON
+</S>
+<S>
+Parsippany ORGANIZATION
+, NONE
+N.J LOCATION
+. NONE
+</S>
+<S>
+Baxter ORGANIZATION
+v. NONE
+Palmingiano ORGANIZATION
+, NONE
+425 NONE
+U.S. LOCATION
+308 NONE
+( NONE
+1976 TIME
+) NONE
+. NONE
+</S>
+<S>
+Clark PERSON
+S. PERSON
+Spalsbury PERSON
+Jr PERSON
+. NONE
+</S>
+<S>
+P LOCATION
+Estes LOCATION
+Park LOCATION
+, NONE
+Colorado LOCATION
+</S>
+<S>
+Ayın NONE
+13. NONE
+Günü NONE
+cumaydı TIME
+ve NONE
+Hisse NONE
+senedi NONE
+piyasası NONE
+yaklaşık NONE
+200 NONE
+puan NONE
+düştü NONE
+. NONE
+</S>
+<S>
+Yalnızca NONE
+bir NONE
+tesadüf NONE
+mü NONE
+? NONE
+</S>
+<S>
+Ya NONE
+da NONE
+13 NONE
+rakamı NONE
+fobisi NONE
+doğrulandı NONE
+mı NONE
+? NONE
+</S>
+<S>
+Alım NONE
+satım NONE
+seansının NONE
+son NONE
+45 NONE
+dakikasında NONE
+10 NONE
+puanlık NONE
+düşüş NONE
+görüldü NONE
+. NONE
+</S>
+<S>
+288 NONE
+milyon NONE
+adetlik NONE
+hisseyle NONE
+erişilen NONE
+tek NONE
+gün NONE
+rekoru NONE
+21 TIME
+Ekim'de TIME
+kırıldı NONE
+, NONE
+</S>
+<S>
+Kasti NONE
+amaçlı NONE
+değildi NONE
+, NONE
+hepimiz NONE
+çok NONE
+meşguldük NONE
+. NONE
+</S>
+<S>
+Herkes NONE
+aynı NONE
+şeyi NONE
+aynı NONE
+zamanda NONE
+yapmaya NONE
+çalışıyor NONE
+. NONE
+</S>
+<S>
+Satış NONE
+çıldırdığında NONE
+, NONE
+fiyatlar NONE
+sert NONE
+ve NONE
+hızla NONE
+düşer NONE
+. NONE
+</S>
+<S>
+Cuma TIME
+günü TIME
+, NONE
+bazı NONE
+borsacılara NONE
+göre NONE
+, NONE
+bazı NONE
+piyasa NONE
+belirleyiciler NONE
+tekrar NONE
+satışa NONE
+başladı NONE
+. NONE
+</S>
+<S>
+" NONE
+Herkes NONE
+diğerlerinin NONE
+teklifine NONE
+çarpıyordu NONE
+, NONE
+" NONE
+dedi NONE
+. NONE
+</S>
+<S>
+" NONE
+Alım NONE
+- NONE
+satımın NONE
+hızı NONE
+normal NONE
+ve NONE
+düzenliydi NONE
+, NONE
+" NONE
+dedi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+onlar NONE
+endişeliydi NONE
+. NONE
+</S>
+<S>
+Nasdaq'ın ORGANIZATION
+en NONE
+büyük NONE
+hisseleri NONE
+dağıldı NONE
+. NONE
+</S>
+<S>
+Tezgah NONE
+üstü NONE
+piyasası NONE
+yalnızca NONE
+bir NONE
+avuç NONE
+devirle NONE
+ilgili NONE
+hisseye NONE
+sahip NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+keskin NONE
+düştüler NONE
+. NONE
+</S>
+<S>
+McCaw ORGANIZATION
+% NONE
+8 NONE
+veya NONE
+3 NONE
+1/2 NONE
+puan NONE
+düşerek NONE
+40 NONE
+seviyesine NONE
+yerleşti NONE
+. NONE
+</S>
+<S>
+LIN ORGANIZATION
+Broadcasting ORGANIZATION
+, NONE
+5 NONE
+1/2 NONE
+puan NONE
+veya NONE
+% NONE
+5 NONE
+düşerek NONE
+107 NONE
+1/2 NONE
+oldu NONE
+. NONE
+</S>
+<S>
+Her NONE
+iki NONE
+hisse NONE
+için NONE
+de NONE
+toplam NONE
+satış NONE
+normaldi NONE
+. NONE
+</S>
+<S>
+Commercial ORGANIZATION
+Intertech ORGANIZATION
+6 NONE
+puan NONE
+düşüşle NONE
+26'ya NONE
+oturdu NONE
+. NONE
+</S>
+<S>
+Iskarta NONE
+hisse NONE
+piyasası NONE
+ile NONE
+bağlantılı NONE
+şirketlerin NONE
+hisseleri NONE
+de NONE
+Cuma TIME
+günü TIME
+alt NONE
+üst NONE
+oldu NONE
+. NONE
+</S>
+<S>
+13 TIME
+Ekim TIME
+1989 TIME
+, NONE
+Cuma TIME
+</S>
+<S>
+ANA NONE
+FAİZ NONE
+ORANI NONE
+: NONE
+</S>
+<S>
+% NONE
+10 NONE
+1\/2 NONE
+. NONE
+</S>
+<S>
+Büyük NONE
+ABD LOCATION
+para NONE
+merkezi NONE
+ticari NONE
+bankalarındaki NONE
+kurumsal NONE
+kredilere NONE
+yönelik NONE
+baz NONE
+oran NONE
+. NONE
+</S>
+<S>
+FEDERAL NONE
+fonlar NONE
+: NONE
+</S>
+<S>
+Kaynak NONE
+: NONE
+Fulton ORGANIZATION
+Prebon ORGANIZATION
+( NONE
+U.S.A LOCATION
+. NONE
+) NONE
+Inc ORGANIZATION
+. NONE
+</S>
+<S>
+İSKONTO NONE
+ORANI NONE
+: NONE
+</S>
+<S>
+% NONE
+7 NONE
+. NONE
+</S>
+<S>
+New ORGANIZATION
+York ORGANIZATION
+Federal ORGANIZATION
+Reserve ORGANIZATION
+Bank ORGANIZATION
+tarafından NONE
+Mevduat NONE
+kuruluşlarında NONE
+kredilerdeki NONE
+komisyon NONE
+. NONE
+</S>
+<S>
+VADESİZ NONE
+KREDİ NONE
+: NONE
+</S>
+<S>
+% NONE
+9 NONE
+3/4 NONE
+ila NONE
+% NONE
+10 NONE
+. NONE
+</S>
+<S>
+Menkul NONE
+kıymetler NONE
+borsası NONE
+teminatlarında NONE
+borsacılara NONE
+kredi NONE
+komisyonu NONE
+. NONE
+</S>
+<S>
+General ORGANIZATION
+Motors ORGANIZATION
+Acceptance ORGANIZATION
+Corp. ORGANIZATION
+tarafından NONE
+doğrudan NONE
+yerleştirilen NONE
+ŞİRKET NONE
+SENEDİ NONE
+: NONE
+</S>
+<S>
+ŞİRKET NONE
+SENEDİ NONE
+: NONE
+</S>
+<S>
+% NONE
+8.65 NONE
+, NONE
+30 NONE
+gün NONE
+; NONE
+% NONE
+8.55 NONE
+, NONE
+60 NONE
+gün NONE
+; NONE
+% NONE
+8.55 NONE
+, NONE
+90 NONE
+gün NONE
+. NONE
+</S>
+<S>
+Mevduat NONE
+BONOLARI NONE
+: NONE
+</S>
+<S>
+Minimum NONE
+birim NONE
+100.000 NONE
+dolar MONEY
+. NONE
+</S>
+<S>
+İkincil NONE
+piyasadaki NONE
+tipik NONE
+oranlar NONE
+: NONE
+</S>
+<S>
+% NONE
+8.65 NONE
+, NONE
+1 NONE
+ay NONE
+; NONE
+% NONE
+8.65 NONE
+, NONE
+3 NONE
+ay NONE
+; NONE
+% NONE
+8.55 NONE
+, NONE
+6 NONE
+ay NONE
+</S>
+<S>
+BANKA NONE
+KABUL NONE
+KREDİLERİ NONE
+: NONE
+</S>
+<S>
+Devredilebilir NONE
+, NONE
+banka NONE
+destekli NONE
+işletme NONE
+kredi NONE
+araçları NONE
+tipik NONE
+şekilde NONE
+bir NONE
+ithalat NONE
+siparişini NONE
+finanse NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+Londra LOCATION
+geç NONE
+EURODOLLAR NONE
+: NONE
+</S>
+<S>
+Londra LOCATION
+bankalar NONE
+arası NONE
+faiz NONE
+oranı NONE
+( NONE
+LIBOR NONE
+) NONE
+: NONE
+</S>
+<S>
+Yabancı NONE
+ANA NONE
+FAİZ NONE
+ORANLARI NONE
+: NONE
+</S>
+<S>
+Bu NONE
+oran NONE
+göstergeleri NONE
+doğrudan NONE
+kıyaslanabilir NONE
+değildir NONE
+, NONE
+kredi NONE
+verme NONE
+uygulamaları NONE
+mekana NONE
+göre NONE
+değişiklik NONE
+gösterir NONE
+. NONE
+</S>
+<S>
+Hazine NONE
+bonoları NONE
+: NONE
+</S>
+<S>
+% NONE
+7.63 NONE
+- NONE
+13 NONE
+hafta NONE
+; NONE
+% NONE
+7.60 NONE
+- NONE
+26 NONE
+hafta NONE
+. NONE
+</S>
+<S>
+Federal ORGANIZATION
+HOME ORGANIZATION
+LOAN ORGANIZATION
+MORTGAGE ORGANIZATION
+CORP ORGANIZATION
+. NONE
+( NONE
+Freddie ORGANIZATION
+Mac ORGANIZATION
+) NONE
+: NONE
+</S>
+<S>
+30 NONE
+gün NONE
+içinde NONE
+teslimata NONE
+yönelik NONE
+30 NONE
+yıllık NONE
+ipotek NONE
+taahhütleri NONE
+üzerine NONE
+ilan NONE
+edilen NONE
+getiri NONE
+. NONE
+</S>
+<S>
+Kaynak NONE
+: NONE
+Telerate ORGANIZATION
+Systems ORGANIZATION
+Inc ORGANIZATION
+. NONE
+</S>
+<S>
+FEDERAL ORGANIZATION
+NATIONAL ORGANIZATION
+MORTGAGE ORGANIZATION
+ASSOCIATION ORGANIZATION
+( NONE
+Fannie ORGANIZATION
+Mae ORGANIZATION
+) NONE
+: NONE
+</S>
+<S>
+Kaynak NONE
+: NONE
+Telerate ORGANIZATION
+Systems ORGANIZATION
+Inc ORGANIZATION
+. NONE
+</S>
+<S>
+MERRILL ORGANIZATION
+LYNCH ORGANIZATION
+READY ORGANIZATION
+ASSETS ORGANIZATION
+TRUST ORGANIZATION
+: NONE
+</S>
+<S>
+% NONE
+8.33 NONE
+. NONE
+</S>
+<S>
+Ve NONE
+bugün NONE
+daha NONE
+fazla NONE
+satın NONE
+almayı NONE
+planlıyorlar NONE
+. NONE
+</S>
+<S>
+Halen NONE
+panik NONE
+yapabilir NONE
+ve NONE
+piyasadan NONE
+çıkabilirler NONE
+. NONE
+</S>
+<S>
+Piyasa NONE
+daha NONE
+da NONE
+zayıflarsa NONE
+kalanı NONE
+da NONE
+yatırmayı NONE
+bekliyor NONE
+. NONE
+</S>
+<S>
+Daha NONE
+sonra NONE
+piyasaya NONE
+daldı NONE
+: NONE
+</S>
+<S>
+" NONE
+Son NONE
+yarım NONE
+saatte NONE
+$ MONEY
+30 MONEY
+milyon MONEY
+harcadım NONE
+. NONE
+" NONE
+</S>
+<S>
+Diğer NONE
+para NONE
+yöneticileri NONE
+de NONE
+cüzdanlarını NONE
+açtı NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+çöküş NONE
+için NONE
+temel NONE
+seviyede NONE
+herhangi NONE
+bir NONE
+gerekçe NONE
+bulunmuyor NONE
+. NONE
+" NONE
+</S>
+<S>
+Sen NONE
+geriye NONE
+dönemeden NONE
+önce NONE
+olabilir NONE
+. NONE
+</S>
+<S>
+Artık NONE
+bunların NONE
+hepsi NONE
+değişti NONE
+. NONE
+</S>
+<S>
+Servet NONE
+yapıyor NONE
+olmasak NONE
+da NONE
+, NONE
+iyi NONE
+bir NONE
+gün NONE
+geçiriyoruz NONE
+. NONE
+</S>
+<S>
+Bu NONE
+bir NONE
+kodaman NONE
+değil NONE
+, NONE
+bir NONE
+ajanda NONE
+. NONE
+</S>
+<S>
+Birkaç NONE
+saat NONE
+sonra NONE
+borsa NONE
+190 NONE
+puan NONE
+düştü NONE
+. NONE
+</S>
+<S>
+Bunu NONE
+değerlendirin NONE
+: NONE
+</S>
+<S>
+Bu NONE
+olmadı NONE
+. NONE
+</S>
+<S>
+Çok NONE
+problem NONE
+yaşamadan NONE
+hayatta NONE
+kalabileceklerini NONE
+öğrendiler NONE
+. NONE
+</S>
+<S>
+Bazı NONE
+oyuncular NONE
+anı NONE
+yakalamak NONE
+için NONE
+hızlı NONE
+davrandılar NONE
+. NONE
+</S>
+<S>
+3 NONE
+ve NONE
+6 NONE
+aylık NONE
+bonolar NONE
+için NONE
+15.2 MONEY
+milyar MONEY
+dolar MONEY
+. NONE
+</S>
+<S>
+İki NONE
+yıllık NONE
+tahviller NONE
+, NONE
+muaccel NONE
+olan NONE
+borç NONE
+içinde NONE
+yaklaşık NONE
+9.6 MONEY
+milyar MONEY
+doları MONEY
+yeniden NONE
+finanse NONE
+etti NONE
+. NONE
+</S>
+<S>
+53 NONE
+haftalık NONE
+tahvillerde NONE
+9.75 MONEY
+milyar MONEY
+dolar MONEY
+. NONE
+</S>
+<S>
+Connecticut ORGANIZATION
+Light ORGANIZATION
+& ORGANIZATION
+Power ORGANIZATION
+Co ORGANIZATION
+. ORGANIZATION
+</S>
+<S>
+25 MONEY
+dolar MONEY
+fiyatlı NONE
+3 NONE
+milyon NONE
+tercihli NONE
+hisse NONE
+, NONE
+açık NONE
+artırmalı NONE
+ihale NONE
+yoluyla NONE
+. NONE
+</S>
+<S>
+B&H ORGANIZATION
+Crude ORGANIZATION
+Carriers ORGANIZATION
+Ltd ORGANIZATION
+. NONE
+</S>
+<S>
+Salomon ORGANIZATION
+Brothers ORGANIZATION
+Inc ORGANIZATION
+vasıtasıyla NONE
+4 NONE
+milyon NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Baldwin ORGANIZATION
+Technology ORGANIZATION
+Co. ORGANIZATION
+</S>
+<S>
+2.6 NONE
+milyon NONE
+A NONE
+Sınıfı NONE
+hisse NONE
+Smith ORGANIZATION
+Barney ORGANIZATION
+Harris ORGANIZATION
+Upham&Co ORGANIZATION
+vasıtasıyla NONE
+. NONE
+</S>
+<S>
+Blockbuster ORGANIZATION
+Entertainment ORGANIZATION
+Corp ORGANIZATION
+. NONE
+</S>
+<S>
+Chase ORGANIZATION
+Manhattan ORGANIZATION
+Corp. ORGANIZATION
+</S>
+<S>
+Goldman ORGANIZATION
+, NONE
+Sachs ORGANIZATION
+& ORGANIZATION
+Co ORGANIZATION
+vasıtasıyla NONE
+14 NONE
+milyon NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Comcast ORGANIZATION
+Corp. ORGANIZATION
+</S>
+<S>
+Merrill PERSON
+Lynch PERSON
+vasıtasıyla NONE
+150 MONEY
+milyon MONEY
+doları MONEY
+dönüştürülebilir NONE
+tahviller NONE
+. NONE
+</S>
+<S>
+CSS ORGANIZATION
+Industries ORGANIZATION
+-- NONE
+</S>
+<S>
+Merrill PERSON
+Lynch PERSON
+vasıtasıyla NONE
+1.3 NONE
+milyon NONE
+adet NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Eastern ORGANIZATION
+Utilities ORGANIZATION
+Associates ORGANIZATION
+-- NONE
+</S>
+<S>
+PaineWebber ORGANIZATION
+Inc ORGANIZATION
+vasıtasıyla NONE
+1.5 NONE
+milyon NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Employee ORGANIZATION
+Benefit ORGANIZATION
+Plans ORGANIZATION
+Inc ORGANIZATION
+. NONE
+</S>
+<S>
+Dean ORGANIZATION
+Witter ORGANIZATION
+Capital ORGANIZATION
+Markets ORGANIZATION
+vasıtasıyla NONE
+2 NONE
+milyon NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Exabyte ORGANIZATION
+Corp. ORGANIZATION
+-- NONE
+</S>
+<S>
+Goldman ORGANIZATION
+Sachs ORGANIZATION
+vasıtasıyla NONE
+2850000 NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Knowledgeware ORGANIZATION
+Inc. ORGANIZATION
+-- NONE
+</S>
+<S>
+Montgomery ORGANIZATION
+Securities ORGANIZATION
+vasıtasıyla NONE
+2.4 NONE
+milyon NONE
+adi NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Oregon LOCATION
+-- NONE
+</S>
+<S>
+Washington LOCATION
+, NONE
+D.C. LOCATION
+-- NONE
+</S>
+<S>
+Virginia ORGANIZATION
+Devlet ORGANIZATION
+Okulları ORGANIZATION
+Kurumu ORGANIZATION
+-- NONE
+</S>
+<S>
+Austin LOCATION
+, NONE
+Teksas LOCATION
+-- NONE
+</S>
+<S>
+California ORGANIZATION
+Sağlık ORGANIZATION
+Tesisleri ORGANIZATION
+Finansman ORGANIZATION
+Kurumu ORGANIZATION
+-- NONE
+</S>
+<S>
+Bir NONE
+PaineWebber ORGANIZATION
+Group ORGANIZATION
+vasıtasıyla NONE
+144.5 MONEY
+milyon MONEY
+dolar MONEY
+değerinde NONE
+Kaiser ORGANIZATION
+Permanente ORGANIZATION
+gelir NONE
+bonoları NONE
+. NONE
+</S>
+<S>
+Connecticut ORGANIZATION
+-- NONE
+</S>
+<S>
+Pennsylvania ORGANIZATION
+Yüksek ORGANIZATION
+Eğitim ORGANIZATION
+Tesisleri ORGANIZATION
+Kurumu ORGANIZATION
+-- NONE
+</S>
+<S>
+Tennessee ORGANIZATION
+Valley ORGANIZATION
+Kurumu ORGANIZATION
+-- NONE
+</S>
+<S>
+First ORGANIZATION
+Boston ORGANIZATION
+Corp ORGANIZATION
+vasıtasıyla NONE
+üç NONE
+milyarlık NONE
+power NONE
+tahvili NONE
+. NONE
+</S>
+<S>
+New LOCATION
+Jersey LOCATION
+Tıp ORGANIZATION
+Ve ORGANIZATION
+Dişçilik ORGANIZATION
+Üniversitesi ORGANIZATION
+-- NONE
+</S>
+<S>
+Prudential-Bache ORGANIZATION
+Group ORGANIZATION
+vasıtasıyla NONE
+55 MONEY
+milyon MONEY
+dolarlık MONEY
+C NONE
+serisi NONE
+tahvil NONE
+. NONE
+</S>
+<S>
+West ORGANIZATION
+Virginia ORGANIZATION
+Parkways ORGANIZATION
+, NONE
+Ekonomik ORGANIZATION
+Kalkınma ORGANIZATION
+Ve NONE
+Turizm ORGANIZATION
+Kurumu ORGANIZATION
+-- NONE
+</S>
+<S>
+San LOCATION
+Antonio LOCATION
+, NONE
+Teksas LOCATION
+-- NONE
+</S>
+<S>
+Güney LOCATION
+Dakota LOCATION
+Sağlık ORGANIZATION
+ve ORGANIZATION
+Eğitim ORGANIZATION
+Tesisi ORGANIZATION
+Kurumu ORGANIZATION
+-- NONE
+</S>
+<S>
+Ancak NONE
+diğerleri NONE
+hakkında NONE
+emin NONE
+değil NONE
+. NONE
+</S>
+<S>
+Ve NONE
+kurumların NONE
+gireceğini NONE
+ve NONE
+alım NONE
+yapacağını NONE
+sanıyorum NONE
+... NONE
+</S>
+<S>
+Ben NONE
+bekleyeceğim NONE
+. NONE
+</S>
+<S>
+Şimdi NONE
+satarsam NONE
+, NONE
+büyük NONE
+zarar NONE
+edeceğim NONE
+. NONE
+</S>
+<S>
+Borç NONE
+verenler NONE
+arasındaki NONE
+temayüle NONE
+yönelik NONE
+genel NONE
+bir NONE
+beğenmezlik NONE
+olduğu NONE
+konusunda NONE
+herhangi NONE
+bir NONE
+şüphe NONE
+yok NONE
+. NONE
+</S>
+<S>
+Diğerleri NONE
+küçük NONE
+yatırımcının NONE
+bu NONE
+küçük NONE
+şoklardan NONE
+daha NONE
+kaç NONE
+tanesine NONE
+dayanabileceğini NONE
+merak NONE
+ediyor NONE
+. NONE
+</S>
+<S>
+Şimdi NONE
+tekrar NONE
+oluyor NONE
+. NONE
+</S>
+<S>
+Küçük NONE
+adam NONE
+korkutulunca NONE
+, NONE
+büyük NONE
+adamlar NONE
+kötü NONE
+zarar NONE
+görür NONE
+. NONE
+</S>
+<S>
+Merrill PERSON
+Lynch PERSON
+küçük NONE
+adam NONE
+olmadan NONE
+ayakta NONE
+kalamaz NONE
+. NONE
+</S>
+<S>
+Bay PERSON
+Quackenbush'un PERSON
+sözlerine NONE
+göre NONE
+bireysel NONE
+yatırımcılar NONE
+halen NONE
+bilgisayar NONE
+programı NONE
+destekli NONE
+alım NONE
+satım NONE
+işlemleri NONE
+konusunda NONE
+kızgın NONE
+. NONE
+</S>
+<S>
+Ve NONE
+, NONE
+son NONE
+olarak NONE
+, NONE
+başkasının NONE
+talihsizliğinden NONE
+zevk NONE
+alanlar NONE
+var NONE
+. NONE
+</S>
+<S>
+Ben NONE
+1987'de TIME
+çıktım NONE
+. NONE
+</S>
+<S>
+Bay PERSON
+Antori PERSON
+de NONE
+girecek NONE
+mi NONE
+? NONE
+</S>
+<S>
+Şaka NONE
+mı NONE
+yapıyorsun NONE
+! NONE
+</S>
+<S>
+Palmtops ORGANIZATION
+çok NONE
+da NONE
+geride NONE
+değil NONE
+. NONE
+</S>
+<S>
+Bu NONE
+çok NONE
+büyük NONE
+. NONE
+</S>
+<S>
+Daha NONE
+küçük NONE
+bilgisayarlar NONE
+yapılması NONE
+genellikle NONE
+hafızada NONE
+fedakarlık NONE
+anlamına NONE
+geliyor NONE
+. NONE
+</S>
+<S>
+Boyut NONE
+ve NONE
+ağırlık NONE
+hususları NONE
+da NONE
+ekranları NONE
+etkiledi NONE
+. NONE
+</S>
+<S>
+Rekabetçi NONE
+pusu NONE
+ateşi NONE
+bazen NONE
+epey NONE
+önemsiz NONE
+olabilir NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+Dynabook ORGANIZATION
+ürünü NONE
+iki NONE
+kat NONE
+daha NONE
+ağır NONE
+ve NONE
+Compaq'dan ORGANIZATION
+daha NONE
+pahalı NONE
+. NONE
+</S>
+<S>
+Compaq ORGANIZATION
+çoktan NONE
+beri NONE
+Zenith'in ORGANIZATION
+piyasa NONE
+payına NONE
+nişan NONE
+alıyor NONE
+. NONE
+</S>
+<S>
+Analistler NONE
+bu NONE
+şekilde NONE
+görmüyor NONE
+. NONE
+</S>
+<S>
+Büyük NONE
+Mavi'den NONE
+ne NONE
+haber NONE
+? NONE
+</S>
+<S>
+Avco ORGANIZATION
+Corp. ORGANIZATION
+Ordudan NONE
+11.8 MONEY
+milyon MONEY
+Dolar MONEY
+değerinde NONE
+bir NONE
+helikopter NONE
+motoru NONE
+sözleşmesi NONE
+aldı NONE
+. NONE
+</S>
+<S>
+Aylık NONE
+artış NONE
+son NONE
+4 NONE
+yılda NONE
+kaydedilen NONE
+en NONE
+yüksek NONE
+seviyedeydi NONE
+. NONE
+</S>
+<S>
+Riskli NONE
+girişim NONE
+? NONE
+</S>
+<S>
+Hangi NONE
+riskli NONE
+girişim NONE
+? NONE
+</S>
+<S>
+Kamu NONE
+hizmeti NONE
+şirketlerinin NONE
+hisseleri NONE
+elden NONE
+çıkarma NONE
+dönemi NONE
+esnasında NONE
+diğer NONE
+piyasa NONE
+sektörlerinden NONE
+görece NONE
+olarak NONE
+daha NONE
+iyi NONE
+korundu NONE
+. NONE
+</S>
+<S>
+Elbette NONE
+, NONE
+çok NONE
+daha NONE
+fazla NONE
+hisse NONE
+, NONE
+93 NONE
+, NONE
+yeni NONE
+düşük NONE
+seviyeler NONE
+getirdi NONE
+. NONE
+</S>
+<S>
+IBM ORGANIZATION
+102 MONEY
+dolardan MONEY
+kapanarak NONE
+, NONE
+5.625 MONEY
+dolar MONEY
+düşüş NONE
+göstermiş NONE
+oldu NONE
+. NONE
+</S>
+<S>
+Ekledi NONE
+: NONE
+1987 TIME
+yılında TIME
+volatilite NONE
+konusunda NONE
+bir NONE
+ders NONE
+aldık NONE
+. NONE
+</S>
+<S>
+Analistler NONE
+ve NONE
+rakipler NONE
+, NONE
+yine NONE
+de NONE
+, NONE
+rakamların NONE
+bu NONE
+kadar NONE
+yüksek NONE
+olması NONE
+konusunda NONE
+kuşku NONE
+duyuyorlardı NONE
+. NONE
+</S>
+<S>
+Budget ORGANIZATION
+sık NONE
+uçan NONE
+yolcu NONE
+maliyetlerinin NONE
+Avis ORGANIZATION
+seviyesine NONE
+göre NONE
+" NONE
+önemli NONE
+ölçüde NONE
+daha NONE
+düşük NONE
+" NONE
+olduğunu NONE
+bildirdi NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+şovun NONE
+enerji NONE
+seviyesini NONE
+yükseltecek NONE
+. NONE
+" NONE
+</S>
+<S>
+Tandem ORGANIZATION
+3 NONE
+aylık NONE
+döneme NONE
+dair NONE
+tüm NONE
+sonuçları NONE
+gelecek NONE
+hafta NONE
+bildirmeyi NONE
+umuyor NONE
+. NONE
+</S>
+<S>
+Tandem'in ORGANIZATION
+yeni NONE
+yüksek NONE
+kaliteli NONE
+bilgisayarı NONE
+Cyclone NONE
+olarak NONE
+adlandırılıyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+Tandem'in ORGANIZATION
+büyümesini NONE
+mahmuzladı NONE
+. NONE
+</S>
+<S>
+" NONE
+Biz NONE
+Biraz NONE
+daha NONE
+büyük NONE
+bir NONE
+nişin NONE
+peşindeyiz NONE
+, NONE
+" NONE
+dedi NONE
+. NONE
+</S>
+<S>
+Henüz NONE
+zıplamayın NONE
+. NONE
+</S>
+<S>
+Bu NONE
+garip NONE
+bir NONE
+şekilde NONE
+iyimser NONE
+görünebilir NONE
+. NONE
+</S>
+<S>
+Aşağı NONE
+gittiğinde NONE
+, NONE
+tüm NONE
+geleneklere NONE
+göre NONE
+, NONE
+ekonomi NONE
+izledi NONE
+. NONE
+</S>
+<S>
+Piyasa NONE
+artan NONE
+şekilde NONE
+ulusun NONE
+geri NONE
+kalanından NONE
+kopmuş NONE
+görünüyor NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+tür NONE
+bir NONE
+hareketin NONE
+hiçbir NONE
+mantığı NONE
+yok NONE
+. NONE
+" NONE
+</S>
+<S>
+Mali NONE
+hizmetler NONE
+endüstrisi NONE
+1987 TIME
+çöküşüyle NONE
+hırpalandı NONE
+. NONE
+</S>
+<S>
+Büyüme NONE
+daha NONE
+yavaş NONE
+. NONE
+</S>
+<S>
+Karlar NONE
+daha NONE
+yumuşak NONE
+. NONE
+</S>
+<S>
+Borç NONE
+yükleri NONE
+daha NONE
+ağırdır NONE
+. NONE
+</S>
+<S>
+1987 TIME
+ile NONE
+1989 TIME
+arasındaki NONE
+başka NONE
+büyük NONE
+bir NONE
+fark NONE
+hiç NONE
+de NONE
+rahatlatıcı NONE
+değil NONE
+. NONE
+</S>
+<S>
+" NONE
+Birçok NONE
+bastırılan NONE
+talep NONE
+gitti NONE
+. NONE
+" NONE
+</S>
+<S>
+Bu NONE
+herhangi NONE
+bir NONE
+yerde NONE
+direnç NONE
+ile NONE
+telafi NONE
+işlemiydi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+, NONE
+süreç NONE
+dahilinde NONE
+, NONE
+Fed ORGANIZATION
+enflasyonu NONE
+yeniden NONE
+ateşleme NONE
+riskini NONE
+alıyor NONE
+. NONE
+</S>
+<S>
+Wall LOCATION
+Street'deki LOCATION
+bir NONE
+panik NONE
+tam NONE
+anlamıyla NONE
+güven NONE
+telkin NONE
+etmez NONE
+. NONE
+</S>
+<S>
+Anketler NONE
+tüketici NONE
+güveninin NONE
+Cuma TIME
+öncesinde NONE
+daha NONE
+yüksek NONE
+olduğunu NONE
+gösterdi NONE
+. NONE
+</S>
+<S>
+Felaket NONE
+tellallarının NONE
+kavrayışlı NONE
+dinleyici NONE
+kitlesi NONE
+vardı NONE
+. NONE
+</S>
+<S>
+Kara NONE
+Pazartesini TIME
+izleyen NONE
+bolluk NONE
+bugün NONE
+daha NONE
+iyimsel NONE
+bir NONE
+görünüşe NONE
+izin NONE
+veriyor NONE
+. NONE
+</S>
+<S>
+Bu NONE
+defa NONE
+çok NONE
+daha NONE
+tecrübeliler NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+son NONE
+5 NONE
+ya NONE
+da NONE
+6 NONE
+düşüşü NONE
+işaret NONE
+eden NONE
+çeyreğin NONE
+ilki NONE
+olabilir NONE
+. NONE
+" NONE
+</S>
+<S>
+Bir NONE
+Dow ORGANIZATION
+sözcüsü NONE
+tahminler NONE
+üzerinde NONE
+yorum NONE
+yapmayı NONE
+istediğini NONE
+reddetti NONE
+. NONE
+</S>
+<S>
+10'unun NONE
+çoğunun NONE
+büyük NONE
+emtia-kimyasal NONE
+operasyonları NONE
+var NONE
+. NONE
+</S>
+<S>
+Du ORGANIZATION
+Pont ORGANIZATION
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+Monsanto'ya ORGANIZATION
+yönelik NONE
+tahminlerin NONE
+çoğu NONE
+hisse NONE
+başına NONE
+1.70 MONEY
+dolar MONEY
+ile NONE
+2 MONEY
+dolar MONEY
+arasında NONE
+gidip NONE
+geliyor NONE
+. NONE
+</S>
+<S>
+Monsanto ORGANIZATION
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+emtia NONE
+- NONE
+kimyasal NONE
+üreticileri NONE
+bir NONE
+fiyatlandırma NONE
+döngüsünün NONE
+olumsuz NONE
+tarafında NONE
+yakalandı NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+tahminler NONE
+hisse NONE
+başına NONE
+başa NONE
+baş NONE
+noktasından NONE
+35 MONEY
+cent MONEY
+seviyesine NONE
+değişiyor NONE
+. NONE
+</S>
+<S>
+Himont ORGANIZATION
+, NONE
+Quantum ORGANIZATION
+ve NONE
+Union ORGANIZATION
+Carbide'in ORGANIZATION
+hiçbiri NONE
+yorum NONE
+yapmadı NONE
+. NONE
+</S>
+<S>
+Dow ORGANIZATION
+Chemical ORGANIZATION
+Co. ORGANIZATION
+-- NONE
+</S>
+<S>
+Centel ORGANIZATION
+Capital ORGANIZATION
+Corp. ORGANIZATION
+-- NONE
+</S>
+<S>
+Federal ORGANIZATION
+Home ORGANIZATION
+Loan ORGANIZATION
+Mortgage ORGANIZATION
+Corp. ORGANIZATION
+-- NONE
+</S>
+<S>
+Federal ORGANIZATION
+Home ORGANIZATION
+Loan ORGANIZATION
+Mortgage ORGANIZATION
+Corp. ORGANIZATION
+-- NONE
+</S>
+<S>
+Fiyatlandırma NONE
+detayları NONE
+hemen NONE
+sunulamadı NONE
+. NONE
+</S>
+<S>
+Federal ORGANIZATION
+Home ORGANIZATION
+Loan ORGANIZATION
+Mortgage ORGANIZATION
+Corp. ORGANIZATION
+-- NONE
+</S>
+<S>
+$ MONEY
+200 MONEY
+milyonluk MONEY
+soyunmuş NONE
+ipotek NONE
+menkul NONE
+BT ORGANIZATION
+Securities ORGANIZATION
+Corp ORGANIZATION
+tarafından NONE
+sigortalanmıştı NONE
+. NONE
+</S>
+<S>
+Ek NONE
+Teminat NONE
+bir NONE
+tasarruf NONE
+kurumu NONE
+tarafından NONE
+satılıyor NONE
+. NONE
+</S>

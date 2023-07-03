@@ -1,0 +1,6006 @@
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+25 25+NUM+CARD
+Nisan'da nisan+NOUN+PROP+A3SG+PNON+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+6 6+NUM+CARD
+Mayıs'ta mayıs+NOUN+PROP+A3SG+PNON+LOC
+dönen dön+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+ucuz ucuz+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Memphis'ten memphis+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADJ
+akşam akşam+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+3'te 3+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+varacak var+VERB+POS^DB+ADJ+FUTPART+PNON
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+gelecek gel+VERB+POS^DB+ADJ+FUTPART+PNON
+salı salı+NOUN+A3SG+PNON+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+ertesi ertesi+ADJ
+gün gün+NOUN+A3SG+PNON+NOM
+dönen dön+VERB+POS^DB+ADJ+PRESPART
+Chicago'dan chicago+NOUN+PROP+A3SG+PNON+ABL
+Detroit'e detroit+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+yemek yemek+NOUN+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+d d+NOUN+A3SG+PNON+ACC
+s s+NOUN+A3SG+PNON+ACC
+ne ne+ADJ
+anlama anlam+NOUN+A3SG+PNON+DAT
+geliyor gel+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+yarından yarın+NOUN+A3SG+PNON+ABL
+sonraki sonraki+ADJ
+gün gün+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+hangi hangi+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+en en+ADV
+erken erken+ADV
+gelir gel+VERB+POS+AOR+A3SG
+</S>
+<S>
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Montreal montreal+NOUN+PROP+A3SG+PNON+NOM
+Kanada'ya kanada+NOUN+PROP+A3SG+PNON+DAT
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+listesini liste+NOUN+A3SG+P3SG+ACC
+alabilir al+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+miyim mi+QUES+PRES+A1SG
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günleri gün+NOUN+A3PL+P3SG+NOM
+olan ol+VERB+POS^DB+ADJ+PRESPART
+kule kule+NOUN+A3SG+PNON+NOM
+hava hava+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'de dc+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+vererek ver+VERB+POS^DB+ADV+BYDOINGSO
+Toronto'dan toronto+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'ya diego+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+görüntüleyin görüntüle+VERB+POS+IMP+A2PL
+</S>
+<S>
+Kısıtlama kısıtlama+NOUN+A3SG+PNON+NOM
+Ap57 Ap57+NOUN+PROP+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+Colorado'da colorado+NOUN+PROP+A3SG+PNON+LOC
+kara kara+NOUN+A3SG+PNON+NOM
+taşımacılığı taşımacılık+NOUN+A3SG+P3SG+NOM
+ile ile+POSTP+PCNOM
+ilgili ilgili+ADJ
+bilgiye bilgi+NOUN+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+22 22+NUM+CARD
+Mayıs mayıs+NOUN+PROP+A3SG+PNON+NOM
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Burbank'a burbank+NOUN+PROP+A3SG+PNON+DAT
+varan var+VERB+POS^DB+ADJ+PRESPART
+aktarmasız aktarmasız+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+1 1+NUM+CARD
+Haziran haziran+NOUN+PROP+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonrası sonra+NOUN+A3SG+P3SG+NOM
+için için+POSTP+PCNOM
+Los los+NOUN+PROP+A3SG+PNON+NOM
+Angeles'ten angeles+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+rezervasyonu rezervasyon+NOUN+A3SG+PNON+ACC
+yapmak yap+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+yemek yemek+NOUN+A3SG+PNON+NOM
+kodu kod+NOUN+A3SG+P3SG+NOM
+sb sb+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Ve ve+CONJ
+şimdi şimdi+ADV
+bana ben+PRON+PERS+A1SG+PNON+DAT
+gece gece+NOUN+A3SG+PNON+NOM
+geç geç+ADJ
+saatlerde saat+NOUN+A3PL+PNON+LOC
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+gidebileceğim git+VERB+POS^DB+VERB+ABLE+FUT+A1SG
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımını ulaşım+NOUN+A3SG+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+430 430+NUM+CARD
+- -+PUNC
+630 630+NUM+CARD
+arasında ara+NOUN+A3SG+P3SG+LOC
+varan var+VERB+POS^DB+ADJ+PRESPART
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+akşam akşam+NOUN+A3SG+PNON+NOM
+4'ten 4+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'deki dc+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+tüm tüm+DET
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımını ulaşım+NOUN+A3SG+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+P3SG+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterebilir göster+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misiniz mi+QUES+PRES+A2PL
+</S>
+<S>
+10 10+NUM+CARD
+- -+PUNC
+2 2+NUM+CARD
+arası ara+NOUN+A3SG+P3SG+NOM
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Tampa'dan tampa+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+Amerikan amerikan+NOUN+A3SG+PNON+NOM
+811 811+NUM+CARD
+uçuşunda uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+LOC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+yemekler yemek+NOUN+A3PL+PNON+NOM
+servis servis+NOUN+A3SG+PNON+NOM
+edilir et+VERB^DB+VERB+PASS+POS+AOR+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+gitmem git+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+ve ve+CONJ
+aynı aynı+ADJ
+gün gün+NOUN+A3SG+PNON+NOM
+geri geri+ADJ
+dönmem dön+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+en en+ADV
+erken erken+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+bulun bul+VERB^DB+VERB+PASS+POS+IMP+A2SG
+</S>
+<S>
+Orlando'ya orlando+NOUN+PROP+A3SG+PNON+DAT
+Houston'dan houston+NOUN+PROP+A3SG+PNON+ABL
+gelen gel+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+erken erken+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Chicago'dan chicago+NOUN+PROP+A3SG+PNON+ABL
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+Perşembe perşembe+NOUN+PROP+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+7:00 7:00+TIME
+civarında civar+NOUN+A3SG+P3SG+LOC
+varan var+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+için için+POSTP+PCNOM
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+ve ve+CONJ
+otobüs otobüs+NOUN+A3SG+PNON+NOM
+ücretleri ücret+NOUN+A3PL+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+AP ap+NOUN+PROP+A3SG+PNON+NOM
+57 57+NUM+CARD
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+anlama anlam+NOUN+A3SG+PNON+DAT
+geliyor gel+VERB+POS+PROG1+A3SG
+</S>
+<S>
+AP ap+NOUN+PROP+A3SG+PNON+NOM
+57 57+NUM+CARD
+kısıtlamasını kısıtlama+NOUN+A3SG+P3SG+ACC
+açıklayın açıkla+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+az az+ADJ
+bir bir+NUM+CARD
+durakla durak+NOUN+A3SG+PNON+INS
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Ontario Ontario+NOUN+PROP+A3SG+PNON+NOM
+California'dan california+NOUN+PROP+A3SG+PNON+ABL
+Orlando orlando+NOUN+PROP+A3SG+PNON+NOM
+Florida'ya florida+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+kısa kısa+ADJ
+tek tek+ADJ
+aktarmalı aktarmalı+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+Kuzey kuzey+NOUN+PROP+A3SG+PNON+NOM
+Carolina'ya carolina+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+söyleyin söyle+VERB+POS+IMP+A2PL
+Charlotte'ye charlotte+NOUN+PROP+A3SG+PNON+DAT
+akşam akşam+NOUN+A3SG+PNON+NOM
+415 415+NUM+CARD
+ile ile+CONJ
+530 530+NUM+CARD
+arasında ara+NOUN+A3SG+P3SG+LOC
+varacak var+VERB+POS^DB+ADJ+FUTPART+PNON
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bilmem bilme+NOUN+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+North north+NOUN+PROP+A3SG+PNON+NOM
+Carolina'ya carolina+NOUN+PROP+A3SG+PNON+DAT
+önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth Worth+NOUN+PROP+A3SG+PNON+NOM
+ile ile+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+veya veya+CONJ
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+akşam akşam+NOUN+A3SG+PNON+NOM
+5 5+NUM+CARD
+- -+PUNC
+7 7+NUM+CARD
+saatleri saat+NOUN+A3PL+P3SG+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+JFK'den jfk+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+Havayolları havayol+NOUN+A3PL+P3SG+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+SFO'dan sfo+NOUN+PROP+A3SG+PNON+ABL
+Long long+NOUN+PROP+A3SG+PNON+NOM
+Beach'a beach+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Havayolları'nda havayol+NOUN+A3PL+P3PL+LOC
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+sayısı sayı+NOUN+A3SG+P3SG+NOM
+kaçtır kaçtır+NOUN+A3SG+PNON+NOM
+</S>
+<S>
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+Orlando'dan orlando+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+numarasını numara+NOUN+A3SG+P3SG+ACC
+bulmaya bul+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+çalışıyorum çalış+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+saat saat+NOUN+A3SG+PNON+NOM
+10 10+NUM+CARD
+civarında civar+NOUN+A3SG+P3SG+LOC
+varıyor var+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Boston'da boston+NOUN+PROP+A3SG+PNON+LOC
+kiralık kiralık+ADJ
+arabalar araba+NOUN+A3PL+PNON+NOM
+</S>
+<S>
+Lütfen lütfen+ADV
+Pittsburgh'taki pittsburgh+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+kiralık kiralık+ADJ
+araba araba+NOUN+A3SG+PNON+NOM
+bilgilerini bilgi+NOUN+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+AP57 AP57+NOUN+PROP+A3SG+PNON+NOM
+kısıtlaması kısıtlama+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+4 4+NUM+CARD
+- -+PUNC
+8 8+NUM+CARD
+saatleri saat+NOUN+A3PL+P3SG+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+varan var+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+akşam akşam+NOUN+A3SG+PNON+NOM
+8 8+NUM+CARD
+- -+PUNC
+9 9+NUM+CARD
+arasında ara+NOUN+A3SG+P3SG+LOC
+varan var+VERB+POS^DB+ADJ+PRESPART
+her her+DET
+tür tür+NOUN+A3SG+PNON+NOM
+uçakla uçak+NOUN+A3SG+PNON+INS
+ilgili ilgili+ADJ
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Havayolları havayol+NOUN+A3PL+P3SG+NOM
+tarafından tarafından+ADV
+sağlanan sağla+VERB^DB+VERB+PASS+POS^DB+ADJ+PRESPART
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+DFW DFW+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+için için+POSTP+PCNOM
+ücretler ücret+NOUN+A3PL+PNON+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+BWI'ye bwı+NOUN+PROP+A3SG+PNON+DAT
+öğle öğle+NOUN+A3SG+PNON+NOM
+yemeği yemek+NOUN+A3SG+P3SG+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+erken erken+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+America america+NOUN+PROP+A3SG+PNON+NOM
+West west+NOUN+PROP+A3SG+PNON+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+şehirlere şehir+NOUN+A3PL+PNON+DAT
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Northwest Northwest+NOUN+PROP+A3SG+PNON+NOM
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+şehirlerden şehir+NOUN+A3PL+PNON+ABL
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+12 12+NUM+CARD
+ile ile+CONJ
+4 4+NUM+CARD
+arasında ara+NOUN+A3SG+P3SG+LOC
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+şehri şehir+NOUN+A3SG+P3SG+NOM
+için için+POSTP+PCNOM
+limuzin limuzin+NOUN+A3SG+PNON+NOM
+ücretlerini ücret+NOUN+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+Havaalanı'ndan havaalan+NOUN+A3SG+P3SG+ABL
+şehir şehir+NOUN+A3SG+PNON+NOM
+merkezine merkez+NOUN+A3SG+P3SG+DAT
+limuzinle limuzin+NOUN+A3SG+PNON+INS
+gitmenin git+VERB+POS^DB+NOUN+INF2+A3SG+PNON+GEN
+maliyeti maliyet+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+4 4+NUM+CARD
+Temmuz temmuz+NOUN+PROP+A3SG+PNON+NOM
+1991'deki 1991+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC^DB+ADJ+REL
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+11 11+NUM+CARD
+Kasım kasım+NOUN+PROP+A3SG+PNON+NOM
+1991 1991+NUM+CARD
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+1 1+NUM+CARD
+Eylül eylül+NOUN+PROP+A3SG+PNON+NOM
+1991 1991+NUM+CARD
+için için+POSTP+PCNOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+listesini liste+NOUN+A3SG+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+son son+ADJ
+uçuşunun uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+GEN
+kalkış kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+saati saat+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+saat saat+NOUN+A3SG+PNON+NOM
+10'dan 10+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+ve ve+CONJ
+2'den 2+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+olan ol+VERB+POS^DB+ADJ+PRESPART
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+kalkış kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+saatlerini saat+NOUN+A3PL+P2SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Lütfen lütfen+ADV
+Newark'tan newark+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+saatlerini saat+NOUN+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+RECIP+POS+IMP+A2SG
+bir bir+DET
+yolculuğa yolculuk+NOUN+A3SG+PNON+DAT
+ve ve+CONJ
+ücretlerine ücret+NOUN+A3PL+P2SG+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+12'den 12+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+1100 1100+NUM+CARD
+dolardan dolar+NOUN+A3SG+PNON+ABL
+daha daha+ADV
+az az+ADV
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+ve ve+CONJ
+ücretler ücret+NOUN+A3PL+PNON+NOM
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+ve ve+CONJ
+ücretleri ücret+NOUN+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Mia mia+NOUN+PROP+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Ewr Ewr+NOUN+PROP+A3SG+PNON+NOM
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+anlama anlam+NOUN+A3SG+PNON+DAT
+geliyor gel+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+ATL ATL+NOUN+PROP+A3SG+PNON+NOM
+kara kara+NOUN+A3SG+PNON+NOM
+taşımacılığı taşımacılık+NOUN+A3SG+P3SG+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+kadar kadar+POSTP+PCDAT
+sürüyor sür+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Toronto toronto+NOUN+PROP+A3SG+PNON+NOM
+Uluslararası uluslararası+ADJ
+Havaalanı'ndan havaalan+NOUN+A3SG+P3SG+ABL
+Toronto toronto+NOUN+PROP+A3SG+PNON+NOM
+şehir şehir+NOUN+A3SG+PNON+NOM
+merkezine merkez+NOUN+A3SG+P3SG+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+mesafeyi mesafe+NOUN+A3SG+PNON+ACC
+mil mil+NOUN+A3SG+PNON+NOM
+cinsinden cins+NOUN+A3SG+P3SG+ABL
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Orlando orlando+NOUN+PROP+A3SG+PNON+NOM
+Havaalanı'ndan havaalan+NOUN+A3SG+P3SG+ABL
+şehre şehir+NOUN+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+mesafeyi mesafe+NOUN+A3SG+PNON+ACC
+söyleyin söyle+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'deki denver+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+havaalanının havaalan+NOUN+A3SG+P3SG+GEN
+adı ad+NOUN+A3SG+P3SG+NOM
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+</S>
+<S>
+Havaalanları havaalan+NOUN+A3PL+PNON+ACC
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+nerede nere+PRON+QUESP+A3SG+PNON+LOC
+durur dur+VERB+POS+AOR+A3SG
+</S>
+<S>
+B b+NOUN+PROP+A3SG+PNON+NOM
+ücret ücret+NOUN+A3SG+PNON+NOM
+kodu kod+NOUN+A3SG+P3SG+NOM
+business business+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+P3SG+NOM
+ile ile+POSTP+PCNOM
+aynı aynı+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Akşam akşam+NOUN+A3SG+PNON+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+iki iki+NUM+CARD
+American american+NOUN+PROP+A3SG+PNON+NOM
+Havayolları havayol+NOUN+A3PL+P3SG+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+varmak var+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+en en+ADV
+az az+ADJ
+durak durak+NOUN+A3SG+PNON+NOM
+gerektiren gerek+VERB^DB+VERB+CAUS+POS^DB+ADJ+PRESPART
+bir bir+NUM+CARD
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+General general+NOUN+PROP+A3SG+PNON+NOM
+Mitchell mitchell+NOUN+PROP+A3SG+PNON+NOM
+International'daki ınternational+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+tüm tüm+DET
+inişleri in+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Love love+NOUN+PROP+A3SG+PNON+NOM
+Field'e field+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+herhangi herhangi+ADJ
+bir bir+DET
+şehirden şehir+NOUN+A3SG+PNON+ABL
+General general+NOUN+PROP+A3SG+PNON+NOM
+Mitchell mitchell+NOUN+PROP+A3SG+PNON+NOM
+International'a ınternational+NOUN+PROP+A3SG+PNON+DAT
+iner in+VERB+POS+AOR+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+466 466+NUM+CARD
+dolardan dolar+NOUN+A3SG+PNON+ABL
+daha daha+ADV
+az az+ADJ
+olan ol+VERB+POS^DB+ADJ+PRESPART
+Salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+New new+NOUN+PROP+A3SG+PNON+NOM
+York york+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Miami miami+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+500 500+NUM+CARD
+doların dolar+NOUN+A3SG+PNON+GEN
+altında alt+NOUN+A3SG+P3SG+LOC
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+Lütfen lütfen+ADV
+bana ben+PRON+PERS+A1SG+PNON+DAT
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+ücretlerini ücret+NOUN+A3PL+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+415 415+NUM+CARD
+dolarlık dolar+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+M80 M80+NOUN+PROP+A3SG+PNON+NOM
+uçağının uçak+NOUN+A3SG+P3SG+GEN
+koltuk koltuk+NOUN+A3SG+PNON+NOM
+kapasitesi kapasite+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+733 733+NUM+CARD
+uçağının uçak+NOUN+A3SG+P3SG+GEN
+koltuk koltuk+NOUN+A3SG+PNON+NOM
+kapasitesi kapasite+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+757'nin 757+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+GEN
+koltuk koltuk+NOUN+A3SG+PNON+NOM
+kapasitesi kapasite+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+M80 M80+NOUN+PROP+A3SG+PNON+NOM
+uçağındaki uçak+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+oturma otur+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM
+kapasitesi kapasite+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+P3SG+NOM
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+ücretlerini ücret+NOUN+A3PL+P3SG+ACC
+görmek gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+ücretlerini ücret+NOUN+A3PL+P3SG+ACC
+gösterebilir göster+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+Üzgünüm üzgün+ADJ^DB+VERB+ZERO+PRES+A1SG
+TWA TWA+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istedim. istedim.+NOUN+A3SG+PNON+NOM
+TWA TWA+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth'da Worth+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+olacak ol+VERB+POS^DB+ADJ+FUTPART+PNON
+şekilde şekil+NOUN+A3SG+PNON+LOC
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Tampa'dan tampa+NOUN+PROP+A3SG+PNON+ABL
+Montreal'a montreal+NOUN+PROP+A3SG+PNON+DAT
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'ta york+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+veren ver+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+öğle öğle+NOUN+A3SG+PNON+NOM
+yemeği yemek+NOUN+A3SG+P3SG+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bulmak bul+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth Worth+NOUN+PROP+A3SG+PNON+NOM
+Dallas'ta dallas+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+veren ver+VERB+POS^DB+ADJ+PRESPART
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+uçuşunuz uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN^DB+VERB+ZERO+PRES+A1PL
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'te louis+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+veren ver+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+akşam akşam+NOUN+A3SG+PNON+NOM
+yemeği yemek+NOUN+A3SG+P3SG+NOM
+servis servis+NOUN+A3SG+PNON+NOM
+eden et+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas vegas+NOUN+PROP+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+bulun bulun+VERB+POS+IMP+A2SG
+ve ve+CONJ
+bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+havayolu havayol+NOUN+A3SG+P3SG+NOM
+bulmak bul+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+direkt direkt+ADV
+uçuşunuz uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN^DB+VERB+ZERO+PRES+A1PL
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+7 7+NUM+CARD
+Mayıs'ta mayıs+NOUN+PROP+A3SG+PNON+LOC
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+direkt direkt+ADV
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+ne ne+ADV
+kadar kadar+POSTP+PCDAT
+olacağına ol+VERB+POS^DB+NOUN+FUTPART+A3SG+P3SG+DAT
+bakalım bak+VERB+POS+OPT+A1PL
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+saat saat+NOUN+A3SG+PNON+NOM
+4'ten 4+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+aktarmalı aktarmalı+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+10'da 10+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+aktarmalı aktarmalı+ADJ
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+güzergahını güzergah+NOUN+A3SG+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+5 5+NUM+CARD
+Haziran'da haziran+NOUN+PROP+A3SG+PNON+LOC
+Chicago'dan chicago+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+bağlantılı bağlantı+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+Cuma cuma+NOUN+PROP+A3SG+PNON+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+erkenden erkenden+ADV
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Sabah sabah+NOUN+A3SG+PNON+NOM
+erkenden erkenden+ADV
+ayrılmak ayrıl+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Yarın yarın+NOUN+A3SG+PNON+NOM
+erken erken+ADJ
+saatte saat+NOUN+A3SG+PNON+LOC
+Columbus'tan columbus+NOUN+PROP+A3SG+PNON+ABL
+Minneapolis'e minneapolis+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+erkenden erkenden+ADV
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+TWA TWA+NOUN+PROP+A3SG+PNON+NOM
+uçuşunuz uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN^DB+VERB+ZERO+PRES+A1PL
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airline'nin airline+NOUN+PROP+A3SG+PNON+GEN
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+günlük gün+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+hizmetle hizmet+NOUN+A3SG+PNON+INS
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'ten louis+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+günlük gün+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Philadelphia philadelphia+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+günde gün+NOUN+A3SG+PNON+LOC
+kaç kaç+ADJ
+tane tane+NOUN+A3SG+PNON+NOM
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+var var+ADJ
+</S>
+<S>
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City city+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+en en+ADV
+son son+ADJ
+günlük gün+NOUN+A3SG+PNON+NOM^DB+ADJ+FITFOR
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+2 2+NUM+CARD
+Mart'ta mart+NOUN+PROP+A3SG+PNON+LOC
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+aktarmasız aktarmasız+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+4 4+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+varan var+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+erken erken+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+oraya oraya+ADV
+14 14+NUM+CARD
+Haziran'da haziran+NOUN+PROP+A3SG+PNON+LOC
+varan var+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+1 1+NUM+CARD
+Mart'ta mart+NOUN+PROP+A3SG+PNON+LOC
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Houston'a houston+NOUN+PROP+A3SG+PNON+DAT
+ilk ilk+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+ve ve+CONJ
+yine yine+ADV
+1 1+NUM+CARD
+Mart'ta mart+NOUN+PROP+A3SG+PNON+LOC
+Houston'dan houston+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+son son+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+Havayolları havayol+NOUN+A3PL+P3SG+NOM
+tarafından tarafından+ADV
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+uçuşlarla uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+INS
+kaç kaç+ADJ
+şehre şehir+NOUN+A3SG+PNON+DAT
+hizmet hizmet+NOUN+A3SG+PNON+NOM
+verilmektedir ver+VERB^DB+VERB+PASS+POS+PROG2+COP+A3SG
+</S>
+<S>
+Delta'nın delta+NOUN+PROP+A3SG+PNON+GEN
+kaç kaç+ADJ
+gece gece+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+birinci birinci+ADJ
+sınıftır sınıf+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Continental'ın continental+NOUN+PROP+A3SG+PNON+GEN
+kaç kaç+ADJ
+tane tane+NOUN+A3SG+PNON+NOM
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+ve ve+CONJ
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+var var+ADJ
+</S>
+<S>
+Her her+DET
+havayolunun havayol+NOUN+A3SG+P3SG+GEN
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+hizmetle hizmet+NOUN+A3SG+PNON+INS
+kaç kaç+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+var var+ADJ
+</S>
+<S>
+Sabah sabah+NOUN+A3SG+PNON+NOM
+9'dan 9+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth'a worth+NOUN+PROP+A3SG+PNON+DAT
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+sayısını sayı+NOUN+A3SG+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+1 1+NUM+CARD
+Ağustos'ta ağustos+NOUN+PROP+A3SG+PNON+LOC
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+tarifesi tarife+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+tarifesini tarife+NOUN+A3SG+P3SG+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+7 7+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco’dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Pittsburg’e Pittsburg’e+NOUN+PROP+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+uçaklarınızın uçak+NOUN+A3PL+P2PL+GEN
+saatleri saat+NOUN+A3SG+P3PL+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+TWA TWA+NOUN+PROP+A3SG+PNON+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+kaçta kaçta+ADV
+kalkıyor kalk+VERB+POS+PROG1+A3SG
+</S>
+<S>
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'ta york+NOUN+PROP+A3SG+PNON+LOC
+bir bir+DET
+arabaya araba+NOUN+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+olacak ol+VERB+POS^DB+ADJ+FUTPART+PNON
+</S>
+<S>
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+Havaalanı'nda havaalan+NOUN+A3SG+P3SG+LOC
+limuzin limuzin+NOUN+A3SG+PNON+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+Phoenix phoenix+NOUN+PROP+A3SG+PNON+NOM
+Arizona'dan arizona+NOUN+PROP+A3SG+PNON+ABL
+Ontario Ontario+NOUN+PROP+A3SG+PNON+NOM
+California'ya california+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Pazar pazar+NOUN+PROP+A3SG+PNON+NOM
+akşamı akşam+NOUN+A3SG+P3SG+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego diego+NOUN+PROP+A3SG+PNON+NOM
+California'ya california+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuşla uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+INS
+Montreal montreal+NOUN+PROP+A3SG+PNON+NOM
+Quebec'den quebec+NOUN+PROP+A3SG+PNON+ABL
+ayrılmak ayrıl+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Ontario Ontario+NOUN+PROP+A3SG+PNON+NOM
+California'dan california+NOUN+PROP+A3SG+PNON+ABL
+Orlando orlando+NOUN+PROP+A3SG+PNON+NOM
+Florida'ya florida+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Lütfen lütfen+ADV
+Miami miami+NOUN+PROP+A3SG+PNON+NOM
+Florida'dan florida+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas vegas+NOUN+PROP+A3SG+PNON+NOM
+Nevada'ya nevada+NOUN+PROP+A3SG+PNON+DAT
+saat saat+NOUN+A3SG+PNON+NOM
+4'ten 4+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+varan var+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bulun bul+VERB+POS+IMP+A2PL
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Baltimore baltimore+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+en en+ADV
+ucuz ucuz+ADJ
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+en en+ADV
+pahalı pahalı+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+12 12+NUM+CARD
+Ekim'de ekim+NOUN+PROP+A3SG+PNON+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+bilet bilet+NOUN+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+pahalı pahalı+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+düşük düşük+ADJ
+maliyetli maliyet+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+uçmanın uç+VERB+POS^DB+NOUN+INF2+A3SG+PNON+GEN
+en en+ADV
+ucuz ucuz+ADJ
+yolu yol+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Nashville Nashville+NOUN+PROP+A3SG+PNON+NOM
+Havaalanı'ndaki havaalan+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımından ulaşım+NOUN+A3SG+P3SG+ABL
+bahsedin bahset+VERB+POS+IMP+A2PL
+</S>
+<S>
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+havaalanı havaalan+NOUN+A3SG+P3SG+NOM
+ile ile+CONJ
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+şehir şehir+NOUN+A3SG+PNON+NOM
+merkezi merkez+NOUN+A3SG+P3SG+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Baltimore baltimore+NOUN+PROP+A3SG+PNON+NOM
+havalimanında havaliman+NOUN+A3SG+P3SG+LOC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+mevcut mevcut+NOUN+A3SG+PNON+NOM
+</S>
+<S>
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+havalimanında havaliman+NOUN+A3SG+P3SG+LOC
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+mevcut mevcut+NOUN+A3SG+PNON+NOM
+mu mi+QUES+PRES+A3SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+</S>
+<S>
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth'da Worth+NOUN+PROP+A3SG+PNON+LOC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+seçenekleri seçenek+NOUN+A3PL+P3SG+NOM
+mevcut mevcut+NOUN+A3SG+PNON+NOM
+</S>
+<S>
+havalimanından havaliman+NOUN+A3SG+P3SG+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+seçeneklerini seçenek+NOUN+A3PL+P3SG+ACC
+öğrenmek öğren+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louise louise+NOUN+PROP+A3SG+PNON+NOM
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+United'in united+NOUN+PROP+A3SG+PNON+GEN
+salı salı+NOUN+A3SG+PNON+NOM
+ve ve+CONJ
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günleri gün+NOUN+A3PL+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+yaptığı yap+VERB+POS^DB+ADJ+PASTPART+P3SG
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+bana ben+PRON+PERS+A1SG+PNON+DAT
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Twa'nin twa+NOUN+PROP+A3SG+PNON+GEN
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+geçen geç+VERB+POS^DB+ADJ+PRESPART
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+bana ben+PRON+PERS+A1SG+PNON+DAT
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia philadelphia+NOUN+PROP+A3SG+PNON+NOM
+ya ya+CONJ
+da da+CONJ
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+ya ya+CONJ
+da da+CONJ
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+bir bir+DET
+listesini liste+NOUN+A3SG+P3SG+ACC
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+bana ben+PRON+PERS+A1SG+PNON+DAT
+cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+ya ya+CONJ
+da da+CONJ
+pazar pazar+NOUN+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+Phoenix'e phoenix+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+ücret ücret+NOUN+A3SG+PNON+NOM
+kodu kod+NOUN+A3SG+P3SG+NOM
+qx qx+NOUN+A3SG+PNON+ACC
+ne ne+ADJ
+anlama anlam+NOUN+A3SG+PNON+DAT
+geliyor gel+VERB+POS+PROG1+A3SG
+</S>
+<S>
+rezervasyon rezervasyon+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+PNON+ACC
+c c+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+ücret ücret+NOUN+A3SG+PNON+NOM
+kodu kod+NOUN+A3SG+PNON+ACC
+c c+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+ücret ücret+NOUN+A3SG+PNON+NOM
+kodu kod+NOUN+A3SG+PNON+ACC
+m m+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+ücret ücret+NOUN+A3SG+PNON+NOM
+kodunu kod+NOUN+A3SG+P3SG+ACC
+tekrar tekrar+ADV
+görmek gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+qx qx+NOUN+A3SG+PNON+ACC
+</S>
+<S>
+yn y+NOUN+A3SG+P2SG+ACC
+kodu kod+NOUN+A3SG+P3SG+NOM
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+anlama anlam+NOUN+A3SG+PNON+DAT
+geliyor gel+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Perşembe perşembe+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+kalkıp kalk+VERB+POS^DB+ADV+AFTERDOINGSO
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+5’ten 5’ten+NOUN+A3SG+PNON+NOM
+önce önce+ADV
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+varan var+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+yemek yemek+NOUN+A3SG+PNON+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+erken erken+ADJ
+saatte saat+NOUN+A3SG+PNON+LOC
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+yemek yemek+NOUN+A3SG+PNON+NOM
+servis servis+NOUN+A3SG+PNON+NOM
+eden et+VERB+POS^DB+ADJ+PRESPART
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+bilgilerini bilgi+NOUN+A3PL+P3SG+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Continental'ın continental+NOUN+PROP+A3SG+PNON+GEN
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+1765 1765+NUM+CARD
+numaralı numara+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuşunda uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+LOC
+ne ne+ADJ
+yemek yemek+NOUN+A3SG+PNON+NOM
+servis servis+NOUN+A3SG+PNON+NOM
+ediliyor et+VERB^DB+VERB+PASS+POS+PROG1+A3SG
+</S>
+<S>
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia’ya Philadelphia’ya+NOUN+PROP+A3SG+PNON+NOM
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+yemek yemek+NOUN+A3SG+PNON+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+bana ben+PRON+PERS+A1SG+PNON+DAT
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+kalkıp kalk+VERB+POS^DB+ADV+AFTERDOINGSO
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+7’de 7’de+NOUN+A3SG+PNON+NOM
+iniş in+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+aktarmasız aktarmasız+ADJ
+bir bir+DET
+Boeing boeing+NOUN+PROP+A3SG+PNON+NOM
+757 757+NUM+CARD
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+bulabilir bul+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+M80 M80+NOUN+PROP+A3SG+PNON+NOM
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+tür tür+NOUN+A3SG+PNON+NOM
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco’dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+747 747+NUM+CARD
+ile ile+POSTP+PCNOM
+sefer sefer+NOUN+A3SG+PNON+NOM
+yapıyor yap+VERB+POS+PROG1+A3SG
+musunuz mi+QUES+PRES+A2PL
+</S>
+<S>
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+kahvaltı kahvaltı+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+lütfen lütfen+ADV
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+öğle öğle+NOUN+A3SG+PNON+NOM
+yemeği yemek+NOUN+A3SG+P3SG+NOM
+servis servis+NOUN+A3SG+PNON+NOM
+eden et+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Paul'dan paul+NOUN+PROP+A3SG+PNON+ABL
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+cuma cuma+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+giden git+VERB+POS^DB+ADJ+PRESPART
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşlarda uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+LOC
+akşam akşam+NOUN+A3SG+PNON+NOM
+yemeği yemek+NOUN+A3SG+P3SG+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+yapılıyor yap+VERB^DB+VERB+PASS+POS+PROG1+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+kahvaltı kahvaltı+NOUN+A3SG+PNON+NOM
+servisi servis+NOUN+A3SG+P3SG+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+erken erken+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Long long+NOUN+PROP+A3SG+PNON+NOM
+Beach'tan Beach'ten+NOUN+PROP+A3SG+PNON+NOM
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'e louis+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+Dallas'ta dallas+NOUN+PROP+A3SG+PNON+LOC
+durmak dur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+bir bir+DET
+de de+CONJ
+uçuşum uç+VERB+POS^DB+NOUN+INF3+A3SG+P1SG+NOM
+sırasında sırasında+ADV
+öğle öğle+NOUN+A3SG+PNON+NOM
+yemeği yemek+NOUN+A3SG+P3SG+NOM
+yemek yemek+NOUN+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+ayrılıp ayrıl+VERB+POS^DB+ADV+AFTERDOINGSO
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+saat saat+NOUN+A3SG+PNON+NOM
+5'te 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+varmak var+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+havayollarının havayol+NOUN+A3PL+P3SG+GEN
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+aktarmasız aktarmasız+ADJ
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+var var+ADJ
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg petersburg+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+akşamüstü akşamüstü+ADV
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+kısa kısa+ADJ
+süre süre+NOUN+A3SG+PNON+NOM
+sonra sonra+ADV
+iniş in+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyebilir listele+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+Hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+on on+NUM+CARD
+üç üç+NUM+CARD
+Nisan nisan+NOUN+PROP+A3SG+PNON+NOM
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+kalkıyor kalk+VERB+POS+PROG1+A3SG
+ve ve+CONJ
+sabah sabah+NOUN+A3SG+PNON+NOM
+Montreal'a montreal+NOUN+PROP+A3SG+PNON+DAT
+varıyor var+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+8'den 8+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+iniş in+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bilmek bil+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+ayrılan ayır+VERB^DB+VERB+PASS+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+akşamüstü akşamüstü+ADV
+saat saat+NOUN+A3SG+PNON+NOM
+5 5+NUM+CARD
+civarında civar+NOUN+A3SG+P3SG+LOC
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+varan var+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'den dc+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+gidiyor git+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'den dc+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'den dc+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+2 2+NUM+CARD
+Aralık aralık+NOUN+PROP+A3SG+PNON+NOM
+tarihli tarihli+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'den dc+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'den dc+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+saat saat+NOUN+A3SG+PNON+NOM
+dörtte dört+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'den dc+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'ya diego+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+2153 2153+NUM+CARD
+numaralı numara+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Baltimore baltimore+NOUN+PROP+A3SG+PNON+NOM
+uçuşunda uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+LOC
+uçak uçak+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+kaçta kaçta+ADV
+ve ve+CONJ
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+şehirde şehir+NOUN+A3SG+PNON+LOC
+duruyor dur+VERB+POS+PROG1+A3SG
+</S>
+<S>
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+21 21+NUM+CARD
+sefer sefer+NOUN+A3SG+PNON+NOM
+sayılı sayılı+ADJ
+uçuşundaki uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+LOC^DB+ADJ+REL
+uçak uçak+NOUN+A3SG+PNON+NOM
+türü tür+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Perşembe perşembe+NOUN+PROP+A3SG+PNON+NOM
+gecesi gece+NOUN+A3SG+P3SG+NOM
+Chicago'dan chicago+NOUN+PROP+A3SG+PNON+ABL
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+415 415+NUM+CARD
+sefer sefer+NOUN+A3SG+PNON+NOM
+sayılı sayılı+ADJ
+uçuşunun uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+GEN
+fiyatı fiyat+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+324 324+NUM+CARD
+no'lu no'lu+NOUN+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+2 2+NUM+CARD
+Ağustos'ta ağustos+NOUN+PROP+A3SG+PNON+LOC
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+DL dl+NOUN+A3SG+PNON+ACC
+402 402+NUM+CARD
+uçuşunun uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+GEN
+fiyatı fiyat+NOUN+A3SG+P3SG+NOM
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+kadar kadar+POSTP+PCDAT
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+813 813+NUM+CARD
+sefer sefer+NOUN+A3SG+PNON+NOM
+sayılı sayılı+ADJ
+American american+NOUN+PROP+A3SG+PNON+NOM
+uçuşunun uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+GEN
+başka başka+ADJ
+bir bir+DET
+şehirde şehir+NOUN+A3SG+PNON+LOC
+duraklama duraklama+NOUN+A3SG+PNON+NOM
+yapıp yap+VERB+POS^DB+ADV+AFTERDOINGSO
+yapmayacağını yap+VERB+NEG^DB+NOUN+FUTPART+A3SG+P3SG+ACC
+bilmek bil+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth'dan Worth+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+928 928+NUM+CARD
+sefer sefer+NOUN+A3SG+PNON+NOM
+sayılı sayılı+ADJ
+uçuşunun uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+GEN
+ücreti ücret+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bu bu+DET
+hafta hafta+NOUN+A3SG+PNON+NOM
+cuma cuma+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçağın uçak+NOUN+A3SG+PNON+GEN
+türünü tür+NOUN+A3SG+P3SG+ACC
+öğrenmek öğren+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+CP'nin cp+NOUN+PROP+A3SG+PNON+GEN
+kullandığı kullan+VERB+POS^DB+ADJ+PASTPART+P3SG
+uçak uçak+NOUN+A3SG+PNON+NOM
+tipini tip+NOUN+A3SG+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+8 8+NUM+CARD
+uçuşunda uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+LOC
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+tür tür+NOUN+A3SG+PNON+NOM
+uçak uçak+NOUN+A3SG+PNON+NOM
+kullanılır kullan+VERB^DB+VERB+PASS+POS+AOR+A3SG
+</S>
+<S>
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+için için+POSTP+PCNOM
+uçak uçak+NOUN+A3SG+PNON+NOM
+türlerini tür+NOUN+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+2 2+NUM+CARD
+Ağustos'ta ağustos+NOUN+PROP+A3SG+PNON+LOC
+sabah sabah+NOUN+A3SG+PNON+NOM
+8'den 8+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+tür tür+NOUN+A3SG+PNON+NOM
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+ayrılacağım ayrıl+VERB+POS+FUT+A1SG
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+American american+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+Dallas'ta dallas+NOUN+PROP+A3SG+PNON+LOC
+durmak dur+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+lütfen lütfen+ADV
+bana ben+PRON+PERS+A1SG+PNON+DAT
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+tür tür+NOUN+A3SG+PNON+NOM
+bir bir+DET
+uçakla uçak+NOUN+A3SG+PNON+INS
+uçacağınızı uç+VERB+POS^DB+NOUN+FUTPART+A3SG+P2PL+ACC
+söyler söyle+VERB+POS+AOR+A3SG
+misiniz mi+QUES+PRES+A2PL
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+havaalanından havaalan+NOUN+A3SG+P3SG+ABL
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+şehir şehir+NOUN+A3SG+PNON+NOM
+merkezine merkez+NOUN+A3SG+P3SG+DAT
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+P3SG+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+La la+NOUN+A3SG+PNON+NOM
+Guardia Guardia+NOUN+PROP+A3SG+PNON+NOM
+Havaalanı'ndan havaalan+NOUN+A3SG+P3SG+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'ye jose+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bulmak bul+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+olmasını ol+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+ACC
+ve ve+CONJ
+akşam akşam+NOUN+A3SG+PNON+NOM
+10 10+NUM+CARD
+civarında civar+NOUN+A3SG+P3SG+LOC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'ye jose+NOUN+PROP+A3SG+PNON+DAT
+varmasını var+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lütfen lütfen+ADV
+General general+NOUN+PROP+A3SG+PNON+NOM
+Mitchell mitchell+NOUN+PROP+A3SG+PNON+NOM
+International'dan ınternational+NOUN+PROP+A3SG+PNON+ABL
+gelen gel+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+General general+NOUN+PROP+A3SG+PNON+NOM
+Mitchell mitchell+NOUN+PROP+A3SG+PNON+NOM
+International'daki ınternational+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+Havaalanı'ndan havaalan+NOUN+A3SG+P3SG+ABL
+öğlen öğlen+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+1'de 1+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Love love+NOUN+PROP+A3SG+PNON+NOM
+Field'deki field+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+havayollarını havayol+NOUN+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Yarın yarın+NOUN+A3SG+PNON+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Yarın yarın+NOUN+A3SG+PNON+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Bugün bugün+ADV
+Los los+NOUN+PROP+A3SG+PNON+NOM
+Angeles'ten angeles+NOUN+PROP+A3SG+PNON+ABL
+Charlotte'ye charlotte+NOUN+PROP+A3SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+erken erken+ADJ
+saatte saat+NOUN+A3SG+PNON+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Yarın yarın+NOUN+A3SG+PNON+NOM
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+akşamüstü akşamüstü+ADV
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+varan var+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Yarın yarın+NOUN+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+Tacoma Tacoma+NOUN+PROP+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+saat saat+NOUN+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+810'dan 810+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+yarın yarın+NOUN+A3SG+PNON+NOM
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'dan petersburg+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+giden giden+ADJ
+en en+ADV
+erken erken+ADV
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+uçuşunu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+ACC
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bu bu+DET
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+ADV
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+Burbank'a burbank+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+American american+NOUN+PROP+A3SG+PNON+NOM
+uçuşuyla uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+INS
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+1'de 1+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+Charlotte'ye charlotte+NOUN+PROP+A3SG+PNON+DAT
+varan var+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Cleveland'dan cleveland+NOUN+PROP+A3SG+PNON+ABL
+cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+öğlen öğle+NOUN+A3SG+P2SG+NOM
+1'de 1+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+kalkıp kalk+VERB+POS^DB+ADV+AFTERDOINGSO
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+3'ten 3+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+NOUN+A3SG+PNON+NOM
+varan var+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+aşamüstü aşamüstü+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+varıyor var+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Los los+NOUN+PROP+A3SG+PNON+NOM
+Angeles'ten angeles+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+varan var+VERB+POS^DB+ADJ+PRESPART
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+hafta hafta+NOUN+A3SG+PNON+NOM
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+başka başka+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+salı salı+NOUN+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+7 7+NUM+CARD
+civarında civar+NOUN+A3SG+P3SG+LOC
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+kalkıp kalk+VERB+POS^DB+ADV+AFTERDOINGSO
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+salı salı+NOUN+A3SG+PNON+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Washington'a washington+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+gidecek git+VERB+POS^DB+ADJ+FUTPART+PNON
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+aynı aynı+ADJ
+gün gün+NOUN+A3SG+PNON+NOM
+içinde içinde+ADV
+gitmem git+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+bana ben+PRON+PERS+A1SG+PNON+DAT
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+en en+ADV
+erken erken+ADV
+ayrılan ayır+VERB^DB+VERB+PASS+POS^DB+ADJ+PRESPART
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+ADV
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+pazar pazar+NOUN+A3SG+PNON+NOM
+yapılacak yap+VERB^DB+VERB+PASS+POS^DB+ADJ+FUTPART+PNON
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose jose+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Houston houston+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+gelecek gelecek+NOUN+A3SG+PNON+NOM
+pazar pazar+NOUN+A3SG+PNON+NOM
+Miami'den miami+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+gidecek git+VERB+POS^DB+ADJ+FUTPART+PNON
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+P2SG+NOM
+fiyatlarını fiyat+NOUN+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Önümüzdeki ön+NOUN+A3SG+P1PL+LOC^DB+ADJ+REL
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+Phoenix phoenix+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Milwaukee Milwaukee+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+yapılacak yap+VERB^DB+VERB+PASS+POS^DB+ADJ+FUTPART+PNON
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+perşembe perşembe+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+en en+ADV
+erken erken+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+nelerdir n+NOUN+A3SG+PNON+DAT^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+giden giden+ADJ
+en en+ADV
+son son+ADJ
+aktarmasız aktarmasız+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+23 23+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth'dan Worth+NOUN+PROP+A3SG+PNON+ABL
+DC dc+NOUN+PROP+A3SG+PNON+NOM
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+giden giden+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+perşembe perşembe+NOUN+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC dc+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir n+NOUN+A3SG+PNON+DAT^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+DC'ye dc+NOUN+PROP+A3SG+PNON+DAT
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Burbank'tan burbank+NOUN+PROP+A3SG+PNON+ABL
+Tacoma Tacoma+NOUN+PROP+A3SG+PNON+NOM
+Washington'a washington+NOUN+PROP+A3SG+PNON+DAT
+giden giden+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose jose+NOUN+PROP+A3SG+PNON+NOM
+California'ya california+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+Georgia'ya georgia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'tan vegas+NOUN+PROP+A3SG+PNON+ABL
+Michigan'a michigan+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+23 23+NUM+CARD
+Ocak ocak+NOUN+PROP+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bilgileri bilgi+NOUN+A3PL+PNON+ACC
+</S>
+<S>
+22 22+NUM+CARD
+Mayıs mayıs+NOUN+PROP+A3SG+PNON+NOM
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'tan vegas+NOUN+PROP+A3SG+PNON+ABL
+Burbank'a burbank+NOUN+PROP+A3SG+PNON+DAT
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+nelerdir n+NOUN+A3SG+PNON+DAT^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+23 23+NUM+CARD
+Kasım'da kasım+NOUN+PROP+A3SG+PNON+LOC
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ile ile+CONJ
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+var var+ADJ
+</S>
+<S>
+27 27+NUM+CARD
+Ağustos ağustos+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+erken erken+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+23 23+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+American american+NOUN+PROP+A3SG+PNON+NOM
+ile ile+CONJ
+erken erken+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+27 27+NUM+CARD
+Ağustos ağustos+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+PNON+ACC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Tamam tamam+ADJ
+tam tam+ADV
+23 23+NUM+CARD
+Kasım'da kasım+NOUN+PROP+A3SG+PNON+LOC
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+müsait müsait+ADJ
+olduğunu ol+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+ACC
+bilmem bil+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+</S>
+<S>
+24 24+NUM+CARD
+Aralık'ta aralık+NOUN+PROP+A3SG+PNON+LOC
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+en en+ADV
+ucuz ucuz+ADJ
+hava hava+NOUN+A3SG+PNON+NOM
+yolu yol+NOUN+A3SG+PNON+ACC
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+31 31+NUM+CARD
+Ağustos'taki ağustos+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Canadian Canadian+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+International'ın ınternational+NOUN+PROP+A3SG+PNON+GEN
+kısaltması kısaltma+NOUN+A3SG+P3SG+NOM
+nedir n+NOUN+A3SG+PNON+DAT^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Philadelphia philadelphia+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3PL+ACC
+hangi hangi+ADJ
+ücret ücret+NOUN+A3SG+PNON+NOM
+kodları kod+NOUN+A3PL+P3SG+NOM
+kapsar kapsa+VERB+POS+AOR^DB+ADJ+ZERO
+</S>
+<S>
+dl d+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Airline Airline+NOUN+PROP+A3SG+PNON+NOM
+NW NW+NOUN+PROP+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+TWA'deki twa+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+hizmet hizmet+NOUN+A3SG+PNON+NOM
+sınıfları sınıf+NOUN+A3PL+PNON+ACC
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Columbus'tan columbus+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'e louis+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+ne ne+ADV
+kadar kadar+POSTP+PCDAT
+tutuyor tut+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Tamam tamam+ADJ
+TWA'nin twa+NOUN+PROP+A3SG+PNON+GEN
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Columbus'tan columbus+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'e louis+NOUN+PROP+A3SG+PNON+DAT
+TWA'nin twa+NOUN+PROP+A3SG+PNON+GEN
+en en+ADV
+ucuz ucuz+ADJ
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Columbus'tan columbus+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+TWA TWA+NOUN+PROP+A3SG+PNON+NOM
+ile ile+CONJ
+uçmanın uç+VERB+POS^DB+NOUN+INF2+A3SG+P2SG+GEN
+maliyeti maliyet+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Orlando'dan orlando+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+US us+NOUN+A3SG+PNON+NOM
+Air'in air+NOUN+PROP+A3SG+PNON+GEN
+akşam akşam+NOUN+A3SG+PNON+NOM
+10 10+NUM+CARD
+civarı civar+NOUN+A3SG+P3SG+NOM
+gelen gelen+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3PL+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+ayrılıp ayrıl+VERB+POS^DB+ADV+AFTERDOINGSO
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+sabah sabah+NOUN+A3SG+PNON+NOM
+7'den 7+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+NOUN+A3SG+PNON+NOM
+varıyor var+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+varan varan+ADJ
+tüm tüm+DET
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Orlando'dan orlando+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+saat saat+NOUN+A3SG+PNON+NOM
+10 10+NUM+CARD
+civarında civar+NOUN+A3SG+P3SG+LOC
+varan varan+ADJ
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+uygun uygun+ADJ
+</S>
+<S>
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+ile ile+CONJ
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+saat saat+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+ADV
+varan var+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Herhangi herhangi+ADJ
+bir bir+DET
+havaalanından havaalan+NOUN+A3SG+P2SG+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+perşembe perşembe+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+PNON+ACC
+saat saat+NOUN+A3SG+PNON+NOM
+9'dan 9+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+NOUN+A3SG+PNON+NOM
+varan var+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3PL+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Minneapolis'ten minneapolis+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'ya diego+NOUN+PROP+A3SG+PNON+DAT
+7'den 7+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce ön+NOUN+A3SG+PNON+EQU
+varan var+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+aktarmasız aktarmasız+ADJ
+uçup uç+VERB+POS^DB+ADV+AFTERDOINGSO
+saat saat+NOUN+A3SG+PNON+NOM
+7'de 7+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+oraya oraya+ADV
+varmak var+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+ve ve+CONJ
+bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+7'de 7+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+varmalı var+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM^DB+ADJ+WITH
+lütfen lütfen+ADV
+</S>
+<S>
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+havayolları havayol+NOUN+A3PL+P3SG+NOM
+hizmet hizmet+NOUN+A3SG+PNON+NOM
+ediyor et+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giderken git+VERB+POS+AOR^DB+ADV+WHILE
+Denver'de denver+NOUN+PROP+A3SG+PNON+LOC
+duran dur+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+havayolunuz havayol+NOUN+A3SG+P2SG+NOM^DB+VERB+ZERO+PRES+A1PL
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Hangi hangi+ADJ
+havayolu havayol+NOUN+A3SG+P3SG+NOM
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+Pittsburgh Pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+hizmet hizmet+NOUN+A3SG+PNON+NOM
+veriyor ver+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+havayolları havayol+NOUN+A3PL+PNON+ACC
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+veya veya+CONJ
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+olan ol+VERB+POS^DB+ADJ+PRESPART
+havayollarını havayol+NOUN+A3PL+P3PL+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Detroit detroit+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Westchester Westchester+NOUN+PROP+A3SG+PNON+NOM
+County County+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+hangi hangi+ADJ
+havayolları havayol+NOUN+A3PL+PNON+ACC
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Pittsburgh Pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+uçan uç+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+hava hava+NOUN+A3SG+PNON+NOM
+yollarını yol+NOUN+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+hangi hangi+ADJ
+havayolları havayol+NOUN+A3PL+P3PL+NOM
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Herhangi herhangi+ADJ
+bir bir+DET
+havayolunun havayol+NOUN+A3SG+P2SG+GEN
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+erken erken+ADJ
+saatlerde saat+NOUN+A3PL+PNON+LOC
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+havayollarının havayol+NOUN+A3PL+P3SG+GEN
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Chicago'ya chicago+NOUN+PROP+A3SG+PNON+DAT
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+NOM
+var var+ADJ
+</S>
+<S>
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+havayolları havayol+NOUN+A3PL+P3SG+NOM
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Hangi hangi+ADJ
+havayolu havayol+NOUN+A3SG+P3SG+NOM
+business business+NOUN+A3SG+PNON+NOM
+class class+NOUN+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+sağlıyor sağla+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+aktarmasız aktarmasız+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Pazar pazar+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Pittsburgh Pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Paul'a paul+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+hepsi hepsi+PRON+QUANTP+A3PL+P3PL+NOM
+aktarmasız aktarmasız+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Toronto toronto+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg petersburg+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+aktarmasız aktarmasız+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Perşembe perşembe+NOUN+PROP+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Toronto'ya toronto+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+aktarmasız aktarmasız+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Toronto'dan toronto+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'e louis+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+aktarmasız aktarmasız+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Cincinnati'ye cincinnati+NOUN+PROP+A3SG+PNON+DAT
+mümkünse mümkün+ADJ^DB+VERB+ZERO+COND+A3SG
+aktarmasız aktarmasız+ADJ
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+PNON+ACC
+almak al+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Sallas'a sallas+NOUN+PROP+A3SG+PNON+DAT
+birinci birinci+NUM+ORD
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+bir bir+DET
+biletin bilet+NOUN+A3SG+PNON+GEN
+maliyeti maliyet+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Pittsburgh Pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarının uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+GEN
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+ücretlerini ücret+NOUN+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+bir bir+DET
+biletin bilet+NOUN+A3SG+PNON+GEN
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+maliyeti maliyet+NOUN+A3SG+P3SG+NOM
+nedir n+NOUN+A3SG+PNON+DAT^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+biletleri bilet+NOUN+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Toronto'ya toronto+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+business business+NOUN+A3SG+PNON+NOM
+class class+NOUN+A3SG+PNON+NOM
+ücretlerini ücret+NOUN+A3PL+P3PL+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+olmayan ol+VERB+NEG^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Detroit'ten detroit+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'a petersburg+NOUN+PROP+A3SG+PNON+DAT
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçak uçak+NOUN+A3SG+PNON+NOM
+biletlerini bilet+NOUN+A3SG+P3PL+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines'ten airlines+NOUN+PROP+A3SG+PNON+ABL
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+bir bir+DET
+bilete bilet+NOUN+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+7 7+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarında uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+LOC
+birinci birinci+ADJ
+sınıf sınıf+NOUN+A3SG+PNON+NOM
+bir bir+DET
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+biletinin bilet+NOUN+A3SG+P3SG+GEN
+maliyeti maliyet+NOUN+A3SG+PNON+ACC
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+1'den 1+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+ADV
+varan var+VERB+POS^DB+ADJ+PRESPART
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'dan petersburg+NOUN+PROP+A3SG+PNON+ABL
+Toronto'ya toronto+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+önce önce+ADV
+varan var+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+öğlen öğlen+NOUN+A3SG+PNON+NOM
+12 12+NUM+CARD
+civarında civar+NOUN+A3SG+P3SG+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Baltimore baltimore+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+P3SG+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'tan vegas+NOUN+PROP+A3SG+PNON+ABL
+Detroit'e detroit+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+PNON+ACC
+bilet bilet+NOUN+A3SG+PNON+NOM
+ücretini ücret+NOUN+A3SG+P2SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+ekonomi ekonomi+NOUN+A3SG+PNON+NOM
+sınıfı sınıf+NOUN+A3SG+PNON+ACC
+ücretini ücret+NOUN+A3SG+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Charlotte'de charlotte+NOUN+PROP+A3SG+PNON+LOC
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+mevcut mevcut+NOUN+A3SG+PNON+NOM
+</S>
+<S>
+Lütfen lütfen+ADV
+Pittsburgh'taki pittsburgh+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+mevcut mevcut+NOUN+A3SG+PNON+NOM
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımını ulaşım+NOUN+A3SG+P2SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+Atlanta'daki atlanta+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+kalkış kalk+VERB+RECIP+POS+IMP+A2SG
+ve ve+CONJ
+varışları var+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Oakland'da oakland+NOUN+PROP+A3SG+PNON+LOC
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+PNON+ACC
+nasıldır nasıl+ADJ^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Dallas'ta dallas+NOUN+PROP+A3SG+PNON+LOC
+ne ne+PRON+QUESP+A3SG+PNON+NOM
+tür tür+NOUN+A3SG+PNON+NOM
+bir bir+DET
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+P3SG+NOM
+var var+ADJ
+</S>
+<S>
+Midwest Midwest+NOUN+PROP+A3SG+PNON+NOM
+Express express+NOUN+PROP+A3SG+PNON+NOM
+Baltimore'de baltimore+NOUN+PROP+A3SG+PNON+LOC
+hizmet hizmet+NOUN+A3SG+PNON+NOM
+veriyor ver+VERB+POS+PROG1+A3SG
+mu mi+QUES+PRES+A3SG
+</S>
+<S>
+Atlanta'da atlanta+NOUN+PROP+A3SG+PNON+LOC
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+P3SG+NOM
+nedir n+NOUN+A3SG+PNON+DAT^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımını ulaşım+NOUN+A3SG+P3SG+ACC
+alabilirim al+VERB+POS^DB+VERB+ABLE+AOR+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Toronto'daki toronto+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımını ulaşım+NOUN+A3SG+P3SG+ACC
+anlat anlat+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'de denver+NOUN+PROP+A3SG+PNON+LOC
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+P3SG+NOM
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Denver'deki denver+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımını ulaşım+NOUN+A3SG+P2SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+aktarmalı aktarmalı+ADJ
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+PRON+QUESP+A3SG+PNON+NOM
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+aktarmalı aktarmalı+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+kalkıyor kalk+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+Atlanta'da atlanta+NOUN+PROP+A3SG+PNON+LOC
+duran dur+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+ucuz ucuz+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Dallas'ta dallas+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+vererek ver+VERB+POS^DB+ADV+BYDOINGSO
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+seyahat seyahat+NOUN+A3SG+PNON+NOM
+etmek et+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Continental Continental+NOUN+PROP+A3SG+PNON+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+aktarmalı aktarmalı+ADJ
+uçuyor uç+VERB+POS+PROG1+A3SG
+mu mi+QUES+PRES+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+Denver'de denver+NOUN+PROP+A3SG+PNON+LOC
+duran dur+VERB+POS^DB+ADJ+PRESPART
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Columbus'tan columbus+NOUN+PROP+A3SG+PNON+ABL
+Phoenix'e phoenix+NOUN+PROP+A3SG+PNON+DAT
+Cincinnati cincinnati+NOUN+PROP+A3SG+PNON+NOM
+aktarmalı aktarmalı+ADJ
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bulmaya bul+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+çalışıyorum çalış+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Dallas'ta dallas+NOUN+PROP+A3SG+PNON+LOC
+durarak dur+VERB+POS^DB+ADV+BYDOINGSO
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Aslında aslında+ADV
+Ontario'dan ontario+NOUN+PROP+A3SG+PNON+ABL
+Westchester'e Westchester+NOUN+PROP+A3SG+PNON+DAT
+Chicago chicago+NOUN+PROP+A3SG+PNON+NOM
+üzerinden üzeri+NOUN+A3SG+P2SG+ABL
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Washington'a washington+NOUN+PROP+A3SG+PNON+DAT
+Indianapolis ındianapolis+NOUN+PROP+A3SG+PNON+NOM
+üzerinden üzeri+NOUN+A3SG+P2SG+ABL
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+gidiyor git+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Seattle'den seattle+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+Minneapolis minneapolis+NOUN+PROP+A3SG+PNON+NOM
+üzerinden üzeri+NOUN+A3SG+P2SG+ABL
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+kalkıyor kalk+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+üzerinden üzeri+NOUN+A3SG+P2SG+ABL
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+Atlanta'da atlanta+NOUN+PROP+A3SG+PNON+LOC
+mola mola+NOUN+A3SG+PNON+NOM
+veren ver+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+ve ve+CONJ
+Denver'de denver+NOUN+PROP+A3SG+PNON+LOC
+duran dur+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'ta pittsburgh+NOUN+PROP+A3SG+PNON+LOC
+aktarma aktarma+NOUN+A3SG+PNON+NOM
+yapan yap+VERB+POS^DB+ADJ+PRESPART
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+en en+ADV
+ucuz ucuz+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+bulun bulun+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'da boston+NOUN+PROP+A3SG+PNON+LOC
+havalimanı havaliman+NOUN+A3SG+P3SG+NOM
+ile ile+CONJ
+şehir şehir+NOUN+A3SG+PNON+NOM
+merkezi merkez+NOUN+A3SG+P3SG+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımınız ulaşım+NOUN+A3SG+PNON+GEN^DB+VERB+ZERO+PRES+A1PL
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Atlanta'daki atlanta+NOUN+PROP+A3SG+PNON+LOC^DB+ADJ+REL
+havaalanından havaalan+NOUN+A3SG+P3SG+ABL
+kara kara+NOUN+A3SG+PNON+NOM
+ulaşımı ulaşım+NOUN+A3SG+P3SG+NOM
+hakkında hakkında+ADV
+bilgiye bilgi+NOUN+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Akşam akşam+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+bana ben+PRON+PERS+A1SG+PNON+DAT
+uygun uygun+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+söyleyebilir söyle+VERB+POS^DB+VERB+ABLE+AOR^DB+ADJ+ZERO
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+akşam akşam+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+3'ten 3+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+kalkıyor kalk+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+yaklaşık yaklaşık+ADJ
+615'te 615+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+akşam akşam+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+9'dan 9+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Perşembe perşembe+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+5'ten 5+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Continental'ın continental+NOUN+PROP+A3SG+PNON+GEN
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Chicago'ya chicago+NOUN+PROP+A3SG+PNON+DAT
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+934'ten 934+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+hareket hareket+NOUN+A3SG+PNON+NOM
+eden et+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Saat saat+NOUN+A3SG+PNON+NOM
+9'dan 9+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+Montreal'dan montreal+NOUN+PROP+A3SG+PNON+ABL
+Philly'e philly+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+akşam akşam+NOUN+A3SG+PNON+NOM
+6'dan 6+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Merhaba merhaba+NOUN+A3SG+PNON+NOM
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+2'den 2+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+giden git+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bulmaya bul+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+çalışıyorum çalış+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Tamam tamam+ADJ
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+saat saat+NOUN+A3SG+PNON+NOM
+8'den 8+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+perşembe perşembe+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+3'ten 3+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+gecesi gece+NOUN+A3SG+P3SG+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+8'den 8+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+Indianapolis'e ındianapolis+NOUN+PROP+A3SG+PNON+DAT
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+9'dan 9+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçağa uçak+NOUN+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+8'den 8+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+öğlen öğlen+NOUN+A3SG+PNON+NOM
+saat saat+NOUN+A3SG+PNON+NOM
+1'den 1+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonraki sonraki+ADJ
+ilk ilk+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Akşam akşam+NOUN+A3SG+PNON+NOM
+9 9+NUM+CARD
+sonrası sonra+NOUN+A3SG+P3SG+NOM
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bulabilirim bul+VERB+POS^DB+VERB+ABLE+AOR^DB+ADJ+ZERO^DB+NOUN+ZERO+A3SG+P1SG+NOM
+</S>
+<S>
+Sabah sabah+NOUN+A3SG+PNON+NOM
+815 815+NUM+CARD
+sonrası sonra+NOUN^DB+ADJ+ALMOST
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+United united+NOUN+PROP+A3SG+PNON+NOM
+Havayolları havayol+NOUN+A3PL+PNON+ACC
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Öğlen öğlen+NOUN+A3SG+PNON+NOM
+1'de 1+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+</S>
+<S>
+Akşam akşam+NOUN+A3SG+PNON+NOM
+7'de 7+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+Chicago'dan chicago+NOUN+PROP+A3SG+PNON+ABL
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+dönmek dön+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istıyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Memphis'e memphis+NOUN+PROP+A3SG+PNON+DAT
+herhangi herhangi+ADJ
+bir bir+DET
+gün gün+NOUN+A3SG+PNON+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+10'dan 10+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önceki önceki+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+Orlando'ya orlando+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+kısa kısa+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+alabilir al+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+miyim mi+QUES+PRES+A1SG
+</S>
+<S>
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+geç geç+ADV
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+erken erken+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Phoenix'den phoenix+NOUN+PROP+A3SG+PNON+ABL
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+erken erken+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADJ
+uçuşunuz uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN^DB+VERB+ZERO+PRES+A1PL
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Newark'tan newark+NOUN+PROP+A3SG+PNON+ABL
+Los los+NOUN+PROP+A3SG+PNON+NOM
+Angeles'e angeles+NOUN+PROP+A3SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+en en+ADV
+geç geç+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+ilk ilk+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+ilk ilk+ADV
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+geç geç+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+7 7+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADV
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+geç geç+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+en en+ADV
+erken erken+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+söyle söyle+VERB+POS+IMP+A2SG
+</S>
+<S>
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'a petersburg+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Toronto'dan toronto+NOUN+PROP+A3SG+PNON+ABL
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+erken erken+ADV
+varışlı var+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+7 7+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+Cuma cuma+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+en en+ADV
+erken erken+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+7 7+NUM+CARD
+Ekim ekim+NOUN+PROP+A3SG+PNON+NOM
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+en en+ADV
+erken erken+ADJ
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'den jose+NOUN+PROP+A3SG+PNON+ABL
+Houston'a houston+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+kısa kısa+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Phoenix'e phoenix+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+geç geç+ADV
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+söyleyebilir söyle+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misiniz mi+QUES+PRES+A2PL
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+en en+ADV
+ucuz ucuz+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+söyleyebilir söyle+VERB+POS^DB+VERB+ABLE+AOR^DB+ADJ+ZERO
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Orlando'dan orlando+NOUN+PROP+A3SG+PNON+ABL
+Tacoma'ya tacoma+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Philadelphia philadelphia+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+bulabileceğim bul+VERB+POS^DB+VERB+ABLE^DB+ADJ+FUTPART+P1SG
+en en+ADV
+ucuz ucuz+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+tarife tarife+NOUN+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+en en+ADV
+uygun uygun+ADJ
+tarifeyle tarife+NOUN+A3SG+PNON+INS
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Miami'den miami+NOUN+PROP+A3SG+PNON+ABL
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'a york+NOUN+PROP+A3SG+PNON+DAT
+Pazar pazar+NOUN+PROP+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+en en+ADV
+ucuz ucuz+ADJ
+tarifeleri tarife+NOUN+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+tarife tarife+NOUN+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+en en+ADV
+ucuz ucuz+ADJ
+nasıl nasıl+ADJ
+gidilir git+VERB^DB+VERB+PASS+POS+AOR+A3SG
+</S>
+<S>
+Houston'dan houston+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangisi hangi+PRON+QUESP+A3SG+P3SG+NOM
+</S>
+<S>
+Nashville'den nashville+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+en en+ADV
+ucuz ucuz+ADJ
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+tarifesini tarife+NOUN+A3SG+P3SG+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+Long long+NOUN+PROP+A3SG+PNON+NOM
+Beach'a beach+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+tek tek+ADJ
+yön yön+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+en en+ADV
+ucuz ucuz+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+ve ve+CONJ
+Perşembe perşembe+NOUN+PROP+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+önce önce+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+Orlando'ya orlando+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Nashville'den nashville+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+9'dan 9+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+önce önce+ADV
+</S>
+<S>
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+2'den 2+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+1205'te 1205+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+gidiyor git+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+3'te 3+NUM+CARD^DB+NOUN+ZERO+A3SG+PNON+LOC
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'ye jose+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bir bir+DET
+tarife tarife+NOUN+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+ACC
+için için+POSTP+PCNOM
+seyahat seyahat+NOUN+A3SG+PNON+NOM
+düzenlemeleri düzenleme+NOUN+A3PL+P3SG+NOM
+bulun bulun+VERB+POS+IMP+A2SG
+</S>
+<S>
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+şehrinden şehir+NOUN+A3SG+P3SG+ABL
+Chicago'ya chicago+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+rezervasyonu rezervasyon+NOUN+A3SG+P3SG+NOM
+yapmak yap+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+tek tek+ADJ
+yönlü yönlü+ADJ
+bir bir+DET
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+maliyeti maliyet+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+ücretlerini ücret+NOUN+A3PL+P3PL+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Şimdi şimdi+ADV
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+tek tek+ADJ
+yönlü yönlü+ADJ
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+için için+POSTP+PCNOM
+seyahat seyahat+NOUN+A3SG+PNON+NOM
+düzenlemeleri düzenleme+NOUN+A3PL+P3SG+NOM
+bulun bulun+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+üç üç+NUM+CARD
+Aralık aralık+NOUN+PROP+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+On on+NUM+CARD
+bir bir+DET
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+saat saat+NOUN+A3SG+PNON+NOM
+birde bir+ADJ^DB+NOUN+ZERO+A3SG+PNON+LOC
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Yirmi yirmi+NUM+CARD
+Ağustos ağustos+NOUN+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+ADV
+olan ol+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Altı altı+NUM+CARD
+Ağustos ağustos+NOUN+A3SG+PNON+NOM
+akşamı akşam+NOUN+A3SG+PNON+ACC
+olan ol+VERB+POS^DB+ADJ+PRESPART
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'den jose+NOUN+PROP+A3SG+PNON+ABL
+Nashville'ye nashville+NOUN+PROP+A3SG+PNON+DAT
+üç üç+NUM+CARD
+Haziran haziran+NOUN+PROP+A3SG+PNON+NOM
+cuma cuma+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+PNON+ACC
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Hangi hangi+ADJ
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+sekiz sekiz+NUM+CARD
+Haziran'da haziran+NOUN+PROP+A3SG+PNON+LOC
+Westchester Westchester+NOUN+PROP+A3SG+PNON+NOM
+bölgesinden bölge+NOUN+A3SG+P3SG+ABL
+Cincinnati'ye cincinnati+NOUN+PROP+A3SG+PNON+DAT
+gidiyor git+VERB+POS+PROG1+A3SG
+</S>
+<S>
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+yirmi yirmi+NUM+CARD
+Eylül eylül+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+PNON+ACC
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+bir bir+NUM+CARD
+Haziran'da haziran+NOUN+PROP+A3SG+PNON+LOC
+uçuşunuz uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN^DB+VERB+ZERO+PRES+A1PL
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'dan petersburg+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+on on+NUM+CARD
+bir bir+NUM+CARD
+Haziran'da haziran+NOUN+PROP+A3SG+PNON+LOC
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+bir bir+NUM+CARD
+ekim ekim+NOUN+PROP+A3SG+PNON+NOM
+salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+PNON+ACC
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+ACC
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Bir bir+NUM+CARD
+Temmuz'da temmuz+NOUN+PROP+A3SG+PNON+LOC
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+PNON+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lütfen lütfen+ADV
+bana ben+PRON+PERS+A1SG+PNON+DAT
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Chicago'ya chicago+NOUN+PROP+A3SG+PNON+DAT
+ayın ay+NOUN+A3SG+PNON+GEN
+on on+NUM+CARD
+altısındaki altı+NUM+CARD^DB+ADJ+JUSTLIKE^DB+NOUN+ZERO+A3SG+P2SG+LOC^DB+ADJ+REL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3SG+P3PL+NOM
+verin ver+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+on on+NUM+CARD
+yedi ye+VERB+POS+PAST+A3SG
+Eylül eylül+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Westchester Westchester+NOUN+PROP+A3SG+PNON+NOM
+bölgesinden bölge+NOUN+A3SG+P3SG+ABL
+Cincinnati'ye cincinnati+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+sekiz sekiz+NUM+CARD
+Haziran haziran+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Nashville'den nashville+NOUN+PROP+A3SG+PNON+ABL
+Tacoma'ya tacoma+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+ayın ay+NOUN+A3SG+PNON+GEN
+on on+NUM+CARD
+sekizindeki sekiz+NUM+CARD^DB+NOUN+ZERO+A3SG+P2SG+LOC^DB+ADJ+REL
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+havayollarının havayol+NOUN+A3PL+P3SG+GEN
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+uçuşlarının uç+VERB+POS^DB+NOUN+INF3+A3PL+P3PL+GEN
+fiyatlarını fiyat+NOUN+A3SG+P3PL+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+fiyatlarını fiyat+NOUN+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+fiyatları fiyat+NOUN+A3PL+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşun uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+GEN
+maliyeti maliyet+NOUN+A3SG+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+bilet bilet+NOUN+A3SG+PNON+NOM
+hakkında hakkında+ADV
+biraz biraz+ADJ
+bilgi bilgi+NOUN+A3SG+PNON+NOM
+almak al+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+fiyatlarını fiyat+NOUN+A3PL+P3SG+ACC
+verin ver+VERB+POS+IMP+A2PL
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+sabah sabah+NOUN+A3SG+PNON+NOM
+uçuşlarının uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+GEN
+fiyatları fiyat+NOUN+A3PL+P3SG+NOM
+nedir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+</S>
+<S>
+Philadephia Philadephia+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+gece gece+NOUN+A3SG+PNON+NOM
+uçuşlarının uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+GEN
+fiyatlarını fiyat+NOUN+A3SG+P3PL+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+sabah sabah+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+tekrar tekrar+ADV
+söyleyin söyle+VERB+POS+IMP+A2PL
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Phoenix'den phoenix+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee milwaukee+NOUN+PROP+A3SG+PNON+NOM
+olan ol+VERB+POS^DB+ADJ+PRESPART
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+gösterin göster+VERB+POS+IMP+A2PL
+</S>
+<S>
+Salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+US us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+var var+ADJ
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+verin ver+VERB+POS+IMP+A2PL
+</S>
+<S>
+Lütfen lütfen+ADV
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Houston'dan houston+NOUN+PROP+A3SG+PNON+ABL
+Milwaaukee'ye milwaaukee+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+cuma cuma+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Alaska alaska+NOUN+PROP+A3SG+PNON+NOM
+Airline'nin airline+NOUN+PROP+A3SG+PNON+GEN
+Burbank Burbank+NOUN+PROP+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+Phoenix'e phoenix+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+cuma cuma+NOUN+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+tüm tüm+DET
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+herhangi herhangi+ADJ
+bir bir+DET
+Us us+NOUN+A3SG+PNON+NOM
+Air air+NOUN+PROP+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Canadian Canadian+NOUN+PROP+A3SG+PNON+NOM
+Airlines airlines+NOUN+PROP+A3SG+PNON+NOM
+uluslararası uluslararası+ADJ
+hangi hangi+ADJ
+bölgelere bölge+NOUN+A3PL+PNON+DAT
+uçuyor uç+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+rezervasyonu rezervasyon+NOUN+A3SG+P3SG+NOM
+yapmak yap+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+Eastern Eastern+NOUN+PROP+A3SG+PNON+NOM
+Airlines'e airlines+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+United united+NOUN+PROP+A3SG+PNON+NOM
+Airline'nin airline+NOUN+PROP+A3SG+PNON+GEN
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+bilmek bil+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'ten airlines+NOUN+PROP+A3SG+PNON+ABL
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+Burbank'a burbank+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+bileti bilet+NOUN+A3SG+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Phoenix'den phoenix+NOUN+PROP+A3SG+PNON+ABL
+kalkıp kalk+VERB+POS^DB+ADV+AFTERDOINGSO
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+inen in+VERB+POS^DB+ADJ+PRESPART
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Phoenix phoenix+NOUN+PROP+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+American american+NOUN+PROP+A3SG+PNON+NOM
+Airlines'in airlines+NOUN+PROP+A3SG+PNON+GEN
+Houston'dan houston+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+cuma cuma+NOUN+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+perşembe perşembe+NOUN+A3SG+PNON+NOM
+akşamı akşam+NOUN+A3SG+P3SG+NOM
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hakkında hakkında+ADV
+bilgi bilgi+NOUN+A3SG+PNON+NOM
+almak al+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'den jose+NOUN+PROP+A3SG+PNON+ABL
+Nashville'ye nashville+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+söyleyebilir söyle+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+sabah sabah+NOUN+A3SG+PNON+NOM
+uçuşlarının uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+GEN
+bir bir+DET
+listesini liste+NOUN+A3SG+P3SG+ACC
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+Chicago'dan chicago+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Continental Continental+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+salı salı+NOUN+A3SG+PNON+NOM
+akşam akşam+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+sabah sabah+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+alabilir al+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+miyim mi+QUES+PRES+A1SG
+lütfen lütfen+ADV
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonraları sonraları+ADV
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+uygun uygun+ADJ
+</S>
+<S>
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+akşam akşam+NOUN+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+hangi hangi+ADJ
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+müsait müsait+ADJ
+</S>
+<S>
+Salı salı+NOUN+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'e louis+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+sabah sabah+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+bana ben+PRON+PERS+A1SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+erken erken+ADV
+saatlerdeki saat+NOUN+A3PL+PNON+LOC^DB+ADJ+REL
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Cincinnati cincinnati+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Tampa tampa+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+sabah sabah+NOUN+A3SG+PNON+NOM
+erken erken+ADV
+saatlerdeki saat+NOUN+A3PL+PNON+LOC^DB+ADJ+REL
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Hoston'dan hoston+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+akşam akşam+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+sabah sabah+NOUN+A3SG+PNON+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'dan diego+NOUN+PROP+A3SG+PNON+ABL
+Phoenix phoenix+NOUN+PROP+A3SG+PNON+NOM
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Akşamleyin akşamleyin+ADV
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Montreal'a montreal+NOUN+PROP+A3SG+PNON+DAT
+nasıl nasıl+ADV
+gidebilirim git+VERB+POS^DB+VERB+ABLE+AOR+A1SG
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+sabahleyin sabahleyin+ADV
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Washington washington+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+Burbank'a burbank+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+Amerikan amerikan+ADJ
+olmalı ol+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM^DB+ADJ+WITH
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+kalkmalı kalk+VERB+POS^DB+NOUN+INF2+A3SG+PNON+NOM^DB+ADJ+WITH
+uçak uçak+NOUN+A3SG+PNON+NOM
+ve ve+CONJ
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+numarasını numara+NOUN+A3SG+P3SG+ACC
+da da+CONJ
+bilmem bil+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+akşam akşam+NOUN+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+sabahı sabah+NOUN+A3SG+P3SG+NOM
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hakkında hakkında+ADV
+bilgi bilgi+NOUN+A3SG+PNON+NOM
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+salı salı+NOUN+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+uygun uygun+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+ve ve+CONJ
+fiyatlarını fiyat+NOUN+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'a petersburg+NOUN+PROP+A3SG+PNON+DAT
+geri geri+ADV
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Cuma cuma+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+olan ol+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+ve ve+CONJ
+fiyatları fiyat+NOUN+A3PL+P3SG+NOM
+</S>
+<S>
+Kansas kansas+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg petersburg+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Charlotte charlotte+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Petersburg'a petersburg+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Pazar pazar+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+New new+NOUN+PROP+A3SG+PNON+NOM
+York york+NOUN+PROP+A3SG+PNON+NOM
+City'den city+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+ve ve+CONJ
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Memphis'ten memphis+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis'ten louis+NOUN+PROP+A3SG+PNON+ABL
+Charlotte'ye charlotte+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'tan vegas+NOUN+PROP+A3SG+PNON+ABL
+Phoenix'e phoenix+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'tan york+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+ve ve+CONJ
+Miami'den miami+NOUN+PROP+A3SG+PNON+ABL
+New new+NOUN+PROP+A3SG+PNON+NOM
+York'a york+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+lütfen lütfen+ADV
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+</S>
+<S>
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'dan diego+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Delta'nın delta+NOUN+PROP+A3SG+PNON+GEN
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+hangi hangi+ADJ
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+var var+ADJ
+</S>
+<S>
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+kalkışlı kalk+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM^DB+ADJ+WITH
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+</S>
+<S>
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+Burbank'a burbank+NOUN+PROP+A3SG+PNON+DAT
+bir bir+DET
+American american+NOUN+PROP+A3SG+PNON+NOM
+uçuşu uç+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lufthansa Lufthansa+NOUN+PROP+A3SG+PNON+NOM
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Oakland oakland+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+uçuyor uç+VERB+POS+PROG1+A3SG
+mu mi+QUES+PRES+A3SG
+</S>
+<S>
+Newark newark+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Nashville nashville+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+American american+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Seattle'den seattle+NOUN+PROP+A3SG+PNON+ABL
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+Delta delta+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+uçak uçak+NOUN+A3SG+PNON+NOM
+tipiyle tip+NOUN+A3SG+P3SG+INS
+birlikte birlikte+POSTP+PCINS
+listeleyin listele+VERB+POS+IMP+A2PL
+</S>
+<S>
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+Houston'a houston+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+American american+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+</S>
+<S>
+Pazar pazar+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Chicago'ya chicago+NOUN+PROP+A3SG+PNON+DAT
+Continental Continental+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+salı salı+NOUN+A3SG+PNON+NOM
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+perşembe perşembe+NOUN+A3SG+PNON+NOM
+cuma cuma+NOUN+A3SG+PNON+NOM
+günleri gün+NOUN+A3PL+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Phoenix'den phoenix+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Charlotte'ye charlotte+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+salı salı+NOUN+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Houston'dan houston+NOUN+PROP+A3SG+PNON+ABL
+Memphis'e memphis+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+cuma cuma+NOUN+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Cuma cuma+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Newark'tan newark+NOUN+PROP+A3SG+PNON+ABL
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+Lampa Lampa+NOUN+PROP+A3SG+PNON+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Pekala pekala+ADV
+çarşamba çarşamba+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+ne ne+ADV
+var var+ADJ
+</S>
+<S>
+Cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Montreal'dan montreal+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Cleveland'dan cleveland+NOUN+PROP+A3SG+PNON+ABL
+Kansas'a kansas+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Memphis'ten memphis+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+cumartesi cumartesi+NOUN+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+pazar pazar+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Lütfen lütfen+ADV
+salı salı+NOUN+A3SG+PNON+NOM
+günkü gün+NOUN+A3SG+PNON+NOM^DB+ADJ+REL
+Dallas dallas+NOUN+PROP+A3SG+PNON+NOM
+- -+PUNC
+Atlanta atlanta+NOUN+PROP+A3SG+PNON+NOM
+uçuşlarını uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pazartesi pazartesi+NOUN+PROP+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Detroit'ten detroit+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'ya diego+NOUN+PROP+A3SG+PNON+DAT
+salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+için için+POSTP+PCNOM
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Toronto'dan toronto+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'ya diego+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Philadelphia'dan philadelphia+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Tacoma'dan tacoma+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Jose'ye jose+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+gider git+VERB+POS+AOR+A3SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pekala pekala+ADV
+şimdi şimdi+ADV
+Seattle'den seattle+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Diego'ya diego+NOUN+PROP+A3SG+PNON+DAT
+kalkan kalk+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçağa uçak+NOUN+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Tampa tampa+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+St. St.+NOUN+PROP+A3SG+PNON+NOM
+Louis louis+NOUN+PROP+A3SG+PNON+NOM
+arasındaki ara+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Memphis'ten memphis+NOUN+PROP+A3SG+PNON+ABL
+Las Las+NOUN+PROP+A3SG+PNON+NOM
+Vegas'a vegas+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Cincinnati'den cincinnati+NOUN+PROP+A3SG+PNON+ABL
+New new+NOUN+PROP+A3SG+PNON+NOM
+York york+NOUN+PROP+A3SG+PNON+NOM
+City city+NOUN+PROP+A3SG+PNON+NOM
+bölgesindeki bölge+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+herhangi herhangi+ADJ
+bir bir+DET
+havaalanına havaalan+NOUN+A3SG+P3SG+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+bul bul+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+müsait müsait+ADJ
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Fort fort+NOUN+PROP+A3SG+PNON+NOM
+Worth'a worth+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+ve ve+CONJ
+sonrasında sonra+NOUN+A3SG+P3SG+LOC
+da da+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'dan francisco+NOUN+PROP+A3SG+PNON+ABL
+tekrar tekrar+ADV
+Boston'a boston+NOUN+PROP+A3SG+PNON+DAT
+uçmam uç+VERB+POS^DB+NOUN+INF2+A3SG+P1SG+NOM
+gerekiyor gerek+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco francisco+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+San san+NOUN+PROP+A3SG+PNON+NOM
+Francisco'ya francisco+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Salt salt+NOUN+PROP+A3SG+PNON+NOM
+Lake lake+NOUN+PROP+A3SG+PNON+NOM
+City'e city+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+hangileri hangi+PRON+QUESP+A3PL+P3PL+NOM
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston boston+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Denver denver+NOUN+PROP+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+bir bir+DET
+uçak uçak+NOUN+A3SG+PNON+NOM
+bileti bilet+NOUN+A3SG+P3SG+NOM
+ver ver+VERB+POS+IMP+A2SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+lütfen lütfen+ADV
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+görmek gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Atlanta'dan atlanta+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Washington'a washington+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Tampa'dan tampa+NOUN+PROP+A3SG+PNON+ABL
+Milwaukee'ye milwaukee+NOUN+PROP+A3SG+PNON+DAT
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'tan Pittsburgh'tan+NOUN+PROP+A3SG+PNON+NOM
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Lütfen lütfen+ADV
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+gelen gel+VERB+POS^DB+ADJ+PRESPART
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Pittsburgh'tan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+görmek gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+Milwaukee milwaukee+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Nashville'den nashville+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+</S>
+<S>
+Şimdi şimdi+ADV
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Phoenix'den phoenix+NOUN+PROP+A3SG+PNON+ABL
+Newark'a newark+NOUN+PROP+A3SG+PNON+DAT
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Newark'tan newark+NOUN+PROP+A3SG+PNON+ABL
+Cleveland'a cleveland+NOUN+PROP+A3SG+PNON+DAT
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+başlayacak başla+VERB+POS^DB+ADJ+FUTPART+PNON
+</S>
+<S>
+Denver'de denver+NOUN+PROP+A3SG+PNON+LOC
+yaşıyorum yaşa+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+seyahat seyahat+NOUN+A3SG+PNON+NOM
+etmek et+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Baltimore'ye baltimore+NOUN+PROP+A3SG+PNON+DAT
+olan ol+VERB+POS^DB+ADJ+PRESPART
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+nelerdir ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL+COP
+</S>
+<S>
+Bana ben+PRON+PERS+A1SG+PNON+DAT
+Pittsburgh pittsburgh+NOUN+PROP+A3SG+PNON+NOM
+ve ve+CONJ
+Philadelphia philadelphia+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+bir bir+DET
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+verebilir ver+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misiniz mi+QUES+PRES+A2PL
+</S>
+<S>
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+olan ol+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Pittsburgh'dan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuşların uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+GEN
+listesini liste+NOUN+A3SG+P3SG+ACC
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Houston'a houston+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+listele listele+VERB+POS+IMP+A2SG
+</S>
+<S>
+Tacoma'da tacoma+NOUN+PROP+A3SG+PNON+LOC
+havaalanından havaalan+NOUN+A3SG+P3SG+ABL
+şehir şehir+NOUN+A3SG+PNON+NOM
+merkezine merkez+NOUN+A3SG+P3SG+DAT
+nasıl nasıl+ADV
+giderim git+VERB+POS+AOR+A1SG
+</S>
+<S>
+Toronto'dan toronto+NOUN+PROP+A3SG+PNON+ABL
+Cincinnati'ye cincinnati+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+gösterebilir göster+VERB+POS^DB+VERB+ABLE+AOR+A3SG
+misin mi+QUES+PRES+A2SG
+</S>
+<S>
+Milwaukee'den milwaukee+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Atlanta'ya atlanta+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+var var+ADJ
+mı mi+QUES+PRES+A3SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Dallas'a dallas+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Washington'dan washington+NOUN+PROP+A3SG+PNON+ABL
+Seattle'ye seattle+NOUN+PROP+A3SG+PNON+DAT
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Charlotte'den charlotte+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+uçuş uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Columbus'tan columbus+NOUN+PROP+A3SG+PNON+ABL
+Charlotte'ye charlotte+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+uçmak uç+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+gitmek git+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Pittsburgh'dan pittsburgh+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+gidiş git+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+dönüş dön+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Orlando'ya orlando+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+bir bir+DET
+uçuşa uç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+DAT
+ihtiyacım ihtiyaç+NOUN+A3SG+P1SG+NOM
+var var+ADJ
+</S>
+<S>
+Denver'den denver+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+görmek gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Lütfen lütfen+ADV
+Dallas'tan dallas+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Indianapolis'ten ındianapolis+NOUN+PROP+A3SG+PNON+ABL
+Montreal'a montreal+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Aynı aynı+ADJ
+zamanda zaman+NOUN+A3SG+PNON+LOC
+Oakland'dan oakland+NOUN+PROP+A3SG+PNON+ABL
+Denver'e denver+NOUN+PROP+A3SG+PNON+DAT
+tüm tüm+DET
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Washington'a washington+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+var var+ADJ
+</S>
+<S>
+Boston'dan boston+NOUN+PROP+A3SG+PNON+ABL
+Pittsburgh'a pittsburgh+NOUN+PROP+A3SG+PNON+DAT
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Houston houston+NOUN+PROP+A3SG+PNON+NOM
+Orlando orlando+NOUN+PROP+A3SG+PNON+NOM
+arası ara+NOUN+A3SG+P3SG+NOM
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+göster göster+VERB+POS+IMP+A2SG
+</S>
+<S>
+Baltimore'den baltimore+NOUN+PROP+A3SG+PNON+ABL
+Philadelphia'ya philadelphia+NOUN+PROP+A3SG+PNON+DAT
+uçuşları uç+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+NOM
+görmek gör+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyorum iste+VERB+POS+PROG1+A1SG
+</S>
+<S>
+Cleveland'dan cleveland+NOUN+PROP+A3SG+PNON+ABL
+Miami'ye miami+NOUN+PROP+A3SG+PNON+DAT
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+</S>
+<S>
+Nashville'den nashville+NOUN+PROP+A3SG+PNON+ABL
+Phoenix'e phoenix+NOUN+PROP+A3SG+PNON+DAT
+hangi hangi+ADJ
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+gidiyor git+VERB+POS+PROG1+A3SG
+</S>
+<S>
+Oakland'a oakland+NOUN+PROP+A3SG+PNON+DAT
+giden git+VERB+POS^DB+ADJ+PRESPART
+tüm tüm+DET
+uçuşlar uç+VERB+POS^DB+NOUN+INF3+A3PL+PNON+NOM
+aynı aynı+ADJ
+yere yer+NOUN+A3SG+PNON+DAT
+mi mi+QUES+PRES+A3SG
+iniyor in+VERB+POS+PROG1+A3SG
+</S>

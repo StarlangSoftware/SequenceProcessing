@@ -1,0 +1,1831 @@
+<S>
+Müziğe müzik+NOUN+A3SG+PNON+DAT
+piyano piyano+NOUN+A3SG+PNON+NOM
+katarak kat+VERB+POS^DB+ADV+BYDOINGSO
+ahenk ahenk+NOUN+A3SG+PNON+NOM
+verdi ver+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Pandemi Pandemi+NOUN+PROP+A3SG+PNON+NOM
+yüzünden yüzünden+ADV
+işinden iş+NOUN+A3SG+P3SG+ABL
+olmuştu ol+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Beni ben+PRON+PERS+A1SG+PNON+ACC
+görünce gör+VERB+POS^DB+ADV+WHEN
+artık artık+ADV
+yolunu yol+NOUN+A3SG+P3SG+ACC
+değiştiriyor değiştir+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Yarı yarı+ADJ
+yolda yol+NOUN+A3SG+PNON+LOC
+kaptan kaptan+NOUN+A3SG+PNON+NOM
+hava hava+NOUN+A3SG+PNON+NOM
+durumuna durum+NOUN+A3SG+P3SG+DAT
+bakıp bak+VERB+POS^DB+ADV+AFTERDOINGSO
+rota rota+NOUN+A3SG+PNON+NOM
+değiştirdi değiştir+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Köyü köy+NOUN+A3SG+PNON+ACC
+sular su+NOUN+A3PL+PNON+NOM
+altında alt+NOUN+A3SG+P3SG+LOC
+kalmaktan kal+VERB+POS^DB+NOUN+INF+A3SG+PNON+ABL
+kurtarmak kurtar+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+nehri nehir+NOUN+A3SG+PNON+ACC
+aktaracağız aktar+VERB+POS+FUT+A1PL
+. .+PUNC
+</S>
+<S>
+Son son+ADJ
+sürat sürat+NOUN+A3SG+PNON+NOM
+giden git+VERB+POS^DB+ADJ+PRESPART
+araba araba+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+önüne ön+NOUN+A3SG+P3SG+DAT
+geyik geyik+NOUN+A3SG+PNON+NOM
+çıkınca çık+VERB+POS^DB+ADV+WHEN
+bir bir+DET
+anda an+NOUN+A3SG+PNON+LOC
+çark çark+NOUN+A3SG+PNON+NOM
+etti et+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Çalışanlar çalışan+NOUN+A3PL+PNON+NOM
+, ,+PUNC
+şirketi şirket+NOUN+A3SG+PNON+ACC
+hortumlayıp hortumla+VERB+POS^DB+ADV+AFTERDOINGSO
+kaçtı kaç+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Geceleri geceleri+ADV
+, ,+PUNC
+arka arka+ADJ
+sokakta sokak+NOUN+A3SG+PNON+LOC
+haraca haraç+NOUN+A3SG+PNON+DAT
+kesiyorlar kes+VERB+POS+PROG1+A3PL
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+durumdan durum+NOUN+A3SG+PNON+ABL
+onun o+PRON+PERS+A3SG+PNON+GEN
+kesesine kese+NOUN+A3SG+P3SG+DAT
+bir bir+DET
+şey şey+NOUN+A3SG+PNON+NOM
+girmiyor gir+VERB+NEG+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Kırmızı kırmızı+ADJ
+renk renk+NOUN+A3SG+PNON+NOM
+gücü güç+NOUN+A3SG+P3SG+NOM
+temsil temsil+NOUN+A3SG+PNON+NOM
+eder et+VERB+POS+AOR+A3SG
+. .+PUNC
+</S>
+<S>
+Kıpırda kıpırda+VERB+POS+IMP+A2SG
+biraz biraz+ADV
+, ,+PUNC
+Ayşe'ye ayşe+NOUN+PROP+A3SG+PNON+DAT
+yer yer+NOUN+A3SG+PNON+NOM
+aç aç+VERB+POS+IMP+A2SG
+! !+PUNC
+</S>
+<S>
+Tüm tüm+DET
+gün gün+NOUN+A3SG+PNON+NOM
+arkadaşlarını arkadaş+NOUN+A3PL+P3SG+ACC
+çekiştirdi çekiştir+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+İnsanların insan+NOUN+A3PL+PNON+GEN
+arkasından arka+NOUN+A3SG+P3SG+ABL
+konuşur konuş+VERB+POS+AOR+A3SG
+ama ama+CONJ
+yüzüne yüz+NOUN+A3SG+P2SG+DAT
+güler gül+VERB+POS+AOR+A3SG
+</S>
+<S>
+Bütün bütün+ADJ
+kazancını kazanç+NOUN+A3SG+P3SG+ACC
+faize faiz+NOUN+A3SG+PNON+DAT
+yatırdı yatır+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Paranı para+NOUN+A3SG+P2SG+ACC
+değerlendir değerlendir+VERB+POS+IMP+A2SG
+, ,+PUNC
+faizlendir faizlendir+VERB+POS+IMP+A2SG
+. .+PUNC
+</S>
+<S>
+Ekme ek+VERB+NEG+IMP+A2SG
+dedim de+VERB+POS+PAST+A1SG
+ama ama+CONJ
+dinlemedi dinle+VERB+NEG+PAST+A3SG
+, ,+PUNC
+bütün bütün+ADJ
+parasını para+NOUN+A3SG+P3SG+ACC
+kaybetmiş kaybet+VERB+POS+NARR+A3SG
+. .+PUNC
+</S>
+<S>
+Mağdur mağdur+ADJ
+etmek et+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+elinden el+NOUN+A3SG+P3SG+ABL
+geleni gelen+ADJ^DB+NOUN+ZERO+A3SG+PNON+ACC
+yapıyorlar yap+VERB+POS+PROG1+A3PL
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+işten iş+NOUN+A3SG+PNON+ABL
+zarar zarar+NOUN+A3SG+PNON+NOM
+eden et+VERB+POS^DB+ADJ+PRESPART
+ben ben+PRON+PERS+A1SG+PNON+NOM
+oldum ol+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+İlk ilk+ADJ
+ay ay+NOUN+A3SG+PNON+NOM
+maaşını maaş+NOUN+A3SG+P3SG+ACC
+buna bu+PRON+DEMONSP+A3SG+PNON+DAT
+yatırdı yatır+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Kombi kombi+NOUN+A3SG+PNON+NOM
+bozulunca bozul+VERB+POS^DB+ADV+WHEN
+500 500+NUM+CARD
+lira lira+NOUN+A3SG+PNON+NOM
+çıkmak çık+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+zorunda zorun+NOUN+A3SG+PNON+LOC
+kaldı kal+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+İki iki+NUM+CARD
+maaşımı maaş+NOUN+A3SG+P1SG+ACC
+hastalığına hastalık+NOUN+A3SG+P3SG+DAT
+harcadığım harca+VERB+POS^DB+ADJ+PASTPART+P1SG
+talebe talep+NOUN+A3SG+PNON+DAT
+, ,+PUNC
+sonbaharla sonbahar+NOUN+A3SG+PNON+INS
+beraber beraber+POSTP+PCINS
+ölmüştü öl+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Emekli emekli+ADJ
+albay albay+NOUN+A3SG+PNON+NOM
+ikramiyesini ikramiye+NOUN+A3SG+P3SG+ACC
+eritti erit+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Birikimini birikim+NOUN+A3SG+P3SG+ACC
+saf saf+NOUN+A3SG+PNON+NOM
+gibi gibi+POSTP+PCNOM
+araya ara+NOUN+A3SG+PNON+DAT
+verdi ver+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Senin sen+PRON+PERS+A2SG+PNON+GEN
+okulun okul+NOUN+A3SG+P2SG+NOM
+için için+POSTP+PCNOM
+o o+PRON+PERS+A3SG+PNON+NOM
+kadar kadar+POSTP+PCDAT
+masraf masraf+NOUN+A3SG+PNON+NOM
+ettik et+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Babama baba+NOUN+A3SG+P1SG+DAT
+yük yük+NOUN+A3SG+PNON+NOM
+oluyorum ol+VERB+POS+PROG1+A1SG
+ve ve+CONJ
+bundan bundan+ADV
+utanıyorum utan+VERB+POS+PROG1+A1SG
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+proje proje+NOUN+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+babam baba+NOUN+A3SG+P1SG+NOM
+çok çok+ADJ
+masrafa masraf+NOUN+A3SG+PNON+DAT
+girdi gir+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Adam adam+NOUN+A3SG+PNON+NOM
+çok çok+ADV
+bonkör bonkör+ADJ
+, ,+PUNC
+her her+DET
+yemekte yemek+NOUN+A3SG+PNON+LOC
+masrafı masraf+NOUN+A3SG+P3SG+NOM
+çekiyor çek+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Düşeş düşeş+NOUN+A3SG+PNON+NOM
+atınca at+NOUN+A3SG+P2SG+EQU
+oğlanın oğlan+NOUN+A3SG+PNON+GEN
+pulunu pul+NOUN+A3SG+P2SG+ACC
+vurdu vur+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Eline el+NOUN+A3SG+P3SG+DAT
+güvenen güven+VERB+POS^DB+ADJ+PRESPART
+Mişa Mişa+NOUN+PROP+A3SG+PNON+NOM
+, ,+PUNC
+rest rest+NOUN+A3SG+PNON+NOM
+çekti çek+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Kumarhane kumarhane+NOUN+A3SG+PNON+NOM
+sahibinin sahip+NOUN+A3SG+P3SG+GEN
+restini rest+NOUN+A3SG+P3SG+ACC
+gördü gör+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Devlet devlet+NOUN+A3SG+PNON+NOM
+iltica iltica+NOUN+A3SG+PNON+NOM
+edenleri et+VERB+POS^DB+ADJ+PRESPART^DB+NOUN+ZERO+A3PL+PNON+ACC
+vatandaşlıktan vatandaşlık+NOUN+A3SG+PNON+ABL
+çıkardı çık+VERB^DB+VERB+CAUS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Araplar arap+NOUN+A3PL+PNON+NOM
+İstanbul'u istanbul+NOUN+PROP+A3SG+PNON+ACC
+birkaç birkaç+DET
+kez kez+NOUN+A3SG+PNON+NOM
+kuşattıysa kuşat+VERB+POS+PAST+COND+A3SG
+da da+CONJ
+şehri şehir+NOUN+A3SG+PNON+ACC
+almayı al+VERB+POS^DB+NOUN+INF2+A3SG+PNON+ACC
+başaramadı başar+VERB^DB+VERB+ABLE+NEG+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Oturup otur+VERB+POS^DB+ADV+AFTERDOINGSO
+eski eski+ADJ
+günleri gün+NOUN+A3PL+PNON+ACC
+yâd yâd+NOUN+A3SG+PNON+NOM
+ettik et+VERB+POS+PAST+A1PL
+</S>
+<S>
+Zarfın zarf+NOUN+A3SG+PNON+GEN
+üstündeki üst+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+yazıyı yazı+NOUN+A3SG+PNON+ACC
+hemen hemen+ADV
+tanıdı tanı+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Annem anne+NOUN+A3SG+P1SG+NOM
+sobayı soba+NOUN+A3SG+PNON+ACC
+durmadan durmadan+ADV
+süngüledi süngüle+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Mekana mekan+NOUN+A3SG+PNON+DAT
+kimliksiz kimlik+NOUN+A3SG+PNON+NOM^DB+ADJ+WITHOUT
+sokmadı sok+VERB+NEG+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Sevecenliğiyle sevecenlik+NOUN+A3SG+P3SG+INS
+nam nam+NOUN+A3SG+PNON+NOM
+kazanmıştı kazan+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Kalbini kalp+NOUN+A3SG+P3SG+ACC
+kazanmıştım kazan+VERB+POS+NARR+PAST+A1SG
+, ,+PUNC
+bu bu+DET
+beni ben+PRON+PERS+A1SG+PNON+ACC
+mutlu mutlu+ADJ
+ediyordu et+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+İşler iş+NOUN+A3PL+PNON+NOM
+güzeldi güzel+ADJ^DB+VERB+ZERO+PAST+A3SG
+, ,+PUNC
+para para+NOUN+A3SG+PNON+NOM
+basıyordum bas+VERB+POS+PROG1+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Yeni yeni+ADJ
+çalışanım çalışan+NOUN+A3SG+P1SG+NOM
+sayesinde sayesinde+ADV
+çok çok+ADV
+para para+NOUN+A3SG+PNON+NOM
+bastım bas+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+ay ay+NOUN+A3SG+PNON+NOM
+çok çok+ADV
+kazandım kazan+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A1SG
+, ,+PUNC
+para para+NOUN+A3SG+PNON+NOM
+kestim kes+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Çok çok+ADV
+zengindi zengin+ADJ^DB+VERB+ZERO+PAST+A3SG
+paraya para+NOUN+A3SG+PNON+DAT
+para para+NOUN+A3SG+PNON+NOM
+demiyordu de+VERB+NEG+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bayağı bayağı+ADJ
+para para+NOUN+A3SG+PNON+NOM
+yapmıştı yap+VERB+POS+NARR+PAST+A3SG
+, ,+PUNC
+hepsi hepsi+PRON+QUANTP+A3PL+P3PL+NOM
+, ,+PUNC
+bankada banka+NOUN+A3SG+PNON+LOC
+duruyordu dur+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Sınıfımda sınıf+NOUN+A3SG+P1SG+LOC
+popülarite popülarite+NOUN+A3SG+PNON+NOM
+kazandım kazan+VERB+POS+PAST+A1SG
+, ,+PUNC
+herkesle herkes+PRON+QUANTP+A3PL+P3PL+INS
+aram ara+NOUN+A3SG+P1SG+NOM
+iyiydi iyi+ADJ^DB+VERB+ZERO+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Genç genç+ADJ
+sporcu sporcu+NOUN+A3SG+PNON+NOM
+olimpiyatlarda olimpiyat+NOUN+A3PL+PNON+LOC
+güzel güzel+ADJ
+bir bir+DET
+puan puan+NOUN+A3SG+PNON+NOM
+aldı al+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Ailemin aile+NOUN+A3SG+P1SG+GEN
+gözünde gözünde+ADV
+puan puan+NOUN+A3SG+PNON+NOM
+kazandım kazan+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Geçtiği geç+VERB+POS^DB+ADJ+PASTPART+P3SG
+aşamalarda aşama+NOUN+A3PL+PNON+LOC
+fazlaca fazlaca+ADV
+puan puan+NOUN+A3SG+PNON+NOM
+toplamıştı topla+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Sonunda sonunda+ADV
+biraz biraz+ADV
+pul pul+NOUN+A3SG+PNON+NOM
+tuttum tut+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Bütün bütün+ADJ
+bu bu+DET
+projeler proje+NOUN+A3PL+PNON+NOM
+süresince süresince+ADV
+israfa israf+NOUN+A3SG+PNON+DAT
+kaçma kaç+VERB+NEG+IMP+A2SG
+lütfen lütfen+ADV
+mümkünse mümkün+ADJ^DB+VERB+ZERO+COND+A3SG
+. .+PUNC
+</S>
+<S>
+Fazlasına fazla+ADJ^DB+NOUN+ZERO+A3SG+P3SG+DAT
+gerek gerek+NOUN+A3SG+PNON+NOM
+yok yok+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+tava tava+NOUN+A3SG+PNON+NOM
+getir getir+VERB+POS+IMP+A2SG
+yeter yeter+ADJ
+. .+PUNC
+</S>
+<S>
+Yemek yemek+NOUN+A3SG+PNON+NOM
+yaparken yap+VERB+POS+AOR^DB+ADV+WHILE
+dalgınlıkla dalgınlıkla+ADV
+yağ yağ+NOUN+A3SG+PNON+NOM
+yakmış yak+VERB+POS+NARR+A3SG
+. .+PUNC
+</S>
+<S>
+Dinamiti dinamit+NOUN+A3SG+PNON+ACC
+eline el+NOUN+A3SG+P3SG+DAT
+aldığı al+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+NOM
+gibi gibi+POSTP+PCNOM
+fitilledi fitille+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Onun o+PRON+PERS+A3SG+PNON+GEN
+yaptıklarını yap+VERB+POS^DB+NOUN+PASTPART+A3PL+P3SG+ACC
+durmadan durmadan+ADV
+över öv+VERB+POS+AOR+A3SG
+, ,+PUNC
+göklere gök+NOUN+A3PL+PNON+DAT
+çıkarırdı çık+VERB^DB+VERB+CAUS+POS+AOR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Hâlimizi Hâlimizi+NOUN+PROP+A3SG+PNON+NOM
+görüp gör+VERB+POS^DB+ADV+AFTERDOINGSO
+bize biz+PRON+PERS+A1PL+PNON+DAT
+merhamet merhamet+NOUN+A3SG+PNON+NOM
+etti et+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+O o+DET
+çocukların çocuk+NOUN+A3PL+P3SG+GEN
+ağlamasına ağlama+NOUN+A3SG+P3SG+DAT
+içi iç+NOUN+A3SG+P3SG+NOM
+sızladı sızla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Her her+DET
+söylediğimize söyle+VERB+POS^DB+NOUN+PASTPART+A3SG+P1PL+DAT
+armudun armut+NOUN+A3SG+PNON+GEN
+sapı sap+NOUN+A3SG+P3SG+NOM
+var var+ADJ
+, ,+PUNC
+üzümün üzüm+NOUN+A3SG+P2SG+NOM
+çöpü çöp+NOUN+A3SG+P3SG+NOM
+var var+ADJ
+dedi de+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bugünkü bugünkü+ADJ
+çalışmalarımızı çalışma+NOUN+A3PL+P1PL+ACC
+noksan noksan+NOUN+A3SG+PNON+NOM
+buldu bul+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bankalarda banka+NOUN+A3PL+PNON+LOC
+bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+ay ay+NOUN+A3SG+PNON+NOM
+çok çok+ADJ
+para para+NOUN+A3SG+PNON+NOM
+kazanıldı kazanıl+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Buzlar buz+NOUN+A3PL+PNON+NOM
+sıvılaştı sıvılaş+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Geri geri+ADV
+kalan kalan+ADJ
+parayı para+NOUN+A3SG+PNON+ACC
+hesaptan hesap+NOUN+A3SG+PNON+ABL
+düş düş+VERB+POS+IMP+A2SG
+artık artık+ADV
+. .+PUNC
+</S>
+<S>
+Biraz biraz+ADJ
+hız hız+NOUN+A3SG+PNON+NOM
+ver ver+VERB+POS+IMP+A2SG
+arabaya araba+NOUN+A3SG+PNON+DAT
+. .+PUNC
+</S>
+<S>
+Bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+ay ay+NOUN+A3SG+PNON+NOM
+bütçede bütçe+NOUN+A3SG+PNON+LOC
+biraz biraz+ADJ
+kısıntı kısıntı+NOUN+A3SG+PNON+NOM
+yaptık yap+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Uçağın uçak+NOUN+A3SG+PNON+GEN
+sorti sorti+NOUN+A3SG+PNON+NOM
+yapması yap+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+NOM
+kulenin kule+NOUN+A3SG+PNON+GEN
+ilgisini ilgi+NOUN+A3SG+P3SG+ACC
+çekmişti çek+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bizim biz+PRON+PERS+A1PL+PNON+GEN
+primleri prim+NOUN+A3PL+P3SG+NOM
+de de+CONJ
+tenzil tenzil+NOUN+A3SG+PNON+NOM
+ettiler et+VERB+POS+PAST+A3PL
+. .+PUNC
+</S>
+<S>
+Vites vites+NOUN+A3SG+PNON+NOM
+büyütmezsek büyüt+VERB+NEG+AOR+COND+A1PL
+işler iş+NOUN+A3PL+PNON+NOM
+yetişmeyecek yetiş+VERB+NEG+FUT+A3SG
+. .+PUNC
+</S>
+<S>
+Yaşlı yaşlı+ADJ
+hükümdar hükümdar+NOUN+A3SG+PNON+NOM
+tahttan taht+NOUN+A3SG+PNON+ABL
+indirildi indir+VERB^DB+VERB+PASS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Müdür müdür+NOUN+A3SG+PNON+NOM
+yardımcısını yardımcı+NOUN+A3SG+P3SG+NOM
+vekâleten vekâleten+ADV
+atadılar ata+VERB+POS+PAST+A3PL
+. .+PUNC
+</S>
+<S>
+Yeni yeni+ADJ
+iş iş+NOUN+A3SG+PNON+NOM
+şansını şans+NOUN+A3SG+P3SG+ACC
+fevt fevt+NOUN+A3SG+PNON+NOM
+etti et+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Babasının baba+NOUN+A3SG+P3SG+GEN
+tüm tüm+DET
+bağırışlarını bağırış+NOUN+A3PL+P3SG+ACC
+giydi giy+VERB+POS+PAST+A3SG
+ve ve+CONJ
+odadan oda+NOUN+A3SG+PNON+ABL
+çıktı çık+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Çok çok+ADV
+kızgın kızgın+ADJ
+bir bir+DET
+fikir fikir+NOUN+A3SG+PNON+NOM
+çarpışmasının çarpışma+NOUN+A3SG+P3SG+GEN
+üzerine üzeri+NOUN+A3SG+P2SG+DAT
+gelmişim gel+VERB+POS+NARR+A1SG
+, ,+PUNC
+kulak kulak+NOUN+A3SG+PNON+NOM
+kesildim kesil+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Etrafta etraf+NOUN+A3SG+PNON+LOC
+biri biri+PRON+QUANTP+A3SG+P3SG+NOM
+olup ol+VERB+POS^DB+ADV+AFTERDOINGSO
+olmadığını ol+VERB+NEG^DB+NOUN+PASTPART+A3SG+P3SG+ACC
+anlamak anla+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+sokaktan sokak+NOUN+A3SG+PNON+ABL
+gelen gel+VERB+POS^DB+ADJ+PRESPART
+seslere ses+NOUN+A3PL+PNON+DAT
+kulak kulak+NOUN+A3SG+PNON+NOM
+kabartıyorum kabart+VERB+POS+PROG1+A1SG
+. .+PUNC
+</S>
+<S>
+Ana ana+ADJ
+çorbaya çorba+NOUN+A3SG+PNON+DAT
+tuz tuz+NOUN+A3SG+PNON+NOM
+atıyor at+VERB+POS+PROG1+A3SG
+, ,+PUNC
+baba baba+NOUN+A3SG+PNON+NOM
+mancanın manca+NOUN+A3SG+PNON+GEN
+tadına tat+NOUN+A3SG+P3SG+DAT
+bakıyor bak+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Tuzundan tuz+NOUN+A3SG+P3SG+ABL
+emin emin+ADJ
+olmak ol+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+tatlı tatlı+ADJ
+kaşığıyla kaşık+NOUN+A3SG+P3SG+INS
+çorbanın çorba+NOUN+A3SG+PNON+GEN
+çeşnisine çeşni+NOUN+A3SG+P3SG+DAT
+baktım bak+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Fasulyeden fasulye+NOUN+A3SG+PNON+ABL
+de de+CONJ
+tat tat+VERB+POS+IMP+A2SG
+biraz biraz+ADV
+. .+PUNC
+</S>
+<S>
+İçeri içeri+ADJ
+girdiği gir+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+NOM
+gibi gibi+POSTP+PCNOM
+, ,+PUNC
+etrafta etraf+NOUN+A3SG+PNON+LOC
+toz toz+NOUN+A3SG+PNON+NOM
+bulayım bul+VERB+POS+OPT+A1SG
+diye diye+POSTP+PCNOM
+tüm tüm+DET
+sehpaları sehpa+NOUN+A3PL+P3SG+NOM
+parmakladı parmakla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Durup dur+VERB+POS^DB+ADV+AFTERDOINGSO
+durup dur+VERB+POS^DB+ADV+AFTERDOINGSO
+kıza kız+NOUN+A3SG+PNON+DAT
+elleşme elle+VERB+RECIP+NEG+IMP+A2SG
+! !+PUNC
+</S>
+<S>
+Ham ham+ADJ
+maddeler madde+NOUN+A3PL+PNON+NOM
+burada burada+ADV
+işleniyor işle+VERB^DB+VERB+PASS+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Dantelleri dantel+NOUN+A3PL+PNON+ACC
+bir bir+DET
+güzel güzel+ADJ
+işledik işle+VERB+POS+PAST+A1PL
+annemle anne+NOUN+A3SG+P1SG+INS
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+fabrikada fabrika+NOUN+A3SG+PNON+LOC
+taşlar taş+NOUN+A3PL+PNON+NOM
+taranıyor tara+VERB+REFLEX+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Ahşap ahşap+ADJ
+döşemelerimiz döşeme+NOUN+A3PL+P1PL+NOM
+kirişlendi kirişle+VERB^DB+VERB+PASS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Malzemeler malzeme+NOUN+A3PL+PNON+NOM
+tornalandı tornala+VERB^DB+VERB+PASS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Doktor doktor+NOUN+A3SG+PNON+NOM
+Sevim sevim+NOUN+PROP+A3SG+PNON+NOM
+, ,+PUNC
+hastayı hasta+ADJ^DB+NOUN+ZERO+A3SG+PNON+ACC
+ilk ilk+ADV
+gördüğü gör+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+NOM
+an an+NOUN+A3SG+PNON+NOM
+kendinde kendinde+NOUN+A3SG+PNON+NOM
+değil değil+ADJ
+sanmıştı san+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+aralar ara+NOUN+A3PL+PNON+NOM
+bilim bilim+NOUN+A3SG+PNON+NOM
+- -+PUNC
+kurgu kurgu+NOUN+A3SG+PNON+NOM
+filmlerine film+NOUN+A3PL+P3SG+DAT
+sardırdı sardır+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bir bir+DET
+tek tek+ADJ
+ailesinin aile+NOUN+A3SG+P3SG+GEN
+oturduğu otur+VERB+POS^DB+ADJ+PASTPART+P3SG
+ev ev+NOUN+A3SG+PNON+NOM
+kalmıştı kal+VERB+POS+NARR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Tam tam+ADJ
+terhis terhis+NOUN+A3SG+PNON+NOM
+olacakken olacak+ADJ^DB+VERB+ZERO^DB+ADV+WHILE
+tezkere tezkere+NOUN+A3SG+PNON+NOM
+bıraktı bırak+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Annesinin anne+NOUN+A3SG+P3SG+GEN
+hastalığından hastalık+NOUN+A3SG+P3SG+ABL
+sonra sonra+POSTP+PCABL
+işi iş+NOUN+A3SG+PNON+ACC
+gücü güç+NOUN+A3SG+PNON+ACC
+bıraktı bırak+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bugünlük bugünlük+ADV
+paydos paydos+NOUN+A3SG+PNON+NOM
+diyoruz de+VERB+POS+PROG1+A1PL
+, ,+PUNC
+yarın yarın+NOUN+A3SG+PNON+NOM
+görüşmek görüş+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+üzere üzere+POSTP+PCNOM
+. .+PUNC
+</S>
+<S>
+Uzmanlar uzman+NOUN+A3PL+PNON+NOM
+Salı salı+NOUN+A3SG+PNON+NOM
+günü gün+NOUN+A3SG+P3SG+NOM
+için için+POSTP+PCNOM
+yoğun yoğun+ADJ
+kar kar+NOUN+A3SG+PNON+NOM
+yağışı yağ+VERB+POS^DB+NOUN+INF3+A3SG+P3SG+NOM
+bildirdi bil+VERB^DB+VERB+CAUS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Annesi anne+NOUN+A3SG+P3SG+NOM
+ona o+PRON+PERS+A3SG+PNON+DAT
+nerede nerede+ADV
+hata hata+NOUN+A3SG+PNON+NOM
+yaptığını yap+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+ACC
+gösterdi göster+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Avukat avukat+NOUN+A3SG+PNON+NOM
+hanım hanım+NOUN+A3SG+PNON+NOM
+sorunu sorun+NOUN+A3SG+PNON+ACC
+mahkemeye mahkeme+NOUN+A3SG+PNON+DAT
+şerh şerh+NOUN+A3SG+PNON+NOM
+etti et+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Merak merak+NOUN+A3SG+PNON+NOM
+etmeyin et+VERB+NEG+IMP+A2PL
+kısa kısa+ADJ
+tutacağım tut+VERB+POS+FUT+A1SG
+. .+PUNC
+</S>
+<S>
+Orada orada+ADV
+tanıştığı tanış+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+NOM
+birileri biri+PRON+QUANTP+A3PL+P3PL+NOM
+hemencecik hemencecik+ADV
+derdine dert+NOUN+A3SG+P3SG+DAT
+deva deva+NOUN+A3SG+PNON+NOM
+bulacaktı bul+VERB+POS+FUT+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+O o+PRON+PERS+A3SG+PNON+NOM
+kadın kadın+ADJ
+bu bu+DET
+tür tür+NOUN+A3SG+PNON+NOM
+şeyleri şey+NOUN+A3PL+PNON+ACC
+sezinliyor sezinle+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Minik minik+ADJ
+serçe serçe+NOUN+A3SG+PNON+NOM
+kanat kanat+NOUN+A3SG+PNON+NOM
+çırptı çırp+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Yıldız yıldız+NOUN+A3SG+PNON+NOM
+kaydı kay+VERB+POS+PAST+A3SG
+ve ve+CONJ
+dilek dilek+NOUN+A3SG+PNON+NOM
+diledim dile+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Öfkelenince öfkelen+VERB+POS^DB+ADV+WHEN
+ok ok+NOUN+A3SG+PNON+NOM
+gibi gibi+POSTP+PCNOM
+fırladı fırla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Arabayı araba+NOUN+A3SG+PNON+ACC
+, ,+PUNC
+kuvvetli kuvvet+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+atlar at+NOUN+A3PL+PNON+NOM
+tenha tenha+ADJ
+yolda yol+NOUN+A3SG+PNON+LOC
+uçuruyordu uçur+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Böyle böyle+ADV
+uzaklaştı uzaklaş+VERB+POS+PAST+A3SG
+ağır ağır+ADJ
+ağır ağır+ADJ
+o o+PRON+PERS+A3SG+PNON+NOM
+bizden biz+PRON+PERS+A1PL+PNON+ABL
+/ /+PUNC
+Biz biz+PRON+PERS+A1PL+PNON+NOM
+ayrı ayrı+ADJ
+düşmedik düş+VERB+NEG+PAST+A1PL
+, ,+PUNC
+ant ant+NOUN+A3SG+PNON+NOM
+içmiştik iç+VERB+POS+NARR+PAST+A1PL
+denizden deniz+NOUN+A3SG+PNON+ABL
+. .+PUNC
+</S>
+<S>
+İki iki+NUM+CARD
+genç genç+ADJ
+, ,+PUNC
+kılıçlama kılıçlama+ADV
+kaçıyorlardı kaç+VERB+POS+PROG1+A3PL+PAST
+. .+PUNC
+</S>
+<S>
+Odanın oda+NOUN+A3SG+PNON+GEN
+halısı halı+NOUN+A3SG+P3SG+NOM
+biraz biraz+ADV
+sağa sağ+NOUN+A3SG+PNON+DAT
+kaçmış kaç+VERB+POS+NARR+A3SG
+. .+PUNC
+</S>
+<S>
+Okul okul+NOUN+A3SG+PNON+NOM
+bitmişti bit+VERB+POS+NARR+PAST+A3SG
+; ;+PUNC
+payandaları payanda+NOUN+A3PL+PNON+ACC
+çözmüştüm çöz+VERB+POS+NARR+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Sonunda sonunda+ADV
+senden sen+PRON+PERS+A2SG+PNON+ABL
+kurtuldum kurtul+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Sırf sırf+ADV
+bu bu+DET
+parayı para+NOUN+A3SG+PNON+ACC
+ödeyemiyorum öde+VERB^DB+VERB+ABLE+NEG+PROG1+A1SG
+diye diye+POSTP+PCNOM
+çekip çek+VERB+POS^DB+ADV+AFTERDOINGSO
+gitti git+VERB+POS+PAST+A3SG
+insafsızca insafsızca+ADV
+. .+PUNC
+</S>
+<S>
+Silahını silah+NOUN+A3SG+P3SG+ACC
+hatta hatta+CONJ
+başındaki baş+NOUN+A3SG+P3SG+LOC^DB+ADJ+REL
+şapkasını şapka+NOUN+A3SG+P3SG+ACC
+bırakıp bırak+VERB+POS^DB+ADV+AFTERDOINGSO
+kaçtı kaç+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Konuşmadık konuş+VERB+NEG+PAST+A1PL
+, ,+PUNC
+cehennem cehennem+NOUN+A3SG+PNON+NOM
+olup ol+VERB+POS^DB+ADV+AFTERDOINGSO
+gitti git+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Annesi anne+NOUN+A3SG+P3SG+NOM
+arkasına arka+NOUN+A3SG+P3SG+DAT
+bakmadan bak+VERB+POS^DB+ADV+WITHOUTHAVINGDONESO
+gitti git+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Küçük küçük+ADJ
+kedi kedi+NOUN+A3SG+PNON+NOM
+birden birden+ADV
+tun tun+NOUN+A3SG+PNON+NOM
+tun tun+NOUN+A3SG+PNON+NOM
+kaçtı kaç+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Yaşlı yaşlı+ADJ
+güreşçi güreşçi+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+minderden minder+NOUN+A3SG+PNON+ABL
+kaçtı kaç+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Aliş aliş+NOUN+PROP+A3SG+PNON+NOM
+kulübeye kulübe+NOUN+A3SG+PNON+DAT
+girerken gir+VERB+POS+AOR^DB+ADV+WHILE
+tozu toz+NOUN+A3SG+PNON+ACC
+dumana duman+NOUN+A3SG+PNON+DAT
+kattı kat+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Taş taş+ADJ
+aldığımı al+VERB+POS^DB+NOUN+PASTPART+A3SG+P1SG+ACC
+görmüş gör+VERB+POS+NARR^DB+ADJ+ZERO
+gibi gibi+POSTP+PCNOM
+tabana taban+NOUN+A3SG+PNON+DAT
+kuvvet kuvvet+NOUN+A3SG+PNON+NOM
+kaçıyor kaç+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Bekir bekir+NOUN+PROP+A3SG+PNON+NOM
+, ,+PUNC
+kaşla kaş+NOUN+A3SG+PNON+INS
+göz göz+NOUN+A3SG+PNON+NOM
+arasında ara+NOUN+A3SG+P3SG+LOC
+dışarıya dışarı+NOUN+A3SG+PNON+DAT
+sızdı sız+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Borcu borç+NOUN+A3SG+PNON+ACC
+için için+POSTP+PCNOM
+ona o+PRON+PERS+A3SG+PNON+DAT
+biraz biraz+ADV
+daha daha+ADV
+zaman zaman+NOUN+A3SG+PNON+NOM
+tanıdım tanı+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Kredinin kredi+NOUN+A3SG+PNON+GEN
+vadesini vade+NOUN+A3SG+P3SG+ACC
+uzattı uzat+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Çok çok+ADV
+üşüdüm üşü+VERB+POS+PAST+A1SG
+, ,+PUNC
+soba soba+NOUN+A3SG+PNON+NOM
+bayağı bayağı+ADV
+sağırlaşmış sağırlaş+VERB+POS+NARR+A3SG
+. .+PUNC
+</S>
+<S>
+Misafirler misafir+NOUN+A3PL+PNON+NOM
+üşümesin üşü+VERB+NEG+IMP+A3SG
+diye diye+POSTP+PCNOM
+eski eski+ADJ
+elektrikli elektrikli+ADJ
+ısıtıcının ısıtıcı+NOUN+A3SG+PNON+GEN
+ensesinde ense+NOUN+A3SG+P3SG+LOC
+boza boza+NOUN+A3SG+PNON+NOM
+pişir pişir+VERB+POS+IMP+A2SG
+. .+PUNC
+</S>
+<S>
+Bebeğe bebek+NOUN+A3SG+PNON+DAT
+mamasını mama+NOUN+A3SG+P3SG+ACC
+verirken ver+VERB+POS+AOR^DB+ADV+WHILE
+önce önce+ADV
+püflüyordu püfle+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bebek bebek+NOUN+A3SG+PNON+NOM
+mamasına mama+NOUN+A3SG+P3SG+DAT
+biraz biraz+ADJ
+su su+NOUN+A3SG+PNON+NOM
+eklesene eklesene+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+biraz biraz+ADV
+ılıştır ılıştır+VERB+POS+IMP+A2SG
+. .+PUNC
+</S>
+<S>
+Bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+alandaki alan+NOUN+A3SG+PNON+LOC^DB+ADJ+REL
+çalışmaları çalış+VERB+POS^DB+NOUN+INF2+A3PL+P3SG+NOM
+ile ile+POSTP+PCNOM
+yeni yeni+ADJ
+bir bir+DET
+çığır çığır+NOUN+A3SG+PNON+NOM
+açtı aç+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bizim biz+PRON+PERS+A1PL+PNON+GEN
+müdür müdür+NOUN+A3SG+PNON+NOM
+yine yine+ADV
+ağzını ağız+NOUN+A3SG+P3SG+ACC
+açtı aç+VERB+POS+PAST+A3SG
+, ,+PUNC
+en en+ADV
+az az+ADJ
+yarım yarım+ADJ
+saat saat+NOUN+A3SG+PNON+NOM
+buradayız bura+NOUN+A3SG+PNON+LOC^DB+VERB+ZERO+PRES+A1PL
+. .+PUNC
+</S>
+<S>
+Ne ne+CONJ
+çalışıyor çalış+VERB+POS+PROG1+A3SG
+ne ne+CONJ
+okuyor oku+VERB+POS+PROG1+A3SG
+, ,+PUNC
+sadece sadece+ADV
+para para+NOUN+A3SG+PNON+NOM
+yiyor ye+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Eyvah eyvah+INTERJ
+, ,+PUNC
+dedi de+VERB+POS+PAST+A3SG
+panikle panik+NOUN+A3SG+PNON+INS
+, ,+PUNC
+cüzdanımı cüzdan+NOUN+A3SG+P1SG+ACC
+evde ev+NOUN+A3SG+PNON+LOC
+unuttum unut+VERB+POS+PAST+A1SG
+! !+PUNC
+</S>
+<S>
+Ne ne+CONJ
+yardan yar+NOUN+A3SG+PNON+ABL
+geçer geç+VERB+POS+AOR+A3SG
+ne ne+CONJ
+de de+CONJ
+serden ser+NOUN+A3SG+PNON+ABL
+. .+PUNC
+</S>
+<S>
+Soğuk soğuk+ADJ
+hava hava+NOUN+A3SG+PNON+NOM
+öyle öyle+ADV
+bir bir+ADV
+esti es+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PAST+A3SG
+ki ki+CONJ
+tüylerim tüy+NOUN+A3PL+P1SG+NOM
+diken diken+NOUN+A3SG+PNON+NOM
+diken diken+NOUN+A3SG+PNON+NOM
+oldu ol+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Sınavın sınav+NOUN+A3SG+PNON+GEN
+sessizliğinde sessizlik+NOUN+A3SG+P3SG+LOC
+karnım karın+NOUN+A3SG+P1SG+NOM
+guruldadı gurulda+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Yemek yemek+NOUN+A3SG+PNON+NOM
+hala hala+ADV
+hazır hazır+ADJ
+değil değil+ADJ
+, ,+PUNC
+çok çok+ADV
+acıktım acık+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Kafam kafa+NOUN+A3SG+P1SG+NOM
+uğulduyor uğulda+VERB+POS+PROG1+A3SG
+sanki sanki+ADV
+, ,+PUNC
+gözlerimi göz+NOUN+A3PL+P1SG+ACC
+açamıyorum aç+VERB^DB+VERB+ABLE+NEG+PROG1+A1SG
+. .+PUNC
+</S>
+<S>
+Gözlerim göz+NOUN+A3PL+P1SG+NOM
+kararıyor kararıyor+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+kulaklarım kulak+NOUN+A3PL+P1SG+NOM
+uğulduyordu uğulda+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Okul okul+NOUN+A3SG+PNON+NOM
+öğleden öğle+NOUN+A3SG+PNON+ABL
+sonra sonra+POSTP+PCABL
+tatil tatil+NOUN+A3SG+PNON+NOM
+oldu ol+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Kireç kireç+NOUN+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+zeminler zemin+NOUN+A3PL+PNON+NOM
+stabilize stabilize+ADJ
+edildi et+VERB^DB+VERB+PASS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bel bel+NOUN+A3SG+PNON+NOM
+kaslarını kas+NOUN+A3PL+P3SG+ACC
+kuvvetlendirmek kuvvetlendir+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+her her+DET
+gün gün+NOUN+A3SG+PNON+NOM
+okulda okul+NOUN+A3SG+PNON+LOC
+yüzüyordu yüz+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Revizyon revizyon+NOUN+A3SG+PNON+NOM
+sürecinde süreç+NOUN+A3SG+P3SG+LOC
+romanı roman+NOUN+A3SG+P3SG+NOM
+ciddi ciddi+ADJ
+anlamda anlam+NOUN+A3SG+PNON+LOC
+değiştirdi değiştir+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Zeki zeki+ADJ
+olmasına ol+VERB+POS^DB+NOUN+INF2+A3SG+P3SG+DAT
+rağmen rağmen+POSTP+PCDAT
+okumuyor oku+VERB+NEG+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+O o+DET
+üniversitede üniversite+NOUN+A3SG+PNON+LOC
+tahsil tahsil+NOUN+A3SG+PNON+NOM
+ediyor et+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Geçmişi geçmiş+NOUN+A3SG+P3SG+NOM
+her her+DET
+başladığı başla+VERB+POS^DB+ADJ+PASTPART+P3SG
+işe iş+NOUN+A3SG+PNON+DAT
+set set+NOUN+A3SG+PNON+NOM
+çekiyordu çek+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Babasının baba+NOUN+A3SG+P3SG+GEN
+kucağına kucak+NOUN+A3SG+P3SG+DAT
+kurulup kur+VERB^DB+VERB+PASS+POS^DB+ADV+AFTERDOINGSO
+uyumaya uyu+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+başladı başla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Babasının baba+NOUN+A3SG+P3SG+GEN
+kucağına kucak+NOUN+A3SG+P3SG+DAT
+oturarak otur+VERB+POS^DB+ADV+BYDOINGSO
+nasihat nasihat+NOUN+A3SG+PNON+NOM
+verdi ver+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Öylesine öylesine+ADV
+yorgundu yorgun+ADJ^DB+VERB+ZERO+PAST+A3SG
+ki ki+CONJ
+, ,+PUNC
+gelir gelir+NOUN+A3SG+PNON+NOM
+gelmez gel+VERB+NEG+AOR^DB+ADJ+ZERO
+külçe külçe+NOUN+A3SG+PNON+NOM
+gibi gibi+POSTP+PCNOM
+oturdu otur+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Haline hal+NOUN+A3SG+P3SG+DAT
+baksana baksana+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+leş leş+NOUN+A3SG+PNON+NOM
+gibi gibi+POSTP+PCNOM
+serilmiş seril+VERB+POS+NARR+A3SG
+. .+PUNC
+</S>
+<S>
+Secde secde+NOUN+A3SG+PNON+NOM
+ederek et+VERB+POS^DB+ADV+BYDOINGSO
+dua dua+NOUN+A3SG+PNON+NOM
+etmeye et+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+başladı başla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Secdeye secde+NOUN+A3SG+PNON+DAT
+kapandı kapan+VERB+POS+PAST+A3SG
+, ,+PUNC
+namazına namaz+NOUN+A3SG+P3SG+DAT
+devam devam+NOUN+A3SG+PNON+NOM
+etti et+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Semeri semer+NOUN+A3SG+P3SG+NOM
+devirmiş devir+VERB+POS+NARR^DB+ADJ+ZERO
+gibi gibi+POSTP+PCNOM
+yatması yatma+NOUN+A3SG+P3SG+NOM
+hiç hiç+ADV
+uygun uygun+ADJ
+gözükmüyor gözük+VERB+NEG+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Kendi kendi+PRON+REFLEXP+A3SG+P3SG+NOM
+evine evin+NOUN+A3SG+PNON+DAT
+gidip git+VERB+POS^DB+ADV+AFTERDOINGSO
+serilip seril+VERB+POS^DB+ADV+AFTERDOINGSO
+yatmak yat+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+istiyordu iste+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Sırtını sırt+NOUN+A3SG+P3SG+ACC
+verdi ver+VERB+POS+PAST+A3SG
+ve ve+CONJ
+çöktü çök+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Meyveler meyve+NOUN+A3PL+PNON+NOM
+yumuşamış yumuşa+VERB+POS+NARR+A3SG
+. .+PUNC
+</S>
+<S>
+Dizlerim dizle+VERB+POS+AOR+A1SG
+kabuklaştı kabuklaş+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Kaynayan kayna+VERB+POS^DB+ADJ+PRESPART
+süt süt+NOUN+A3SG+PNON+NOM
+kaymak kaymak+NOUN+A3SG+PNON+NOM
+tuttu tut+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Yoğurt yoğurt+NOUN+A3SG+PNON+NOM
+ilginç ilginç+ADJ
+bir bir+DET
+şekilde şekil+NOUN+A3SG+PNON+LOC
+jöleleşti jöleleş+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Cildim cilt+NOUN+A3SG+P1SG+NOM
+pürüzsüzleşti pürüzsüzleş+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Madde madde+NOUN+A3SG+PNON+NOM
+plastikleşti plastikleş+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Ameliyat ameliyat+NOUN+A3SG+PNON+NOM
+öncesi önce+NOUN+A3SG+P3SG+NOM
+doktorlar doktor+NOUN+A3PL+PNON+NOM
+onu o+PRON+PERS+A3SG+PNON+ACC
+bir bir+DET
+gün gün+NOUN+A3SG+PNON+NOM
+boyunca boyunca+POSTP+PCNOM
+aç aç+ADJ
+bıraktı bırak+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Dizüstü dizüstü+NOUN+A3SG+PNON+NOM
+bilgisayarımı bilgisayar+NOUN+A3SG+P1SG+ACC
+ödünç ödünç+ADJ
+verdim ver+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Uzun uzun+ADJ
+vadeli vade+NOUN+A3SG+PNON+NOM^DB+ADJ+WITH
+ödünç ödünç+ADJ
+aldı al+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+seneyi sene+NOUN+A3SG+PNON+ACC
+de de+CONJ
+kazasız kazasız+ADV
+belasız bela+NOUN+A3SG+PNON+NOM^DB+ADJ+WITHOUT
+tamamladık tamamla+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Tramvay tramvay+NOUN+A3SG+PNON+NOM
+caddesine cadde+NOUN+A3SG+P3SG+DAT
+çıktı çık+VERB+POS+PAST+A3SG
+, ,+PUNC
+bir bir+DET
+eczaneye eczane+NOUN+A3SG+PNON+DAT
+girdi gir+VERB+POS+PAST+A3SG
+, ,+PUNC
+reçete reçete+NOUN+A3SG+PNON+NOM
+yaptırdı yap+VERB^DB+VERB+CAUS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Galip galip+NOUN+PROP+A3SG+PNON+NOM
+takım takım+NOUN+A3SG+PNON+NOM
+sahada saha+NOUN+A3SG+PNON+LOC
+tur tur+NOUN+A3SG+PNON+NOM
+atıyordu at+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Rakibinin rakip+NOUN+A3SG+P3SG+GEN
+sol sol+ADJ
+kroşesini kroşe+NOUN+A3SG+P3SG+ACC
+karşıladı karşıla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Turnuva turnuva+NOUN+A3SG+PNON+NOM
+haftaya hafta+NOUN+A3SG+PNON+DAT
+başlıyor başla+VERB+POS+PROG1+A3SG
+, ,+PUNC
+bugün bugün+ADV
+ad ad+NOUN+A3SG+PNON+NOM
+çekmeye çek+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+girecekler gir+VERB+POS+FUT+A3PL
+. .+PUNC
+</S>
+<S>
+Kaleci kaleci+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+serbest serbest+ADJ
+atış at+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+yapacak yap+VERB+POS^DB+ADJ+FUTPART+PNON
+oyuncuyu oyuncu+NOUN+A3SG+PNON+ACC
+gördü gör+VERB+POS+PAST+A3SG
+ve ve+CONJ
+sol sol+ADJ
+üst üst+ADJ
+köşeye köşe+NOUN+A3SG+PNON+DAT
+doğru doğru+POSTP+PCDAT
+hamle hamle+NOUN+A3SG+PNON+NOM
+etti et+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Orta orta+ADJ
+sahayı saha+NOUN+A3SG+PNON+ACC
+boş boş+ADJ
+bırakmayın bırak+VERB+NEG+IMP+A2PL
+, ,+PUNC
+baskı baskı+NOUN+A3SG+PNON+NOM
+yapın yap+VERB+POS+IMP+A2PL
+! !+PUNC
+</S>
+<S>
+Rakibine rakip+NOUN+A3SG+P3SG+DAT
+salto salto+NOUN+A3SG+PNON+NOM
+attı at+VERB+POS+PAST+A3SG
+, ,+PUNC
+gol gol+NOUN+A3SG+PNON+NOM
+atacağı at+VERB+POS^DB+NOUN+FUTPART+A3SG+P3SG+NOM
+kesindi kesin+ADJ^DB+VERB+ZERO+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Dişli dişli+ADJ
+rakibini rakip+NOUN+A3SG+P3SG+ACC
+kolayca kolay+ADJ^DB+ADV+LY
+engelledi engelle+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+seneyi sene+NOUN+A3SG+PNON+ACC
+de de+CONJ
+kazasız kazasız+ADV
+belasız belasız+ADJ
+neticelendirdik çöz+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+İhalede ihale+NOUN+A3SG+PNON+LOC
+herkesten herkes+PRON+QUANTP+A3PL+P3PL+ABL
+yüksek yüksek+ADJ
+teklif teklif+NOUN+A3SG+PNON+NOM
+vererek ver+VERB+POS^DB+ADV+BYDOINGSO
+düşeş düşeş+NOUN+A3SG+PNON+NOM
+attı at+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bu bu+DET
+konuyu konu+NOUN+A3SG+PNON+ACC
+çok çok+ADV
+zor zor+ADJ
+anladım anla+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Gömleğin gömlek+NOUN+A3SG+PNON+GEN
+düğmeleri düğme+NOUN+A3PL+P3SG+NOM
+kopunca kop+VERB+POS^DB+ADV+WHEN
+iğne iğne+NOUN+A3SG+PNON+NOM
+ile ile+POSTP+PCNOM
+tutturdum tuttur+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Kolilerin koli+NOUN+A3PL+PNON+GEN
+tamamını tamam+ADJ^DB+NOUN+ZERO+A3SG+P3SG+ACC
+bantladım bantla+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+Hevesini heves+NOUN+A3SG+P3SG+ACC
+kırmalarına kırma+NOUN+A3PL+P3SG+DAT
+izin izin+NOUN+A3SG+PNON+NOM
+vermeyecekti ver+VERB+NEG+FUT+PAST+A3SG
+, ,+PUNC
+elbiseyi elbise+NOUN+A3SG+PNON+ACC
+dikmeye dikme+NOUN+A3SG+PNON+DAT
+sıfırdan sıfır+NOUN+A3SG+PNON+ABL
+başladı başla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Kaptan kaptan+NOUN+A3SG+PNON+NOM
+kontağı kontak+NOUN+A3SG+P3SG+NOM
+çevirip çevir+VERB+POS^DB+ADV+AFTERDOINGSO
+bismillah bismillah+NOUN+A3SG+PNON+NOM
+dedi de+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Yavru yavru+NOUN+A3SG+PNON+NOM
+köpek köpek+NOUN+A3SG+PNON+NOM
+sevimli sevimli+ADJ
+bakışlarıyla bak+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+INS
+sahibinin sahip+NOUN+A3SG+P3SG+GEN
+kalbini kalp+NOUN+A3SG+P3SG+ACC
+eritti erit+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Erik erik+NOUN+A3SG+PNON+NOM
+çıkmış çık+VERB+POS+NARR^DB+ADJ+ZERO
+, .+PUNC
+çilek çilek+NOUN+PROP+A3SG+PNON+NOM
+daha daha+ADV
+çıkmadı çık+VERB+NEG+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Borcunu borç+NOUN+A3SG+P3SG+ACC
+takside taksit+NOUN+A3SG+PNON+DAT
+bağladı bağla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Amcasından amca+NOUN+A3SG+P3SG+ABL
+kalan kal+VERB+POS^DB+ADJ+PRESPART
+mirastan miras+NOUN+A3SG+PNON+ABL
+ziftlendi ziftlen+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Okuduğu oku+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+NOM
+kitaplar kitap+NOUN+A3PL+PNON+NOM
+onun o+PRON+PERS+A3SG+PNON+GEN
+için için+POSTP+PCNOM
+yararlı yararlı+ADJ
+oldu ol+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Almanya'da almanya+NOUN+PROP+A3SG+PNON+LOC
+1 1+NUM+CARD
+sene sene+NOUN+A3SG+PNON+NOM
+çalışmanın çalışma+NOUN+A3SG+PNON+GEN
+faydasını fayda+NOUN+A3SG+P3SG+ACC
+gördü gör+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Hastalığı hastalık+NOUN+A3SG+P3SG+NOM
+hâlâ hâlâ+ADV
+çok çok+ADV
+ağır ağır+ADJ
+seyrediyor seyret+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Bugünlük bugünlük+ADV
+dükkanı dükkan+NOUN+A3SG+P3SG+NOM
+tatil tatil+NOUN+A3SG+PNON+NOM
+ettik et+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Şaşırtıcı şaşırtıcı+ADJ
+bir bir+DET
+şekilde şekil+NOUN+A3SG+PNON+LOC
+Nihal'in Nihal'in+NOUN+PROP+A3SG+PNON+NOM
+buna bu+PRON+DEMONSP+A3SG+PNON+DAT
+aklı akıl+NOUN+A3SG+P3SG+NOM
+erdi er+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Gizli gizli+ADJ
+konular konu+NOUN+A3PL+PNON+NOM
+hakkında hakkında+ADV
+malumat malumat+NOUN+A3SG+PNON+NOM
+alıyordu al+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Neler ne+PRON+QUESP+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+A3PL
+yapabileceğine yap+VERB+POS^DB+VERB+ABLE^DB+NOUN+FUTPART+A3SG+P3SG+DAT
+, ,+PUNC
+kasabayı kasaba+NOUN+A3SG+PNON+ACC
+, ,+PUNC
+memurları memur+NOUN+A3PL+P3SG+NOM
+iki iki+NUM+CARD
+parmağı parmak+NOUN+A3SG+P3SG+NOM
+üstünde üst+NOUN+A3SG+P3SG+LOC
+oynattığına oynat+VERB+POS^DB+NOUN+PASTPART+A3SG+P3SG+DAT
+çok çok+ADV
+şahit şahit+NOUN+A3SG+PNON+NOM
+olmuşlardı ol+VERB+POS+NARR+A3PL+PAST
+. .+PUNC
+</S>
+<S>
+Olabilecekleri ol+VERB+POS^DB+VERB+ABLE^DB+ADJ+FUTPART+P3PL
+tasavvur tasavvur+NOUN+A3SG+PNON+NOM
+edemiyorum et+VERB^DB+VERB+ABLE+NEG+PROG1+A1SG
+. .+PUNC
+</S>
+<S>
+Kendime kendi+PRON+REFLEXP+A1SG+P1SG+DAT
+geldiğimde gel+VERB+POS^DB+NOUN+PASTPART+A3SG+P1SG+LOC
+kaçış kaç+VERB+POS^DB+NOUN+INF3+A3SG+PNON+NOM
+planımı plan+NOUN+A3SG+P1SG+ACC
+en en+ADV
+ince ince+ADJ
+ayrıntısına ayrıntı+NOUN+A3SG+P3SG+DAT
+kadar kadar+POSTP+PCDAT
+zihninde zihin+NOUN+A3SG+P3SG+LOC
+tasarladı tasarla+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Onun o+PRON+PERS+A3SG+PNON+GEN
+kaçamak kaçamak+ADJ
+bakışlarını bak+VERB+POS^DB+NOUN+INF3+A3PL+P3SG+ACC
+yakaladım yakala+VERB+POS+PAST+A1SG
+. .+PUNC
+</S>
+<S>
+O o+DET
+sınav sınav+NOUN+A3SG+PNON+NOM
+sonuçlarından sonuç+NOUN+A3PL+P3SG+ABL
+beri beri+POSTP+PCABL
+üniversiteyi üniversite+NOUN+A3SG+PNON+ACC
+kazanamayacağım kazan+VERB^DB+VERB+ABLE+NEG+FUT+A1SG
+diye diye+POSTP+PCNOM
+çocuğu çocuk+NOUN+A3SG+P3SG+NOM
+bir bir+DET
+düşüncedir düşünce+NOUN+A3SG+PNON+NOM^DB+VERB+ZERO+PRES+COP+A3SG
+aldı al+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Cansev cansev+NOUN+PROP+A3SG+PNON+NOM
+geçmişte geçmiş+NOUN+A3SG+PNON+LOC
+olanları ol+VERB+POS^DB+ADJ+PRESPART^DB+NOUN+ZERO+A3PL+P3SG+NOM
+düşünüp düşün+VERB+POS^DB+ADV+AFTERDOINGSO
+efkarlanıyordu efkarlan+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Her her+DET
+on on+NUM+CARD
+yılda yıl+NOUN+A3SG+PNON+LOC
+bir bir+DET
+, ,+PUNC
+geçmişten geçmiş+NOUN+A3SG+PNON+ABL
+bu bu+PRON+DEMONSP+A3SG+PNON+NOM
+yana yan+NOUN+A3SG+PNON+DAT
+süregelen süregel+VERB+POS^DB+ADJ+PRESPART
+edebiyatı edebiyat+NOUN+A3SG+P3SG+NOM
+alaşağı alaşağı+ADV
+ediyoruz et+VERB+POS+PROG1+A1PL
+. .+PUNC
+</S>
+<S>
+Baban baba+NOUN+A3SG+P2SG+NOM
+bana ben+PRON+PERS+A1SG+PNON+DAT
+fena fena+ADJ
+giydirdi giydir+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Müsaade müsaade+NOUN+A3SG+PNON+NOM
+ederseniz et+VERB+POS+AOR+COND+A2PL
+size siz+PRON+PERS+A2PL+PNON+DAT
+başka başka+ADJ
+bir bir+DET
+cihetten cihet+NOUN+A3SG+PNON+ABL
+sitem sitem+NOUN+A3SG+PNON+NOM
+edeceğim et+VERB+POS+FUT+A1SG
+. .+PUNC
+</S>
+<S>
+Başkan başkan+NOUN+A3SG+PNON+NOM
+bu bu+DET
+sistemi sistem+NOUN+A3SG+PNON+ACC
+fiskeledi fiskele+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Garibanın gariban+ADJ^DB+NOUN+ZERO+A3SG+PNON+GEN
+kısmetini kısmet+NOUN+A3SG+P3SG+ACC
+bağlayıverdiler bağla+VERB+POS^DB+VERB+HASTILY+PAST+A3PL
+. .+PUNC
+</S>
+<S>
+Neden neden+ADV
+hep hep+ADV
+kısmetine kısmet+NOUN+A3SG+P2SG+DAT
+mani mani+NOUN+A3SG+PNON+NOM
+oluyorsunuz ol+VERB+POS+PROG1+A2PL
+? ?+PUNC
+</S>
+<S>
+Müzede müze+NOUN+A3SG+PNON+LOC
+gezerken gez+VERB+POS+AOR^DB+ADV+WHILE
+sayısız sayısız+ADJ
+fotoğraf fotoğraf+NOUN+A3SG+PNON+NOM
+çekti çek+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Robotu robot+NOUN+A3SG+P3SG+NOM
+demonte demonte+NOUN+A3SG+PNON+NOM
+ettim et+VERB+POS+PAST+A1SG
+, ,+PUNC
+başka başka+ADJ
+türlü türlü+NOUN+A3SG+PNON+NOM
+taşınmazdı taşı+VERB^DB+VERB+PASS+NEG+AOR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Bizi biz+PRON+PERS+A1PL+PNON+ACC
+işimizde iş+NOUN+A3SG+P1PL+LOC
+gücümüzde gücü+NOUN+A3SG+P1PL+LOC
+serbest serbest+ADJ
+bırakmak bırak+VERB+POS^DB+NOUN+INF+A3SG+PNON+NOM
+şöyle şöyle+ADV
+dursun dur+VERB+POS+IMP+A3SG
+, ,+PUNC
+çoluk çocuk+NOUN+A3SG+PNON+NOM
+çocuğumuzun çocuk+NOUN+A3SG+P1PL+GEN
+nafakasına nafaka+NOUN+A3SG+P3SG+DAT
+el el+NOUN+A3SG+PNON+NOM
+koydular koy+VERB+POS+PAST+A3PL
+. .+PUNC
+</S>
+<S>
+Sizler siz+PRON+PERS+A2PL+PNON+NOM
+için için+POSTP+PCNOM
+en en+ADV
+yeni yeni+ADJ
+ürünleri ürün+NOUN+A3PL+P3SG+NOM
+getirdik getir+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Adam adam+NOUN+A3SG+PNON+NOM
+, ,+PUNC
+diğer diğer+ADJ
+dövüşçüyü dövüşçü+NOUN+A3SG+PNON+ACC
+kafakola kafakol+NOUN+A3SG+PNON+DAT
+alıyordu al+VERB+POS+PROG1+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Krupiye krupiye+NOUN+A3SG+PNON+NOM
+kâğıt kâğıt+NOUN+A3SG+PNON+NOM
+açtı aç+VERB+POS+PAST+A3SG
+, ,+PUNC
+oynamaya oyna+VERB+POS^DB+NOUN+INF2+A3SG+PNON+DAT
+başladık başla+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Ayaklarını ayakla+VERB+POS+AOR^DB+ADJ+ZERO^DB+NOUN+ZERO+A3SG+P3SG+ACC
+boşluğa boşluk+NOUN+A3SG+PNON+DAT
+savururken savur+VERB+POS+AOR^DB+ADV+WHILE
+küçük küçük+ADJ
+dolap dolap+NOUN+A3SG+PNON+NOM
+gürültüyle gürültü+NOUN+A3SG+PNON+INS
+yıkıldı yık+VERB^DB+VERB+PASS+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Saçları saç+NOUN+A3PL+P3SG+NOM
+savrulurcasına savrul+VERB+POS+AOR+A3SG^DB+ADV+ASIF
+uçuyor uç+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+Deniz deniz+NOUN+A3SG+PNON+NOM
+kaynıyor kayna+VERB+POS+PROG1+A3SG
+. .+PUNC
+</S>
+<S>
+İpek ipek+NOUN+A3SG+PNON+NOM
+gibi gibi+POSTP+PCNOM
+saçları saç+NOUN+A3PL+P3SG+NOM
+birdenbire birdenbire+ADV
+yelelenirdi yelelen+VERB+POS+AOR+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+Sular sula+VERB+POS+AOR^DB+ADJ+ZERO
+indi in+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>
+<S>
+İki iki+NUM+CARD
+kız kız+ADJ
+kardeş kardeş+NOUN+A3SG+PNON+NOM
+güle gül+NOUN+A3SG+PNON+DAT
+söyleye söyle+VERB+POS+OPT+A3SG
+sofralarını sofra+NOUN+A3PL+P3SG+ACC
+hazırlayıp hazırla+VERB+POS^DB+ADV+AFTERDOINGSO
+yemeklerini yemek+NOUN+A3SG+P3PL+ACC
+kotardılar kotar+VERB+POS+PAST+A3PL
+. .+PUNC
+</S>
+<S>
+Hele hele+CONJ
+dur dur+VERB+POS+IMP+A2SG
+öfkemi öfke+NOUN+A3SG+P1SG+ACC
+tekmilleyeyim tekmille+VERB+POS+OPT+A1SG
+. .+PUNC
+</S>
+<S>
+Tatil tatil+NOUN+A3SG+PNON+NOM
+için için+POSTP+PCNOM
+tüm tüm+DET
+hazırlıkları hazırlık+NOUN+A3PL+P3SG+NOM
+tamamladık tamamla+VERB+POS+PAST+A1PL
+. .+PUNC
+</S>
+<S>
+Tüm tüm+DET
+tekerler teker+NOUN+A3PL+PNON+NOM
+sonuna son+NOUN+A3SG+P3SG+DAT
+kadar kadar+POSTP+PCDAT
+şişti şiş+VERB+POS+PAST+A3SG
+. .+PUNC
+</S>

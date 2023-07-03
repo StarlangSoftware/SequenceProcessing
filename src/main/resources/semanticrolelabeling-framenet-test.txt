@@ -1,0 +1,1877 @@
+<S>
+Başına Phenomenon$Cause_To_Perceive$TUR10-0801330
+gelenler Phenomenon$Cause_To_Perceive$TUR10-0801330
+onu Perceiver$Cause_To_Perceive$TUR10-0801330
+uyandırabildi PREDICATE$NONE$TUR10-0801330
+. NONE
+</S>
+<S>
+Çok Reason$Expulse$TUR10-1161210
+kızgındı Reason$Expulse$TUR10-1161210
+, NONE
+çalışanını Expulsed$Expulse$TUR10-1161210
+kovdu PREDICATE$NONE$TUR10-1161210
+. NONE
+</S>
+<S>
+Kavgadan Circumstances$Change_Direction$TUR10-1186130
+sonra Circumstances$Change_Direction$TUR10-1186130
+sevgilisini Theme$Change_Direction$TUR10-1186130
+yoldan PREDICATE$NONE$TUR10-1186130
+çevirdi PREDICATE$NONE$TUR10-1186130
+. NONE
+</S>
+<S>
+Alkolün Explanation$Change_Direction$TUR10-1193600
+etkisiyle Explanation$Change_Direction$TUR10-1193600
+eve Direction$Change_Direction$TUR10-1193600
+kadar Direction$Change_Direction$TUR10-1193600
+zikzak PREDICATE$NONE$TUR10-1193600
+yaptı PREDICATE$NONE$TUR10-1193600
+. NONE
+</S>
+<S>
+Her Theme$Change_Direction$TUR10-1205490
+şeyi Theme$Change_Direction$TUR10-1205490
+eski Direction$Change_Direction$TUR10-1205490
+haline Direction$Change_Direction$TUR10-1205490
+geri PREDICATE$NONE$TUR10-1205490
+getirdik PREDICATE$NONE$TUR10-1205490
+. NONE
+</S>
+<S>
+Ustanın Place$Change_Direction$TUR10-1242710
+evinden Place$Change_Direction$TUR10-1242710
+yana Direction$Change_Direction$TUR10-1242710
+saptı PREDICATE$NONE$TUR10-1242710
+. NONE
+</S>
+<S>
+Fabrika Theme$Procurance$TUR10-0705890
+çalışanlarını Theme$Procurance$TUR10-0705890
+sömürmekte PREDICATE$NONE$TUR10-0705890
+üstüne NONE
+yoktu NONE
+. NONE
+</S>
+<S>
+İngiltere Agent$Procurance$TUR10-0705900
+, NONE
+Hindistan'ı Theme$Procurance$TUR10-0705900
+uzun Duration$Procurance$TUR10-0705900
+seneler Duration$Procurance$TUR10-0705900
+sömürdü PREDICATE$NONE$TUR10-0705900
+. NONE
+</S>
+<S>
+Seçimlerde Place$Procurance$TUR10-0660770
+Ankara'yı Theme$Procurance$TUR10-0660770
+salladı PREDICATE$NONE$TUR10-0660770
+. NONE
+</S>
+<S>
+Çocukları Circumstances$Categorization$TUR10-0949620
+arasında Circumstances$Categorization$TUR10-0949620
+hiçbir Time$Categorization$TUR10-0949620
+zaman Time$Categorization$TUR10-0949620
+ayrım PREDICATE$NONE$TUR10-0949620
+yapmamıştır PREDICATE$NONE$TUR10-0949620
+. NONE
+</S>
+<S>
+Yola Activity$Activity_Prepare$TUR10-0185150
+davranın PREDICATE$NONE$TUR10-0185150
+haydi NONE
+oğlum NONE
+, NONE
+işimiz NONE
+çok NONE
+daha NONE
+. NONE
+</S>
+<S>
+Herkes NONE
+hakkında NONE
+laf NONE
+çıkarır NONE
+, NONE
+bu NONE
+yüzden NONE
+kimse NONE
+tarafından NONE
+sevilmezdi NONE
+. NONE
+</S>
+<S>
+Veli NONE
+toplantısında NONE
+öğretmen NONE
+, NONE
+pek NONE
+çok NONE
+şeyi NONE
+sınıf NONE
+aleyhine NONE
+söyledi NONE
+. NONE
+</S>
+<S>
+Tasarım Explanation$Earnings_And_Losses$TUR10-0929010
+departmanının Explanation$Earnings_And_Losses$TUR10-0929010
+bütçesinde Explanation$Earnings_And_Losses$TUR10-0929010
+açık Explanation$Earnings_And_Losses$TUR10-0929010
+var Explanation$Earnings_And_Losses$TUR10-0929010
+, NONE
+başka Place$Earnings_And_Losses$TUR10-0929010
+bir Place$Earnings_And_Losses$TUR10-0929010
+departmandan Place$Earnings_And_Losses$TUR10-0929010
+buraya Place$Earnings_And_Losses$TUR10-0929010
+aktarma PREDICATE$NONE$TUR10-0929010
+yapmalıyız PREDICATE$NONE$TUR10-0929010
+. NONE
+</S>
+<S>
+Ablam Earner$Earnings_And_Losses$TUR10-0146950
+cüzdanını Earnings$Earnings_And_Losses$TUR10-0146950
+çaldırmış PREDICATE$NONE$TUR10-0146950
+, NONE
+çok NONE
+üzgündü NONE
+. NONE
+</S>
+<S>
+Telefonunu Earnings$Earnings_And_Losses$TUR10-0152360
+çarptırmış PREDICATE$NONE$TUR10-0152360
+, NONE
+ağlıyordu NONE
+. NONE
+</S>
+<S>
+Şirket Explanation$Earnings_And_Losses$TUR10-1053440
+olarak Explanation$Earnings_And_Losses$TUR10-1053440
+daha Explanation$Earnings_And_Losses$TUR10-1053440
+fazla Explanation$Earnings_And_Losses$TUR10-1053440
+dayanamayacağız Explanation$Earnings_And_Losses$TUR10-1053440
+, NONE
+iflas PREDICATE$NONE$TUR10-1053440
+bayrağını PREDICATE$NONE$TUR10-1053440
+çekeceğim PREDICATE$NONE$TUR10-1053440
+. NONE
+</S>
+<S>
+Harçlığın Earnings$Earnings_And_Losses$TUR10-1117160
+çok NONE
+herhalde NONE
+, NONE
+savurdun PREDICATE$NONE$TUR10-1117160
+durdun NONE
+. NONE
+</S>
+<S>
+Çatıya Purpose$Frugality$TUR10-0327650
+yeni Purpose$Frugality$TUR10-0327650
+kiremit Purpose$Frugality$TUR10-0327650
+almak Purpose$Frugality$TUR10-0327650
+için Purpose$Frugality$TUR10-0327650
+maaşını Resource$Frugality$TUR10-0327650
+harcadı PREDICATE$NONE$TUR10-0327650
+. NONE
+</S>
+<S>
+Ağır NONE
+sözler NONE
+sarf PREDICATE$NONE$TUR10-1061220
+etti PREDICATE$NONE$TUR10-1061220
+. NONE
+</S>
+<S>
+Biraz NONE
+saf NONE
+, NONE
+her Frequency$Commerce_Pay$TUR10-1070530
+seferinde Frequency$Commerce_Pay$TUR10-1070530
+kapıyı PREDICATE$NONE$TUR10-1070530
+büyük PREDICATE$NONE$TUR10-1070530
+açar PREDICATE$NONE$TUR10-1070530
+. NONE
+</S>
+<S>
+Kendine NONE
+her Frequency$Commerce_Pay$TUR10-1096020
+ay Frequency$Commerce_Pay$TUR10-1096020
+masraf PREDICATE$NONE$TUR10-1096020
+kapısı PREDICATE$NONE$TUR10-1096020
+açıyor PREDICATE$NONE$TUR10-1096020
+. NONE
+</S>
+<S>
+Bunun NONE
+huyu NONE
+bu NONE
+, NONE
+hep Frequency$Commerce_Pay$TUR10-0972740
+bol PREDICATE$NONE$TUR10-0972740
+doğrar PREDICATE$NONE$TUR10-0972740
+. NONE
+</S>
+<S>
+Bankaya NONE
+ikramiyesinin Rate$Commerce_Pay$TUR10-1160870
+yarı Rate$Commerce_Pay$TUR10-1160870
+parasını PREDICATE$NONE$TUR10-1160870
+yatırdı PREDICATE$NONE$TUR10-1160870
+. NONE
+</S>
+<S>
+Restoranda Place$Commerce_Pay$TUR10-0705580
+arkadaşlarım NONE
+beni NONE
+satınca NONE
+parayı Money$Commerce_Pay$TUR10-0705580
+söküldüm PREDICATE$NONE$TUR10-0705580
+. NONE
+</S>
+<S>
+Madam Buyer$Commerce_Pay$TUR10-1119700
+, NONE
+tablo Goods$Commerce_Pay$TUR10-1119700
+için Goods$Commerce_Pay$TUR10-1119700
+pey PREDICATE$NONE$TUR10-1119700
+sürdü PREDICATE$NONE$TUR10-1119700
+. NONE
+</S>
+<S>
+Sakat NONE
+yeğenine NONE
+aylık PREDICATE$NONE$TUR10-1093990
+bağladı PREDICATE$NONE$TUR10-1093990
+. NONE
+</S>
+<S>
+Derin Depictive$Game_Jargon$TUR10-1154140
+bir Depictive$Game_Jargon$TUR10-1154140
+nefes Depictive$Game_Jargon$TUR10-1154140
+alıp Depictive$Game_Jargon$TUR10-1154140
+H7'ye Venue$Game_Jargon$TUR10-1154140
+taş PREDICATE$NONE$TUR10-1154140
+sürdü PREDICATE$NONE$TUR10-1154140
+. NONE
+</S>
+<S>
+Tavlada Competition$Game_Jargon$TUR10-0810930
+öyle Depictive$Game_Jargon$TUR10-0810930
+bir Depictive$Game_Jargon$TUR10-0810930
+yendim PREDICATE$NONE$TUR10-0810930
+ki NONE
+, NONE
+iki NONE
+saat NONE
+benimle NONE
+konuşmadı NONE
+. NONE
+</S>
+<S>
+Tüm NONE
+paraları NONE
+ben Player_1$Game_Jargon$TUR10-0863920
+yuttum PREDICATE$NONE$TUR10-0863920
+. NONE
+</S>
+<S>
+Gazetecileri NONE
+dahi NONE
+başbakanın NONE
+yanına NONE
+yaklaştırmadılar NONE
+. NONE
+</S>
+<S>
+Eskiden NONE
+bu NONE
+bölgede NONE
+eşkıyalar NONE
+yol PREDICATE$NONE$TUR10-1186310
+keserdi PREDICATE$NONE$TUR10-1186310
+. NONE
+</S>
+<S>
+Mürebbiyeden NONE
+duyduklarını NONE
+aklının PREDICATE$NONE$TUR10-0928030
+bir PREDICATE$NONE$TUR10-0928030
+köşesine PREDICATE$NONE$TUR10-0928030
+yazdı PREDICATE$NONE$TUR10-0928030
+. NONE
+</S>
+<S>
+Şoför Cognizer$Remembering_Information$TUR10-1160500
+adamı NONE
+görür NONE
+görmez NONE
+teşhis PREDICATE$NONE$TUR10-1160500
+etti PREDICATE$NONE$TUR10-1160500
+. NONE
+</S>
+<S>
+Kral Agent$Cause_Motion$TUR10-0304100
+soytarıyı Theme$Cause_Motion$TUR10-0304100
+gönderdi PREDICATE$NONE$TUR10-0304100
+. NONE
+</S>
+<S>
+Annesinden Source$Cause_To_Move_In_Place$TUR10-0368030
+aldığı Patient$Cause_To_Move_In_Place$TUR10-0368030
+şekeri Patient$Cause_To_Move_In_Place$TUR10-0368030
+komşuya Destination$Cause_To_Move_In_Place$TUR10-0368030
+iletti PREDICATE$NONE$TUR10-0368030
+. NONE
+</S>
+<S>
+İlk NONE
+tanıştığımız NONE
+günden NONE
+beri NONE
+bana NONE
+karşı NONE
+gösterdiği NONE
+yakınlıkla NONE
+gönlünü NONE
+çelmişti NONE
+. NONE
+</S>
+<S>
+Sermayeyi PREDICATE$NONE$TUR10-1132340
+doğrulttu PREDICATE$NONE$TUR10-1132340
+, NONE
+işler NONE
+iyiydi NONE
+. NONE
+</S>
+<S>
+Artık NONE
+bu NONE
+işin NONE
+tadı PREDICATE$NONE$TUR10-1149150
+kaçtı PREDICATE$NONE$TUR10-1149150
+. NONE
+</S>
+<S>
+Patronumun NONE
+takdirini PREDICATE$NONE$TUR10-1150160
+kazandım PREDICATE$NONE$TUR10-1150160
+. NONE
+</S>
+<S>
+Bu NONE
+malzemeler NONE
+turfa PREDICATE$NONE$TUR10-1164640
+oldu PREDICATE$NONE$TUR10-1164640
+. NONE
+</S>
+<S>
+Alakasız NONE
+sorular NONE
+sorarak NONE
+vakit PREDICATE$NONE$TUR10-1172400
+kazanıyordum PREDICATE$NONE$TUR10-1172400
+. NONE
+</S>
+<S>
+İnsanların NONE
+gözünde NONE
+büyük NONE
+bir NONE
+yara PREDICATE$NONE$TUR10-1178210
+aldım PREDICATE$NONE$TUR10-1178210
+. NONE
+</S>
+<S>
+Çıkan NONE
+yangından NONE
+sonra NONE
+fabrika NONE
+zayiat PREDICATE$NONE$TUR10-1192270
+verdi PREDICATE$NONE$TUR10-1192270
+. NONE
+</S>
+<S>
+Bütün NONE
+kazancını NONE
+zayi PREDICATE$NONE$TUR10-1192290
+etmişti PREDICATE$NONE$TUR10-1192290
+. NONE
+</S>
+<S>
+Bu NONE
+kazak NONE
+çok NONE
+eskimiş NONE
+, NONE
+rengini PREDICATE$NONE$TUR10-1197150
+yitirmiş PREDICATE$NONE$TUR10-1197150
+. NONE
+</S>
+<S>
+Artık NONE
+umudunu NONE
+kaybetti NONE
+, NONE
+hiçbir NONE
+şey NONE
+düzelmeyecekti NONE
+. NONE
+</S>
+<S>
+Sattıklarından NONE
+oldukça NONE
+büyük NONE
+bir NONE
+kar PREDICATE$NONE$TUR10-1207090
+elde PREDICATE$NONE$TUR10-1207090
+etmişti PREDICATE$NONE$TUR10-1207090
+. NONE
+</S>
+<S>
+Hiçbirimizi NONE
+dinlemiyor NONE
+, NONE
+parasını PREDICATE$NONE$TUR10-1116910
+sokağa PREDICATE$NONE$TUR10-1116910
+atıyor PREDICATE$NONE$TUR10-1116910
+. NONE
+</S>
+<S>
+Sıcak PREDICATE$NONE$TUR10-1133730
+bastı PREDICATE$NONE$TUR10-1133730
+yine NONE
+, NONE
+yaz NONE
+ayları NONE
+hiç NONE
+çekilmiyor NONE
+. NONE
+</S>
+<S>
+Çok NONE
+soğuk PREDICATE$NONE$TUR10-1138090
+çıktı PREDICATE$NONE$TUR10-1138090
+, NONE
+kalın NONE
+giyin NONE
+. NONE
+</S>
+<S>
+Bunu Firearm$Shooting_Scenario$TUR10-0618990
+senin Goal$Shooting_Scenario$TUR10-0618990
+kafanda Goal$Shooting_Scenario$TUR10-0618990
+patlatırsam PREDICATE$NONE$TUR10-0618990
+, NONE
+dünya NONE
+kaç NONE
+bucak NONE
+görürsün NONE
+. NONE
+</S>
+<S>
+Annesine NONE
+bile NONE
+hakaret NONE
+ettiğini NONE
+görünce NONE
+ondan NONE
+tamamen NONE
+iğrendim NONE
+. NONE
+</S>
+<S>
+Onun NONE
+yaptığı NONE
+yemekten NONE
+bile NONE
+iğreniyorum NONE
+. NONE
+</S>
+<S>
+Kısa NONE
+bir NONE
+yazı NONE
+bile NONE
+yazsa NONE
+öpüp NONE
+başına NONE
+koyar NONE
+. NONE
+</S>
+<S>
+Tool'un NONE
+yıllar NONE
+sonra NONE
+gelen NONE
+albümü NONE
+hepimizin NONE
+çok NONE
+hoşuna NONE
+gitti NONE
+. NONE
+</S>
+<S>
+Teyzeme NONE
+ne NONE
+getirsek NONE
+beğenmeyip NONE
+kötümsüyor NONE
+. NONE
+</S>
+<S>
+Türkiye Competitor$Win_Prize$TUR10-0896130
+, NONE
+yarışmada Competition$Win_Prize$TUR10-0896130
+finale PREDICATE$NONE$TUR10-0896130
+kaldı PREDICATE$NONE$TUR10-0896130
+. NONE
+</S>
+<S>
+Dondurma Patient$Change_Of_Phase$TUR10-1197770
+sıvılaştı PREDICATE$NONE$TUR10-1197770
+. NONE
+</S>
+<S>
+Süt NONE
+ürünlerine NONE
+zam PREDICATE$NONE$TUR10-1191790
+gelmiş PREDICATE$NONE$TUR10-1191790
+. NONE
+</S>
+<S>
+Bütün NONE
+ürünler NONE
+zam PREDICATE$NONE$TUR10-1191810
+gördü PREDICATE$NONE$TUR10-1191810
+. NONE
+</S>
+<S>
+Artık NONE
+kâr NONE
+edemiyorum NONE
+, NONE
+zam PREDICATE$NONE$TUR10-1191830
+yapacağım PREDICATE$NONE$TUR10-1191830
+. NONE
+</S>
+<S>
+Uğultular NONE
+hızla PREDICATE$NONE$TUR10-1196950
+çoğaldı PREDICATE$NONE$TUR10-1196950
+. NONE
+</S>
+<S>
+Bu Attribute$Change_Position_On_A_Scale$TUR10-1197690
+krizden Attribute$Change_Position_On_A_Scale$TUR10-1197690
+olabilecek Attribute$Change_Position_On_A_Scale$TUR10-1197690
+zararı Attribute$Change_Position_On_A_Scale$TUR10-1197690
+asgariye PREDICATE$NONE$TUR10-1197690
+indirdik PREDICATE$NONE$TUR10-1197690
+. NONE
+</S>
+<S>
+Kursa Attribute$Change_Position_On_A_Scale$TUR10-1242350
+gelen Attribute$Change_Position_On_A_Scale$TUR10-1242350
+öğrencilerin Attribute$Change_Position_On_A_Scale$TUR10-1242350
+sayısı Attribute$Change_Position_On_A_Scale$TUR10-1242350
+epey Degree$Change_Position_On_A_Scale$TUR10-1242350
+arttı PREDICATE$NONE$TUR10-1242350
+. NONE
+</S>
+<S>
+Eski NONE
+müdürün NONE
+postuna PREDICATE$NONE$TUR10-1121080
+oturdu PREDICATE$NONE$TUR10-1121080
+. NONE
+</S>
+<S>
+Yeni NONE
+kral NONE
+tahta PREDICATE$NONE$TUR10-1149040
+çıktı PREDICATE$NONE$TUR10-1149040
+. NONE
+</S>
+<S>
+Cenazeden NONE
+yeni NONE
+dönmüştük NONE
+, NONE
+artık NONE
+başsız NONE
+kalmıştık NONE
+, NONE
+babam NONE
+yoktu NONE
+. NONE
+</S>
+<S>
+Salona NONE
+girdiğimde NONE
+kumandayı NONE
+kurcalıyordu NONE
+. NONE
+</S>
+<S>
+Ne NONE
+diye NONE
+karıştırıyorsun NONE
+o NONE
+çekmeceyi NONE
+? NONE
+</S>
+<S>
+Otlar NONE
+saçlarını NONE
+okşuyordu NONE
+. NONE
+</S>
+<S>
+Bir NONE
+elektrik NONE
+zilinin NONE
+düğmesine NONE
+dokunduk NONE
+. NONE
+</S>
+<S>
+O NONE
+kadar NONE
+dibime NONE
+girdi NONE
+ki NONE
+, NONE
+kolu NONE
+koluma NONE
+değiyordu NONE
+. NONE
+</S>
+<S>
+Şu NONE
+gülü NONE
+bir NONE
+koklasan NONE
+... NONE
+</S>
+<S>
+İki NONE
+köpek NONE
+, NONE
+parkta NONE
+koklaşıyordu NONE
+. NONE
+</S>
+<S>
+Uzun NONE
+oturmayacağım NONE
+, NONE
+sadece NONE
+hemen NONE
+havayı NONE
+koklayacağım NONE
+. NONE
+</S>
+<S>
+Erkekler NONE
+bütün NONE
+gün NONE
+bahçelerinde NONE
+bağ NONE
+budar NONE
+, NONE
+gül NONE
+aşılar NONE
+, NONE
+kirizma PREDICATE$NONE$TUR10-1082350
+yaparlar PREDICATE$NONE$TUR10-1082350
+. NONE
+</S>
+<S>
+Balık NONE
+ağı NONE
+ördük PREDICATE$NONE$TUR10-0605070
+burada NONE
+. NONE
+</S>
+<S>
+Gümüş NONE
+malzemeleri NONE
+savatlatıyor PREDICATE$NONE$TUR10-0669150
+. NONE
+</S>
+<S>
+Kesilen NONE
+hayvanların NONE
+postları NONE
+burada NONE
+tabaklanır PREDICATE$NONE$TUR10-1257990
+. NONE
+</S>
+<S>
+Tarlalarımızı NONE
+bu NONE
+sene NONE
+tırmıklatmadık PREDICATE$NONE$TUR10-0775380
+. NONE
+</S>
+<S>
+Dün Topic$Cogitation$TUR10-1193540
+söylediklerine Topic$Cogitation$TUR10-1193540
+zihni PREDICATE$NONE$TUR10-1193540
+takıldı PREDICATE$NONE$TUR10-1193540
+. NONE
+</S>
+<S>
+Nereye Topic$Cogitation$TUR10-1085770
+gideceğini Topic$Cogitation$TUR10-1085770
+koyu PREDICATE$NONE$TUR10-1085770
+koyu PREDICATE$NONE$TUR10-1085770
+düşünüyordu PREDICATE$NONE$TUR10-1085770
+. NONE
+</S>
+<S>
+Beş Activity$Activity_Ongoing$TUR10-1169880
+dakikalık Activity$Activity_Ongoing$TUR10-1169880
+işi Activity$Activity_Ongoing$TUR10-1169880
+uzun PREDICATE$NONE$TUR10-1169880
+etti PREDICATE$NONE$TUR10-1169880
+. NONE
+</S>
+<S>
+Eski NONE
+çağlardan NONE
+birçok Agent$Activity_Ongoing$TUR10-0290400
+anıt Agent$Activity_Ongoing$TUR10-0290400
+çağımıza Time$Activity_Ongoing$TUR10-0290400
+kadar Time$Activity_Ongoing$TUR10-0290400
+gelmiştir PREDICATE$NONE$TUR10-0290400
+. NONE
+</S>
+<S>
+Öfkeleri Process$Process_Stop$TUR10-0706110
+bir Depictive$Process_Stop$TUR10-0706110
+yaz Depictive$Process_Stop$TUR10-0706110
+fırtınası Depictive$Process_Stop$TUR10-0706110
+gibi Depictive$Process_Stop$TUR10-0706110
+birdenbire Manner$Process_Stop$TUR10-0706110
+sönüverdi PREDICATE$NONE$TUR10-0706110
+. NONE
+</S>
+<S>
+Kargaşa Process$Process_Stop$TUR10-0841240
+büyük Degree$Process_Stop$TUR10-0841240
+ölçüde Degree$Process_Stop$TUR10-0841240
+yatıştı PREDICATE$NONE$TUR10-0841240
+. NONE
+</S>
+<S>
+Gördüklerim Item$Telling$TUR10-1155540
+binbir NONE
+çeşit NONE
+uğursuzluğa NONE
+delalet PREDICATE$NONE$TUR10-1155540
+ediyormuş PREDICATE$NONE$TUR10-1155540
+. NONE
+</S>
+<S>
+Bana NONE
+onun Item$Telling$TUR10-1159360
+hakkında Item$Telling$TUR10-1159360
+düşündüklerini Item$Telling$TUR10-1159360
+terennüm PREDICATE$NONE$TUR10-1159360
+etti PREDICATE$NONE$TUR10-1159360
+. NONE
+</S>
+<S>
+Yaşlı Speaker$Telling$TUR10-1157700
+kadın Speaker$Telling$TUR10-1157700
+torununun Item$Telling$TUR10-1157700
+davranışlarından Item$Telling$TUR10-1157700
+memnun Item$Telling$TUR10-1157700
+olmadığını Item$Telling$TUR10-1157700
+kızına NONE
+telmih PREDICATE$NONE$TUR10-1157700
+etti PREDICATE$NONE$TUR10-1157700
+. NONE
+</S>
+<S>
+Yetkililer NONE
+yoğun NONE
+kar NONE
+yağışı NONE
+beklediklerini NONE
+ifade PREDICATE$NONE$TUR10-1053340
+etti PREDICATE$NONE$TUR10-1053340
+. NONE
+</S>
+<S>
+Köylüler Cognizer$Coming_To_Believe$TUR10-1155120
+olacakları Content$Coming_To_Believe$TUR10-1155120
+bir Depictive$Coming_To_Believe$TUR10-1155120
+bir Depictive$Coming_To_Believe$TUR10-1155120
+tayin PREDICATE$NONE$TUR10-1155120
+etti PREDICATE$NONE$TUR10-1155120
+. NONE
+</S>
+<S>
+Bebekler Cognizer$Awareness$TUR10-0103820
+bu Time$Awareness$TUR10-0103820
+yaşlarda Time$Awareness$TUR10-0103820
+bilinçlenir PREDICATE$NONE$TUR10-0103820
+. NONE
+</S>
+<S>
+Herif Agent$Forward_Motion$TUR10-0054030
+çoktan Time$Forward_Motion$TUR10-0054030
+aşmış PREDICATE$NONE$TUR10-0054030
+. NONE
+</S>
+<S>
+Norveçli Agent$Forward_Motion$TUR10-0395860
+koşucu Agent$Forward_Motion$TUR10-0395860
+rakiplerinden Source$Forward_Motion$TUR10-0395860
+hızla Speed$Forward_Motion$TUR10-0395860
+kaçtı PREDICATE$NONE$TUR10-0395860
+ve NONE
+arayı NONE
+açtı NONE
+. NONE
+</S>
+<S>
+Ziver Agent$Forward_Motion$TUR10-1148770
+canı Depictive$Forward_Motion$TUR10-1148770
+çok Depictive$Forward_Motion$TUR10-1148770
+yanmışçasına Depictive$Forward_Motion$TUR10-1148770
+tabanları PREDICATE$NONE$TUR10-1148770
+kaldırdı PREDICATE$NONE$TUR10-1148770
+heyecanla Depictive$Forward_Motion$TUR10-1148770
+. NONE
+</S>
+<S>
+Yarışta Place$Forward_Motion$TUR10-0478490
+diğer Theme$Forward_Motion$TUR10-0478490
+koşucuyu Theme$Forward_Motion$TUR10-0478490
+kovaladım PREDICATE$NONE$TUR10-0478490
+ama NONE
+işe NONE
+yaramadı NONE
+. NONE
+</S>
+<S>
+Bir Time$Forward_Motion$TUR10-0395720
+tehlike Time$Forward_Motion$TUR10-0395720
+sezdiğin Time$Forward_Motion$TUR10-0395720
+anda Time$Forward_Motion$TUR10-0395720
+hemen Time$Forward_Motion$TUR10-0395720
+eve Path$Forward_Motion$TUR10-0395720
+kaçarsın PREDICATE$NONE$TUR10-0395720
+. NONE
+</S>
+<S>
+Ali Agent$Forward_Motion$TUR10-1119050
+çocuk Manner$Forward_Motion$TUR10-1119050
+gibi Manner$Forward_Motion$TUR10-1119050
+perendeler PREDICATE$NONE$TUR10-1119050
+atıyor PREDICATE$NONE$TUR10-1119050
+otlarla NONE
+, NONE
+yamaçlarla NONE
+sarmaş NONE
+dolaş NONE
+oluyordu NONE
+. NONE
+</S>
+<S>
+Takla PREDICATE$NONE$TUR10-0914150
+attım PREDICATE$NONE$TUR10-0914150
+hemen Result$Forward_Motion$TUR10-0914150
+belim Result$Forward_Motion$TUR10-0914150
+ağrıdı Result$Forward_Motion$TUR10-0914150
+. NONE
+</S>
+<S>
+Kar Source$Forward_Motion$TUR10-1175170
+sayesinde Source$Forward_Motion$TUR10-1175170
+kızak Theme$Forward_Motion$TUR10-1175170
+yağ PREDICATE$NONE$TUR10-1175170
+gibi PREDICATE$NONE$TUR10-1175170
+kayıyordu PREDICATE$NONE$TUR10-1175170
+. NONE
+</S>
+<S>
+Gemi Theme$Forward_Motion$TUR10-0375750
+baş Depictive$Forward_Motion$TUR10-0375750
+döndüren Depictive$Forward_Motion$TUR10-0375750
+zaferli Depictive$Forward_Motion$TUR10-0375750
+bir Depictive$Forward_Motion$TUR10-0375750
+gürültüyle Depictive$Forward_Motion$TUR10-0375750
+indi PREDICATE$NONE$TUR10-0375750
+sulara Path$Forward_Motion$TUR10-0375750
+... NONE
+</S>
+<S>
+Minibüs Theme$Forward_Motion$TUR10-1081250
+kızak PREDICATE$NONE$TUR10-1081250
+yapmıştı PREDICATE$NONE$TUR10-1081250
+ama NONE
+işe NONE
+yaramamıştı NONE
+. NONE
+</S>
+<S>
+Kırmızı Agent$Forward_Motion$TUR10-0890960
+balıklar Agent$Forward_Motion$TUR10-0890960
+birdenbire NONE
+canlanırlar NONE
+ve NONE
+kavanozun Place$Forward_Motion$TUR10-0890960
+içinde Place$Forward_Motion$TUR10-0890960
+birbiri Path$Forward_Motion$TUR10-0890960
+ardınca Path$Forward_Motion$TUR10-0890960
+keyifli Depictive$Forward_Motion$TUR10-0890960
+keyifli Depictive$Forward_Motion$TUR10-0890960
+çark PREDICATE$NONE$TUR10-0890960
+çevirirler PREDICATE$NONE$TUR10-0890960
+hep Time$Forward_Motion$TUR10-0890960
+. NONE
+</S>
+<S>
+Bir Source$Forward_Motion$TUR10-0901980
+taş Source$Forward_Motion$TUR10-0901980
+merdivenden Source$Forward_Motion$TUR10-0901980
+çıkıp Source$Forward_Motion$TUR10-0901980
+içeriye PREDICATE$NONE$TUR10-0901980
+dalıyorlardı PREDICATE$NONE$TUR10-0901980
+. NONE
+</S>
+<S>
+Kapıdakiler Time$Forward_Motion$TUR10-0901985
+bakmazken Time$Forward_Motion$TUR10-0901985
+içeriye PREDICATE$NONE$TUR10-0901985
+daldılar PREDICATE$NONE$TUR10-0901985
+. NONE
+</S>
+<S>
+Hızla Speed$Forward_Motion$TUR10-0181200
+içeri Direction$Forward_Motion$TUR10-0181200
+daldı PREDICATE$NONE$TUR10-0181200
+, NONE
+mumun NONE
+başında NONE
+duran NONE
+adama NONE
+doğru NONE
+iki NONE
+adım NONE
+attı NONE
+. NONE
+</S>
+<S>
+Ördek Agent$Forward_Motion$TUR10-1119910
+, NONE
+gördüğümde Time$Forward_Motion$TUR10-1119910
+pike PREDICATE$NONE$TUR10-1119910
+yapıyordu PREDICATE$NONE$TUR10-1119910
+. NONE
+</S>
+<S>
+O Theme$Forward_Motion$TUR10-0181190
+çirkin Theme$Forward_Motion$TUR10-0181190
+, NONE
+kaba Theme$Forward_Motion$TUR10-0181190
+kunduralarla Theme$Forward_Motion$TUR10-0181190
+sıcak Time$Forward_Motion$TUR10-0181190
+günde Time$Forward_Motion$TUR10-0181190
+serin Path$Forward_Motion$TUR10-0181190
+denize Path$Forward_Motion$TUR10-0181190
+daldım PREDICATE$NONE$TUR10-0181190
+ve NONE
+rahatladım Result$Forward_Motion$TUR10-0181190
+. NONE
+</S>
+<S>
+Araba Theme$Forward_Motion$TUR10-0105090
+, NONE
+duramayınca Time$Forward_Motion$TUR10-0105090
+diğer Goal$Forward_Motion$TUR10-0105090
+arabaya Goal$Forward_Motion$TUR10-0105090
+bindirmişti PREDICATE$NONE$TUR10-0105090
+. NONE
+</S>
+<S>
+Genç Agent$Forward_Motion$TUR10-1191820
+adam Agent$Forward_Motion$TUR10-1191820
+, NONE
+iskeleden Source$Forward_Motion$TUR10-1191820
+zamkinos PREDICATE$NONE$TUR10-1191820
+etmişti PREDICATE$NONE$TUR10-1191820
+. NONE
+</S>
+<S>
+Karşı Cause$Change_Event_Duration$TUR10-1172400
+tarafı Cause$Change_Event_Duration$TUR10-1172400
+lafa Cause$Change_Event_Duration$TUR10-1172400
+tutarak Cause$Change_Event_Duration$TUR10-1172400
+biraz NONE
+vakit PREDICATE$NONE$TUR10-1172400
+kazandı PREDICATE$NONE$TUR10-1172400
+. NONE
+</S>
+<S>
+Aceleye Explanation$Change_Event_Duration$TUR10-1174050
+gerek Explanation$Change_Event_Duration$TUR10-1174050
+yok Explanation$Change_Event_Duration$TUR10-1174050
+biraz Degree$Change_Event_Duration$TUR10-1174050
+vites PREDICATE$NONE$TUR10-1174050
+küçültelim PREDICATE$NONE$TUR10-1174050
+. NONE
+</S>
+<S>
+Tavuğu Food$Apply_Heat$TUR10-0811070
+ütüledim PREDICATE$NONE$TUR10-0811070
+, NONE
+şimdi Time$Apply_Heat$TUR10-0811070
+kızartabiliriz NONE
+. NONE
+</S>
+<S>
+Eskiden Time$Apply_Heat$TUR10-0178550
+yaraları NONE
+dikmek NONE
+yerine NONE
+dağlarlarmış PREDICATE$NONE$TUR10-0178550
+. NONE
+</S>
+<S>
+Çayın Food$Apply_Heat$TUR10-0434320
+suyu Food$Apply_Heat$TUR10-0434320
+kaynamış PREDICATE$NONE$TUR10-0434320
+, NONE
+demlesene NONE
+. NONE
+</S>
+<S>
+Çorbayı Food$Apply_Heat$TUR10-0629660
+resmen NONE
+yakmışsın PREDICATE$NONE$TUR10-0629660
+, NONE
+içilmiyor NONE
+. NONE
+</S>
+<S>
+Vaktimiz NONE
+dar NONE
+olduğu NONE
+için NONE
+çalışamalara NONE
+hemen NONE
+start NONE
+verdik NONE
+. NONE
+</S>
+<S>
+Aysu NONE
+Hanım NONE
+toplantıyı NONE
+bir NONE
+konuşma NONE
+ile NONE
+açacak NONE
+. NONE
+</S>
+<S>
+Her NONE
+gece NONE
+şölenler NONE
+düzenliyor NONE
+, NONE
+çalgıcılar NONE
+davet NONE
+ediyor NONE
+, NONE
+millete Benefactor$Frugality_Money$TUR10-1042620
+hacıağalık PREDICATE$NONE$TUR10-1042620
+ediyordu PREDICATE$NONE$TUR10-1042620
+. NONE
+</S>
+<S>
+Doğum NONE
+günü NONE
+hediyesi NONE
+olarak NONE
+alınan NONE
+oyuncaklar Theme$Abandonment$TUR10-0969870
+bir PREDICATE$NONE$TUR10-0969870
+kenara PREDICATE$NONE$TUR10-0969870
+atılmıştı PREDICATE$NONE$TUR10-0969870
+. NONE
+</S>
+<S>
+O NONE
+da NONE
+herkes NONE
+gibi NONE
+bir NONE
+insan NONE
+, NONE
+nihayetinde NONE
+bu Theme$Abandonment$TUR10-0940560
+gizemli Theme$Abandonment$TUR10-0940560
+davadan Theme$Abandonment$TUR10-0940560
+yoruldu Explanation$Abandonment$TUR10-0940560
+ve NONE
+arkasını PREDICATE$NONE$TUR10-0940560
+bıraktı PREDICATE$NONE$TUR10-0940560
+. NONE
+</S>
+<S>
+Eskişehir NONE
+öyle NONE
+soğuk NONE
+ki NONE
+, NONE
+insanın NONE
+iliğine NONE
+işliyor NONE
+. NONE
+</S>
+<S>
+Ankara'da NONE
+resmen NONE
+ayaz NONE
+kesiyor NONE
+, NONE
+hiç NONE
+alışkın NONE
+değilim NONE
+. NONE
+</S>
+<S>
+Dışarıya NONE
+çıktığımda NONE
+soğuktan NONE
+resmen NONE
+kıkırdıyordum NONE
+. NONE
+</S>
+<S>
+Soba NONE
+yanmıyordu NONE
+, NONE
+tir NONE
+tir NONE
+titriyordum NONE
+. NONE
+</S>
+<S>
+Çok NONE
+üşüdüm NONE
+, NONE
+üzerime NONE
+ne NONE
+giysem NONE
+de NONE
+ısınamadım NONE
+. NONE
+</S>
+<S>
+Bugünü NONE
+kendime NONE
+tatil PREDICATE$NONE$TUR10-1154280
+ettim PREDICATE$NONE$TUR10-1154280
+. NONE
+</S>
+<S>
+Evin Patient$Change_Resistance$TUR10-1118300
+tüm Patient$Change_Resistance$TUR10-1118300
+duvarlarını Patient$Change_Resistance$TUR10-1118300
+payandaladık PREDICATE$NONE$TUR10-1118300
+. NONE
+</S>
+<S>
+En NONE
+sevdiği NONE
+şeylerden NONE
+biri NONE
+gölde NONE
+yüzmekti NONE
+. NONE
+</S>
+<S>
+Kilisedeki Place$Cause_Change$TUR10-1149730
+birbirinden NONE
+güzel NONE
+freskleri Entity$Cause_Change$TUR10-1149730
+tahrif PREDICATE$NONE$TUR10-1149730
+etmişler PREDICATE$NONE$TUR10-1149730
+. NONE
+</S>
+<S>
+Bu NONE
+sayede NONE
+nitelikli Student$Education_Teaching$TUR10-0852650
+nesiller Student$Education_Teaching$TUR10-0852650
+yetişmiştir PREDICATE$NONE$TUR10-0852650
+. NONE
+</S>
+<S>
+Biz Student$Education_Teaching$TUR10-0104210
+bu Subject$Education_Teaching$TUR10-0104210
+konuyu Subject$Education_Teaching$TUR10-0104210
+biliştik PREDICATE$NONE$TUR10-0104210
+. NONE
+</S>
+<S>
+Ne Time$Hindering$TUR10-1194110
+zaman Time$Hindering$TUR10-1194110
+bir Time$Hindering$TUR10-1194110
+işe Time$Hindering$TUR10-1194110
+kalkışsa Time$Hindering$TUR10-1194110
+ailesi Hinderer$Hindering$TUR10-1194110
+zorluk PREDICATE$NONE$TUR10-1194110
+çıkarırdı PREDICATE$NONE$TUR10-1194110
+. NONE
+</S>
+<S>
+Sırtüstü PREDICATE$NONE$TUR10-1135820
+yatmak PREDICATE$NONE$TUR10-1135820
+omurga NONE
+sağlığı NONE
+açısından NONE
+oldukça NONE
+önemlidir NONE
+. NONE
+</S>
+<S>
+Adamın NONE
+köpeği NONE
+ileride NONE
+susta PREDICATE$NONE$TUR10-1143380
+duruyor PREDICATE$NONE$TUR10-1143380
+. NONE
+</S>
+<S>
+Küçük NONE
+köpek NONE
+sustaya PREDICATE$NONE$TUR10-1143410
+kalktı PREDICATE$NONE$TUR10-1143410
+. NONE
+</S>
+<S>
+Salona NONE
+girdiğimde NONE
+kardeşim NONE
+uzun PREDICATE$NONE$TUR10-1169930
+oturuyordu PREDICATE$NONE$TUR10-1169930
+. NONE
+</S>
+<S>
+Öyle NONE
+yorgundum NONE
+ki NONE
+koltuğa NONE
+geçip NONE
+uzun PREDICATE$NONE$TUR10-1169940
+oturdum PREDICATE$NONE$TUR10-1169940
+. NONE
+</S>
+<S>
+Çok NONE
+çalışmış NONE
+bugün NONE
+, NONE
+vurup PREDICATE$NONE$TUR10-1174540
+kafayı PREDICATE$NONE$TUR10-1174540
+uyudu PREDICATE$NONE$TUR10-1174540
+. NONE
+</S>
+<S>
+Yer PREDICATE$NONE$TUR10-1183570
+öpmek PREDICATE$NONE$TUR10-1183570
+yaşına NONE
+hiç NONE
+yakıştırmadığı NONE
+bir NONE
+şeydi NONE
+. NONE
+</S>
+<S>
+Babasının NONE
+karşısında NONE
+yüz PREDICATE$NONE$TUR10-1190360
+sürdü PREDICATE$NONE$TUR10-1190360
+. NONE
+</S>
+<S>
+Rıhtımdaki NONE
+gemi NONE
+resmen NONE
+yana PREDICATE$NONE$TUR10-1205280
+yatmış PREDICATE$NONE$TUR10-1205280
+. NONE
+</S>
+<S>
+Buralar Patient$Change_Of_Consistency$TUR10-0782620
+topraklaşmış PREDICATE$NONE$TUR10-0782620
+artık Manner$Change_Of_Consistency$TUR10-0782620
+. NONE
+</S>
+<S>
+Beklemekten Explanation$Change_Of_Consistency$TUR10-0783780
+tortulanmış PREDICATE$NONE$TUR10-0783780
+. NONE
+</S>
+<S>
+Eski Patient$Change_Of_Consistency$TUR10-0783850
+kayaçlar Patient$Change_Of_Consistency$TUR10-0783850
+tortullaşmış PREDICATE$NONE$TUR10-0783850
+. NONE
+</S>
+<S>
+Dokununca Explanation$Change_Of_Consistency$TUR10-0784400
+dağılıp Explanation$Change_Of_Consistency$TUR10-0784400
+tozlaştı PREDICATE$NONE$TUR10-0784400
+. NONE
+</S>
+<S>
+Bu Patient$Change_Of_Consistency$TUR10-0799830
+sivilce Patient$Change_Of_Consistency$TUR10-0799830
+sanki Manner$Change_Of_Consistency$TUR10-0799830
+urlaşıyor PREDICATE$NONE$TUR10-0799830
+. NONE
+</S>
+<S>
+Kayalıklar Patient$Change_Of_Consistency$TUR10-0860480
+yosunlanmış PREDICATE$NONE$TUR10-0860480
+. NONE
+</S>
+<S>
+Kazandığı Theme$Deprive$TUR10-1193140
+paradan Theme$Deprive$TUR10-1193140
+en Patient$Deprive$TUR10-1193140
+yakınlarına Patient$Deprive$TUR10-1193140
+bile Patient$Deprive$TUR10-1193140
+zırnık PREDICATE$NONE$TUR10-1193140
+vermedi PREDICATE$NONE$TUR10-1193140
+. NONE
+</S>
+<S>
+Ali NONE
+güvenilirdir NONE
+, NONE
+borcunu NONE
+bilir NONE
+. NONE
+</S>
+<S>
+Banka NONE
+bana NONE
+bir NONE
+kredi NONE
+açtı NONE
+. NONE
+</S>
+<S>
+Güveniniz NONE
+için NONE
+teşekkür NONE
+ederim NONE
+ama NONE
+ben NONE
+bu NONE
+projeyi NONE
+kotaramam PREDICATE$NONE$TUR10-0478280
+. NONE
+</S>
+<S>
+Almazlandım PREDICATE$NONE$TUR10-0933850
+gerçi NONE
+ama NONE
+üsteleyip NONE
+elime NONE
+para NONE
+bile NONE
+sıkıştırdı NONE
+. NONE
+</S>
+<S>
+Gole Opponent$Sports_Jargon$TUR10-1148760
+giden Opponent$Sports_Jargon$TUR10-1148760
+rakibini Opponent$Sports_Jargon$TUR10-1148760
+engellemek Function$Sports_Jargon$TUR10-1148760
+için NONE
+taban PREDICATE$NONE$TUR10-1148760
+girdi PREDICATE$NONE$TUR10-1148760
+. NONE
+</S>
+<S>
+Karşı Athlete$Sports_Jargon$TUR10-0955770
+takım Athlete$Sports_Jargon$TUR10-0955770
+pasları Function$Sports_Jargon$TUR10-0955770
+engellemek Function$Sports_Jargon$TUR10-0955770
+için NONE
+sürekli Manner$Sports_Jargon$TUR10-0955770
+baskı PREDICATE$NONE$TUR10-0955770
+yaptı PREDICATE$NONE$TUR10-0955770
+. NONE
+</S>
+<S>
+Micheal Athlete$Sports_Jargon$TUR10-1121300
+Jordan Athlete$Sports_Jargon$TUR10-1121300
+final Competition$Sports_Jargon$TUR10-1121300
+maçında Competition$Sports_Jargon$TUR10-1121300
+her Manner$Sports_Jargon$TUR10-1121300
+zamankinden Manner$Sports_Jargon$TUR10-1121300
+daha Manner$Sports_Jargon$TUR10-1121300
+çok Manner$Sports_Jargon$TUR10-1121300
+pres PREDICATE$NONE$TUR10-1121300
+yaptı PREDICATE$NONE$TUR10-1121300
+. NONE
+</S>
+<S>
+Jordan Athlete$Sports_Jargon$TUR10-0623610
+rakibini Opponent$Sports_Jargon$TUR10-0623610
+perdeleyerek PREDICATE$NONE$TUR10-0623610
+skorun Result$Sports_Jargon$TUR10-0623610
+eşitlenmesine Result$Sports_Jargon$TUR10-0623610
+izin Result$Sports_Jargon$TUR10-0623610
+vermedi Result$Sports_Jargon$TUR10-0623610
+. NONE
+</S>
+<S>
+Devre Time$Sports_Jargon$TUR10-0913420
+arasından Time$Sports_Jargon$TUR10-0913420
+sonra Time$Sports_Jargon$TUR10-0913420
+yeniden Manner$Sports_Jargon$TUR10-0913420
+rövanşı PREDICATE$NONE$TUR10-0913420
+aldı PREDICATE$NONE$TUR10-0913420
+. NONE
+</S>
+<S>
+Jokey Athlete$Sports_Jargon$TUR10-0896600
+, NONE
+yarışmada Competition$Sports_Jargon$TUR10-0896600
+galop PREDICATE$NONE$TUR10-0896600
+yaptı PREDICATE$NONE$TUR10-0896600
+. NONE
+</S>
+<S>
+Tam Time$Sports_Jargon$TUR10-0955530
+maç Time$Sports_Jargon$TUR10-0955530
+bitecekken Time$Sports_Jargon$TUR10-0955530
+yeniden Manner$Sports_Jargon$TUR10-0955530
+basket PREDICATE$NONE$TUR10-0955530
+yaptı PREDICATE$NONE$TUR10-0955530
+. NONE
+</S>
+<S>
+Güveniniz NONE
+için NONE
+teşekkür NONE
+ederim NONE
+ama NONE
+ben Agent$Activity_Done$TUR10-0478280
+bu Activity$Activity_Done$TUR10-0478280
+projeyi Activity$Activity_Done$TUR10-0478280
+kotaramam PREDICATE$NONE$TUR10-0478280
+. NONE
+</S>
+<S>
+Yarışmada Containing_event$Success_Or_Failure$TUR10-0031280
+çok Circumstances$Success_Or_Failure$TUR10-0031280
+kötü Circumstances$Success_Or_Failure$TUR10-0031280
+şekilde Circumstances$Success_Or_Failure$TUR10-0031280
+mağlup PREDICATE$NONE$TUR10-0031280
+oldum PREDICATE$NONE$TUR10-0031280
+. NONE
+</S>
+<S>
+Seçimler Ground$Scrunity$TUR10-1103900
+için Ground$Scrunity$TUR10-1103900
+halkın Ground$Scrunity$TUR10-1103900
+nabzını PREDICATE$NONE$TUR10-1103900
+tutuyor PREDICATE$NONE$TUR10-1103900
+. NONE
+</S>
+<S>
+Şişelerden Purpose$Attaching$TUR10-0686580
+yağ Purpose$Attaching$TUR10-0686580
+akmasın Purpose$Attaching$TUR10-0686580
+diye Purpose$Attaching$TUR10-0686580
+iyice Manner$Attaching$TUR10-0686580
+sıktı PREDICATE$NONE$TUR10-0686580
+. NONE
+</S>
+<S>
+Adaptörleri Items$Attaching$TUR10-0819780
+vidaladık PREDICATE$NONE$TUR10-0819780
+, NONE
+bu NONE
+sayede NONE
+çalıştı NONE
+. NONE
+</S>
+<S>
+Naneleri NONE
+kurutmaya NONE
+tevessül NONE
+edecekti NONE
+. NONE
+</S>
+<S>
+Bir NONE
+hastalık NONE
+geldi NONE
+köye NONE
+. NONE
+</S>
+<S>
+Annesine Instrument$Cause_Emotion$TUR10-0900020
+aldığı Instrument$Cause_Emotion$TUR10-0900020
+hediyelerle Instrument$Cause_Emotion$TUR10-0900020
+ona Experiencer$Cause_Emotion$TUR10-0900020
+haz PREDICATE$NONE$TUR10-0900020
+verdi PREDICATE$NONE$TUR10-0900020
+. NONE
+</S>
+<S>
+Bu Time$Commerce_Sell$TUR10-0620250
+yıl Time$Commerce_Sell$TUR10-0620250
+7 Unit$Commerce_Sell$TUR10-0620250
+- NONE
+8 Unit$Commerce_Sell$TUR10-0620250
+bin Unit$Commerce_Sell$TUR10-0620250
+tona Unit$Commerce_Sell$TUR10-0620250
+yakın Unit$Commerce_Sell$TUR10-0620250
+sebzemizi Goods$Commerce_Sell$TUR10-0620250
+bu Place$Commerce_Sell$TUR10-0620250
+halde Place$Commerce_Sell$TUR10-0620250
+pazarladık PREDICATE$NONE$TUR10-0620250
+. NONE
+</S>
+<S>
+Altın Goods$Commerce_Sell$TUR10-0299160
+, NONE
+100 Money$Commerce_Sell$TUR10-0299160
+liradan Money$Commerce_Sell$TUR10-0299160
+gidiyor PREDICATE$NONE$TUR10-0299160
+. NONE
+</S>
+<S>
+Anne Benefactor$Cause_Benefit_Or_Detriment$TUR10-0752680
+tavşan Benefactor$Cause_Benefit_Or_Detriment$TUR10-0752680
+yavrularını Beneficiary$Cause_Benefit_Or_Detriment$TUR10-0752680
+çaldığı Means$Cause_Benefit_Or_Detriment$TUR10-0752680
+marulla Means$Cause_Benefit_Or_Detriment$TUR10-0752680
+besledi PREDICATE$NONE$TUR10-0752680
+. NONE
+</S>
+<S>
+Yediği Benefactor$Cause_Benefit_Or_Detriment$TUR10-0835440
+organik Benefactor$Cause_Benefit_Or_Detriment$TUR10-0835440
+gıdalar Benefactor$Cause_Benefit_Or_Detriment$TUR10-0835440
+çocuğa Beneficiary$Cause_Benefit_Or_Detriment$TUR10-0835440
+yaradı PREDICATE$NONE$TUR10-0835440
+. NONE
+</S>
+<S>
+Aldığı Benefactor$Cause_Benefit_Or_Detriment$TUR10-0872790
+eğitimlerden Benefactor$Cause_Benefit_Or_Detriment$TUR10-0872790
+edindiği Benefactor$Cause_Benefit_Or_Detriment$TUR10-0872790
+bilgi Benefactor$Cause_Benefit_Or_Detriment$TUR10-0872790
+adamı Beneficiary$Cause_Benefit_Or_Detriment$TUR10-0872790
+iş Domain$Cause_Benefit_Or_Detriment$TUR10-0872790
+hayatında Domain$Cause_Benefit_Or_Detriment$TUR10-0872790
+zenginleştirdi PREDICATE$NONE$TUR10-0872790
+. NONE
+</S>
+<S>
+Çok NONE
+sürmez NONE
+, NONE
+her NONE
+şey NONE
+düzelir NONE
+. NONE
+</S>
+<S>
+Bugünlük Duration$Activity_Pause$TUR10-0907210
+kepenkleri PREDICATE$NONE$TUR10-0907210
+indirdik PREDICATE$NONE$TUR10-0907210
+. NONE
+</S>
+<S>
+Sonunda Time$Cognitive_Comprehension$TUR10-1135410
+o Cognizant$Cognitive_Comprehension$TUR10-1135410
+da Cognizant$Cognitive_Comprehension$TUR10-1135410
+sırra PREDICATE$NONE$TUR10-1135410
+erdi PREDICATE$NONE$TUR10-1135410
+. NONE
+</S>
+<S>
+Sonunda Time$Cognitive_Comprehension$TUR10-0037550
+herkes Cognizant$Cognitive_Comprehension$TUR10-0037550
+gerginliğin Concept$Cognitive_Comprehension$TUR10-0037550
+sebebini Concept$Cognitive_Comprehension$TUR10-0037550
+iyice Degree$Cognitive_Comprehension$TUR10-0037550
+anladı PREDICATE$NONE$TUR10-0037550
+. NONE
+</S>
+<S>
+Bu NONE
+dosyayı NONE
+yanıma NONE
+alıp NONE
+uzun NONE
+uzun NONE
+incelemeliyim NONE
+. NONE
+</S>
+<S>
+Önceden NONE
+haber NONE
+vermedikleri NONE
+için NONE
+konuşmacılar NONE
+sahnede NONE
+emprovizasyon NONE
+yaptı NONE
+. NONE
+</S>
+<S>
+Birilerini NONE
+rahatsız NONE
+etmiş NONE
+ki NONE
+çok Time$Coming_Up_With$TUR10-0994220
+geçmeden Time$Coming_Up_With$TUR10-0994220
+onun NONE
+da NONE
+çukurunu PREDICATE$NONE$TUR10-0994220
+kazdılar PREDICATE$NONE$TUR10-0994220
+. NONE
+</S>
+<S>
+Yan NONE
+odadan NONE
+bir NONE
+tıkırtı NONE
+duydum NONE
+. NONE
+</S>
+<S>
+Nihal Experiencer$Worry$TUR10-0914020
+sevgilisinin Topic$Worry$TUR10-0914020
+sadakatinden Topic$Worry$TUR10-0914020
+şüpheleniyordu PREDICATE$NONE$TUR10-0914020
+. NONE
+</S>
+<S>
+Arsen Experiencer$Worry$TUR10-0231210
+Hanım Experiencer$Worry$TUR10-0231210
+yalnızca Manner$Worry$TUR10-0231210
+erkek Topic$Worry$TUR10-0231210
+kardeşinin Topic$Worry$TUR10-0231210
+sağlığı Topic$Worry$TUR10-0231210
+için NONE
+endişeleniyordu PREDICATE$NONE$TUR10-0231210
+. NONE
+</S>
+<S>
+Kardeşine NONE
+ayıp NONE
+ettin NONE
+, NONE
+sana NONE
+teessüf NONE
+ederim NONE
+. NONE
+</S>
+<S>
+En NONE
+son NONE
+bütün NONE
+bu NONE
+olanlar NONE
+yüzünden NONE
+ablasına NONE
+demediğini NONE
+bırakmadı NONE
+. NONE
+</S>
+<S>
+Kötü NONE
+eleştirenlerin NONE
+hepsine NONE
+ağzının NONE
+payını NONE
+verdi NONE
+. NONE
+</S>
+<S>
+Ben NONE
+arkadaşını NONE
+bilmem NONE
+, NONE
+seni NONE
+bilirim NONE
+. NONE
+</S>
+<S>
+İş NONE
+yerindeki NONE
+herkes NONE
+ayağına NONE
+çelme NONE
+taktı NONE
+. NONE
+</S>
+<S>
+Lütfen NONE
+devam NONE
+edin NONE
+, NONE
+sizi NONE
+işinizden NONE
+alıkoymayayım NONE
+. NONE
+</S>
+<S>
+Emniyet NONE
+kemerini NONE
+tak NONE
+, NONE
+arabayı Device$Change_Operational_State$TUR10-1174030
+vitese PREDICATE$NONE$TUR10-1174030
+tak PREDICATE$NONE$TUR10-1174030
+, NONE
+hazırsın NONE
+. NONE
+</S>
+<S>
+Çok NONE
+hızlı NONE
+gidiyorsun NONE
+, NONE
+vitesi PREDICATE$NONE$TUR10-1174040
+küçült PREDICATE$NONE$TUR10-1174040
+. NONE
+</S>
+<S>
+Arsaya Property$Claim_Ownership$TUR10-0472140
+konmuş PREDICATE$NONE$TUR10-0472140
+. NONE
+</S>
+<S>
+Alıcının Goods$Carry_Goods$TUR10-0625990
+istediği Goods$Carry_Goods$TUR10-0625990
+aracı Goods$Carry_Goods$TUR10-0625990
+peyledik PREDICATE$NONE$TUR10-0625990
+. NONE
+</S>
+<S>
+Araba NONE
+geriye NONE
+doğru NONE
+patinaj NONE
+yaptı NONE
+. NONE
+</S>
+<S>
+Kaptan NONE
+, NONE
+gemiyi NONE
+ağzına NONE
+kadar NONE
+doldurmuş NONE
+, NONE
+gemi NONE
+yan NONE
+yatmış NONE
+, NONE
+bir NONE
+deniz NONE
+çalkantısıyla NONE
+alabora NONE
+olmuş NONE
+. NONE
+</S>
+<S>
+Çarpışan NONE
+arabalar NONE
+durmaksızın NONE
+yanlıyordu NONE
+. NONE
+</S>
+<S>
+Yürürken NONE
+bir NONE
+anda NONE
+ayağımı NONE
+burktum NONE
+. NONE
+</S>
+<S>
+Sapanı NONE
+fırıldattı NONE
+, NONE
+taşı NONE
+saldı NONE
+. NONE
+</S>
+<S>
+Aşırı NONE
+sıcaklar NONE
+demiri NONE
+büktü NONE
+. NONE
+</S>
+<S>
+Trafik NONE
+kazasından NONE
+sonra NONE
+ayağını NONE
+alamıyordu NONE
+. NONE
+</S>
+<S>
+Tüm NONE
+dosyaları NONE
+tamladı NONE
+ve NONE
+çıktı NONE
+. NONE
+</S>
+<S>
+Çok NONE
+şükür NONE
+şu NONE
+inşaatın NONE
+da NONE
+arkasını NONE
+aldık NONE
+. NONE
+</S>
+<S>
+Satış NONE
+işini NONE
+en NONE
+kısa NONE
+sürede NONE
+pişirip NONE
+kotarmalısın NONE
+. NONE
+</S>
+<S>
+Bunlar Old_size$Change_Size$TUR10-0425550
+da Old_size$Change_Size$TUR10-0425550
+artık Time$Change_Size$TUR10-0425550
+kasıyor PREDICATE$NONE$TUR10-0425550
+, NONE
+değiştirebiliriz NONE
+. NONE
+</S>

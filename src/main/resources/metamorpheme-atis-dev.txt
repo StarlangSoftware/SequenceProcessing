@@ -1,0 +1,6006 @@
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Atlanta'ya atlanta+'yA
+25 25
+Nisan'da nisan+'DA
+kalkan kalk+yAn
+ve ve
+6 6
+Mayıs'ta mayıs+'DA
+dönen dön+yAn
+en en
+ucuz ucuz
+uçuşu uç+yHs+yH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Memphis'ten memphis+'DAn
+Seattle'ye seattle+'yA
+en en
+geç geç
+akşam akşam
+saat saat
+3'te 3+'+DA
+varacak var+yAcAk
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Bana ben+yA
+gelecek gel+yAcAk
+salı salı
+kalkan kalk+yAn
+ve ve
+ertesi ertesi
+gün gün
+dönen dön+yAn
+Chicago'dan chicago+'DAn
+Detroit'e detroit+'yA
+gidiş git+yHs
+dönüş dön+yHs
+uçuşlarını uç+yHs+lAr+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+yemek yemek
+için için
+d d+yH
+s s+yH
+ne ne
+anlama anlam+yA
+geliyor gel+Hyor
+</S>
+<S>
+Bana ben+yA
+Atlanta'dan atlanta+'DAn
+Denver'e denver+'yA
+yarından yarın+DAn
+sonraki sonraki
+gün gün
+saat saat
+5'ten 5+'+DAn
+sonra sonra
+kalkan kalk+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh'a pittsburgh+'yA
+olan ol+yAn
+hangi hangi
+uçuş uç+yHs
+sabah sabah
+en en
+erken erken
+gelir gel+Hr
+</S>
+<S>
+New new
+York'tan york+'DAn
+Montreal montreal
+Kanada'ya kanada+'yA
+Çarşamba çarşamba
+günü gün+sH
+kalkan kalk+yAn
+uçuşların uç+yHs+lAr+nHn
+listesini liste+sH+nH
+alabilir al+yAbil+Hr
+miyim mi+yHm
+</S>
+<S>
+Pazartesi pazartesi
+günleri gün+lAr+sH
+olan ol+yAn
+kule kule
+hava hava
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+US us
+Air air
+ile ile
+Washington washington
+DC'de dc+'DA
+mola mola
+vererek ver+yArAk
+Toronto'dan toronto+'DAn
+San san
+Diego'ya diego+'yA
+giden git+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+görüntüleyin görüntüle+yHn
+</S>
+<S>
+Kısıtlama kısıtlama
+Ap57 Ap57
+nedir ne+DHr
+</S>
+<S>
+Denver denver
+Colorado'da colorado+'DA
+kara kara
+taşımacılığı taşımacılık+sH
+ile ile
+ilgili ilgili
+bilgiye bilgi+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+22 22
+Mayıs mayıs
+Cumartesi cumartesi
+günü gün+sH
+Kansas kansas
+City'den city+'DAn
+Burbank'a burbank+'yA
+varan var+yAn
+aktarmasız aktarmasız
+uçuşlar uç+yHs+lAr
+nelerdir ne+lAr+DHr
+</S>
+<S>
+1 1
+Haziran haziran
+öğleden öğle+DAn
+sonrası sonra+sH
+için için
+Los los
+Angeles'ten angeles+'DAn
+Pittsburgh'a pittsburgh+'yA
+bir bir
+uçuş uç+yHs
+rezervasyonu rezervasyon+yH
+yapmak yap+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+yemek yemek
+kodu kod+sH
+sb sb+yH
+nedir ne+DHr
+</S>
+<S>
+Ve ve
+şimdi şimdi
+bana ben+yA
+gece gece
+geç geç
+saatlerde saat+lAr+DA
+Boston'a boston+'yA
+gidebileceğim git+yAbil+yAcAk+yHm
+kara kara
+ulaşımını ulaşım+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Bana ben+yA
+Atlanta'dan atlanta+'DAn
+Oakland'a oakland+'yA
+öğleden öğle+DAn
+sonra sonra
+kalkan kalk+yAn
+ve ve
+öğleden öğle+DAn
+sonra sonra
+430 430
+- -
+630 630
+arasında ara+sH+nDA
+varan var+yAn
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+Bana ben+yA
+akşam akşam
+4'ten 4+'+DAn
+sonra sonra
+Dallas'tan dallas+'DAn
+kalkan kalk+yAn
+Dallas dallas
+- -
+San san
+Francisco francisco
+arası ara+sH
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Bana ben+yA
+Washington washington
+DC'deki dc+'DA+ki
+tüm tüm
+kara kara
+ulaşımını ulaşım+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Bana ben+yA
+Baltimore'den baltimore+'DAn
+Dallas'a dallas+'yA
+olan ol+yAn
+ekonomi ekonomi
+sınıfı sınıf+sH
+uçuşları uç+yHs+lAr+sH
+gösterebilir göster+yAbil+Hr
+misiniz mi+SHnHz
+</S>
+<S>
+10 10
+- -
+2 2
+arası ara+sH
+Pittsburgh'tan pittsburgh+'DAn
+Baltimore'ye baltimore+'yA
+olan ol+yAn
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Tampa'dan tampa+'DAn
+Milwaukee'ye milwaukee+'yA
+Amerikan amerikan
+811 811
+uçuşunda uç+yHs+sH+nDA
+hangi hangi
+yemekler yemek+lAr
+servis servis
+edilir et+Hl+Hr
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+gitmem git+mA+Hm
+gerekiyor gerek+Hyor
+ve ve
+aynı aynı
+gün gün
+geri geri
+dönmem dön+mA+Hm
+gerekiyor gerek+Hyor
+Bana ben+yA
+Boston'dan boston+'DAn
+en en
+erken erken
+uçuşu uç+yHs+sH
+bulun bul+Hn
+</S>
+<S>
+Orlando'ya orlando+'yA
+Houston'dan houston+'DAn
+gelen gel+yAn
+en en
+erken erken
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+Chicago'dan chicago+'DAn
+Kansas kansas
+City'e city+'yA
+önümüzdeki ön+HmHz+DA+ki
+Perşembe perşembe
+akşam akşam
+7:00 7:00
+civarında civar+sH+nDA
+varan var+yAn
+uçuşlar uç+yHs+lAr
+için için
+birinci bir+HncH
+sınıf sınıf
+ve ve
+otobüs otobüs
+ücretleri ücret+lAr+sH
+nedir ne+DHr
+</S>
+<S>
+AP ap
+57 57
+ne ne
+anlama anlam+yA
+geliyor gel+Hyor
+</S>
+<S>
+AP ap
+57 57
+kısıtlamasını kısıtla+mA+sH+nH
+açıklayın açıkla+yHn
+</S>
+<S>
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+en en
+az az
+bir bir
+durakla durak+ylA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lütfen lütfen
+Ontario Ontario
+California'dan california+'DAn
+Orlando orlando
+Florida'ya florida+'yA
+olan ol+yAn
+en en
+kısa kısa
+tek tek
+aktarmalı aktar+mA+lH
+uçuşu uç+yHs+sH
+listeleyin listele+yHn
+</S>
+<S>
+Bana ben+yA
+önümüzdeki ön+HmHz+DA+ki
+Pazartesi pazartesi
+Atlanta'dan atlanta+'DAn
+kalkan kalk+yAn
+ve ve
+Charlotte charlotte
+Kuzey kuzey
+Carolina'ya carolina+'yA
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+söyleyin söyle+yHn
+Charlotte'ye charlotte+'yA
+akşam akşam
+415 415
+ile ile
+530 530
+arasında ara+sH+nDA
+varacak var+yAcAk
+uçuşları uç+yHs+lAr+sH
+bilmem bilme+Hm
+gerekiyor gerek+Hyor
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Charlotte charlotte
+North north
+Carolina'ya carolina+'yA
+önümüzdeki ön+HmHz+DA+ki
+Pazartesi pazartesi
+günü gün+sH
+kalkan kalk+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Bana ben+yA
+Dallas dallas
+Fort fort
+Worth Worth
+ile ile
+San san
+Francisco francisco
+veya veya
+Oakland oakland
+arasındaki ara+sH+nDA+ki
+akşam akşam
+5 5
+- -
+7 7
+saatleri saat+lAr+sH
+arasında ara+sH+nDA
+kalkan kalk+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+JFK'den jfk+'DAn
+Miami'ye miami+'yA
+olan ol+yAn
+Delta delta
+Havayolları havayol+lAr+sH
+uçuşlarını uç+yHs+lArH+nH
+gösterin göster+yHn
+</S>
+<S>
+SFO'dan sfo+'DAn
+Long long
+Beach'a beach+'yA
+olan ol+yAn
+tüm tüm
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+American american
+Havayolları'nda havayol+lArH+'nDA
+birinci bir+HncH
+sınıf sınıf
+uçuş uç+yHs
+sayısı sayı+sH
+kaçtır kaçtır
+</S>
+<S>
+US us
+Air air
+ile ile
+Orlando'dan orlando+'DAn
+Cleveland'a cleveland+'yA
+olan ol+yAn
+uçuşun uç+yHs+nHn
+numarasını numara+sH+nH
+bulmaya bul+mA+yA
+çalışıyorum çalış+Hyor+yHm
+ve ve
+saat saat
+10 10
+civarında civar+sH+nDA
+varıyor var+Hyor
+</S>
+<S>
+Boston'da boston+'DA
+kiralık kiralık
+arabalar araba+lAr
+</S>
+<S>
+Lütfen lütfen
+Pittsburgh'taki pittsburgh+'DA+ki
+kiralık kira+lHk
+araba araba
+bilgilerini bilgi+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+AP57 AP57
+kısıtlaması kısıtla+mA+sH
+nedir ne+DHr
+</S>
+<S>
+Atlanta'ya atlanta+'yA
+Boston'dan boston+'DAn
+4 4
+- -
+8 8
+saatleri saat+lAr+sH
+arasında ara+sH+nDA
+varan var+yAn
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Denver'e denver+'yA
+akşam akşam
+8 8
+- -
+9 9
+arasında ara+sH+nDA
+varan var+yAn
+her her
+tür tür
+uçakla uçak+ylA
+ilgili ilgili
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+American american
+Havayolları havayol+lAr+sH
+tarafından tarafından
+sağlanan sağla+n+yAn
+Atlanta atlanta
+ve ve
+DFW DFW
+uçuşları uç+yHs+lAr+sH
+için için
+ücretler ücret+lAr
+nelerdir ne+lAr+DHr
+</S>
+<S>
+Boston'dan boston+'DAn
+BWI'ye bwı+'yA
+öğle öğle
+yemeği yemek+sH
+servisi servis+sH
+yapan yap+yAn
+en en
+erken erken
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+America america
+West west
+Boston'dan boston+'DAn
+hangi hangi
+şehirlere şehir+lAr+yA
+birinci bir+HncH
+sınıf sınıf
+uçuyor uç+Hyor
+</S>
+<S>
+Northwest Northwest
+hangi hangi
+şehirlerden şehir+lAr+DAn
+uçuyor uç+Hyor
+</S>
+<S>
+Öğleden öğle+DAn
+sonra sonra
+12 12
+ile ile
+4 4
+arasında ara+sH+nDA
+Pittsburgh'tan pittsburgh+'DAn
+kalkan kalk+yAn
+tüm tüm
+US us
+Air air
+uçuşlarını uç+yHs+lAr+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Boston boston
+şehri şehir+sH
+için için
+limuzin limuzin
+ücretlerini ücret+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Atlanta atlanta
+Havaalanı'ndan havaalan+H+'nDAn
+şehir şehir
+merkezine merkez+sH+nA
+limuzinle limuzin+ylA
+gitmenin git+mA+nHn
+maliyeti maliyet+sH
+nedir ne+DHr
+</S>
+<S>
+Lütfen lütfen
+Dallas'tan dallas+'DAn
+Pittsburgh'a pittsburgh+'yA
+4 4
+Temmuz temmuz
+1991'deki 1991+'+DA+ki
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+11 11
+Kasım kasım
+1991 1991
+Pazartesi pazartesi
+Denver'den denver+'DAn
+Washington washington
+DC'ye DC'ye
+</S>
+<S>
+Bana ben+yA
+1 1
+Eylül eylül
+1991 1991
+için için
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+uçuşların uç+yHs+lAr+nHn
+listesini liste+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+United united
+Airlines'in airlines+'nHn
+Denver'den denver+'DAn
+Boston'a boston+'yA
+olan ol+yAn
+son son
+uçuşunun uç+yHs+sH+nHn
+kalkış kalk+yHs
+saati saat+sH
+nedir ne+DHr
+</S>
+<S>
+saat saat
+10'dan 10+'+DAn
+sonra sonra
+ve ve
+2'den 2+'+DAn
+önce önce
+olan ol+yAn
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+kalkış kalk+yHs
+saatlerini saat+lAr+Hn+yH
+listeleyin listele+yHn
+</S>
+<S>
+Lütfen lütfen
+Newark'tan newark+'DAn
+Boston'a boston+'yA
+uçuş uç+yHs
+saatlerini saat+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Washington washington
+DC'ye DC'ye
+sabah sabah
+kalkan kalk+yAn
+gidiş git+yHs
+dönüş dön+Hs
+bir bir
+yolculuğa yolculuk+yA
+ve ve
+ücretlerine ücret+lAr+Hn+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Dallas'a dallas+'yA
+12'den 12+'+DAn
+sonra sonra
+1100 1100
+dolardan dolar+DAn
+daha daha
+az az
+gidiş git+yHs
+dönüş dön+yHs
+tüm tüm
+uçuşlar uç+yHs+lAr
+ve ve
+ücretler ücret+lAr
+</S>
+<S>
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+ve ve
+ücretleri ücret+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+Mia mia
+nedir ne+DHr
+</S>
+<S>
+Ewr Ewr
+ne ne
+anlama anla+mA
+geliyor gel+Hyor
+</S>
+<S>
+Atlanta'ya atlanta+'yA
+ATL ATL
+kara kara
+taşımacılığı taşımacılık+sH
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+uçmak uç+mAk
+ne ne
+kadar kadar
+sürüyor sür+Hyor
+</S>
+<S>
+Toronto toronto
+Uluslararası uluslararası
+Havaalanı'ndan havaalan+H+'nDAn
+Toronto toronto
+şehir şehir
+merkezine merkez+sH+nA
+olan ol+yAn
+mesafeyi mesafe+yH
+mil mil
+cinsinden cins+sH+nDAn
+listeleyin listele+yHn
+</S>
+<S>
+Orlando orlando
+Havaalanı'ndan havaalan+H+'nDAn
+şehre şehir+yA
+olan ol+yAn
+mesafeyi mesafe+yH
+söyleyin söyle+yHn
+</S>
+<S>
+Denver'deki denver+'DA+ki
+havaalanının havaalan+H+nHn
+adı ad+sH
+ne ne
+</S>
+<S>
+Havaalanları havaalan+lAr+yH
+</S>
+<S>
+Boston'dan boston+'DAn
+Oakland'a oakland+'yA
+olan ol+yAn
+uçuşlar uç+yHs+lAr
+nerede nere+DA
+durur dur+Hr
+</S>
+<S>
+B b
+ücret ücret
+kodu kod+sH
+business business
+sınıfı sınıf+sH
+ile ile
+aynı aynı
+mı mı
+</S>
+<S>
+Akşam akşam
+San san
+Francisco'ya francisco+'yA
+Dallas'tan dallas+'DAn
+kalkan kalk+yAn
+iki iki
+American american
+Havayolları havayol+lAr+sH
+uçuşu uç+yHs+sH
+hangileri hangi+lArH
+</S>
+<S>
+Boston boston
+ve ve
+Denver denver
+arasında ara+sH+nDA
+Boston'a boston+'yA
+varmak var+mAk
+için için
+en en
+az az
+durak durak
+gerektiren gerek+DHr+yAn
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+General general
+Mitchell mitchell
+International'daki ınternational+'DA+ki
+tüm tüm
+inişleri in+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Bana ben+yA
+Love love
+Field'e field+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+Hangi hangi
+uçuşlar uç+yHs+lAr
+herhangi herhangi
+bir bir
+şehirden şehir+DAn
+General general
+Mitchell mitchell
+International'a ınternational+'yA
+iner in+Ar
+</S>
+<S>
+Bana ben+yA
+gidiş git+yHs
+dönüş dön+yHs
+466 466
+dolardan dolar+DAn
+daha daha
+az az
+olan ol+yAn
+Salı salı
+günü gün+sH
+New new
+York york
+- -
+Miami miami
+uçuşlarını uç+yHs+lAr+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Denver'e denver+'yA
+500 500
+doların dolar+nHn
+altında alt+sH+nDA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+Lütfen lütfen
+bana ben+yA
+Pittsburgh pittsburgh
+ve ve
+Denver denver
+arasındaki ara+sH+nDA+ki
+uçuş uç+yHs
+ücretlerini ücret+lAr+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Bana ben+yA
+Dallas'tan dallas+'DAn
+Baltimore'ye baltimore+'yA
+415 415
+dolarlık dolar+lHk
+uçuşları uç+yHs+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+M80 M80
+uçağının uçak+sH+nHn
+koltuk koltuk
+kapasitesi kapasite+sH
+nedir ne+DHr
+</S>
+<S>
+733 733
+uçağının uçak+sH+nHn
+koltuk koltuk
+kapasitesi kapasite+sH
+nedir ne+DHr
+</S>
+<S>
+757'nin 757+'+nHn
+koltuk koltuk
+kapasitesi kapasite+sH
+nedir ne+DHr
+</S>
+<S>
+M80 M80
+uçağındaki uçak+sH+nDA+ki
+oturma otur+mA
+kapasitesi kapasite+sH
+nedir ne+DHr
+</S>
+<S>
+Ekonomi ekonomi
+sınıfı sınıf+sH
+Kansas kansas
+City'den city+'DAn
+Las Las
+Vegas'a vegas+'yA
+</S>
+<S>
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+ekonomi ekonomi
+ücretlerini ücret+lAr+sH+nH
+görmek gör+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Atlanta'ya atlanta+'yA
+tek tek
+yön yön
+ekonomi ekonomi
+ücretlerini ücret+lAr+sH+nH
+gösterebilir göster+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+Üzgünüm üzgün+yHm
+TWA TWA
+ile ile
+uçmak uç+mAk
+istedim. istedim.
+TWA TWA
+ile ile
+Dallas dallas
+Fort fort
+Worth'da Worth'da
+mola mola
+olacak ol+yAcAk
+şekilde şekil+DA
+Oakland oakland
+ve ve
+Boston boston
+arasında ara+sH+nDA
+bir bir
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Tampa'dan tampa+'DAn
+Montreal'a montreal+'yA
+New new
+York'ta york+'DA
+mola mola
+veren ver+yAn
+ve ve
+öğle öğle
+yemeği yemek+sH
+servisi servis+sH
+yapan yap+yAn
+bir bir
+uçuş uç+yHs
+bulmak bul+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Fort fort
+Worth Worth
+Dallas'ta dallas+'DA
+mola mola
+veren ver+yAn
+Boston boston
+- -
+San san
+Francisco francisco
+uçuşunuz uçuş+yHnHz
+var var
+mı mı
+</S>
+<S>
+St. St.
+Louis'te louis+'DA
+mola mola
+veren ver+yAn
+ve ve
+akşam akşam
+yemeği yemek+sH
+servis servis
+eden et+yAn
+bir bir
+Charlotte charlotte
+- -
+Las Las
+Vegas vegas
+uçuşu uç+yHs+sH
+bulun bul+yHn
+ve ve
+bu bu
+uçuş uç+yHs
+için için
+havayolu havayol+H
+bulmak bul+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Atlanta'ya atlanta+'yA
+direkt direkt
+uçuşunuz uçuş+yHnHz
+var var
+mı mı
+</S>
+<S>
+7 7
+Mayıs'ta mayıs+'DA
+Atlanta'dan atlanta+'DAn
+Denver'e denver+'yA
+direkt direkt
+uçuşun uçuş+yHn
+ne ne
+kadar kadar
+olacağına ol+yAcAk+sH+nA
+bakalım bak+yA+lHm
+</S>
+<S>
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco+'yA
+saat saat
+4'ten 4+'+DAn
+sonra sonra
+kalkan kalk+yAn
+aktarmalı aktar+mA+lH
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Bana ben+yA
+sabah sabah
+10'da 10+'+DA
+Boston'dan boston+'DAn
+kalkan kalk+yAn
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+aktarmalı aktar+mA+lH
+uçuşun uçuş+yHn
+güzergahını güzergah+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+5 5
+Haziran'da haziran+'DA
+Chicago'dan chicago+'DAn
+Seattle'ye seattle+'yA
+olan ol+yAn
+bağlantılı bağlantı+lH
+uçuşlar uç+yHs+lAr
+nelerdir ne+lAr+DHr
+</S>
+<S>
+Bana ben+yA
+San san
+Francisco'dan francisco+'DAn
+Boston'a boston+'yA
+olan ol+yAn
+Cuma cuma
+sabah sabah
+uçuşlarını uç+yHs+lAr+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+sabah sabah
+erkenden erkenden
+kalkan kalk+yAn
+bir bir
+uçuşa uçuş+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Sabah sabah
+erkenden erkenden
+ayrılmak ayrıl+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Yarın yarın
+erken erken
+saatte saat+DA
+Columbus'tan columbus+'DAn
+Minneapolis'e minneapolis+'yA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+sabah sabah
+erkenden erkenden
+kalkan kalk+yAn
+TWA TWA
+uçuşunuz uçuş+yHnHz
+var var
+mı mı
+</S>
+<S>
+United united
+Airline'nin airline+'nHn
+Denver'den denver+'DAn
+Baltimore'ye baltimore+'yA
+olan ol+yAn
+günlük gün+lHk
+uçuşlarını uç+yHs+lAr+sH+nH
+birinci bir+HncH
+sınıf sınıf
+hizmetle hizmet+ylA
+listeleyin listele+yHn
+</S>
+<S>
+St. St.
+Louis'ten louis+'DAn
+Milwaukee'ye milwaukee+'yA
+günlük gün+lHk
+bir bir
+uçuşa uç+yHs+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Philadelphia philadelphia
+ve ve
+Pittsburgh pittsburgh
+arasında ara+sH+nDA
+günde gün+DA
+kaç kaç
+tane tane
+US us
+Air air
+uçuşu uç+yHs+sH
+var var
+</S>
+<S>
+Oakland oakland
+ve ve
+Salt salt
+Lake lake
+City city
+arasındaki ara+sH+nDA+ki
+en en
+son son
+günlük gün+lHk
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+2 2
+Mart'ta mart+'DA
+New new
+York'tan york+'DAn
+Las Las
+Vegas'a vegas+'yA
+aktarmasız aktarmasız
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+4 4
+Temmuz'da temmuz+'DA
+birinci bir+HncH
+sınıf sınıf
+United united
+Airlines airlines
+ile ile
+Denver'den denver+'DAn
+kalkan kalk+yAn
+ve ve
+Baltimore'ye baltimore+'yA
+varan var+yAn
+en en
+erken erken
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+Bana ben+yA
+Pittsburgh'tan pittsburgh+'DAn
+Baltimore'ye baltimore+'yA
+oraya oraya
+14 14
+Haziran'da haziran+'DA
+varan var+yAn
+uçuşları uç+yHs+lAr+sH
+gösterin göster+yHn
+</S>
+<S>
+1 1
+Mart'ta mart+'DA
+Dallas'tan dallas+'DAn
+Houston'a houston+'yA
+ilk ilk
+uçuşu uç+yHs+sH
+ve ve
+yine yine
+1 1
+Mart'ta mart+'DA
+Houston'dan houston+'DAn
+Dallas'a dallas+'yA
+son son
+uçuşu uç+yHs+sH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Delta delta
+Havayolları havayol+lAr+sH
+tarafından tarafından
+birinci bir+HncH
+sınıf sınıf
+uçuşlarla uç+yHs+lAr+ylA
+kaç kaç
+şehre şehir+yA
+hizmet hizmet
+verilmektedir ver+Hl+mAktA+DHr
+</S>
+<S>
+Delta'nın delta+'nHn
+kaç kaç
+gece gece
+uçuşu uç+yHs+sH
+birinci birinci
+sınıftır sınıf+DHr
+</S>
+<S>
+Continental'ın continental+'nHn
+kaç kaç
+tane tane
+Atlanta'ya atlanta+'yA
+gidiş git+yHs
+ve ve
+dönüş dön+yHs
+uçuşu uç+yHs+yH
+var var
+</S>
+<S>
+Her her
+havayolunun havayol+H+nHn
+birinci bir+HncH
+sınıf sınıf
+hizmetle hizmet+ylA
+kaç kaç
+uçuşu uç+yHs+sH
+var var
+</S>
+<S>
+Sabah sabah
+9'dan 9+'+DAn
+önce önce
+Dallas dallas
+Fort fort
+Worth'a Worth'a
+Boston'dan boston+'DAn
+kalkan kalk+yAn
+uçuşların uç+yHs+lAr+nHn
+sayısını sayı+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+1 1
+Ağustos'ta ağustos+'DA
+Atlanta'dan atlanta+'DAn
+Boston'a boston+'yA
+olan ol+yAn
+uçuşların uç+yHs+lAr+nHn
+tarifesi tarife+sH
+nedir ne+DHr
+</S>
+<S>
+Salı salı
+günü gün+sH
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+uçuşların uç+yHs+lAr+nHn
+tarifesini tarife+sH+nH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+7 7
+Temmuz'da temmuz+'DA
+San san
+Francisco’dan Francisco’dan
+Pittsburg’e Pittsburg’e
+uçuş uç+yHs
+yapan yap+yAn
+uçaklarınızın uçak+lAr+HnHz+nHn
+saatleri saat+lArH
+nelerdir ne+lAr+DHr
+</S>
+<S>
+TWA TWA
+San san
+Francisco'ya francisco+'yA
+gitmek git+mAk
+için için
+Boston'dan boston+'DAn
+kaçta kaçta
+kalkıyor kalk+Hyor
+</S>
+<S>
+New new
+York'ta york+'DA
+bir bir
+arabaya araba+yA
+ihtiyacım ihtiyaç+yHm
+olacak ol+yAcAk
+</S>
+<S>
+Pittsburgh pittsburgh
+Havaalanı'nda havaalan+H+'nDA
+limuzin limuzin
+servisi servis+sH
+var var
+mı mı
+</S>
+<S>
+Çarşamba çarşamba
+Phoenix phoenix
+Arizona'dan arizona+'DAn
+Ontario Ontario
+California'ya california+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Pazar pazar
+akşamı akşam+sH
+San san
+Diego diego
+California'ya california+'yA
+olan ol+yAn
+bir bir
+uçuşla uç+yHs+ylA
+Montreal montreal
+Quebec'den quebec+'DAn
+ayrılmak ayrıl+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lütfen lütfen
+Ontario Ontario
+California'dan california+'DAn
+Orlando orlando
+Florida'ya florida+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Lütfen lütfen
+Miami miami
+Florida'dan florida+'DAn
+Las Las
+Vegas vegas
+Nevada'ya nevada+'yA
+saat saat
+4'ten 4+'+DAn
+önce önce
+varan var+yAn
+bir bir
+uçuş uç+yHs
+bulun bul+yHn
+</S>
+<S>
+Boston boston
+ve ve
+Baltimore baltimore
+arasındaki ara+sH+nDA+ki
+en en
+ucuz ucuz
+uçak uçak
+bileti bilet+sH
+nedir ne+DHr
+</S>
+<S>
+Boston'dan boston+'DAn
+Dallas'a dallas+'yA
+gidiş git+yHs
+dönüş dön+yHs
+en en
+pahalı paha+lH
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Denver'e denver+'yA
+12 12
+Ekim'de ekim+'DA
+kalkan kalk+yAn
+en en
+ucuz ucuz
+tek tek
+yön yön
+bilet bilet
+nedir ne+DHr
+</S>
+<S>
+Boston'dan boston+'DAn
+Dallas'a dallas+'yA
+en en
+pahalı paha+lH
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Baltimore'ye baltimore+'yA
+en en
+düşük düşük
+maliyetli maliyet+lH
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+uçmanın uç+mA+nHn
+en en
+ucuz ucuz
+yolu yol+sH
+nedir ne+DHr
+</S>
+<S>
+Bana ben+yA
+Nashville Nashville
+Havaalanı'ndaki havaalan+H+'nDA+ki
+kara kara
+ulaşımından ulaşım+sH+nDAn
+bahsedin bahset+yHn
+</S>
+<S>
+Charlotte charlotte
+havaalanı havaalan+H
+ile ile
+Charlotte charlotte
+şehir şehir
+merkezi merkez+sH
+arasındaki ara+sH+nDA+ki
+kara kara
+ulaşımı ulaşım+yH
+nedir ne+DHr
+</S>
+<S>
+Baltimore baltimore
+havalimanında havaliman+H+nDA
+hangi hangi
+kara kara
+ulaşımı ulaşım+yH
+mevcut mevcut
+</S>
+<S>
+Denver denver
+havalimanında havaliman+H+nDA
+kara kara
+ulaşımı ulaşım+yH
+mevcut mevcut
+mu mu
+</S>
+<S>
+San san
+Francisco francisco
+kara kara
+ulaşımı ulaşım+yH
+</S>
+<S>
+Dallas dallas
+Fort fort
+Worth'da Worth'da
+hangi hangi
+kara kara
+ulaşımı ulaşım+yH
+seçenekleri seçenek+lAr+sH
+mevcut mevcut
+</S>
+<S>
+havalimanından havaliman+H+nDAn
+Las Las
+Vegas'a vegas+'yA
+kara kara
+ulaşımı ulaşım+yH
+seçeneklerini seçenek+lAr+sH+nH
+öğrenmek öğren+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Milwaukee'den milwaukee+'DAn
+St. St.
+Louise louise
+olan ol+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+bul bul
+</S>
+<S>
+United'in united+'nHn
+salı salı
+ve ve
+çarşamba çarşamba
+günleri gün+lAr+sH
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco'ya
+yaptığı yap+DHk+sH
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+bana ben+yA
+Delta delta
+ve ve
+Twa'nin twa+'nHn
+Atlanta'dan atlanta+'DAn
+geçen geç+yAn
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+bana ben+yA
+Baltimore'den baltimore+'DAn
+Philadelphia philadelphia
+ya ya
+da da
+Denver'e denver+'yA
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia'ya
+ya ya
+da da
+Pittsburgh'tan pittsburgh+'DAn
+Philadelphia'ya philadelphia'ya
+olan ol+yAn
+tüm tüm
+uçuşların uç+yHs+lAr+nHn
+bir bir
+listesini liste+sH+nH
+ver ver
+</S>
+<S>
+bana ben+yA
+cumartesi cumartesi
+ya ya
+da da
+pazar pazar
+kalkışlı kalk+yHs+lH
+Milwaukee'den milwaukee'den
+Phoenix'e phoenix'e
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+ücret ücret
+kodu kod+sH
+qx qx+yH
+ne ne
+anlama anlam+yA
+geliyor gel+Hyor
+</S>
+<S>
+rezervasyon rezervasyon
+sınıfı sınıf+yH
+c c+yH
+nedir ne+DHr
+</S>
+<S>
+ücret ücret
+kodu kod+yH
+c c+yH
+nedir ne+DHr
+</S>
+<S>
+ücret ücret
+kodu kod+yH
+m m+yH
+nedir ne+DHr
+</S>
+<S>
+ücret ücret
+kodunu kod+sH+nH
+tekrar tekrar
+görmek gör+mAk
+istiyorum iste+Hyor+yHm
+qx qx+yH
+</S>
+<S>
+yn y+Hn+yH
+kodu kod+sH
+ne ne
+anlama anlam+yA
+geliyor gel+Hyor
+</S>
+<S>
+Perşembe perşembe
+günü gün+sH
+Atlanta'dan atlanta+'DAn
+kalkıp kalk+yHp
+öğleden öğle+DAn
+sonra sonra
+5’ten 5’ten
+önce önce
+Oakland'a oakland+'yA
+varan var+yAn
+ve ve
+yemek yemek
+servisi servis+sH
+yapan yap+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+en en
+erken erken
+saatte saat+DA
+giden git+yAn
+ve ve
+yemek yemek
+servis servis
+eden et+yAn
+uçuşun uçuş+yHn
+bilgilerini bilgi+lAr+sH+nH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Continental'ın continental+'nHn
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+1765 1765
+numaralı numara+lH
+uçuşunda uç+yHs+sH+nDA
+ne ne
+yemek yemek
+servis servis
+ediliyor et+Hl+Hyor
+</S>
+<S>
+Cumartesi cumartesi
+günü gün+sH
+Oakland'dan oakland+'DAn
+Philadelphia’ya Philadelphia’ya
+giden git+yAn
+ve ve
+yemek yemek
+servisi servis+sH
+yapan yap+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Lütfen lütfen
+bana ben+yA
+Atlanta'dan atlanta+'DAn
+kalkıp kalk+yHp
+Baltimore'ye baltimore+'yA
+öğleden öğle+DAn
+sonra sonra
+7’de 7’de
+iniş in+yHs
+yapan yap+yAn
+aktarmasız aktarmasız
+bir bir
+Boeing boeing
+757 757
+uçuşu uç+yHs+sH
+bulabilir bul+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+M80 M80
+ne ne
+tür tür
+bir bir
+uçak uçak
+</S>
+<S>
+San san
+Francisco’dan Francisco’dan
+Baltimore'ye baltimore+'yA
+747 747
+ile ile
+sefer sefer
+yapıyor yap+Hyor
+musunuz mu+SHnHz
+</S>
+<S>
+Oakland'dan oakland+'DAn
+San san
+Francisco'ya francisco+'yA
+kahvaltı kahvaltı
+uçuşu uç+yHs+yH
+lütfen lütfen
+</S>
+<S>
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+giden git+yAn
+ve ve
+öğle öğle
+yemeği yemek+sH
+servis servis
+eden et+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+St. St.
+Paul'dan paul+'DAn
+Kansas kansas
+City'e city+'yA
+cuma cuma
+günü gün+sH
+giden git+yAn
+hangi hangi
+uçuşlarda uç+yHs+lAr+DA
+akşam akşam
+yemeği yemek+sH
+servisi servis+sH
+yapılıyor yap+Hl+Hyor
+</S>
+<S>
+Bana ben+yA
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+giden git+yAn
+ve ve
+kahvaltı kahvaltı
+servisi servis+sH
+yapan yap+yAn
+en en
+erken erken
+uçuşu uç+yHs+sH
+bul bul
+</S>
+<S>
+Long long
+Beach'tan beach+'DAn
+St. St.
+Louis'e louis+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+ve ve
+Dallas'ta dallas+'DA
+durmak dur+mAk
+istiyorum iste+Hyor+yHm
+bir bir
+de de
+uçuşum uç+yHs+Hm
+sırasında sırasında
+öğle öğle
+yemeği yemek+sH
+yemek ye+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Oakland'dan oakland+'DAn
+ayrılıp ayrıl+yHp
+öğleden öğle+DAn
+sonra sonra
+saat saat
+5'te 5+'+DA
+Boston'a boston+'yA
+varmak var+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Hangi hangi
+havayollarının havayol+lAr+sH+nHn
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+aktarmasız aktarmasız
+öğleden öğle+DAn
+sonra sonra
+uçuşları uç+yHs+lAr+sH
+var var
+</S>
+<S>
+St. St.
+Petersburg petersburg
+ve ve
+Charlotte charlotte
+arasında ara+sH+nDA
+öğleden öğle+DAn
+sonra sonra
+kalkan kalk+yAn
+ve ve
+akşamüstü akşamüstü
+5'ten 5+'+DAn
+kısa kısa
+süre süre
+sonra sonra
+iniş in+yHs
+yapan yap+yAn
+tüm tüm
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+sH
+listeleyebilir listele+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+Hangi hangi
+uçuşlar uç+yHs+lAr
+on on
+üç üç
+Nisan nisan
+çarşamba çarşamba
+günü gün+sH
+Indianapolis'ten ındianapolis+'DAn
+kalkıyor kalk+Hyor
+ve ve
+sabah sabah
+Montreal'a montreal+'yA
+varıyor var+Hyor
+</S>
+<S>
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+giden git+yAn
+ve ve
+çarşamba çarşamba
+sabahı sabah+sH
+saat saat
+8'den 8+'+DAn
+önce önce
+iniş in+yHs
+yapan yap+yAn
+uçuşları uç+yHs+lAr+sH
+bilmek bil+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+öğleden öğle+DAn
+sonra sonra
+ayrılan ayrıl+yAn
+ve ve
+akşamüstü akşamüstü
+saat saat
+5 5
+civarında civar+sH+nDA
+Denver'e denver+'yA
+varan var+yAn
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Washington washington
+DC'den dc+'DAn
+Denver'e denver+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+gidiyor git+Hyor
+</S>
+<S>
+Lütfen lütfen
+Washington washington
+DC'den dc+'DAn
+Atlanta'ya atlanta+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Washington washington
+DC'den dc+'DAn
+Philadelphia'ya philadelphia+'yA
+giden git+yAn
+2 2
+Aralık aralık
+tarihli tarihli
+uçuşları uç+yHs+lAr+sH
+ver ver
+</S>
+<S>
+Washington washington
+DC'den dc+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+tüm tüm
+birinci bir+HncH
+sınıf sınıf
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Washington washington
+DC'den dc+'DAn
+Denver'e denver+'yA
+saat saat
+dörtte dört+DA
+bir bir
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Washington washington
+DC'den dc+'DAn
+San san
+Diego'ya diego+'yA
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+US us
+Air air
+2153 2153
+numaralı numara+lH
+San san
+Francisco francisco
+- -
+Baltimore baltimore
+uçuşunda uç+yHs+sH+nDA
+uçak uçak
+saat saat
+kaçta kaç+DA
+ve ve
+hangi hangi
+şehirde şehir+DA
+duruyor dur+Hyor
+</S>
+<S>
+United united
+Airlines'in airlines+'nHn
+21 21
+sefer sefer
+sayılı sayı+lH
+uçuşundaki uç+yHs+sH+nDA+ki
+uçak uçak
+türü tür+sH
+nedir ne+DHr
+</S>
+<S>
+Perşembe perşembe
+gecesi gece+sH
+Chicago'dan chicago+'DAn
+Kansas kansas
+City'e city+'yA
+United united
+Airlines airlines
+415 415
+sefer sefer
+sayılı sayılı
+uçuşunun uç+yHs+sH+nHn
+fiyatı fiyat+sH
+nedir ne+DHr
+</S>
+<S>
+Washington'dan washington+'DAn
+Boston'a boston+'yA
+324 324
+no'lu no'lu
+uçuş uç+yHs
+ile ile
+2 2
+Ağustos'ta ağustos+'DA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+giden git+yAn
+DL dl+yH
+402 402
+uçuşunun uç+yHs+sH+nHn
+fiyatı fiyat+sH
+ne ne
+kadar kadar
+</S>
+<S>
+Boston'dan boston+'DAn
+Oakland'a oakland+'yA
+giden git+yAn
+813 813
+sefer sefer
+sayılı sayı+lH
+American american
+uçuşunun uç+yHs+sH+nHn
+başka başka
+bir bir
+şehirde şehir+DA
+duraklama durakla+mA
+yapıp yap+yHp
+yapmayacağını yap+mA+yAcAk+sH+nH
+bilmek bil+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Dallas dallas
+Fort fort
+Worth'dan Worth'dan
+Boston'a boston+'yA
+giden git+yAn
+928 928
+sefer sefer
+sayılı sayı+lH
+uçuşunun uç+yHs+sH+nHn
+ücreti ücret+sH
+nedir ne+DHr
+</S>
+<S>
+Bu bu
+hafta hafta
+cuma cuma
+günü gün+sH
+Atlanta'dan atlanta+'DAn
+Boston'a boston+'yA
+giden git+yAn
+uçağın uçak+nHn
+türünü tür+sH+nH
+öğrenmek öğren+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Bana ben+yA
+CP'nin cp+'nHn
+kullandığı kullan+DHk+sH
+uçak uçak
+tipini tip+sH+nH
+göster göster
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Atlanta'ya atlanta+'yA
+sabah sabah
+8 8
+uçuşunda uç+yHs+sH+nDA
+ne ne
+tür tür
+uçak uçak
+kullanılır kullan+Hl+Hr
+</S>
+<S>
+Charlotte'den charlotte+'DAn
+tüm tüm
+uçuşlar uç+yHs+lAr
+için için
+uçak uçak
+türlerini tür+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Delta delta
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+2 2
+Ağustos'ta ağustos+'DA
+sabah sabah
+8'den 8+'+DAn
+önce önce
+ne ne
+tür tür
+bir bir
+uçak uçak
+ile ile
+uçuyor uç+Hyor
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+ayrılacağım ayrıl+yAcAk+yHm
+ve ve
+San san
+Francisco'ya francisco+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+ve ve
+birinci bir+HncH
+sınıf sınıf
+American american
+ile ile
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+ve ve
+Dallas'ta dallas+'DA
+durmak dur+mAk
+istiyorum iste+Hyor+yHm
+lütfen lütfen
+bana ben+yA
+ne ne
+tür tür
+bir bir
+uçakla uçak+ylA
+uçacağınızı uç+yAcAk+HnHz+yH
+söyler söyle+Hr
+misiniz mi+SHnHz
+</S>
+<S>
+Boston boston
+havaalanından havaalan+H+nDAn
+Boston boston
+şehir şehir
+merkezine merkez+sH+nA
+kara kara
+ulaşımı ulaşım+sH
+var var
+mı mı
+</S>
+<S>
+La la
+Guardia Guardia
+Havaalanı'ndan havaalan+H+'nDAn
+San san
+Jose'ye jose+'yA
+giden git+yAn
+bir bir
+uçuş uç+yHs
+bulmak bul+mAk
+istiyorum iste+Hyor+yHm
+uçuşun uç+yHs+nHn
+United united
+Airlines airlines
+ile ile
+olmasını ol+mA+sH+nH
+ve ve
+akşam akşam
+10 10
+civarında civar+sH+nDA
+San san
+Jose'ye jose+'yA
+varmasını var+mA+sH+nH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lütfen lütfen
+General general
+Mitchell mitchell
+International'dan ınternational+'DAn
+gelen gel+yAn
+ve ve
+giden git+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+General general
+Mitchell mitchell
+International'daki ınternational+'DA+ki
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Cumartesi cumartesi
+günü gün+sH
+Charlotte charlotte
+Havaalanı'ndan havaalan+H+'nDAn
+öğlen öğlen
+saat saat
+1'de 1+'+DA
+kalkan kalk+yAn
+US us
+Air air
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Bana ben+yA
+Love love
+Field'deki field+'DA+ki
+havayollarını havayol+lAr+sH+nH
+göster göster
+</S>
+<S>
+Yarın yarın
+kalkan kalk+yAn
+Boston boston
+- -
+San san
+Francisco francisco
+uçuşları uç+yHs+lAr+sH
+nelerdir ne+lAr+DHr
+</S>
+<S>
+Yarın yarın
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Bugün bugün
+Los los
+Angeles'ten angeles+'DAn
+Charlotte'ye charlotte+'yA
+sabah sabah
+erken erken
+saatte saat+DA
+kalkan kalk+yAn
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Yarın yarın
+Pittsburgh'tan pittsburgh+'DAn
+kalkan kalk+yAn
+ve ve
+Baltimore'ye baltimore+'yA
+akşamüstü akşamüstü
+5'ten 5+'+DAn
+sonra sonra
+varan var+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Yarın yarın
+akşam akşam
+Tacoma Tacoma
+için için
+Milwaukee'den milwaukee+'DAn
+saat saat
+akşam akşam
+810'dan 810+'+DAn
+sonra sonra
+kalkan kalk+yAn
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Bana bana
+yarın yarın
+St. St.
+Petersburg'dan petersburg+'DAn
+Milwaukee'ye milwaukee+'yA
+giden giden
+en en
+erken erken
+United united
+Airlines airlines
+uçuşunu uç+yHs+sH+nH
+ver ver
+</S>
+<S>
+Bu bu
+öğleden öğle+DAn
+sonra sonra
+Cincinnati'den cincinnati+'DAn
+Burbank'a burbank+'yA
+bir bir
+American american
+uçuşuyla uç+yHs+sH+ylA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Cumartesi cumartesi
+günü gün+yH
+öğleden öğle+DAn
+sonra sonra
+1'de 1+'+DA
+Charlotte'ye charlotte+'yA
+varan var+yAn
+tüm tüm
+US us
+Air air
+uçuşlarını uç+yHs+lArH+nH
+listele listele
+</S>
+<S>
+Cleveland'dan cleveland+'DAn
+cumartesi cumartesi
+günü gün+yH
+öğlen öğle+Hn
+1'de 1+'+DA
+kalkıp kalk+yHp
+Kansas kansas
+City'e city+'yA
+pazartesi pazartesi
+öğleden öğle+DAn
+sonra sonra
+3'ten 3+'+DAn
+önce önce
+varan var+yAn
+tüm tüm
+US us
+Air air
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Newark'a newark+'yA
+çarşamba çarşamba
+öğleden öğle+DAn
+önce önce
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Kansas kansas
+City'den city+'DAn
+Cleveland'a cleveland+'yA
+giden git+yAn
+uçuş uç+yHs
+çarşamba çarşamba
+aşamüstü aşamüstü
+5'ten 5+'+DAn
+önce önce
+varıyor var+Hyor
+</S>
+<S>
+Los los
+Angeles'ten angeles+'DAn
+kalkan kalk+yAn
+ve ve
+Pittsburgh'a pittsburgh+'yA
+pazartesi pazartesi
+saat saat
+5'ten 5+'+DAn
+sonra sonra
+varan var+yAn
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Önümüzdeki ön+HmHz+DA+ki
+hafta hafta
+çarşamba çarşamba
+saat saat
+5'ten 5+'+DAn
+sonra sonra
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+başka başka
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Bana ben+yA
+önümüzdeki ön+HmHz+DA+ki
+salı salı
+akşam akşam
+7 7
+civarında civar+sH+nDA
+Charlotte'den charlotte+'DAn
+kalkıp kalk+yHp
+Atlanta'ya atlanta+'yA
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Önümüzdeki ön+HmHz+DA+ki
+salı salı
+Boston'dan boston+'DAn
+Washington'a washington+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+gidecek git+yAcAk
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+aynı aynı
+gün gün
+içinde içinde
+gitmem git+mA+Hm
+gerekiyor gerek+Hyor
+bana bana
+Boston'dan boston+'DAn
+en en
+erken erken
+ayrılan ayrıl+yAn
+uçuşu uç+yHs+sH
+bul bul
+</S>
+<S>
+Önümüzdeki ön+HmHz+DA+ki
+çarşamba çarşamba
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+öğleden öğle+DAn
+sonra sonra
+kalkan kalk+yAn
+tüm tüm
+uçuşları uç+yHs+lArH
+göster göster
+</S>
+<S>
+Önümüzdeki ön+HmHz+DA+ki
+pazar pazar
+yapılacak yap+Hl+yAcAk
+San san
+Jose jose
+- -
+Houston houston
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+Bana bana
+gelecek gelecek
+pazar pazar
+Miami'den miami+'DAn
+Cleveland'a cleveland+'yA
+gidecek git+yAcAk
+uçuşların uç+yHs+lAr+Hn
+fiyatlarını fiyatla+Hr+Hn+yH
+göster göster
+</S>
+<S>
+Önümüzdeki ön+HmHz+DA+ki
+çarşamba çarşamba
+Phoenix phoenix
+ve ve
+Milwaukee Milwaukee
+arasında ara+sH+nDA
+yapılacak yap+Hl+yAcAk
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Washington washington
+DC'ye dc+'yA
+perşembe perşembe
+günü gün+sH
+en en
+erken erken
+uçuş uç+Hs
+nedir ne+DHr
+</S>
+<S>
+Bana bana
+San san
+Francisco'dan francisco+'DAn
+Washington washington
+DC'ye dc+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Oakland'dan oakland+'DAn
+Washington washington
+DC'ye dc+'yA
+pazar pazar
+günü gün+yH
+uçuşları uç+yHs+lAr+yH
+nelerdir n+yA+lAr+DHr
+</S>
+<S>
+Bana bana
+Denver'den denver+'DAn
+Washington washington
+DC'ye dc+'yA
+giden giden
+en en
+son son
+aktarmasız aktarmasız
+uçuşu uç+yHs+yH
+göster göster
+</S>
+<S>
+Lütfen lütfen
+23 23
+Temmuz'da temmuz+'DA
+Dallas dallas
+Fort fort
+Worth'dan Worth'dan
+DC dc
+Baltimore'ye baltimore+'yA
+giden giden
+uçuşları uç+yHs+lAr+yH
+listeleyin listele+yHn
+</S>
+<S>
+Denver'den denver+'DAn
+Washington washington
+DC'ye DC'ye
+perşembe perşembe
+günkü gün+kü
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Oakland oakland
+- -
+Washington washington
+DC dc
+arası ara+SH
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuş uç+Hs
+nedir n+yA+DHr
+</S>
+<S>
+Denver'den denver+'DAn
+Washington washington
+DC'ye dc+'yA
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Burbank'tan burbank+'DAn
+Tacoma Tacoma
+Washington'a washington+'yA
+giden giden
+bir bir
+uçuş uç+Hs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Cincinnati'den cincinnati+'DAn
+San san
+Jose jose
+California'ya california+'yA
+gidiş git+Hs
+dönüş dönüş
+bir bir
+uçuşa uç+Hs+yA
+ihtiyacım ihtiyaç+Hm
+var var
+</S>
+<S>
+Bana bana
+Philadelphia'dan philadelphia+'DAn
+Atlanta atlanta
+Georgia'ya georgia+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Lütfen lütfen
+Las Las
+Vegas'tan vegas+'DAn
+Michigan'a michigan+'yA
+bir bir
+uçuş uç+Hs
+bul bul
+</S>
+<S>
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+23 23
+Ocak ocak
+için iç+nHn
+uçuş uç+Hs
+bilgileri bilgi+lAr+yH
+</S>
+<S>
+22 22
+Mayıs mayıs
+Cumartesi cumartesi
+günü gün+yH
+Las Las
+Vegas'tan vegas+'DAn
+Burbank'a burbank+'yA
+uçuşlar uç+yHs+lAr
+nelerdir n+yA+lAr+DHr
+</S>
+<S>
+23 23
+Kasım'da kasım+'DA
+American american
+Airlines'in airlines+'Hn
+Boston boston
+ile ile
+Denver denver
+arasında ara+sH+nDA
+hangi hangi
+uçuşları uç+yHs+lAr+yH
+var var
+</S>
+<S>
+27 27
+Ağustos ağustos
+sabahı sabah+sH
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+en en
+erken erken
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+23 23
+Temmuz'da temmuz+'DA
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+American american
+ile ile
+erken erke+Hn
+bir bir
+uçuş uç+Hs
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Dallas'a dallas+'yA
+27 27
+Ağustos ağustos
+sabahı sabah+yH
+hangi hangi
+uçuş uç+Hs
+var var
+</S>
+<S>
+Tamam tamam
+tam tam
+23 23
+Kasım'da kasım+'DA
+Atlanta'dan atlanta+'DAn
+Denver'e denver+'yA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+ve ve
+hangi hangi
+uçuşların uç+yHs+lAr+nHn
+müsait müsait
+olduğunu ol+DHk+sH+nH
+bilmem bil+mA+Hm
+gerekiyor gerek+Hyor
+</S>
+<S>
+24 24
+Aralık'ta aralık+'DA
+Dallas'tan dallas+'DAn
+Baltimore'ye baltimore+'yA
+uçmak uç+mAk
+için için
+en en
+ucuz ucuz
+hava hava
+yolu yol+yH
+hangisi hangi+sH
+</S>
+<S>
+Bana bana
+31 31
+Ağustos'taki ağustos+'DA+ki
+San san
+Francisco francisco
+- -
+Boston boston
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Canadian Canadian
+Airlines airlines
+International'ın ınternational+'nHn
+kısaltması kısalt+mA+SH
+nedir n+yA+DHr
+</S>
+<S>
+Philadelphia philadelphia
+- -
+San san
+Francisco francisco
+uçuşlarını uç+yHs+lArH+nH
+hangi hangi
+ücret ücret
+kodları kod+lAr+sH
+kapsar kapsa+Hr
+</S>
+<S>
+dl d+lH
+nedir ne+DHr
+</S>
+<S>
+Airline Airline
+NW NW
+nedir ne+DHr
+</S>
+<S>
+TWA'deki twa+'DA+ki
+hizmet hizmet
+sınıfları sınıf+lAr+yH
+nelerdir ne+lAr+DHr
+</S>
+<S>
+Columbus'tan columbus+'DAn
+St. St.
+Louis'e louis+'yA
+gidiş git+yHs
+dönüş dön+Hs
+uçuş uç+Hs
+ne ne
+kadar kadar
+tutuyor tut+Hyor
+</S>
+<S>
+Tamam tamam
+TWA'nin twa+'nHn
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco+'yA
+uçuşu uç+yHs+sH
+var var
+mı mı
+</S>
+<S>
+Columbus'tan columbus+'DAn
+St. St.
+Louis'e louis+'yA
+TWA'nin twa+'nHn
+en en
+ucuz ucuz
+gidiş git+yHs
+dönüş dön+Hs
+uçuşu uç+yHs+yH
+hangisi hangi+sH
+</S>
+<S>
+Columbus'tan columbus+'DAn
+Milwaukee'ye milwaukee+'yA
+TWA twa
+ile ile
+uçmanın uç+mA+Hn+nHn
+maliyeti maliyet+yH
+nedir ne+DHr
+</S>
+<S>
+Orlando'dan orlando+'DAn
+Cleveland'a cleveland+'yA
+US us
+Air'in air+'nHn
+akşam akşam
+10 10
+civarı civar+sH
+gelen gelen
+uçuşları uç+yHs+lArH
+nelerdir ne+lAr+DHr
+</S>
+<S>
+Hangi hangi
+uçuşlar uç+yHs+lAr
+Boston'dan boston+'DAn
+ayrılıp ayır+Hl+yHp
+Philadelphia'ya philadelphia+'yA
+sabah sabah
+7'den 7+'+DAn
+önce önce
+varıyor var+Hyor
+</S>
+<S>
+Bana ben+yA
+Denver denver
+ile ile
+Oakland oakland
+arasındaki ara+sH+nDA+ki
+öğleden öğle+DAn
+sonra sonra
+kalkan kalkan
+ve ve
+5'ten 5+'+DAn
+sonra sonra
+varan varan
+tüm tüm
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Orlando'dan orlando+'DAn
+Cleveland'a cleveland+'yA
+saat saat
+10 10
+civarında civar+sH+nDA
+varan varan
+hangi hangi
+uçuşlar uç+yHs+lAr
+uygun uygun
+</S>
+<S>
+Oakland oakland
+ile ile
+Boston boston
+arasında ara+sH+nDA
+saat saat
+5'ten 5+'+DAn
+önce önce
+varan varan
+bir bir
+uçuş uç+Hs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Herhangi herhangi
+bir bir
+havaalanından havaalan+Hn+DAn
+Baltimore'ye baltimore+'yA
+perşembe perşembe
+sabahı sabah+yH
+saat saat
+9'dan 9+'+DAn
+önce önce
+varan varan
+tüm tüm
+uçuşları uç+yHs+lArH
+listeleyin listele+yHn
+</S>
+<S>
+Minneapolis'ten minneapolis+'DAn
+San san
+Diego'ya diego+'yA
+7'den 7+'+DAn
+önce ön+CA
+varan varan
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Baltimore'ye baltimore+'yA
+aktarmasız aktarmasız
+uçup uç+yHp
+saat saat
+7'de 7+'+DA
+oraya oraya
+varmak var+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Baltimore'ye baltimore+'yA
+giden git+yAn
+bir bir
+uçuşa uçuş+yA
+ihtiyacım ihtiyaç+yHm
+var var
+ve ve
+bu bu
+uçuş uç+yHs
+akşam akşam
+saat saat
+7'de 7+'+DA
+varmalı var+mA+lH
+lütfen lütfen
+</S>
+<S>
+Denver'e denver+'yA
+hangi hangi
+havayolları havayol+lAr+sH
+hizmet hizmet
+ediyor et+Hyor
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+San san
+Francisco'ya francisco+'yA
+giderken git+Ar+yken
+Denver'de denver+'DA
+duran dur+yAn
+bir bir
+havayolunuz havayol+Hn+yHz
+var var
+mı mı
+</S>
+<S>
+Hangi hangi
+havayolu havayol+H
+Denver denver
+Pittsburgh Pittsburgh
+ve ve
+Atlanta'ya atlanta+'yA
+hizmet hizmet
+veriyor ver+Hyor
+</S>
+<S>
+Hangi hangi
+havayolları havayol+lAr+yH
+Boston'dan boston+'DAn
+Baltimore'ye baltimore+'yA
+uçuyor uç+Hyor
+</S>
+<S>
+Denver'e denver+'yA
+veya veya
+Denver'den denver+'DAn
+uçuşu uç+yHs+yH
+olan ol+yAn
+havayollarını havayol+lArH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Detroit detroit
+ve ve
+Westchester Westchester
+County County
+arasında ara+sH+nDA
+hangi hangi
+havayolları havayol+lAr+yH
+uçuyor uç+Hyor
+</S>
+<S>
+Pittsburgh Pittsburgh
+- -
+San san
+Francisco francisco
+arası ara+sH
+uçan uç+yAn
+tüm tüm
+hava hava
+yollarını yol+lAr+sH+nH
+göster göster
+</S>
+<S>
+Boston boston
+ve ve
+San san
+Francisco francisco
+arasında ara+sH+nDA
+hangi hangi
+havayolları havayol+lArH
+uçuyor uç+Hyor
+</S>
+<S>
+Herhangi herhangi
+bir bir
+havayolunun havayol+Hn+nHn
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+öğleden öğle+DAn
+sonra sonra
+erken erken
+saatlerde saat+lAr+DA
+uçuşu uç+yHs+yH
+var var
+mı mı
+</S>
+<S>
+Hangi hangi
+havayollarının havayol+lAr+sH+nHn
+Kansas kansas
+City'den city+'DAn
+Chicago'ya chicago+'yA
+aktarmasız aktarmasız
+uçuşları uç+yHs+lArH
+var var
+</S>
+<S>
+Atlanta atlanta
+ve ve
+San san
+Francisco francisco
+arasında ara+sH+nDA
+hangi hangi
+havayolları havayol+lAr+sH
+uçuyor uç+Hyor
+</S>
+<S>
+Hangi hangi
+havayolu havayol+H
+business business
+class class
+uçuşlar uç+yHs+lAr
+sağlıyor sağla+Hyor
+</S>
+<S>
+Denver'den denver+'DAn
+Kansas kansas
+City'e city+'yA
+aktarmasız aktarmasız
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Pazar pazar
+günü gün+sH
+San san
+Francisco francisco
+- -
+Pittsburgh Pittsburgh
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+yH
+listele listele
+</S>
+<S>
+Kansas kansas
+City'den city+'DAn
+St. St.
+Paul'a paul+'yA
+giden git+yAn
+uçuşların uç+yHs+lAr+nHn
+hepsi hepsi
+aktarmasız aktarmasız
+mı mı
+</S>
+<S>
+Toronto toronto
+- -
+St. St.
+Petersburg petersburg
+arası ara+sH
+aktarmasız aktarmasız
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Perşembe perşembe
+sabahı sabah+sH
+Indianapolis'ten ındianapolis+'DAn
+Toronto'ya toronto+'yA
+giden git+yAn
+aktarmasız aktarmasız
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Toronto'dan toronto+'DAn
+St. St.
+Louis'e louis+'yA
+giden git+yAn
+aktarmasız aktarmasız
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Salt salt
+Lake lake
+City'den city+'DAn
+Cincinnati'ye cincinnati+'yA
+mümkünse mümkün+ysA
+aktarmasız aktarmasız
+gidiş git+yHs
+dönüş dön+yHs
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Denver'den denver+'DAn
+Atlanta'ya atlanta+'yA
+bir bir
+uçak uçak
+bileti bilet+yH
+almak al+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Sallas'a sallas+'yA
+birinci birinci
+sınıf sınıf
+bir bir
+biletin bilet+nHn
+maliyeti maliyet+yH
+nedir ne+DHr
+</S>
+<S>
+Bana ben+yA
+pazartesi pazartesi
+günü gün+sH
+Pittsburgh Pittsburgh
+- -
+San san
+Francisco francisco
+uçuşlarının uç+yHs+lArH+nHn
+birinci bir+HncH
+sınıf sınıf
+ücretlerini ücret+lAr+sH+nH
+göster göster
+</S>
+<S>
+Bana ben+yA
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+salı salı
+günü gün+yH
+kalkan kalk+yAn
+birinci bir+HncH
+sınıf sınıf
+uçuşları uç+yHs+lArH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+birinci bir+HncH
+sınıf sınıf
+bir bir
+biletin bilet+nHn
+gidiş git+Hs
+dönüş dön+yHs
+maliyeti maliyet+sH
+nedir n+yA+DHr
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+San san
+Francisco'ya francisco+'yA
+en en
+ucuz uç+yHz
+birinci birinci
+sınıf sınıf
+uçak uçak
+bileti bilet+sH
+hangisi hangi+sH
+</S>
+<S>
+Bana ben+yA
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+birinci birinci
+sınıf sınıf
+gidiş git+Hs
+dönüş dön+yHs
+biletleri bilet+lAr+yH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Toronto'ya toronto+'yA
+giden git+yAn
+US us
+Air air
+business business
+class class
+ücretlerini ücret+lArH+nH
+göster göster
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Dallas'a dallas+'yA
+birinci birinci
+sınıf sınıf
+olmayan ol+mA+yAn
+uçuşları uç+yHs+lArH
+göster göster
+</S>
+<S>
+Detroit'ten detroit+'DAn
+St. St.
+Petersburg'a petersburg+'yA
+birinci birinci
+sınıf sınıf
+gidiş git+yHs
+dönüş dön+yHs
+uçak uçak
+biletlerini bilet+lArH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Denver'den denver+'DAn
+Baltimore'ye baltimore+'yA
+giden git+yAn
+United united
+Airlines'ten airlines+'DAn
+birinci birinci
+sınıf sınıf
+bir bir
+bilete bilet+yA
+ihtiyacım ihtiyaç+Hm
+var var
+</S>
+<S>
+7 7
+Temmuz'da temmuz+'DA
+Denver'den denver+'DAn
+Baltimore'ye baltimore+'yA
+giden git+yAn
+United united
+Airlines airlines
+uçuşlarında uç+yHs+lArH+nDA
+birinci birinci
+sınıf sınıf
+bir bir
+gidiş git+Hs
+dönüş dön+yHs
+biletinin bilet+Hn+nHn
+maliyeti maliyet+yH
+nedir ne+DHr
+</S>
+<S>
+Bana ben+yA
+1'den 1+'+DAn
+önce önce
+varan var+yAn
+San san
+Francisco francisco
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Bana ben+yA
+St. St.
+Petersburg'dan petersburg+'DAn
+Toronto'ya toronto+'yA
+öğleden öğle+DAn
+önce önce
+varan var+yAn
+uçuşları uç+yHs+lArH
+göster göster
+</S>
+<S>
+Bana ben+yA
+çarşamba çarşamba
+günü gün+sH
+öğlen öğlen
+12 12
+civarında civar+sH+nDA
+kalkan kalk+yAn
+Boston boston
+- -
+Baltimore baltimore
+arası ara+SH
+ekonomi ekonomi
+sınıfı sınıf+sH
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Las Las
+Vegas'tan vegas+'DAn
+Detroit'e detroit+'yA
+en en
+ucuz ucuz
+gidiş git+Hs
+dönüş dönüş
+ekonomi ekonomi
+sınıfı sınıf+yH
+bilet bilet
+ücretini ücret+Hn+yH
+göster göster
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Baltimore'ye baltimore+'yA
+gidiş git+yHs
+dönüş dön+yHs
+ekonomi ekonomi
+sınıfı sınıf+yH
+ücretini ücret+sH+nH
+göster göster
+</S>
+<S>
+Charlotte'de charlotte+'DA
+hangi hangi
+kara kara
+ulaşımı ulaşım+yH
+mevcut mevcut
+</S>
+<S>
+Lütfen lütfen
+Pittsburgh'taki pittsburgh+'DA+ki
+mevcut mevcut
+kara kara
+ulaşımını ulaşım+Hn+yH
+listeleyin listele+yHn
+</S>
+<S>
+Kara kara
+ulaşımı ulaşım+yH
+Dallas dallas
+</S>
+<S>
+American american
+Airlines airlines
+için için
+Atlanta'daki atlanta+'DA+ki
+kalkış kalk+Hs
+ve ve
+varışları var+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Oakland'da oakland+'DA
+kara kara
+ulaşımı ulaşım+yH
+nasıldır nasıl+DHr
+</S>
+<S>
+Dallas'ta dallas+'DA
+ne ne
+tür tür
+bir bir
+kara kara
+ulaşımı ulaşım+sH
+var var
+</S>
+<S>
+Midwest Midwest
+Express express
+Baltimore'de baltimore+'DA
+hizmet hizmet
+veriyor ver+Hyor
+mu mu
+</S>
+<S>
+Atlanta'da atlanta+'DA
+kara kara
+ulaşımı ulaşım+sH
+nedir n+yA+DHr
+</S>
+<S>
+Boston'a boston+'yA
+hangi hangi
+kara kara
+ulaşımını ulaşım+sH+nH
+alabilirim al+yAbil+Hr+yHm
+</S>
+<S>
+Bana ben+yA
+Toronto'daki toronto+'DA+ki
+kara kara
+ulaşımını ulaşım+sH+nH
+anlat anlat
+</S>
+<S>
+Denver'de denver+'DA
+kara kara
+ulaşımı ulaşım+sH
+</S>
+<S>
+Bana ben+yA
+Denver'deki denver+'DA+ki
+kara kara
+ulaşımını ulaşım+Hn+yH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Oakland'a oakland+'yA
+Denver denver
+aktarmalı aktarma+lH
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+hangi hangi
+Dallas dallas
+aktarmalı aktarma+lH
+uçuşlar uç+yHs+lAr
+kalkıyor kalk+Hyor
+</S>
+<S>
+Denver denver
+- -
+Pittsburgh pittsburgh
+arası ara+SH
+Atlanta'da atlanta+'DA
+duran dur+yAn
+en en
+ucuz ucuz
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Dallas'ta dallas+'DA
+mola mola
+vererek ver+yArAk
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+seyahat seyahat
+etmek et+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Continental Continental
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+Denver denver
+aktarmalı aktarmalı
+uçuyor uç+Hyor
+mu mu
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+ve ve
+Denver'de denver+'DA
+duran dur+yAn
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Columbus'tan columbus+'DAn
+Phoenix'e phoenix+'yA
+Cincinnati cincinnati
+aktarmalı aktarma+lH
+bir bir
+uçuş uç+yHs
+bulmaya bul+mA+yA
+çalışıyorum çalış+Hyor+yHm
+</S>
+<S>
+Dallas'ta dallas+'DA
+durarak dur+yArAk
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Aslında aslında
+Ontario'dan ontario+'DAn
+Westchester'e Westchester'e
+Chicago chicago
+üzerinden üzeri+Hn+DAn
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Washington'a washington+'yA
+Indianapolis ındianapolis
+üzerinden üzeri+Hn+DAn
+hangi hangi
+uçuşlar uç+yHs+lAr
+gidiyor git+Hyor
+</S>
+<S>
+Seattle'den seattle+'DAn
+Boston'a boston+'yA
+Minneapolis minneapolis
+üzerinden üzeri+Hn+DAn
+hangi hangi
+uçuşlar uç+yHs+lAr
+kalkıyor kalk+Hyor
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+Dallas dallas
+üzerinden üzeri+Hn+DAn
+giden git+yAn
+uçuşları uç+yHs+lAr+yH
+listeleyin listele+yHn
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+Dallas'a dallas+'yA
+Atlanta'da atlanta+'DA
+mola mola
+veren ver+yAn
+bir bir
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Washington'dan washington+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+ve ve
+Denver'de denver+'DA
+duran dur+yAn
+bir bir
+uçuş uç+Hs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'ta pittsburgh+'DA
+aktarma aktarma
+yapan yap+yAn
+Denver denver
+- -
+Atlanta atlanta
+arası ara+SH
+en en
+ucuz ucuz
+uçuşu uç+yHs+yH
+bulun bulun
+</S>
+<S>
+Boston'da boston+'DA
+havalimanı havaliman+H
+ile ile
+şehir şehir
+merkezi merkez+sH
+arasında ara+sH+nDA
+kara kara
+ulaşımınız ulaşım+nHn+yHz
+var var
+mı mı
+</S>
+<S>
+Atlanta'daki atlanta+'DA+ki
+havaalanından havaalan+H+nDAn
+kara kara
+ulaşımı ulaşım+sH
+hakkında hakkında
+bilgiye bilgi+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Akşam akşam
+5'ten 5+'+DAn
+sonra sonra
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+bana ban+yA
+uygun uygun
+uçuşları uç+yHs+lAr+yH
+söyleyebilir söyle+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Denver'e denver+'yA
+akşam akşam
+saat saat
+3'ten 3+'+DAn
+sonra sonra
+hangi hangi
+uçuşlar uç+yHs+lAr
+kalkıyor kalk+Hyor
+</S>
+<S>
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco+'yA
+yaklaşık yaklaşık
+615'te 615+'+DA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Bana ben+yA
+akşam akşam
+saat saat
+9'dan 9+'+DAn
+sonra sonra
+San san
+Francisco'dan francisco+'DAn
+kalkan kalk+yAn
+Boston boston
+- -
+San san
+Francisco francisco
+arası ara+sH
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuşu uç+yHs+sH
+göster göster
+</S>
+<S>
+Perşembe perşembe
+günü gün+sH
+saat saat
+5'ten 5+'+DAn
+önce önce
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+yH
+listele listele
+</S>
+<S>
+Continental'ın continental+'nHn
+Denver'den denver+'DAn
+Chicago'ya chicago+'yA
+pazar pazar
+günü gün+sH
+934'ten 934+'+DAn
+sonra sonra
+hareket hareket
+eden et+yAn
+tüm tüm
+uçuşlarını uç+yHs+lArH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Saat saat
+9'dan 9+'+DAn
+önce önce
+Montreal'dan montreal+'DAn
+Philly'e philly+'yA
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+listeleyin listele+yHn
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+akşam akşam
+6'dan 6+'+DAn
+sonra sonra
+kalkan kalk+yAn
+uçuşları uç+yHs+lAr+sH
+bul bul
+</S>
+<S>
+Merhaba merhaba
+Pittsburgh'tan pittsburgh+'DAn
+Denver'e denver+'yA
+2'den 2+'+DAn
+sonra sonra
+giden git+yAn
+bir bir
+uçuş uç+yHs
+bulmaya bul+mA+yA
+çalışıyorum çalış+Hyor+yHm
+</S>
+<S>
+Tamam tamam
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+saat saat
+8'den 8+'+DAn
+önce önce
+kalkan kalk+yAn
+bir bir
+uçak uçak
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Bana ben+yA
+Pittsburgh'tan pittsburgh+'DAn
+Baltimore'ye baltimore+'yA
+perşembe perşembe
+günü gün+sH
+saat saat
+3'ten 3+'+DAn
+sonra sonra
+kalkan kalk+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Pazartesi pazartesi
+gecesi gece+sH
+saat saat
+8'den 8+'+DAn
+sonra sonra
+Dallas'tan dallas+'DAn
+Boston'a boston+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Milwaukee'den milwaukee+'DAn
+Indianapolis'e ındianapolis+'yA
+pazartesi pazartesi
+sabah sabah
+9'dan 9+'+DAn
+önce önce
+kalkan kalk+yAn
+bir bir
+uçağa uçak+yA
+ihtiyacım ihtiyaç+Hm
+var var
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Pittsburgh'a pittsburgh+'yA
+pazartesi pazartesi
+günü gün+sH
+sabah sabah
+saat saat
+8'den 8+'+DAn
+sonra sonra
+kalkan kalk+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Washington'dan washington+'DAn
+Denver'e denver+'yA
+öğlen öğlen
+saat saat
+1'den 1+'+DAn
+sonraki sonra+ki
+ilk ilk
+uçuş uç+yHs
+nedir ne+DHr
+</S>
+<S>
+Akşam akşam
+9 9
+sonrası sonra+sH
+Pittsburgh'tan pittsburgh+'DAn
+San san
+Francisco'ya francisco+'yA
+hangi hangi
+uçuşları uç+yHs+lAr+sH
+bulabilirim bul+yAbil+Hr+Hm
+</S>
+<S>
+Sabah sabah
+815 815
+sonrası sonra+SH
+kalkan kalk+yAn
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco+'yA
+bir bir
+United united
+Havayolları havayol+lAr+yH
+uçuşu uç+yHs+yH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Öğlen öğlen
+1'de 1+'+DA
+Charlotte'den charlotte+'DAn
+kalkan kalk+yAn
+US us
+Air air
+uçuşları uç+yHs+lAr+sH
+</S>
+<S>
+Akşam akşam
+7'de 7+'+DA
+Chicago'dan chicago+'DAn
+Kansas kansas
+City'e city+'yA
+dönmek dön+mAk
+istıyorum iste+Hyor+yHm
+</S>
+<S>
+Indianapolis'ten ındianapolis+'DAn
+Memphis'e memphis+'yA
+herhangi herhangi
+bir bir
+gün gün
+sabah sabah
+10'dan 10+'+DAn
+önceki önceki
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Milwaukee'den milwaukee+'DAn
+Orlando'ya orlando+'yA
+en en
+kısa kısa
+uçuşu uç+yHs+yH
+alabilir al+yAbil+Hr
+miyim mi+yHm
+</S>
+<S>
+Oakland'dan oakland+'DAn
+Salt salt
+Lake lake
+City'e city+'yA
+çarşamba çarşamba
+günü gün+yH
+geç geç
+bir bir
+uçuşa uç+Hs+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Çarşamba çarşamba
+günü gün+sH
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+en en
+erken erken
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Phoenix'den phoenix+'DAn
+Salt salt
+Lake lake
+City'e city+'yA
+en en
+erken erken
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Philadelphia'ya philadelphia+'yA
+en en
+geç geç
+uçuşunuz uç+yHs+nHn+yHz
+hangisi hangi+sH
+</S>
+<S>
+Newark'tan newark+'DAn
+Los los
+Angeles'e angeles+'yA
+çarşamba çarşamba
+günü gün+sH
+en en
+geç geç
+uçuş uçuş
+hangisi hangi+sH
+</S>
+<S>
+Boston'dan boston+'DAn
+Philadelphia'ya philadelphia+'yA
+ilk ilk
+uçuşu uç+yHs+yH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+ilk ilk
+uçuşu uç+yHs+yH
+göster göster
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Denver'e denver+'yA
+giden git+yAn
+en en
+geç geç
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+7 7
+Temmuz'da temmuz+'DA
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+en en
+geç geç
+kalkışlı kalk+yHs+lH
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Boston'a boston+'yA
+giden git+yAn
+en en
+geç geç
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Atlanta atlanta
+ve ve
+Denver denver
+arası ara+sH
+en en
+erken erken
+uçuşu uç+yHs+sH
+söyle söyle
+</S>
+<S>
+Salt salt
+Lake lake
+City'den city+'DAn
+St. St.
+Petersburg'a petersburg+'yA
+en en
+geç geç
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Toronto'dan toronto+'DAn
+Salt salt
+Lake lake
+City'e city+'yA
+en en
+erken erken
+varışlı var+yHs+lH
+uçuş uç+Hs
+hangisi hangi+sH
+</S>
+<S>
+7 7
+Temmuz'da temmuz+'DA
+Boston'dan boston+'DAn
+Dallas'a dallas+'yA
+en en
+geç geç
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+Boston'a boston+'yA
+en en
+geç geç
+uçuş uç+Hs
+hangisi hangi+sH
+</S>
+<S>
+Washington'dan washington+'DAn
+San san
+Francisco'ya francisco+'yA
+Cuma cuma
+günü gün+yH
+en en
+erken erken
+uçuş uç+Hs
+hangisi hangi+sH
+</S>
+<S>
+7 7
+Ekim ekim
+Çarşamba çarşamba
+kalkan kalk+yAn
+en en
+erken erken
+Washington'dan washington+'DAn
+Atlanta'ya atlanta+'yA
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+San san
+Jose'den jose+'DAn
+Houston'a houston+'yA
+en en
+kısa kısa
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Salt salt
+Lake lake
+City'den city+'DAn
+Phoenix'e phoenix+'yA
+en en
+geç geç
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuşu uç+yHs+sH
+söyleyebilir söyle+yAbil+Hr
+misiniz mi+SHnHz
+</S>
+<S>
+Denver'den denver+'DAn
+Oakland'a oakland+'yA
+en en
+ucuz ucuz
+uçuş uçuş
+hangisi hangi+sH
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuş uç+Hs
+hangisi hangi+sH
+</S>
+<S>
+Boston'dan boston+'DAn
+Dallas'a dallas+'yA
+en en
+ucuz ucuz
+uçuş uçuş
+hangisi hangi+sH
+</S>
+<S>
+Boston boston
+ve ve
+San san
+Francisco francisco
+arası ara+sH
+en en
+ucuz ucuz
+uçuşu uç+yHs+yH
+söyleyebilir söyle+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Baltimore'ye baltimore+'yA
+en en
+ucuz uç+yHz
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Orlando'dan orlando+'DAn
+Tacoma'ya tacoma+'yA
+en en
+ucuz ucuz
+uçuş uç+yHs
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Boston'a boston+'yA
+en en
+ucuz ucuz
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+San san
+Francisco francisco
+ve ve
+Philadelphia philadelphia
+arası ara+SH
+bulabileceğim bul+yAbil+yAcAk+Hm
+en en
+ucuz ucuz
+uçuş uç+yHs
+hangisi hangi+sH
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh'a pittsburgh+'yA
+en en
+ucuz ucuz
+tarife tarif+yA
+hangisi hangi+sH
+</S>
+<S>
+Indianapolis'ten ındianapolis+'DAn
+Seattle'ye seattle+'yA
+gidiş git+yHs
+dönüş dön+Hs
+en en
+uygun uygun
+tarifeyle tarife+ylA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Miami'den miami+'DAn
+New new
+York'a york+'yA
+Pazar pazar
+kalkışlı kalk+yHs+lH
+en en
+ucuz ucuz
+tarifeleri tarife+lAr+sH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Baltimore'ye baltimore+'yA
+en en
+ucuz ucuz
+tek tek
+yön yön
+tarife tarif+yA
+hangisi hangi+sH
+</S>
+<S>
+Milwaukee'den milwaukee+'DAn
+San san
+Francisco'ya francisco+'yA
+gidiş git+Hs
+dönüş dön+yHs
+en en
+ucuz ucuz
+nasıl nasıl
+gidilir git+Hl+Hr
+</S>
+<S>
+Houston'dan houston+'DAn
+Boston'a boston+'yA
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuşu uç+yHs+sH
+göster göster
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh'a pittsburgh+'yA
+en en
+ucuz ucuz
+uçuş uçuş
+hangisi hangi+sH
+</S>
+<S>
+Nashville'den nashville+'DAn
+Seattle'ye seattle+'yA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+ve ve
+en en
+ucuz uç+yHz
+gidiş git+yHs
+dönüş dön+Hs
+tarifesini tarife+sH+nH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Charlotte'den charlotte+'DAn
+Long long
+Beach'a beach+'yA
+en en
+ucuz ucuz
+uçuşu uç+yHs+yH
+ver ver
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Denver'e denver+'yA
+en en
+ucuz ucuz
+tek tek
+yön yön
+uçuşu uç+yHs+yH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+en en
+ucuz ucuz
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Çarşamba çarşamba
+öğleden öğle+DAn
+sonra sonra
+ve ve
+Perşembe perşembe
+öğleden öğle+DAn
+önce önce
+kalkan kalk+yAn
+Milwaukee'den milwaukee+'DAn
+Orlando'ya orlando+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Nashville'den nashville+'DAn
+Cleveland'a cleveland+'yA
+pazar pazar
+günü gün+yH
+9'dan 9+'+DAn
+önce önce
+</S>
+<S>
+Washington'dan washington+'DAn
+San san
+Francisco'ya francisco+'yA
+2'den 2+'+DAn
+sonra sonra
+kalkan kalk+yAn
+tüm tüm
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+öğleden öğle+DAn
+sonra sonra
+1205'te 1205+'+DA
+hangi hangi
+uçuşlar uç+yHs+lAr
+gidiyor git+Hyor
+</S>
+<S>
+Öğleden öğle+DAn
+sonra sonra
+3'te 3+'+DA
+Pittsburgh'tan pittsburgh+'DAn
+Boston'a boston+'yA
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Lütfen lütfen
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+tüm tüm
+gidiş git+yHs
+dönüş dön+yHs
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Philadelphia'ya philadelphia+'yA
+gidiş git+yHs
+dönüş dön+yHs
+uçuşları uç+yHs+lAr+yH
+göster göster
+</S>
+<S>
+New new
+York'tan york+'DAn
+San san
+Jose'ye jose+'yA
+gidiş git+Hs
+dönüş dön+Hs
+bir bir
+tarife tarif+yA
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Pittsburgh'a pittsburgh+'yA
+gidiş git+yHs
+dönüş dön+yHs
+uçuşu uç+yHs+yH
+için için
+seyahat seyahat
+düzenlemeleri düzenle+mA+lArH
+bulun bul+Hn
+</S>
+<S>
+Kansas kansas
+şehrinden şehir+sH+nDAn
+Chicago'ya chicago+'yA
+gidiş git+yHs
+dönüş dön+Hs
+uçak uçak
+bileti bilet+sH
+rezervasyonu rezervasyon+sH
+yapmak yap+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Atlanta'ya atlanta+'yA
+tek tek
+yönlü yönlü
+bir bir
+uçuşun uçuş+yHn
+maliyeti maliyet+sH
+nedir ne+DHr
+</S>
+<S>
+Bana ben+yA
+Pittsburgh'tan pittsburgh+'DAn
+Oakland'a oakland+'yA
+giden git+yAn
+tüm tüm
+uçuşların uç+yHs+lAr+nHn
+ücretlerini ücret+lArH+nH
+göster göster
+</S>
+<S>
+Şimdi şimdi
+Pittsburgh'tan pittsburgh+'DAn
+Denver'e denver+'yA
+tek tek
+yönlü yönlü
+bir bir
+uçuşa uçuş+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+gidiş git+yHs
+dönüş dön+yHs
+uçuşları uç+yHs+lAr+sH
+hangileri hangi+lArH
+</S>
+<S>
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+gidiş git+yHs
+dönüş dön+yHs
+uçuşu uç+yHs+sH
+için için
+seyahat seyahat
+düzenlemeleri düzenleme+lAr+sH
+bulun bul+Hn
+</S>
+<S>
+Bana ben+yA
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+üç üç
+Aralık aralık
+için iç+nHn
+dönüş dönüş
+uçuşları uç+yHs+lAr+sH
+ver ver
+</S>
+<S>
+On on
+bir bir
+Temmuz'da temmuz+'DA
+Boston boston
+ve ve
+Atlanta atlanta
+arasında ara+sH+nDA
+öğleden öğle+DAn
+sonra sonra
+saat saat
+birde bir+DA
+kalkan kalk+yAn
+uçuşları uç+yHs+lAr+sH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Yirmi yirmi
+Ağustos ağustos
+için için
+Washington'dan washington+'DAn
+Boston'a boston+'yA
+öğleden öğle+DAn
+sonra sonra
+olan ol+yAn
+bir bir
+uçuş uç+Hs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Altı altı
+Ağustos ağustos
+akşamı akşam+yH
+olan ol+yAn
+Pittsburgh'tan pittsburgh+'DAn
+Atlanta'ya atlanta+'yA
+uçuşları uç+yHs+lAr+yH
+listeleyin listele+yHn
+</S>
+<S>
+San san
+Jose'den jose+'DAn
+Nashville'ye nashville+'yA
+üç üç
+Haziran haziran
+cuma cuma
+sabahı sabah+yH
+olan ol+yAn
+uçuşları uç+yHs+lAr+yH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Hangi hangi
+United united
+Airlines airlines
+uçuşları uç+yHs+lAr+yH
+sekiz sekiz
+Haziran'da haziran+DA
+Westchester Westchester
+bölgesinden bölge+sH+nDAn
+Cincinnati'ye cincinnati+'yA
+gidiyor git+Hyor
+</S>
+<S>
+United united
+Airlines'in airlines+'nHn
+yirmi yirmi
+Eylül eylül
+sabahı sabah+yH
+uçuşları uç+yHs+lAr+yH
+hangileri hangi+lArH
+</S>
+<S>
+Charlotte'den charlotte+'DAn
+Atlanta'ya atlanta+'yA
+bir bir
+Haziran'da haziran+DA
+uçuşunuz uç+yHs+nHn+yHz
+var var
+mı mı
+</S>
+<S>
+St. St.
+Petersburg'dan petersburg+'DAn
+Milwaukee'ye milwaukee+'yA
+on on
+bir bir
+Haziran'da haziran+DA
+bir bir
+uçuş uç+Hs
+var var
+mı mı
+</S>
+<S>
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco+'yA
+bir bir
+ekim ekim
+salı salı
+günü gün+yH
+uçuşları uç+yHs+lAr+yH
+hangileri hangi+lArH
+</S>
+<S>
+Bir bir
+Temmuz'da temmuz+'DA
+Kansas kansas
+City'den city+'DAn
+Newark'a newark+'yA
+bir bir
+uçak uçak
+bileti bilet+yH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lütfen lütfen
+bana bana
+Kansas kansas
+City'den city+'DAn
+Chicago'ya chicago+'yA
+ayın ay+nHn
+on on
+altısındaki altı+SH+Hn+DA+ki
+uçuşları uç+yHs+lArH
+verin ver+yHn
+</S>
+<S>
+Denver denver
+ve ve
+San san
+Francisco francisco
+arasındaki ara+sH+nDA+ki
+on on
+yedi ye+DH
+Eylül eylül
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Westchester Westchester
+bölgesinden bölge+sH+nDAn
+Cincinnati'ye cincinnati+'yA
+olan ol+yAn
+sekiz sekiz
+Haziran haziran
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+Nashville'den nashville+'DAn
+Tacoma'ya tacoma+'yA
+olan ol+yAn
+ayın ay+nHn
+on on
+sekizindeki sekiz+Hn+DA+ki
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Delta delta
+havayollarının havayol+lAr+sH+nHn
+Boston'dan boston+'DAn
+Philadelphia'ya philadelphia+'yA
+gidiş git+Hs
+uçuşlarının uç+yHs+lArH+nHn
+fiyatlarını fiyat+lArH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+uçuşların uç+yHs+lAr+nHn
+fiyatlarını fiyatla+Hr+Hn+yH
+listeleyin listele+yHn
+</S>
+<S>
+Denver'den denver+'DAn
+Atlanta'ya atlanta+'yA
+olan ol+yAn
+uçuşların uç+yHs+lAr+nHn
+fiyatları fiyatla+Hr+sH
+nedir ne+DHr
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+olan ol+yAn
+uçuşun uçuş+yHn
+maliyeti maliyet+sH
+nedir ne+DHr
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh pittsburgh
+ve ve
+Atlanta'ya atlanta+'yA
+olan ol+yAn
+bir bir
+bilet bilet
+hakkında hakkında
+biraz biraz
+bilgi bilgi
+almak al+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lütfen lütfen
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+uçuşların uç+yHs+lAr+nHn
+fiyatlarını fiyatla+Hr+sH+nH
+verin ver+yHn
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Dallas'a dallas+'yA
+olan ol+yAn
+sabah sabah
+uçuşlarının uç+yHs+lAr+sH+nHn
+fiyatları fiyatla+Hr+sH
+nedir ne+DHr
+</S>
+<S>
+Philadephia Philadephia
+ve ve
+San san
+Francisco francisco
+arasındaki ara+sH+nDA+ki
+gece gece
+uçuşlarının uç+yHs+lAr+sH+nHn
+fiyatlarını fiyat+lArH+nH
+gösterin göster+yHn
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Philadelphia'dan philadelphia+'DAn
+Dallas'a dallas+'yA
+olan ol+yAn
+sabah sabah
+uçuşlarını uç+yHs+lAr+sH+nH
+tekrar tekrar
+söyleyin söyle+yHn
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+San san
+Francisco'dan francisco+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Bana ben+yA
+American american
+Airlines'in airlines+'nHn
+Phoenix'den phoenix+'DAn
+Milwaukee milwaukee
+olan ol+yAn
+çarşamba çarşamba
+günü gün+sH
+uçuşlarını uç+yHs+lAr+sH+nH
+gösterin göster+yHn
+</S>
+<S>
+Salı salı
+günü gün+sH
+San san
+Francisco'dan francisco+'DAn
+Pittsburgh'a pittsburgh+'yA
+hangi hangi
+US us
+Air air
+uçuşları uç+yHs+lAr+sH
+var var
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Philadelphia'dan philadelphia+'DAn
+Dallas'a dallas+'yA
+olan ol+yAn
+uçuşlarını uç+yHs+lAr+sH+nH
+verin ver+yHn
+</S>
+<S>
+Lütfen lütfen
+American american
+Airlines'in airlines+'nHn
+Houston'dan houston+'DAn
+Milwaaukee'ye milwaaukee+'yA
+olan ol+yAn
+cuma cuma
+günü gün+sH
+akşam akşam
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Alaska alaska
+Airline'nin airline+'nHn
+Burbank Burbank
+kalkışlı kalk+yHs+lH
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+United united
+Airlines'in airlines+'nHn
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+uçuşu uç+yHs+sH
+var var
+mı mı
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Milwaukee'den milwaukee+'DAn
+Phoenix'e phoenix+'yA
+olan ol+yAn
+cuma cuma
+günkü gün+kü
+tüm tüm
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+San san
+Francisco francisco
+kalkışlı kalk+yHs+lH
+herhangi herhangi
+bir bir
+Us us
+Air air
+uçuşu uç+yHs+sH
+var var
+mı mı
+</S>
+<S>
+Canadian Canadian
+Airlines airlines
+uluslararası uluslararası
+hangi hangi
+bölgelere bölge+lAr+yA
+uçuyor uç+Hyor
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh'a pittsburgh+'yA
+bir bir
+uçak uçak
+bileti bilet+sH
+rezervasyonu rezervasyon+sH
+yapmak yap+mAk
+istiyorum iste+Hyor+yHm
+ve ve
+Eastern Eastern
+Airlines'e airlines+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+United united
+Airline'nin airline+'nHn
+Dallas'tan dallas+'DAn
+San san
+Francisco'ya francisco'ya
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+hangileri hangi+lArH
+bilmek bil+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+American american
+Airlines'ten airlines+'DAn
+Cincinnati'den cincinnati+'DAn
+Burbank'a burbank+'yA
+giden git+yAn
+bir bir
+öğleden öğle+DAn
+sonra sonra
+bileti bilet+sH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+çarşamba çarşamba
+günü gün+sH
+Phoenix'den phoenix+'DAn
+kalkıp kalk+yHp
+Milwaukee'ye milwaukee+'yA
+inen in+yAn
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Phoenix phoenix
+kalkışlı kalk+yHs+lH
+uçuşları uç+yHs+lAr+sH
+hangileri hangi+lArH
+</S>
+<S>
+American american
+Airlines'in airlines+'nHn
+Houston'dan houston+'DAn
+Milwaukee'ye milwaukee+'yA
+olan ol+yAn
+cuma cuma
+akşam akşam
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+San san
+Francisco'ya francisco+'yA
+perşembe perşembe
+akşamı akşam+sH
+kalkan kalk+yAn
+tüm tüm
+uçuşlar uç+yHs+lAr
+hakkında hakkında
+bilgi bilgi
+almak al+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pazartesi pazartesi
+sabahı sabah+sH
+San san
+Francisco'dan francisco+'DAn
+Pittsburgh'a pittsburgh+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Bana ben+yA
+San san
+Jose'den jose+'DAn
+Nashville'ye nashville+'yA
+olan ol+yAn
+cumartesi cumartesi
+öğleden öğle+DAn
+sonra sonra
+uçuşlarını uç+yHs+lAr+sH+nH
+söyleyebilir söyle+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+Bana ben+yA
+Atlanta'dan atlanta+'DAn
+Boston'a boston+'yA
+olan ol+yAn
+sabah sabah
+uçuşlarının uç+yHs+lAr+sH+nHn
+bir bir
+listesini liste+sH+nH
+ver ver
+</S>
+<S>
+Bana ben+yA
+cumartesi cumartesi
+sabahı sabah+sH
+Chicago'dan chicago+'DAn
+kalkan kalk+yAn
+Continental Continental
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Cumartesi cumartesi
+öğleden öğle+DAn
+sonra sonra
+Charlotte charlotte
+kalkışlı kalk+yHs+lH
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Pazartesi pazartesi
+öğleden öğle+DAn
+sonra sonra
+Baltimore'den baltimore+'DAn
+Dallas'a dallas+'yA
+bir bir
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+tüm tüm
+salı salı
+akşam akşam
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+Lütfen lütfen
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+öğleden öğle+DAn
+sonra sonra
+kalkan kalk+yAn
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Newark'a newark+'yA
+bir bir
+sabah sabah
+uçuşu uç+yHs+sH
+alabilir al+yAbil+Hr
+miyim mi+yHm
+lütfen lütfen
+</S>
+<S>
+Denver'den denver+'DAn
+Dallas'a dallas+'yA
+öğleden öğle+DAn
+sonraları sonraları
+hangi hangi
+uçuşlar uç+yHs+lAr
+uygun uygun
+</S>
+<S>
+Dallas'tan dallas+'DAn
+Milwaukee'ye milwaukee+'yA
+bir bir
+akşam akşam
+uçuşu uç+yHs+sH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Öğleden öğle+DAn
+sonra sonra
+Boston'dan boston+'DAn
+Baltimore'ye baltimore+'yA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Denver denver
+ve ve
+Dallas dallas
+arasındaki ara+sH+nDA+ki
+hangi hangi
+öğleden öğle+DAn
+sonra sonra
+uçuşları uç+yHs+lAr+sH
+müsait müsait
+</S>
+<S>
+Salı salı
+sabahı sabah+sH
+Denver'den denver+'DAn
+St. St.
+Louis'e louis+'yA
+giden git+yAn
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Boston'dan boston+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+sabah sabah
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Lütfen lütfen
+bana ben+yA
+çarşamba çarşamba
+günü gün+sH
+sabah sabah
+erken erken
+saatlerdeki saat+lAr+DA+ki
+Atlanta'dan atlanta+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Cincinnati cincinnati
+ve ve
+Tampa tampa
+arasındaki ara+sH+nDA+ki
+sabah sabah
+erken erken
+saatlerdeki saat+lAr+DA+ki
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Çarşamba çarşamba
+sabahı sabah+sH
+Baltimore'den baltimore+'DAn
+Newark'a newark+'yA
+giden git+yAn
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Hoston'dan hoston+'DAn
+Milwaukee'ye milwaukee+'yA
+giden git+yAn
+akşam akşam
+uçuşlarını uç+yHs+lAr+sH+nH
+listeleyin listele+yHn
+</S>
+<S>
+Pazartesi pazartesi
+sabah sabah
+San san
+Diego'dan diego+'DAn
+Phoenix phoenix
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+bul bul
+</S>
+<S>
+Akşamleyin akşamleyin
+Indianapolis'ten ındianapolis+'DAn
+Montreal'a montreal+'yA
+nasıl nasıl
+gidebilirim git+yAbil+Hr+yHm
+</S>
+<S>
+Bana ben+yA
+sabahleyin sabahleyin
+Atlanta'dan atlanta+'DAn
+kalkan kalk+yAn
+Baltimore'ye baltimore+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Washington washington
+ve ve
+Boston boston
+arasındaki ara+sH+nDA+ki
+öğleden öğle+DAn
+sonra sonra
+uçuşları uç+yHs+lAr+sH
+hangileri hangi+lArH
+</S>
+<S>
+Cincinnati'den cincinnati+'DAn
+Burbank'a burbank+'yA
+bir bir
+uçak uçak
+bileti bilet+sH
+istiyorum iste+Hyor+yHm
+uçuş uç+yHs
+Amerikan amerikan
+olmalı ol+mA+lH
+öğleden öğle+DAn
+sonra sonra
+kalkmalı kalk+mA+lH
+uçak uçak
+ve ve
+uçuş uç+yHs
+numarasını numara+sH+nH
+da da
+bilmem bil+mA+Hm
+gerekiyor gerek+Hyor
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+Oakland'a oakland+'yA
+olan ol+yAn
+akşam akşam
+uçuşları uç+yHs+lAr+sH
+</S>
+<S>
+Çarşamba çarşamba
+sabahı sabah+sH
+Baltimore'den baltimore+'DAn
+Newark'a newark+'yA
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+uçuş uç+yHs
+hakkında hakkında
+bilgi bilgi
+</S>
+<S>
+Bana ben+yA
+San san
+Francisco'dan francisco+'DAn
+Pittsburgh'a pittsburgh+'yA
+olan ol+yAn
+salı salı
+günkü gün+kü
+uygun uygun
+uçuşları uç+yHs+lAr+sH
+ve ve
+fiyatlarını fiyatla+Hr+sH+nH
+göster göster
+</S>
+<S>
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Çarşamba çarşamba
+günü gün+sH
+Salt salt
+Lake lake
+City'den city+'DAn
+St. St.
+Petersburg'a petersburg+'yA
+geri geri
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Cuma cuma
+günü gün+sH
+San san
+Francisco'dan francisco+'DAn
+Pittsburgh'a pittsburgh+'yA
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Denver'e denver+'yA
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Boston'a boston+'yA
+çarşamba çarşamba
+günü gün+sH
+olan ol+yAn
+bir bir
+uçuş uç+yHs
+bul bul
+</S>
+<S>
+Kansas kansas
+City'den city+'DAn
+Cleveland'a cleveland+'yA
+olan ol+yAn
+uçuşlar uç+yHs+lAr
+ve ve
+fiyatları fiyatla+Hr+sH
+</S>
+<S>
+Kansas kansas
+City'den city+'DAn
+Denver'e denver+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+St. St.
+Petersburg petersburg
+ve ve
+Charlotte charlotte
+arasındaki ara+sH+nDA+ki
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Salt salt
+Lake lake
+City'den city+'DAn
+St. St.
+Petersburg'a petersburg+'yA
+olan ol+yAn
+çarşamba çarşamba
+günkü gün+kü
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Seattle'ye seattle+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Lütfen lütfen
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+olan ol+yAn
+salı salı
+günü gün+sH
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Denver'e denver+'yA
+</S>
+<S>
+Pazar pazar
+günü gün+sH
+New new
+York york
+City'den city+'DAn
+Las Las
+Vegas'a vegas+'yA
+uçuşlarını uç+yHs+lAr+sH+nH
+ve ve
+pazar pazar
+günü gün+sH
+Memphis'ten memphis+'DAn
+Las Las
+Vegas'a vegas+'yA
+uçuşlarını uç+yHs+lAr+sH+nH
+ver ver
+</S>
+<S>
+St. St.
+Louis'ten louis+'DAn
+Charlotte'ye charlotte+'yA
+bir bir
+uçak uçak
+bileti bilet+sH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Las Las
+Vegas'tan vegas+'DAn
+Phoenix'e phoenix+'yA
+olan ol+yAn
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+New new
+York'tan york+'DAn
+Miami'ye miami+'yA
+olan ol+yAn
+salı salı
+günü gün+sH
+uçuşlarını uç+yHs+lAr+sH+nH
+ve ve
+Miami'den miami+'DAn
+New new
+York'a york+'yA
+olan ol+yAn
+pazar pazar
+günü gün+sH
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Dallas'a dallas+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+lütfen lütfen
+</S>
+<S>
+San san
+Francisco'dan francisco+'DAn
+Denver'e denver+'yA
+salı salı
+günü gün+sH
+</S>
+<S>
+San san
+Diego'dan diego+'DAn
+Newark'a newark+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Delta'nın delta+'nHn
+Dallas dallas
+ve ve
+Denver denver
+arasında ara+sH+nDA
+hangi hangi
+uçuşları uç+yHs+lAr+sH
+var var
+</S>
+<S>
+Atlanta atlanta
+kalkışlı kalk+yHs+lH
+Delta delta
+uçuşları uç+yHs+lAr+sH
+var var
+mı mı
+</S>
+<S>
+Atlanta atlanta
+için için
+Boston'dan boston+'DAn
+kalkan kalk+yAn
+Delta delta
+uçuşları uç+yHs+lAr+sH
+</S>
+<S>
+Cincinnati'den cincinnati+'DAn
+Burbank'a burbank+'yA
+bir bir
+American american
+uçuşu uç+yHs+sH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lufthansa Lufthansa
+Boston boston
+ve ve
+Oakland oakland
+arasında ara+sH+nDA
+uçuyor uç+Hyor
+mu mu
+</S>
+<S>
+Newark newark
+ve ve
+Nashville nashville
+arasındaki ara+sH+nDA+ki
+American american
+uçuşları uç+yHs+lAr+sH
+hangileri hangi+lArH
+</S>
+<S>
+Seattle'den seattle+'DAn
+Salt salt
+Lake lake
+City'e city+'yA
+olan ol+yAn
+Delta delta
+uçuşlarını uç+yHs+lAr+sH+nH
+uçak uçak
+tipiyle tip+sH+ylA
+birlikte birlikte
+listeleyin listele+yHn
+</S>
+<S>
+Cincinnati'den cincinnati+'DAn
+Houston'a houston+'yA
+olan ol+yAn
+American american
+uçuşları uç+yHs+lAr+sH
+</S>
+<S>
+Pazar pazar
+günü gün+sH
+Denver'den denver+'DAn
+Chicago'ya chicago+'yA
+Continental Continental
+uçuşları uç+yHs+lAr+sH
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Atlanta'ya atlanta+'yA
+çarşamba çarşamba
+günü gün+sH
+</S>
+<S>
+Pazartesi pazartesi
+salı salı
+çarşamba çarşamba
+perşembe perşembe
+cuma cuma
+günleri gün+lAr+sH
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Pazartesi pazartesi
+günü gün+sH
+Phoenix'den phoenix+'DAn
+Denver'e denver+'yA
+</S>
+<S>
+Çarşamba çarşamba
+günü gün+sH
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+</S>
+<S>
+Indianapolis'ten ındianapolis+'DAn
+Charlotte'ye charlotte+'yA
+olan ol+yAn
+pazartesi pazartesi
+günkü gün+kü
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Denver'den denver+'DAn
+Boston'a boston+'yA
+olan ol+yAn
+salı salı
+günkü gün+kü
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+pazartesi pazartesi
+günkü gün+kü
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Houston'dan houston+'DAn
+Memphis'e memphis+'yA
+olan ol+yAn
+cuma cuma
+günkü gün+kü
+uçuşları uç+yHs+lAr+sH
+bul bul
+</S>
+<S>
+Pazartesi pazartesi
+günü gün+sH
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+</S>
+<S>
+Cuma cuma
+günü gün+sH
+Newark'tan newark+'DAn
+kalkan kalk+yAn
+Lampa Lampa
+uçuşları uç+yHs+lAr+sH
+hangileri hangi+lArH
+</S>
+<S>
+Pekala pekala
+çarşamba çarşamba
+günü gün+sH
+Oakland'dan oakland+'DAn
+Philadelphia'ya philadelphia+'yA
+ne ne
+var var
+</S>
+<S>
+Cumartesi cumartesi
+günü gün+sH
+Montreal'dan montreal+'DAn
+Las Las
+Vegas'a vegas+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Cleveland'dan cleveland+'DAn
+Kansas'a kansas+'yA
+giden git+yAn
+pazartesi pazartesi
+günkü gün+kü
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Memphis'ten memphis+'DAn
+Las Las
+Vegas'a vegas+'yA
+olan ol+yAn
+pazar pazar
+günü gün+sH
+uçuşları uç+yHs+lAr+sH
+</S>
+<S>
+Pazartesi pazartesi
+günü gün+sH
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Baltimore'ye baltimore+'yA
+giden git+yAn
+tüm tüm
+cumartesi cumartesi
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Oakland'dan oakland+'DAn
+Dallas'a dallas+'yA
+giden git+yAn
+tüm tüm
+pazar pazar
+günü gün+sH
+uçuşlarını uç+yHs+lAr+sH+nH
+göster göster
+</S>
+<S>
+Lütfen lütfen
+salı salı
+günkü gün+kü
+Dallas dallas
+- -
+Atlanta atlanta
+uçuşlarını uç+yHs+lAr+sH+nH
+listele listele
+</S>
+<S>
+Pazartesi pazartesi
+günü gün+sH
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+</S>
+<S>
+Detroit'ten detroit+'DAn
+San san
+Diego'ya diego+'yA
+salı salı
+günü gün+sH
+için için
+uçuş uç+yHs
+bul bul
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Toronto'dan toronto+'DAn
+San san
+Diego'ya diego+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Philadelphia'dan philadelphia+'DAn
+San san
+Francisco'ya francisco+'yA
+</S>
+<S>
+Boston'dan boston+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+San san
+Francisco'ya francisco+'yA
+olan ol+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Tacoma'dan tacoma+'DAn
+San san
+Jose'ye jose+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+gider git+Ar
+</S>
+<S>
+Denver'den denver+'DAn
+Las Las
+Vegas'a vegas+'yA
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Pekala pekala
+şimdi şimdi
+Seattle'den seattle+'DAn
+San san
+Diego'ya diego+'yA
+kalkan kalk+yAn
+bir bir
+uçağa uçak+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Tampa tampa
+ve ve
+St. St.
+Louis louis
+arasındaki ara+sH+nDA+ki
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Memphis'ten memphis+'DAn
+Las Las
+Vegas'a vegas+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Bana ben+yA
+Cincinnati'den cincinnati+'DAn
+New new
+York york
+City city
+bölgesindeki bölge+sH+nDA+ki
+herhangi herhangi
+bir bir
+havaalanına havaalan+H+nA
+giden git+yAn
+bir bir
+uçuş uç+yHs
+bul bul
+</S>
+<S>
+Denver'den denver+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+hangi hangi
+uçuşlar uç+yHs+lAr
+müsait müsait
+</S>
+<S>
+Boston'dan boston+'DAn
+Fort fort
+Worth'a Worth'a
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+ve ve
+sonrasında sonra+sH+nDA
+da da
+San san
+Francisco'dan francisco+'DAn
+tekrar tekrar
+Boston'a boston+'yA
+uçmam uç+mA+m
+gerekiyor gerek+Hyor
+</S>
+<S>
+Boston boston
+ve ve
+San san
+Francisco francisco
+arasında ara+sH+nDA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+San san
+Francisco'ya francisco+'yA
+giden git+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Denver'den denver+'DAn
+Salt salt
+Lake lake
+City'e city+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+giden git+yAn
+uçuşlar uç+yHs+lAr
+hangileri hangi+lArH
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Boston boston
+ve ve
+Denver denver
+arasında ara+sH+nDA
+bir bir
+uçak uçak
+bileti bilet+sH
+ver ver
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+uçuşlar uç+yHs+lAr
+lütfen lütfen
+</S>
+<S>
+Boston'dan boston+'DAn
+Philadelphia'ya philadelphia+'yA
+olan ol+yAn
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+görmek gör+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Atlanta'dan atlanta+'DAn
+Baltimore'ye baltimore+'yA
+olan ol+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Washington'a washington+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Tampa'dan tampa+'DAn
+Milwaukee'ye milwaukee+'yA
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'tan Pittsburgh'tan
+Baltimore'ye baltimore+'yA
+</S>
+<S>
+Lütfen lütfen
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+gelen gel+yAn
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Pittsburgh'tan pittsburgh+'DAn
+Atlanta'ya atlanta+'yA
+uçuşları uç+yHs+lAr+sH
+görmek gör+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh pittsburgh
+Milwaukee milwaukee
+arası ara+sH
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Seattle'ye seattle+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Nashville'den nashville+'DAn
+Cleveland'a cleveland+'yA
+uçuş uç+yHs
+</S>
+<S>
+Şimdi şimdi
+Denver'den denver+'DAn
+Atlanta'ya atlanta+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Phoenix'den phoenix+'DAn
+Newark'a newark+'yA
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Newark'tan newark+'DAn
+Cleveland'a cleveland+'yA
+</S>
+<S>
+Boston'dan boston+'DAn
+Dallas'a dallas+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Uçuş uç+yHs
+Boston'dan boston+'DAn
+başlayacak başla+yAcAk
+</S>
+<S>
+Denver'de denver+'DA
+yaşıyorum yaşa+Hyor+yHm
+ve ve
+Pittsburgh'a pittsburgh+'yA
+seyahat seyahat
+etmek et+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Boston'dan boston+'DAn
+Baltimore'ye baltimore+'yA
+olan ol+yAn
+uçuşlar uç+yHs+lAr
+nelerdir ne+lAr+DHr
+</S>
+<S>
+Bana ben+yA
+Pittsburgh pittsburgh
+ve ve
+Philadelphia philadelphia
+arası ara+sH
+bir bir
+uçuş uç+yHs
+verebilir ver+yAbil+Hr
+misiniz mi+SHnHz
+</S>
+<S>
+Charlotte'den charlotte+'DAn
+olan ol+yAn
+tüm tüm
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Pittsburgh'dan Pittsburgh'dan
+Dallas'a dallas+'yA
+giden git+yAn
+uçuşların uç+yHs+lAr+nHn
+listesini liste+sH+nH
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Indianapolis'ten ındianapolis+'DAn
+Houston'a houston+'yA
+uçuşları uç+yHs+lAr+sH
+listele listele
+</S>
+<S>
+Tacoma'da tacoma+'DA
+havaalanından havaalan+H+nDAn
+şehir şehir
+merkezine merkez+sH+nA
+nasıl nasıl
+giderim git+Ar+yHm
+</S>
+<S>
+Toronto'dan toronto+'DAn
+Cincinnati'ye cincinnati+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh'a pittsburgh+'yA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Dallas'a dallas+'yA
+uçuşları uç+yHs+lAr+sH
+gösterebilir göster+yAbil+Hr
+misin mi+SHn
+</S>
+<S>
+Milwaukee'den milwaukee+'DAn
+Seattle'ye seattle+'yA
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Boston'dan boston+'DAn
+Atlanta'ya atlanta+'yA
+giden git+yAn
+uçuş uç+yHs
+var var
+mı mı
+</S>
+<S>
+Boston'dan boston+'DAn
+Denver'e denver+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Dallas'a dallas+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Washington'dan washington+'DAn
+Seattle'ye seattle+'yA
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Charlotte'den charlotte+'DAn
+Miami'ye miami+'yA
+uçuş uç+yHs
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Columbus'tan columbus+'DAn
+Charlotte'ye charlotte+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Denver'den denver+'DAn
+Pittsburgh'a pittsburgh+'yA
+uçmak uç+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Boston'dan boston+'DAn
+Oakland'a oakland+'yA
+gitmek git+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Pittsburgh'dan Pittsburgh'dan
+Denver'e denver+'yA
+gidiş git+yHs
+dönüş dönüş
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Boston'dan boston+'DAn
+Orlando'ya orlando+'yA
+giden git+yAn
+bir bir
+uçuşa uçuş+yA
+ihtiyacım ihtiyaç+yHm
+var var
+</S>
+<S>
+Denver'den denver+'DAn
+Philadelphia'ya philadelphia+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+görmek gör+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Lütfen lütfen
+Dallas'tan dallas+'DAn
+Denver'e denver+'yA
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Oakland'a oakland+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Indianapolis'ten ındianapolis+'DAn
+Montreal'a montreal+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Aynı aynı
+zamanda zaman+DA
+Oakland'dan oakland+'DAn
+Denver'e denver+'yA
+tüm tüm
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Boston'dan boston+'DAn
+Washington'a washington+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+var var
+</S>
+<S>
+Boston'dan boston+'DAn
+Pittsburgh'a pittsburgh+'yA
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Houston houston
+Orlando orlando
+arası ara+sH
+uçuşları uç+yHs+lAr+sH
+göster göster
+</S>
+<S>
+Baltimore'den baltimore+'DAn
+Philadelphia'ya philadelphia+'yA
+uçuşları uç+yHs+lAr+sH
+görmek gör+mAk
+istiyorum iste+Hyor+yHm
+</S>
+<S>
+Cleveland'dan cleveland+'DAn
+Miami'ye miami+'yA
+uçuşlar uç+yHs+lAr
+</S>
+<S>
+Nashville'den nashville+'DAn
+Phoenix'e phoenix+'yA
+hangi hangi
+uçuşlar uç+yHs+lAr
+gidiyor git+Hyor
+</S>
+<S>
+Oakland'a oakland+'yA
+giden git+yAn
+tüm tüm
+uçuşlar uç+yHs+lAr
+aynı aynı
+yere yer+yA
+mi mi
+iniyor in+Hyor
+</S>

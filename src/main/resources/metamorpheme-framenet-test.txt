@@ -1,0 +1,1877 @@
+<S>
+Başına baş+sH+nA
+gelenler gelen+lAr
+onu o+nH
+uyandırabildi uyandır+yAbil+DH
+. .
+</S>
+<S>
+Çok çok
+kızgındı kızgın+yDH
+, ,
+çalışanını çalışan+sH+nH
+kovdu kov+DH
+. .
+</S>
+<S>
+Kavgadan kavga+DAn
+sonra sonra
+sevgilisini sevgili+sH+nH
+yoldan yol+DAn
+çevirdi çevir+DH
+. .
+</S>
+<S>
+Alkolün alkol+nHn
+etkisiyle etki+sH+ylA
+eve ev+yA
+kadar kadar
+zikzak zikzak
+yaptı yap+DH
+. .
+</S>
+<S>
+Her her
+şeyi şey+sH
+eski eski
+haline hal+sH+nA
+geri geri
+getirdik getir+DH+k
+. .
+</S>
+<S>
+Ustanın usta+nHn
+evinden ev+sH+nDAn
+yana yan+yA
+saptı sap+DH
+. .
+</S>
+<S>
+Fabrika fabrika
+çalışanlarını çalışan+lAr+sH+nH
+sömürmekte sömür+mAktA
+üstüne üst+sH+nA
+yoktu yok+yDH
+. .
+</S>
+<S>
+İngiltere ingiltere
+, ,
+Hindistan'ı hindistan+'yH
+uzun uzun
+seneler sene+lAr
+sömürdü sömür+DH
+. .
+</S>
+<S>
+Seçimlerde seçim+lAr+DA
+Ankara'yı ankara+'yH
+salladı salla+DH
+. .
+</S>
+<S>
+Çocukları çocuk+lAr+sH
+arasında ara+sH+nDA
+hiçbir hiçbir
+zaman zaman
+ayrım ayrım
+yapmamıştır yap+mA+mHs+DHr
+. .
+</S>
+<S>
+Yola yol+yA
+davranın davran+yHn
+haydi haydi
+oğlum oğul+Hm
+, ,
+işimiz iş+HmHz
+çok çok
+daha daha
+. .
+</S>
+<S>
+Herkes herkes
+hakkında hakkında
+laf laf
+çıkarır çık+Ar+Hr
+, ,
+bu bu
+yüzden yüzden
+kimse kimse
+tarafından tarafından
+sevilmezdi sev+Hl+mA+z+yDH
+. .
+</S>
+<S>
+Veli veli
+toplantısında toplantı+sH+nDA
+öğretmen öğretmen
+, ,
+pek pek
+çok çok
+şeyi şey+yH
+sınıf sınıf
+aleyhine aleyh+sH+nDA
+söyledi söyle+DH
+. .
+</S>
+<S>
+Tasarım tasarım
+departmanının departman+sH+nHn
+bütçesinde bütçe+sH+nDA
+açık açık
+var var
+, ,
+başka başka
+bir bir
+departmandan departman+DAn
+buraya bura+yA
+aktarma aktarma
+yapmalıyız yap+mAlH+yHz
+. .
+</S>
+<S>
+Ablam abla+Hm
+cüzdanını cüzdan+sH+nH
+çaldırmış çaldır+mHs
+, ,
+çok çok
+üzgündü üzgün+yDH
+. .
+</S>
+<S>
+Telefonunu telefon+sH+nH
+çarptırmış çarptır+mHs
+, ,
+ağlıyordu ağla+Hyor+yDH
+. .
+</S>
+<S>
+Şirket şirket
+olarak ol+yArAk
+daha daha
+fazla fazla
+dayanamayacağız dayan+yAmA+yAcAk+yHz
+, ,
+iflas iflas
+bayrağını bayrak+sH+nH
+çekeceğim çek+yAcAk+yHm
+. .
+</S>
+<S>
+Harçlığın harçlık+Hn
+çok çok
+herhalde herhalde
+, ,
+savurdun savur+DH+n
+durdun dur+DH+n
+. .
+</S>
+<S>
+Çatıya çatı+yA
+yeni yeni
+kiremit kiremit
+almak al+mAk
+için için
+maaşını maaş+sH+nH
+harcadı harca+DH
+. .
+</S>
+<S>
+Ağır ağır
+sözler söz+lAr
+sarf sarf
+etti et+DH
+. .
+</S>
+<S>
+Biraz biraz
+saf saf
+, ,
+her her
+seferinde sefer+sH+nDA
+kapıyı kapı+yH
+büyük büyük
+açar aç+Ar
+. .
+</S>
+<S>
+Kendine kendi+nA
+her her
+ay ay
+masraf masraf
+kapısı kapı+sH
+açıyor aç+Hyor
+. .
+</S>
+<S>
+Bunun bu+nHn
+huyu huy+sH
+bu bu
+, ,
+hep hep
+bol bol
+doğrar doğra+Hr
+. .
+</S>
+<S>
+Bankaya banka+yA
+ikramiyesinin ikramiye+sH+nHn
+yarı yarı
+parasını para+sH+nH
+yatırdı yatır+DH
+. .
+</S>
+<S>
+Restoranda restoran+DA
+arkadaşlarım arkadaş+lAr+Hm
+beni ben+nH
+satınca satın+CA
+parayı para+yH
+söküldüm sökül+DH+m
+. .
+</S>
+<S>
+Madam madam
+, ,
+tablo tablo
+için için
+pey pey
+sürdü sür+DH
+. .
+</S>
+<S>
+Sakat sakat
+yeğenine yeğen+sH+nA
+aylık aylık
+bağladı bağla+DH
+. .
+</S>
+<S>
+Derin derin
+bir bir
+nefes nefes
+alıp al+yHp
+H7'ye h7+'yA
+taş taş
+sürdü sür+DH
+. .
+</S>
+<S>
+Tavlada tavla+DA
+öyle öyle
+bir bir
+yendim yen+DH+m
+ki ki
+, ,
+iki iki
+saat saat
+benimle ben+HmlA
+konuşmadı konuş+mA+DH
+. .
+</S>
+<S>
+Tüm tüm
+paraları para+lAr+yH
+ben ben
+yuttum yut+DH+m
+. .
+</S>
+<S>
+Gazetecileri gazeteci+lAr+yH
+dahi dahi
+başbakanın başbakan+nHn
+yanına yan+sH+nA
+yaklaştırmadılar yaklaş+DHr+mA+DH+lAr
+. .
+</S>
+<S>
+Eskiden eskiden
+bu bu
+bölgede bölge+DA
+eşkıyalar eşkıya+lAr
+yol yol
+keserdi kes+Ar+yDH
+. .
+</S>
+<S>
+Mürebbiyeden mürebbiye+DAn
+duyduklarını duy+DHk+lAr+sH+nH
+aklının akıl+sH+nHn
+bir bir
+köşesine köşe+sH+nA
+yazdı yaz+DH
+. .
+</S>
+<S>
+Şoför şoför
+adamı adam+yH
+görür gör+Hr
+görmez gör+mA+z
+teşhis teşhis
+etti et+DH
+. .
+</S>
+<S>
+Kral kral
+soytarıyı soytarı+yH
+gönderdi gönder+DH
+. .
+</S>
+<S>
+Annesinden anne+sH+nDAn
+aldığı al+DHk+sH
+şekeri şeker+yH
+komşuya komşu+yA
+iletti ilet+DH
+. .
+</S>
+<S>
+İlk ilk
+tanıştığımız tanış+DHk+HmHz
+günden gün+DAn
+beri beri
+bana ben+yA
+karşı karşı
+gösterdiği göster+DHk+sH
+yakınlıkla yakınlık+ylA
+gönlünü gönül+sH+nH
+çelmişti çel+mHs+yDH
+. .
+</S>
+<S>
+Sermayeyi sermaye+yH
+doğrulttu doğrult+DH
+, ,
+işler iş+lAr
+iyiydi iyi+yDH
+. .
+</S>
+<S>
+Artık artık
+bu bu
+işin iş+nHn
+tadı tat+sH
+kaçtı kaç+DH
+. .
+</S>
+<S>
+Patronumun patron+Hm+nHn
+takdirini takdir+sH+nH
+kazandım kazan+DH+m
+. .
+</S>
+<S>
+Bu bu
+malzemeler malzeme+lAr
+turfa turfa
+oldu ol+DH
+. .
+</S>
+<S>
+Alakasız alaka+SHz
+sorular soru+lAr
+sorarak sor+yArAk
+vakit vakit
+kazanıyordum kazan+Hyor+yDH+m
+. .
+</S>
+<S>
+İnsanların insan+lAr+nHn
+gözünde gözünde
+büyük büyük
+bir bir
+yara yara
+aldım al+DH+m
+. .
+</S>
+<S>
+Çıkan çık+yAn
+yangından yangın+DAn
+sonra sonra
+fabrika fabrika
+zayiat zayiat
+verdi ver+DH
+. .
+</S>
+<S>
+Bütün bütün
+kazancını kazanç+sH+nH
+zayi zayi
+etmişti et+mHs+yDH
+. .
+</S>
+<S>
+Bu bu
+kazak kazak
+çok çok
+eskimiş eski+mHs
+, ,
+rengini renk+sH+nH
+yitirmiş yitir+mHs
+. .
+</S>
+<S>
+Artık artık
+umudunu umut+sH+nH
+kaybetti kaybet+DH
+, ,
+hiçbir hiçbir
+şey şey
+düzelmeyecekti düzel+mA+yAcAk+yDH
+. .
+</S>
+<S>
+Sattıklarından sat+DHk+lAr+sH+nDAn
+oldukça oldukça
+büyük büyük
+bir bir
+kar kar
+elde elde
+etmişti et+mHs+yDH
+. .
+</S>
+<S>
+Hiçbirimizi hiçbiri+HmHz+nH
+dinlemiyor dinle+mA+Hyor
+, ,
+parasını para+sH+nH
+sokağa sokak+yA
+atıyor at+Hyor
+. .
+</S>
+<S>
+Sıcak sıcak
+bastı bas+DH
+yine yine
+, ,
+yaz yaz
+ayları ay+lAr+sH
+hiç hiç
+çekilmiyor çekil+mA+Hyor
+. .
+</S>
+<S>
+Çok çok
+soğuk soğuk
+çıktı çık+DH
+, ,
+kalın kalın
+giyin giyin
+. .
+</S>
+<S>
+Bunu bu+nH
+senin sen+nHn
+kafanda kafa+Hn+DA
+patlatırsam patlat+Hr+ysA+m
+, ,
+dünya dünya
+kaç kaç
+bucak bucak
+görürsün gör+Hr+SHn
+. .
+</S>
+<S>
+Annesine anne+sH+nA
+bile bile
+hakaret hakaret
+ettiğini et+DHk+sH+nH
+görünce gör+yHncA
+ondan o+nDAn
+tamamen tamamen
+iğrendim iğren+DH+m
+. .
+</S>
+<S>
+Onun o+nHn
+yaptığı yap+DHk+sH
+yemekten yemek+DAn
+bile bile
+iğreniyorum iğren+Hyor+yHm
+. .
+</S>
+<S>
+Kısa kısa
+bir bir
+yazı yaz+sH
+bile bile
+yazsa yaz+ysA
+öpüp öp+yHp
+başına baş+sH+nA
+koyar koy+Ar
+. .
+</S>
+<S>
+Tool'un tool+'nHn
+yıllar yıl+lAr
+sonra sonra
+gelen gel+yAn
+albümü albüm+sH
+hepimizin hep+HmHz+nHn
+çok çok
+hoşuna hoş+sH+nA
+gitti git+DH
+. .
+</S>
+<S>
+Teyzeme teyze+Hm+yA
+ne ne
+getirsek getir+SA+k
+beğenmeyip beğenme+yHp
+kötümsüyor kötümse+Hyor
+. .
+</S>
+<S>
+Türkiye türkiye
+, ,
+yarışmada yarışma+DA
+finale final+yA
+kaldı kal+DH
+. .
+</S>
+<S>
+Dondurma dondurma
+sıvılaştı sıvılaş+DH
+. .
+</S>
+<S>
+Süt süt
+ürünlerine ürün+lAr+sH+nA
+zam zam
+gelmiş gel+mHs
+. .
+</S>
+<S>
+Bütün bütün
+ürünler ürün+lAr
+zam zam
+gördü gör+DH
+. .
+</S>
+<S>
+Artık artık
+kâr kâr
+edemiyorum et+yAmA+Hyor+yHm
+, ,
+zam zam
+yapacağım yap+yAcAk+yHm
+. .
+</S>
+<S>
+Uğultular uğultu+lAr
+hızla hızla
+çoğaldı çoğal+DH
+. .
+</S>
+<S>
+Bu bu
+krizden kriz+DAn
+olabilecek ol+yAbil+yAcAk
+zararı zarar+sH
+asgariye asgari+yA
+indirdik indir+DH+k
+. .
+</S>
+<S>
+Kursa kurs+yA
+gelen gelen
+öğrencilerin öğrenci+lAr+nHn
+sayısı sayı+sH
+epey epey
+arttı art+DH
+. .
+</S>
+<S>
+Eski eski
+müdürün müdür+nHn
+postuna post+sH+nA
+oturdu otur+DH
+. .
+</S>
+<S>
+Yeni yeni
+kral kral
+tahta taht+yA
+çıktı çık+DH
+. .
+</S>
+<S>
+Cenazeden cenaze+DAn
+yeni yeni
+dönmüştük dön+mHs+yDH+k
+, ,
+artık artık
+başsız başsız
+kalmıştık kal+mHs+yDH+k
+, ,
+babam baba+Hm
+yoktu yok+yDH
+. .
+</S>
+<S>
+Salona salon+yA
+girdiğimde gir+DHk+Hm+DA
+kumandayı kumanda+yH
+kurcalıyordu kurcala+Hyor+yDH
+. .
+</S>
+<S>
+Ne ne
+diye diye
+karıştırıyorsun karıştır+Hyor+SHn
+o o
+çekmeceyi çekmece+yH
+? ?
+</S>
+<S>
+Otlar ot+lAr
+saçlarını saç+lArH+nH
+okşuyordu okşa+Hyor+yDH
+. .
+</S>
+<S>
+Bir bir
+elektrik elektrik
+zilinin zil+sH+nHn
+düğmesine düğme+sH+nA
+dokunduk dokun+DH+k
+. .
+</S>
+<S>
+O o
+kadar kadar
+dibime dip+Hm+yA
+girdi gir+DH
+ki ki
+, ,
+kolu kol+sH
+koluma kol+Hm+yA
+değiyordu değ+Hyor+yDH
+. .
+</S>
+<S>
+Şu şu
+gülü gül+sH
+bir bir
+koklasan kokla+SA+n
+... .
+</S>
+<S>
+İki iki
+köpek köpek
+, ,
+parkta park+DA
+koklaşıyordu koklaş+Hyor+yDH
+. .
+</S>
+<S>
+Uzun uzun
+oturmayacağım otur+mA+yAcAk+yHm
+, ,
+sadece sadece
+hemen hemen
+havayı hava+yH
+koklayacağım kokla+yAcAk+yHm
+. .
+</S>
+<S>
+Erkekler erkek+lAr
+bütün bütün
+gün gün
+bahçelerinde bahçe+lAr+sH+nDA
+bağ bağ
+budar buda+Hr
+, ,
+gül gül
+aşılar aşıla+Hr
+, ,
+kirizma kirizma
+yaparlar yap+Ar+lAr
+. .
+</S>
+<S>
+Balık balık
+ağı ağ+sH
+ördük ör+DH+k
+burada burada
+. .
+</S>
+<S>
+Gümüş gümüş
+malzemeleri malzeme+lAr+yH
+savatlatıyor savatla+t+Hyor
+. .
+</S>
+<S>
+Kesilen kesil+yAn
+hayvanların hayvan+lAr+nHn
+postları post+lArH
+burada burada
+tabaklanır tabaklan+Hr
+. .
+</S>
+<S>
+Tarlalarımızı tarla+lAr+HmHz+yH
+bu bu
+sene sene
+tırmıklatmadık tırmıkla+t+mA+DH+k
+. .
+</S>
+<S>
+Dün dün
+söylediklerine söyle+DHk+lAr+sH+nA
+zihni zihin+sH
+takıldı takıl+DH
+. .
+</S>
+<S>
+Nereye nereye
+gideceğini git+yAcAk+sH+nH
+koyu koyu
+koyu koyu
+düşünüyordu düşün+Hyor+yDH
+. .
+</S>
+<S>
+Beş beş
+dakikalık dakikalık
+işi iş+sH
+uzun uzun
+etti et+DH
+. .
+</S>
+<S>
+Eski eski
+çağlardan çağlar+DAn
+birçok birçok
+anıt anıt
+çağımıza çağ+HmHz+yA
+kadar kadar
+gelmiştir gel+mHs+DHr
+. .
+</S>
+<S>
+Öfkeleri öfke+lAr+sH
+bir bir
+yaz yaz
+fırtınası fırtına+sH
+gibi gibi
+birdenbire birdenbire
+sönüverdi sön+yHver+DH
+. .
+</S>
+<S>
+Kargaşa kargaşa
+büyük büyük
+ölçüde ölçü+DA
+yatıştı yatış+DH
+. .
+</S>
+<S>
+Gördüklerim gör+DHk+lAr+Hm
+binbir binbir
+çeşit çeşit
+uğursuzluğa uğursuz+lHk+yA
+delalet delalet
+ediyormuş et+Hyor+ymHs
+. .
+</S>
+<S>
+Bana ben+yA
+onun o+nHn
+hakkında hakkında
+düşündüklerini düşün+DHk+lAr+sH+nH
+terennüm terennüm
+etti et+DH
+. .
+</S>
+<S>
+Yaşlı yaş+lH
+kadın kadın
+torununun torun+sH+nHn
+davranışlarından davranış+lAr+sH+nDAn
+memnun memnun
+olmadığını ol+mA+DHk+sH+nH
+kızına kız+sH+nA
+telmih telmih
+etti et+DH
+. .
+</S>
+<S>
+Yetkililer yetki+lH+lAr
+yoğun yoğun
+kar kar
+yağışı yağ+yHs+sH
+beklediklerini bekle+DHk+lAr+sH+nH
+ifade ifade
+etti et+DH
+. .
+</S>
+<S>
+Köylüler köylü+lAr
+olacakları olacak+lArH
+bir bir
+bir bir
+tayin tayin
+etti et+DH
+. .
+</S>
+<S>
+Bebekler bebek+lAr
+bu bu
+yaşlarda yaş+lAr+DA
+bilinçlenir bilinçlen+Hr
+. .
+</S>
+<S>
+Herif herif
+çoktan çoktan
+aşmış aş+mHs
+. .
+</S>
+<S>
+Norveçli norveçli
+koşucu koşucu
+rakiplerinden rakip+lAr+sH+nDAn
+hızla hızla
+kaçtı kaç+DH
+ve ve
+arayı ara+yH
+açtı aç+DH
+. .
+</S>
+<S>
+Ziver ziver
+canı can+yH
+çok çok
+yanmışçasına yanmışçasına
+tabanları taban+lAr+yH
+kaldırdı kaldır+DH
+heyecanla heyecanla
+. .
+</S>
+<S>
+Yarışta yarış+DA
+diğer diğer
+koşucuyu koşucu+yH
+kovaladım kovala+DH+m
+ama ama
+işe iş+yA
+yaramadı yara+mA+DH
+. .
+</S>
+<S>
+Bir bir
+tehlike tehlike
+sezdiğin sez+DHk+Hn
+anda an+DA
+hemen hemen
+eve ev+yA
+kaçarsın kaç+Ar+SHn
+. .
+</S>
+<S>
+Ali ali
+çocuk çocuk
+gibi gibi
+perendeler perende+lAr
+atıyor at+Hyor
+otlarla ot+lAr+ylA
+, ,
+yamaçlarla yamaç+lAr+ylA
+sarmaş sarmaş
+dolaş dolaş
+oluyordu ol+Hyor+yDH
+. .
+</S>
+<S>
+Takla takla
+attım at+DH+m
+hemen hemen
+belim bel+Hm
+ağrıdı ağrı+DH
+. .
+</S>
+<S>
+Kar kar
+sayesinde sayesinde
+kızak kızak
+yağ yağ
+gibi gibi
+kayıyordu kay+Hyor+yDH
+. .
+</S>
+<S>
+Gemi gemi
+baş baş
+döndüren döndür+yAn
+zaferli zafer+lH
+bir bir
+gürültüyle gürültü+ylA
+indi in+DH
+sulara su+lAr+yA
+... .
+</S>
+<S>
+Minibüs minibüs
+kızak kızak
+yapmıştı yap+mHs+yDH
+ama ama
+işe iş+yA
+yaramamıştı yarama+mHs+yDH
+. .
+</S>
+<S>
+Kırmızı kırmızı
+balıklar balık+lAr
+birdenbire birdenbire
+canlanırlar canlan+Hr+lAr
+ve ve
+kavanozun kavanoz+nHn
+içinde iç+sH+nDA
+birbiri birbiri
+ardınca ardınca
+keyifli keyifli
+keyifli keyifli
+çark çark
+çevirirler çevir+Hr+lAr
+hep hep
+. .
+</S>
+<S>
+Bir bir
+taş taş
+merdivenden merdiven+DAn
+çıkıp çık+yHp
+içeriye içeri+yA
+dalıyorlardı dal+Hyor+lAr+yDH
+. .
+</S>
+<S>
+Kapıdakiler kapı+DA+ki+lAr
+bakmazken bak+mA+z+yken
+içeriye içeri+yA
+daldılar dal+DH+lAr
+. .
+</S>
+<S>
+Hızla hızla
+içeri içeri
+daldı dal+DH
+, ,
+mumun mum+nHn
+başında baş+sH+nDA
+duran dur+yAn
+adama adam+yA
+doğru doğru
+iki iki
+adım adım
+attı at+DH
+. .
+</S>
+<S>
+Ördek ördek
+, ,
+gördüğümde gör+DHk+Hm+DA
+pike pike
+yapıyordu yap+Hyor+yDH
+. .
+</S>
+<S>
+O o
+çirkin çirkin
+, ,
+kaba kaba
+kunduralarla kundura+lAr+ylA
+sıcak sıcak
+günde gün+DA
+serin serin
+denize deniz+yA
+daldım dal+DH+m
+ve ve
+rahatladım rahatla+DH+m
+. .
+</S>
+<S>
+Araba araba
+, ,
+duramayınca dur+yAmA+yHncA
+diğer diğer
+arabaya araba+yA
+bindirmişti bindir+mHs+yDH
+. .
+</S>
+<S>
+Genç genç
+adam adam
+, ,
+iskeleden iskele+DAn
+zamkinos zamkinos
+etmişti et+mHs+yDH
+. .
+</S>
+<S>
+Karşı karşı
+tarafı taraf+yH
+lafa laf+yA
+tutarak tutarak
+biraz biraz
+vakit vakit
+kazandı kazan+DH
+. .
+</S>
+<S>
+Aceleye acele+yA
+gerek gerek
+yok yok
+biraz biraz
+vites vites
+küçültelim küçült+yA+lHm
+. .
+</S>
+<S>
+Tavuğu tavuk+sH
+ütüledim ütüle+DH+m
+, ,
+şimdi şimdi
+kızartabiliriz kızart+yAbil+Hr+yHz
+. .
+</S>
+<S>
+Eskiden eskiden
+yaraları yara+lAr+sH
+dikmek dik+mAk
+yerine yerine
+dağlarlarmış dağla+Hr+lAr+ymHs
+. .
+</S>
+<S>
+Çayın çay+nHn
+suyu su+yH
+kaynamış kayna+mHs
+, ,
+demlesene demlesene
+. .
+</S>
+<S>
+Çorbayı çorba+yH
+resmen resmen
+yakmışsın yak+mHs+SHn
+, ,
+içilmiyor iç+Hl+mA+Hyor
+. .
+</S>
+<S>
+Vaktimiz vakit+HmHz
+dar dar
+olduğu ol+DHk+sH
+için için
+çalışamalara çalışamalara
+hemen hemen
+start start
+verdik ver+DH+k
+. .
+</S>
+<S>
+Aysu aysu
+Hanım hanım
+toplantıyı toplantı+yH
+bir bir
+konuşma konuş+mA
+ile ile
+açacak aç+yAcAk
+. .
+</S>
+<S>
+Her her
+gece gece
+şölenler şölen+lAr
+düzenliyor düzenle+Hyor
+, ,
+çalgıcılar çalgıcı+lAr
+davet davet
+ediyor et+Hyor
+, ,
+millete millet+yA
+hacıağalık hacıağalık
+ediyordu et+Hyor+yDH
+. .
+</S>
+<S>
+Doğum doğum
+günü gün+sH
+hediyesi hediye+sH
+olarak ol+yArAk
+alınan al+Hn+yAn
+oyuncaklar oyuncak+lAr
+bir bir
+kenara kenar+yA
+atılmıştı at+Hl+mHs+yDH
+. .
+</S>
+<S>
+O o
+da da
+herkes herkes
+gibi gibi
+bir bir
+insan insan
+, ,
+nihayetinde nihayetinde
+bu bu
+gizemli gizemli
+davadan dava+DAn
+yoruldu yorul+DH
+ve ve
+arkasını arka+sH+nH
+bıraktı bırak+DH
+. .
+</S>
+<S>
+Eskişehir eskişehir
+öyle öyle
+soğuk soğuk
+ki ki
+, ,
+insanın insan+nHn
+iliğine ilik+sH+nA
+işliyor işle+Hyor
+. .
+</S>
+<S>
+Ankara'da ankara+'DA
+resmen resmen
+ayaz ayaz
+kesiyor kes+Hyor
+, ,
+hiç hiç
+alışkın alışkın
+değilim değil+yHm
+. .
+</S>
+<S>
+Dışarıya dışarı+yA
+çıktığımda çık+DHk+Hm+DA
+soğuktan soğuk+DAn
+resmen resmen
+kıkırdıyordum kıkırda+Hyor+yDH+m
+. .
+</S>
+<S>
+Soba soba
+yanmıyordu yan+mA+Hyor+yDH
+, ,
+tir tir
+tir tir
+titriyordum titre+Hyor+yDH+m
+. .
+</S>
+<S>
+Çok çok
+üşüdüm üşü+DH+m
+, ,
+üzerime üzeri+Hm+yA
+ne ne
+giysem giy+SA+m
+de de
+ısınamadım ısın+yAmA+DH+m
+. .
+</S>
+<S>
+Bugünü bugün+yH
+kendime kendi+Hm+yA
+tatil tatil
+ettim et+DH+m
+. .
+</S>
+<S>
+Evin ev+nHn
+tüm tüm
+duvarlarını duvar+lAr+sH+nH
+payandaladık payandala+DH+k
+. .
+</S>
+<S>
+En en
+sevdiği sev+DHk+sH
+şeylerden şey+lAr+DAn
+biri biri
+gölde göl+DA
+yüzmekti yüz+mAk+yDH
+. .
+</S>
+<S>
+Kilisedeki kilise+DA+ki
+birbirinden birbiri+nDAn
+güzel güzel
+freskleri fresk+lAr+sH
+tahrif tahrif
+etmişler et+mHs+lAr
+. .
+</S>
+<S>
+Bu bu
+sayede saye+DA
+nitelikli nitelikli
+nesiller nesil+lAr
+yetişmiştir yetiş+mHs+DHr
+. .
+</S>
+<S>
+Biz biz
+bu bu
+konuyu konu+yH
+biliştik biliş+DH+k
+. .
+</S>
+<S>
+Ne ne
+zaman zaman
+bir bir
+işe iş+yA
+kalkışsa kalkış+SA
+ailesi aile+sH
+zorluk zorluk
+çıkarırdı çık+Ar+Hr+yDH
+. .
+</S>
+<S>
+Sırtüstü sırtüstü
+yatmak yat+mAk
+omurga omurga
+sağlığı sağlık+sH
+açısından açı+sH+nDAn
+oldukça oldukça
+önemlidir önemli+DHr
+. .
+</S>
+<S>
+Adamın adam+nHn
+köpeği köpek+sH
+ileride ileride
+susta susta
+duruyor dur+Hyor
+. .
+</S>
+<S>
+Küçük küçük
+köpek köpek
+sustaya susta+yA
+kalktı kalk+DH
+. .
+</S>
+<S>
+Salona salon+yA
+girdiğimde gir+DHk+Hm+DA
+kardeşim kardeş+Hm
+uzun uzun
+oturuyordu otur+Hyor+yDH
+. .
+</S>
+<S>
+Öyle öyle
+yorgundum yorgun+yDH+m
+ki ki
+koltuğa koltuk+yA
+geçip geç+yHp
+uzun uzun
+oturdum otur+DH+m
+. .
+</S>
+<S>
+Çok çok
+çalışmış çalış+mHs
+bugün bugün
+, ,
+vurup vur+yHp
+kafayı kafa+yH
+uyudu uyu+DH
+. .
+</S>
+<S>
+Yer yer
+öpmek öp+mAk
+yaşına yaş+sH+nA
+hiç hiç
+yakıştırmadığı yakıştır+mA+DHk+sH
+bir bir
+şeydi şey+yDH
+. .
+</S>
+<S>
+Babasının baba+sH+nHn
+karşısında karşı+sH+nDA
+yüz yüz
+sürdü sür+DH
+. .
+</S>
+<S>
+Rıhtımdaki rıhtım+DA+ki
+gemi gemi
+resmen resmen
+yana yan+yA
+yatmış yat+mHs
+. .
+</S>
+<S>
+Buralar bura+lAr
+topraklaşmış topraklaş+mHs
+artık artık
+. .
+</S>
+<S>
+Beklemekten bekle+mAk+DAn
+tortulanmış tortulan+mHs
+. .
+</S>
+<S>
+Eski eski
+kayaçlar kayaç+lAr
+tortullaşmış tortullaş+mHs
+. .
+</S>
+<S>
+Dokununca dokun+yHncA
+dağılıp dağıl+yHp
+tozlaştı tozlaş+DH
+. .
+</S>
+<S>
+Bu bu
+sivilce sivilce
+sanki sanki
+urlaşıyor urlaş+Hyor
+. .
+</S>
+<S>
+Kayalıklar kayalık+lAr
+yosunlanmış yosunlan+mHs
+. .
+</S>
+<S>
+Kazandığı kazan+DHk+sH
+paradan para+DAn
+en en
+yakınlarına yakın+lAr+sH+nA
+bile bile
+zırnık zırnık
+vermedi ver+mA+DH
+. .
+</S>
+<S>
+Ali ali
+güvenilirdir güvenilir+DHr
+, ,
+borcunu borç+sH+nH
+bilir bil+Hr
+. .
+</S>
+<S>
+Banka banka
+bana ben+yA
+bir bir
+kredi kredi
+açtı aç+DH
+. .
+</S>
+<S>
+Güveniniz güven+HnHz
+için için
+teşekkür teşekkür
+ederim et+Ar+yHm
+ama ama
+ben ben
+bu bu
+projeyi proje+yH
+kotaramam kotar+yAmA+m
+. .
+</S>
+<S>
+Almazlandım almazlan+DH+m
+gerçi gerçi
+ama ama
+üsteleyip üstele+yHp
+elime el+Hm+yA
+para para
+bile bile
+sıkıştırdı sıkıştır+DH
+. .
+</S>
+<S>
+Gole gol+yA
+giden git+yAn
+rakibini rakip+sH+nH
+engellemek engelle+mAk
+için için
+taban taban
+girdi gir+DH
+. .
+</S>
+<S>
+Karşı karşı
+takım takım
+pasları pas+lAr+yH
+engellemek engelle+mAk
+için için
+sürekli sürekli
+baskı baskı
+yaptı yap+DH
+. .
+</S>
+<S>
+Micheal micheal
+Jordan jordan
+final final
+maçında maç+sH+nDA
+her her
+zamankinden zaman+ki+Hn+DAn
+daha daha
+çok çok
+pres pres
+yaptı yap+DH
+. .
+</S>
+<S>
+Jordan jordan
+rakibini rakip+sH+nH
+perdeleyerek perdele+yArAk
+skorun skor+nHn
+eşitlenmesine eşitlen+mA+sH+nA
+izin izin
+vermedi ver+mA+DH
+. .
+</S>
+<S>
+Devre devre
+arasından ara+sH+nDAn
+sonra sonra
+yeniden yeniden
+rövanşı rövanş+yH
+aldı al+DH
+. .
+</S>
+<S>
+Jokey jokey
+, ,
+yarışmada yarışma+DA
+galop galop
+yaptı yap+DH
+. .
+</S>
+<S>
+Tam tam
+maç maç
+bitecekken bit+yAcAk+yken
+yeniden yeniden
+basket basket
+yaptı yap+DH
+. .
+</S>
+<S>
+Güveniniz güven+HnHz
+için için
+teşekkür teşekkür
+ederim et+Ar+yHm
+ama ama
+ben ben
+bu bu
+projeyi proje+yH
+kotaramam kotar+yAmA+m
+. .
+</S>
+<S>
+Yarışmada yarışma+DA
+çok çok
+kötü kötü
+şekilde şekil+DA
+mağlup mağlup
+oldum ol+DH+m
+. .
+</S>
+<S>
+Seçimler seçim+lAr
+için için
+halkın halk+nHn
+nabzını nabız+sH+nH
+tutuyor tut+Hyor
+. .
+</S>
+<S>
+Şişelerden şişe+lAr+DAn
+yağ yağ
+akmasın ak+mA+SHn
+diye diye
+iyice iyice
+sıktı sık+DH
+. .
+</S>
+<S>
+Adaptörleri adaptör+lAr+sH
+vidaladık vidala+DH+k
+, ,
+bu bu
+sayede saye+DA
+çalıştı çalış+DH
+. .
+</S>
+<S>
+Naneleri nane+lAr+sH
+kurutmaya kuru+t+mA+yA
+tevessül tevessül
+edecekti et+yAcAk+yDH
+. .
+</S>
+<S>
+Bir bir
+hastalık hastalık
+geldi gel+DH
+köye köy+yA
+. .
+</S>
+<S>
+Annesine anne+sH+nA
+aldığı al+DHk+sH
+hediyelerle hediye+lAr+ylA
+ona o+nA
+haz haz
+verdi ver+DH
+. .
+</S>
+<S>
+Bu bu
+yıl yıl
+7 7
+- -
+8 8
+bin bin
+tona ton+yA
+yakın yakın
+sebzemizi sebze+HmHz+yH
+bu bu
+halde hal+DA
+pazarladık pazarla+DH+k
+. .
+</S>
+<S>
+Altın altın
+, ,
+100 100
+liradan lira+DAn
+gidiyor git+Hyor
+. .
+</S>
+<S>
+Anne anne
+tavşan tavşan
+yavrularını yavru+lAr+sH+nH
+çaldığı çal+DHk+sH
+marulla marul+ylA
+besledi besle+DH
+. .
+</S>
+<S>
+Yediği ye+DHk+sH
+organik organik
+gıdalar gıda+lAr
+çocuğa çocuk+yA
+yaradı yara+DH
+. .
+</S>
+<S>
+Aldığı al+DHk+sH
+eğitimlerden eğitim+lAr+DAn
+edindiği edin+DHk+sH
+bilgi bilgi
+adamı adam+sH
+iş iş
+hayatında hayat+sH+nDA
+zenginleştirdi zenginleştir+DH
+. .
+</S>
+<S>
+Çok çok
+sürmez sür+mA+z
+, ,
+her her
+şey şey
+düzelir düzel+Hr
+. .
+</S>
+<S>
+Bugünlük bugünlük
+kepenkleri kepenk+lAr+sH
+indirdik indir+DH+k
+. .
+</S>
+<S>
+Sonunda sonunda
+o o
+da da
+sırra sır+yA
+erdi er+DH
+. .
+</S>
+<S>
+Sonunda sonunda
+herkes herkes
+gerginliğin gergin+lHk+nHn
+sebebini sebep+sH+nH
+iyice iyice
+anladı anla+DH
+. .
+</S>
+<S>
+Bu bu
+dosyayı dosya+yH
+yanıma yan+Hm+yA
+alıp al+yHp
+uzun uzun
+uzun uzun
+incelemeliyim incele+mAlH+yHm
+. .
+</S>
+<S>
+Önceden önceden
+haber haber
+vermedikleri ver+mA+DHk+lAr+sH
+için için
+konuşmacılar konuşmacı+lAr
+sahnede sahne+DA
+emprovizasyon emprovizasyon
+yaptı yap+DH
+. .
+</S>
+<S>
+Birilerini biri+lArH+nH
+rahatsız rahatsız
+etmiş et+mHs
+ki ki
+çok çok
+geçmeden geç+mAdAn
+onun o+nHn
+da da
+çukurunu çukur+sH+nH
+kazdılar kaz+DH+lAr
+. .
+</S>
+<S>
+Yan yan
+odadan oda+DAn
+bir bir
+tıkırtı tıkırtı
+duydum duy+DH+m
+. .
+</S>
+<S>
+Nihal nihal
+sevgilisinin sevgili+sH+nHn
+sadakatinden sadakat+sH+nDAn
+şüpheleniyordu şüphelen+Hyor+yDH
+. .
+</S>
+<S>
+Arsen Arsen
+Hanım hanım
+yalnızca yalnızca
+erkek erkek
+kardeşinin kardeş+sH+nHn
+sağlığı sağlık+sH
+için için
+endişeleniyordu endişelen+Hyor+yDH
+. .
+</S>
+<S>
+Kardeşine kardeş+sH+nA
+ayıp ayıp
+ettin et+yDH+n
+, ,
+sana sana
+teessüf teessüf
+ederim et+Ar+yHm
+. .
+</S>
+<S>
+En en
+son son
+bütün bütün
+bu bu
+olanlar ol+yAn+lAr
+yüzünden yüzünden
+ablasına abla+sH+nA
+demediğini de+mA+DHk+sH+nH
+bırakmadı bırak+mA+DH
+. .
+</S>
+<S>
+Kötü kötü
+eleştirenlerin eleştir+yAn+lAr+nHn
+hepsine hepsi+nA
+ağzının ağız+sH+nHn
+payını pay+sH+nH
+verdi ver+DH
+. .
+</S>
+<S>
+Ben ben
+arkadaşını arkadaş+sH+nH
+bilmem bilme+Hm
+, ,
+seni sen+nH
+bilirim bil+Hr+yHm
+. .
+</S>
+<S>
+İş iş
+yerindeki yer+sH+nDA+ki
+herkes herkes
+ayağına ayak+sH+nA
+çelme çelme
+taktı tak+DH
+. .
+</S>
+<S>
+Lütfen lütfen
+devam devam
+edin et+Hn
+, ,
+sizi siz+nH
+işinizden iş+HnHz+DAn
+alıkoymayayım alıkoy+mA+yA+yHm
+. .
+</S>
+<S>
+Emniyet emniyet
+kemerini kemer+sH+nH
+tak tak
+, ,
+arabayı araba+yH
+vitese vites+yA
+tak tak
+, ,
+hazırsın hazır+SH+Hn
+. .
+</S>
+<S>
+Çok çok
+hızlı hız+lH
+gidiyorsun git+Hyor+SHn
+, ,
+vitesi vites+sH
+küçült küçült
+. .
+</S>
+<S>
+Arsaya arsa+yA
+konmuş kon+mHs
+. .
+</S>
+<S>
+Alıcının alıcı+nHn
+istediği iste+DHk+sH
+aracı aracı
+peyledik peyle+DH+k
+. .
+</S>
+<S>
+Araba araba
+geriye geri+yA
+doğru doğru
+patinaj patinaj
+yaptı yap+DH
+. .
+</S>
+<S>
+Kaptan kaptan
+, ,
+gemiyi gemi+yH
+ağzına ağız+sH+nA
+kadar kadar
+doldurmuş dol+DHr+mHs
+, ,
+gemi gemi
+yan yan
+yatmış yat+mHs
+, ,
+bir bir
+deniz deniz
+çalkantısıyla çalkantı+sH+ylA
+alabora alabora
+olmuş ol+mHs
+. .
+</S>
+<S>
+Çarpışan çarp+Hs+yAn
+arabalar araba+lAr
+durmaksızın dur+mAksHzHn
+yanlıyordu yanla+Hyor+yDH
+. .
+</S>
+<S>
+Yürürken yürü+Hr+yken
+bir bir
+anda an+DA
+ayağımı ayak+Hm+yH
+burktum burk+DH+m
+. .
+</S>
+<S>
+Sapanı sapan+sH
+fırıldattı fırıldat+DH
+, ,
+taşı taşı
+saldı sal+DH
+. .
+</S>
+<S>
+Aşırı aşırı
+sıcaklar sıcak+lAr
+demiri demir+yH
+büktü bük+DH
+. .
+</S>
+<S>
+Trafik trafik
+kazasından kaza+sH+nDAn
+sonra sonra
+ayağını ayak+sH+nH
+alamıyordu al+yAmA+Hyor+yDH
+. .
+</S>
+<S>
+Tüm tüm
+dosyaları dosya+lAr+sH
+tamladı tamla+DH
+ve ve
+çıktı çık+DH
+. .
+</S>
+<S>
+Çok çok
+şükür şükür
+şu şu
+inşaatın inşaat+nHn
+da da
+arkasını arka+sH+nH
+aldık al+DH+k
+. .
+</S>
+<S>
+Satış satış
+işini iş+sH+nH
+en en
+kısa kısa
+sürede süre+DA
+pişirip pişir+yHp
+kotarmalısın kotar+mAlH+SHn
+. .
+</S>
+<S>
+Bunlar bu+nlAr
+da da
+artık artık
+kasıyor kas+Hyor
+, ,
+değiştirebiliriz değiştir+yAbil+Hr+yHz
+. .
+</S>

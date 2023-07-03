@@ -1,0 +1,8238 @@
+<S>
+Devasa devasa
+ölçekli ölçek+lH
+yeni yeni
+kanunda kanun+DA
+kullanılan kullan+Hl+yAn
+karmaşık karmaşık
+ve ve
+çetrefilli çetrefil+lH
+dil dil
+kavgayı kavga+yH
+bulandırdı bulan+DHr+DH
+. .
+</S>
+<S>
+Gelir gelir
+Artırma art+Hr+mA
+Usulleri usul+lAr+sH
+Komitesi komite+sH
+gelecek gel+yAcAk
+Salı salı
+günü gün+sH
+kanun kanun
+tasarısı tasarı+sH
+hakkında hakkında
+bir bir
+duruşma duruşma
+yapacak yap+yAcAk
+. .
+</S>
+<S>
+Reklam reklam
+ve ve
+tanıtımın tanıtım+nHn
+işe iş+yA
+yarayıp yara+yHp
+yaramadığını yara+mA+DHk+sH+nH
+görmek gör+mAk
+üzereyiz üzere+yHz
+. .
+</S>
+<S>
+Bu bu
+defa defa
+, ,
+daha daha
+da da
+hızlı hız+lH
+hareket hareket
+ediyorlar et+Hyor+lAr
+. .
+</S>
+<S>
+Shearson shearson
+Lehman lehman
+Hutton hutton
+Inc. ınc.
+dün dün
+öğleden öğle+DAn
+sonraya sonra+yA
+kadar kadar
+yeni yeni
+TV tv+yH
+reklamları reklam+lAr+sH
+yazmıştı yaz+mHs+yDH
+. .
+</S>
+<S>
+Bu bu
+kez kez
+, ,
+firmalar firma+lAr
+hazırdı hazır+yDH
+. .
+</S>
+<S>
+Diyaloğun diyalog+nHn
+sürdürülmesi sür+DHr+Hl+mA+sH
+kesinlikle kesinlikle
+temel temel
+öneme önem+yA
+haizdir haiz+DHr
+. .
+</S>
+<S>
+Cuma cuma
+günü gün+sH
+bunların bu+nlAr+nHn
+üzerine üzerine
+düşünüldüğünde düşün+Hl+DHk+sH+nDA
+çok çok
+geç geç
+kalmış kal+mHs
+olunacaktı ol+Hn+yAcAk+yDH
+. .
+</S>
+<S>
+Bunun bu+nHn
+hakkında hakkında
+önceden önceden
+düşünmemiz düşün+mA+HmHz
+gerekiyordu gerek+Hyor+yDH
+. .
+</S>
+<S>
+İsme isim+yA
+göre göre
+çeşitlilik çeşit+lH+lHk
+gösteren göster+yAn
+birkaç birkaç
+kefaret kefaret
+fonunun fon+sH+nH
+reklamını reklam+sH+nH
+yapmak yap+mAk
+için için
+devam devam
+ediyor et+Hyor
+. .
+</S>
+<S>
+PaineWebber painewebber
+1987 1987
+tarihli tarih+lH
+iflas iflas
+sayesinde sayesinde
+daha daha
+çabuk çabuk
+bir bir
+şekilde şekil+DA
+vites vites
+yükseltebilmişti yüksel+t+yAbil+mHs+yDH
+. .
+</S>
+<S>
+Tanıtım tanıtım
+dün dün
+gece gece
+CNN'de cnn+'DA
+3 3
+kere kere
+gösterilecek göster+Hl+yAcAk
+şekilde şekil+DA
+programlandı program+lAn+DH
+. .
+</S>
+<S>
+PaineWebber painewebber
+belirli belirli
+hisseleri hisse+lAr+sH
+öneren öner+yAn
+daha daha
+sert sert
+bir bir
+satışı sat+yHs+sH
+dikkate dikkat+yA
+aldı al+DH
+. .
+</S>
+<S>
+Ekledi ekle+DH
+, ,
+" "
+Bu bu
+1987'nin NONE
+yeniden yeniden
+ziyaret ziyaret
+edilmesi et+Hl+mA+SH
+değil değil
+. .
+" "
+</S>
+<S>
+Ekledi ekle+DH
+... ...
+</S>
+<S>
+ARNOLD arnold
+REKLAMCILIK reklamcılık
+: :
+</S>
+<S>
+Anlaşma anlaş+mA
+şartları şart+lAr+sH
+açıklanmadı açıkla+n+mA+DH
+. .
+</S>
+<S>
+Bu bu
+hesap hesap
+Della della
+Femina femina
+, ,
+McNamee mcnamee
+WCRS wcrs
+tarafından tarafından
+idare idare
+edildi et+Hl+DH
+. .
+</S>
+<S>
+EĞİTİM eğitim
+REKLAMLARI reklam+lAr+sH
+: :
+</S>
+<S>
+Ortalamalar ortalama+lAr
+yasasının yasa+sH+nHn
+ne ne
+demek de+mAk
+olduğunu ol+DHk+sH+nH
+biliyorsun bile+Hyor+SHn
+değil değil
+mi mi
+? ?
+</S>
+<S>
+Bu bu
+Giant'ın giant+'nHn
+fanatiklerini fanatik+lAr+Hn+yH
+rahatlatacak rahatla+t+yAcAk
+bir bir
+ortalama ortala+mA
+değildir değil+DHr
+. .
+</S>
+<S>
+Bugün bugün
+Giantlardan Giantlardan
+yanayım yan+yA+yHm
+ancak ancak
+yalnızca yalnızca
+dün dün
+kaybettikleri kaybet+DHk+lArH
+için için
+. .
+</S>
+<S>
+Her her
+ikisini iki+sH+nH
+de de
+seviyorum sev+Hyor+yHm
+. .
+</S>
+<S>
+Yukarıdaki yukarı+DA+ki
+ilgisizlik ilgi+SHz+lHk
+veya veya
+kibarlığın kibarlık+nHn
+bir bir
+zaferini zafer+sH+nH
+temsil temsil
+ediyor et+Hyor
+. .
+</S>
+<S>
+Onun o+nHn
+sıkı sık+yH
+ve ve
+güçlü güç+lH
+vurucu vur+yHcH
+McGwire'nin mcgwire+'nHn
+kendi kendi
+imzası imza+sH
+değil değil
+. .
+</S>
+<S>
+Sıfır sıfır
+sayı sayı
+vuruşu vur+yHs+sH
+ve ve
+gol gol
+vuruşu vur+yHs+sH
+ile ile
+burada burada
+kolektif kolektif
+5/24'e 5/24+'+yA
+gittiler git+DH+lAr
+. .
+</S>
+<S>
+Bu bu
+beyzboldur beyzbol+DHr
+. .
+</S>
+<S>
+Tedavüldeki tedavül+DA+ki
+ortalama ortalama
+hisseler hisse+lAr
+82.1 82.1
+milyondan milyon+DAn
+75.8 75.8
+milyon milyon
+seviyesine seviye+sH+nA
+düştü düş+DH
+. .
+</S>
+<S>
+Gelirler gelir+lAr
+1.41 1.41
+milyardan milyar+DAn
+% %
+1'lik 1+'+lHk
+düşüşle düşüş+ylA
+1.39 1.39
+milyar milyar
+dolar milyar
+geriledi gerile+DH
+. .
+</S>
+<S>
+Şimdi şimdi
+, ,
+yeni yeni
+bir bir
+ürün ürün
+gibi gibi
+olmayacak ol+mA+yAcAk
+. .
+</S>
+<S>
+Phyllis phyllis
+Kyle kyle
+Stephenson stephenson
+Newport newport
+News news
+Va Va
+. .
+</S>
+<S>
+Öğle öğle
+arası ara+sH+nA
+saatine saat+sH+nA
+kadar kadar
+satış sat+yHs
+hemen hemen
+hemen hemen
+paniğe panik+yA
+yakın yakın
+bir bir
+istim istim
+üzerindeydi üzeri+Hn+DA+yDH
+. .
+</S>
+<S>
+Böylece böylece
+Londra'nın londra+'nHn
+finans finans
+merkezinin merkez+Hn+nHn
+işlem işlem
+odalarında oda+lAr+Hn+DA
+dün dün
+gitti git+DH
+. .
+</S>
+<S>
+Ve ve
+Londra londra
+açısından açı+sH+nDAn
+karmaşık karmaşık
+sinyaller sinyal+lAr
+bıraktı bırak+DH
+. .
+</S>
+<S>
+Ekranlarda ekran+lAr+DA
+görülen gör+Hl+yAn
+kırmızı kırmızı
+rakamlar rakam+lAr
+değeri değer+yH
+düşen düş+yAn
+hisseleri hisse+lAr+sH
+, ,
+mavi mavi
+rakamlar rakam+lAr
+yükselen yüksel+yAn
+hisseleri hisse+lAr+sH
+gösteriyor göster+Hyor
+. .
+</S>
+<S>
+Çok çok
+sıkı sıkı
+ve ve
+disiplinli disiplin+lH
+bir bir
+idareye idare+yA
+meyilliyiz meyilli+yHz
+. .
+</S>
+<S>
+" "
+Bu bu
+son son
+derece derece
+sinir sinir
+bozucu boz+yHcH
+. .
+" "
+</S>
+<S>
+Reuters reuters
+hissesi hisse+sH
+için için
+arayışını ara+yHs+sH+nH
+geçici geçici
+olarak ol+yArAk
+bıraktı bırak+DH
+. .
+</S>
+<S>
+Kaçınılmaz kaçın+Hl+mA+z
+olarak ol+yArAk
+birçok birçok
+türbülansın türbülans+nHn
+içindeyiz iç+sH+nDA+yHz
+... ...
+</S>
+<S>
+Haklıydı hak+lH+yDH
+. .
+</S>
+<S>
+Londra londra
+piyasası piyasa+sH
+Öğle öğle
+vaktine vakit+sH+nA
+kadar kadar
+tam tam
+bir bir
+geri geri
+çekilmedeydi çek+Hl+mA+DA+yDH
+. .
+</S>
+<S>
+İletişim iletişim
+patronların patron+lAr+nHn
+çoğunun çok+Hn+nHn
+TV'de tv+sH+'nDA
+en en
+son son
+verilen ver+Hl+yAn
+piyasa piyasa
+istatistiklerini istatistik+lAr+Hn+yH
+izlemesi izle+mA+SH
+nedeniyle nedeniyle
+hafifledi hafifle+DH
+. .
+</S>
+<S>
+Bu bu
+piyasa piyasa
+çok çok
+kötü kötü
+hasar hasar
+aldı al+DH
+. .
+</S>
+<S>
+Tümünü tümü+nH
+elden elden
+çıkarma çık+Ar+mA
+sayesinde sayesinde
+yaratılan yarat+Hl+yAn
+bir bir
+fırsat fırsat
+gördüler gör+DH+lAr
+. .
+</S>
+<S>
+Aniden aniden
+yaklaşık yaklaşık
+45 45
+dakika dakika
+sonra sonra
+, ,
+ABD NONE
+piyasaları piyasa+lAr+sH
+toparlandı toparlan+DH
+. .
+</S>
+<S>
+Wall wall
+Street street
+direnç direnç
+kazandığı kazan+DHk+sH
+için için
+Londra londra
+işlem işlem
+odası oda+sH
+çılgınlaştı çılgın+lAs+DH
+. .
+</S>
+<S>
+Aracılar aracı+lAr
+ekranlarında ekran+lAr+Hn+DA
+Wall wall
+Street street
+üzerinde üzeri+Hn+DA
+sürekli sürek+lH
+daralan daral+yAn
+bir bir
+zarar zarar
+belirdikçe belir+DHkCA
+bağırdılar bağır+DH+lAr
+</S>
+<S>
+" "
+Bu bu
+panik panik
+alımı alım+yH
+! !
+" "
+</S>
+<S>
+Bu bu
+kadar kadar
+kötümser kötümser
+olmayın ol+mA+yHn
+Bay bay
+Büyükelçi büyükelçi
+. .
+</S>
+<S>
+Frank frank
+Tremdine tremdine
+</S>
+<S>
+Boeing'deki boeing
+iş iş
+; ;
+müfettişler müfettiş+lAr
+, ,
+gözetmenler gözet+mA+Hn+lAr
+ve ve
+üretim üretim
+hatlarına hat+lAr+Hn+yA
+yerleştirilen yerleş+DHr+Hl+yAn
+grevde grev+DA
+olmayan ol+mA+yAn
+personelle personel+ylA
+sürdürülüyor sür+DHr+Hl+Hyor
+. .
+</S>
+<S>
+Kansas kansas
+çalışma çalış+mA
+hakkı hak+sH
+kanunlarına kanun+lAr+Hn+yA
+göre göre
+, ,
+sözleşmeler söz+lAs+mA+lAr
+çalışanların çalış+yAn+lAr+nHn
+sendika sendika
+üyesi üye+sH
+olmasını ol+mA+sH+nH
+gerektirmeyebiliyor gerek+DHr+mA+yAbil+Hyor
+. .
+</S>
+<S>
+Sendika sendika
+yetkililerine yetki+lH+lAr+Hn+yA
+yorum yorum
+almak al+mAk
+için için
+ulaşamadık ulaş+yAmA+DH+k
+. .
+</S>
+<S>
+Bir bir
+DPC DPC
+sözcüsü sözcü+sH
+, ,
+grubun grup+nHn
+yeni yeni
+planı plan+sH
+hakkında hakkında
+detay detay
+vermeyi ver+mA+yH
+istemedi iste+mA+DH
+. .
+</S>
+<S>
+Avrupalı avrupalı
+yatırımcıların yatırımcı+lAr+nHn
+bugün bugün
+ABD abd
+sıçraması sıçra+mA+SH
+sonrasında sonra+sH+nDA
+iyimserlik iyimser+lHk
+için için
+başka başka
+bir bir
+sebebi sebep+sH
+var var
+. .
+</S>
+<S>
+Hisse hisse
+fiyatları fiyat+lAr+yH
+Milan milano
+, ,
+Amsterdam amsterdam
+, ,
+Zürih zürih
+, ,
+Madrid madrid
+ve ve
+Stockholm'da Stockholm'de
+düştü düş+Hyor
+. .
+</S>
+<S>
+Bir bir
+bilgisayar bilgisayar
+arızasının arıza+sH+nHn
+alım alım
+satım satım
+işlemlerini işlem+lAr+Hn+yH
+kesintiye kesinti+yA
+uğrattığı uğra+t+DHk+sH
+Brüksel'deki brüksel+'DA+ki
+fiyatlar fiyat+lAr
+da da
+alt alt
+üst üst
+oldu ol+DH
+. .
+</S>
+<S>
+Aşağıdaki aşağı+DA+ki
+büyük büyük
+bir bir
+piyasa piyasa
+faaliyetinin faaliyet+sH+nHn
+bozulmasıdır boz+Hl+mA+sH+DHr
+</S>
+<S>
+FRANKFURT frankfurt
+: :
+</S>
+<S>
+Endeks endeks
+203.56 203.56
+puan puan
+düşüşle düş+yHs+ylA
+1385.72 1385.72
+seviyesinde seviye+sH+nDA
+kapandı kapan+DH
+. .
+</S>
+<S>
+En en
+kurumsal kurumsal
+yatırımcılar yatırımcı+lAr
+dahil dahil
+herkes herkes
+halen halen
+güvenliydi güven+lH+yDH
+. .
+</S>
+<S>
+Batı batı
+Almanya'nın almanya+'nHn
+bazı bazı
+en en
+iyi iyi
+kalite kalite
+ve ve
+güvenilir güvenilir
+hisse hisse
+senetleri senet+lAr+sH
+bazı bazı
+en en
+yüksek yüksek
+artışları art+yHs+lAr+sH
+gösterdi göster+DH
+. .
+</S>
+<S>
+Londra londra
+: :
+</S>
+<S>
+Hacim hacim
+959.3 959.3
+milyon milyon
+adet adet
+hisseyle hisse+ylA
+son son
+seviyelerin seviye+lAr+nHn
+3 3
+katından kat+Hn+DAn
+fazlaydı fazla+yDH
+. .
+</S>
+<S>
+Paris paris
+: :
+</S>
+<S>
+J.P. J.P.
+Morgan morgan
+& &
+Co Co
+. .
+</S>
+<S>
+Son son
+çeyreğin çeyrek+nHn
+zararı zarar+sH
+hisse hisse
+başına baş+sH+nA
+9.92 9.92
+dolar dolar
+. .
+</S>
+<S>
+Faiz faiz
+dışı dış+sH
+giderler gider+lAr
+%16'lık %16'lık
+artışla art+yHs+ylA
+496 496
+milyon milyon
+dolara dolar+yA
+dayandı dayan+DH
+. .
+</S>
+<S>
+NCNB NCNB
+Corp corp
+. .
+</S>
+<S>
+Sonuçlar sonuç+lAr
+piyasa piyasa
+kapandıktan kapa+n+DHk+DAn
+sonra sonra
+yayınlandı yayınla+n+DH
+. .
+</S>
+<S>
+Security Security
+Pacific Pacific
+Corp corp
+. .
+</S>
+<S>
+Kredi kredi
+büyüme büyüme
+dengesi denge+sH
+kriz kriz
+içindeki iç+sH+nDA+ki
+Arizona arizona
+piyasasında piyasa+sH+nDA
+gayrimenkul gayrimenkul
+kredi kredi
+zararlarını zarar+lAr+Hn+yH
+sürdürüyor sür+DHr+Hyor
+. .
+</S>
+<S>
+Faiz faiz
+dışı dış+yH
+giderler gider+lAr
+dönem dönem
+içinde içinde
+yalnızca yalnızca
+% %
+4 4
+arttı art+DH
+. .
+</S>
+<S>
+Mektup mektup
+6 6
+Ekim ekim
+tarihliydi tarih+lH+yDH
+. .
+</S>
+<S>
+Telerate Telerate
+3 3
+Kasım kasım
+tarihinde tarih+sH+nDA
+süresi süre+sH
+dolacak dol+yAcAk
+olan ol+yAn
+teklifi teklif+sH
+reddetti reddet+DH
+. .
+</S>
+<S>
+Bu bu
+hareket hareket
+koruma koruma
+temelinde temel+sH+nDA
+Kanada kanada
+hükümeti hükümet+sH
+tarafından taraf+sH+nDAn
+savunuldu savun+Hl+DH
+. .
+</S>
+<S>
+Bayan bayan
+Hills hills
+dün dün
+bu bu
+Kanada kanada
+hükümeti hükümet+sH
+argümanını argüman+sH+nH
+reddettiğini reddet+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Atıl atıl
+Düşünce düşünce
+</S>
+<S>
+-- --
+May May
+Richstone Richstone
+. .
+</S>
+<S>
+Telecussed Telecussed
+</S>
+<S>
+-- --
+Dick dick
+Emmons Emmons
+. .
+</S>
+<S>
+BSN BSN
+halihazırda halihazırda
+ödenmemiş öde+n+mA+mHs
+4.6 4.6
+milyon milyon
+adi adi
+hisseye hisse+yA
+sahiptir sahip+DHr
+. .
+</S>
+<S>
+Teklifler teklif+lAr
+Kasım kasım
+ortası orta+sH
+ile ile
+sonu son+sH
+arasında ara+sH+nDA
+sona son+yA
+erecek er+yAcAk
+şekilde şekil+DA
+programlandı programla+n+DH
+. .
+</S>
+<S>
+Varlık-yönetim Varlık-yönetim
+ücreti ücret+sH
+gelirleri gelir+lAr+yH
+% %
+12 12
+artışla art+yHs+ylA
+151 151
+milyon milyon
+dolara dolar+yA
+ulaştı ulaş+DH
+. .
+</S>
+<S>
+Piyasa piyasa
+değişimlerinin değişim+lAr+Hn+nHn
+henüz henüz
+bir bir
+nakit nakit
+sıkıntısını sıkıntı+sH+nH
+tetiklemediği tetikle+mA+DHk+sH
+açıkça açık+CA
+görülüyor gör+Hl+Hyor
+. .
+</S>
+<S>
+" "
+Bu bu
+iyi iyi
+bir bir
+haber haber
+, ,
+zira zira
+hepimiz hep+HmHz
+Bu bu
+suda su+DA
+yüzüyoruz yüz+Hyor+yHz
+. .
+" "
+</S>
+<S>
+Şimdi şimdi
+, ,
+yarına yarın+yA
+gelince gel+yHncA
+, ,
+peki peki
+, ,
+kim kim
+bilir bil+Hr
+? ?
+</S>
+<S>
+Ancak ancak
+piyasalar piyasa+lAr
+daha daha
+yüksek yüksek
+veya veya
+daha daha
+düşük düşük
+verimlilikle verim+lH+lHk+ylA
+işleyebilir işle+yAbil+Hr
+. .
+</S>
+<S>
+Teorinin teori+nHn
+gerçekçi gerçek+CH
+olup ol+yHp
+olmadığını ol+mA+DHk+sH+nH
+bilmek bil+mAk
+imkansızdır imkan+SHz+DHr
+. .
+</S>
+<S>
+Cuma cuma
+günü gün+yH
+olan ol+yAn
+bitenler bit+yAn+lAr
+tüm tüm
+dünyanın dünya+nHn
+en en
+kötüsüydü kötü+sH+yDH
+. .
+</S>
+<S>
+Options Options
+piyasaları piyasa+lAr+sH
+birçok birçok
+hissede hisse+DA
+alım alım
+satımı satım+yH
+durdurdu dur+DHr+DH
+. .
+</S>
+<S>
+New new
+York york
+Borsası borsa+sH
+, ,
+kendi kendi
+koşulları koşul+lAr+sH
+altında alt+Hn+DA
+, ,
+açık açık
+kaldı kal+DH
+. .
+</S>
+<S>
+Bu bu
+piyasada piyasa+DA
+likidite likidite
+zayıfladığı zayıfla+DHk+sH
+için için
+fiyatlar fiyat+lAr
+keskin keskin
+düşüş düşüş
+gösterdi göster+DH
+. .
+</S>
+<S>
+Aracılar ara+CH+lAr
+stratejilerini strateji+lAr+Hn+yH
+değiştirebilir değiş+DHr+yAbil+Hr
+ve ve
+kendi kendi
+emirlerini emir+lAr+Hn+yH
+bu bu
+stratejilerden strateji+lAr+DAn
+biri bir+yH
+dahilinde dahil+sH+nDA
+yürütebilir yürüt+yAbil+Hr
+. .
+</S>
+<S>
+Bu bu
+yüzden yüzden
+her her
+piyasa piyasa
+için için
+farklı fark+lH
+devre devre
+kırıcıları kırıcı+lAr+sH
+kabul kabul
+etmesinin et+mA+sH+nHn
+bir bir
+anlamı anlam+sH
+olmaz ol+mA+z
+. .
+</S>
+<S>
+Ancak ancak
+piyasa piyasa
+performansının performans+sH+nHn
+geliştirilmesi geliş+DHr+Hl+mA+SH
+görevi görev+sH
+henüz henüz
+bitmemiş bit+mA+mHs
+şekilde şekil+DA
+duruyor dur+Hyor
+. .
+</S>
+<S>
+Birleşik birleşik
+bir bir
+Avrupa avrupa
+işgücü işgücü
+problemleri problem+lAr+sH
+doğuruyor doğur+Hyor
+ve ve
+ABD abd
+firmalarında firma+lAr+Hn+DA
+arıyor ara+Hyor
+. .
+</S>
+<S>
+Kulüplere kulüp+lAr+yA
+akan ak+yAn
+bir bir
+fan fan
+Baltimore Baltimore
+Orioles'in orioles
+hatası hata+sH
+değildi değil+yDH
+. .
+</S>
+<S>
+Hemşire hemşire
+eksikliğiyle eksik+lHk+sH+ylA
+başa baş+yA
+çıkılmasına çık+Hl+mA+sH+nA
+yönelik yön+yA+lHk
+olarak ol+yArAk
+teklifler teklif+lAr
+ortaya orta+yA
+konuluyor kon+Hl+Hyor
+. .
+</S>
+<S>
+Birçoğu NONE
+ayrıca ayrıca
+istihdam istihdam
+ikramiyeleri ikramiye+lAr+sH
+, ,
+eğitim eğitim
+geri geri
+ödemeleri öde+mA+lAr+sH
+, ,
+kredi kredi
+ödemeleri öde+mA+lAr+sH
+veya veya
+çocuk çocuk
+bakım bakım
+yardımı yardım+sH
+kullanıyor kullan+Hyor
+. .
+</S>
+<S>
+Bazıları bazı+lArH
+götürü götürü
+teşvikler teşvik+lAr
+veriyor ver+Hyor
+. .
+</S>
+<S>
+Bu bu
+onların onlar+nHn
+en en
+yüksek yüksek
+beş beş
+çalışma çalışma
+değeri değer+yH
+. .
+</S>
+<S>
+3000 3000
+çalışma çalış+mA
+saati saat+sH
+devlete devlet+yA
+55000 55000
+dolar dolar
+tasarruf tasarruf
+sağlıyor sağla+Hyor
+. .
+</S>
+<S>
+Konut konut
+satışı sat+yHs+sH
+zararları zarar+lAr+sH
+yükseliyor yüksel+Hyor
+ancak ancak
+genellikle genellikle
+çalışanlar çalışan+lAr
+tarafından tarafından
+kapatılıyor kapa+t+Hl+Hyor
+. .
+</S>
+<S>
+Ancak ancak
+hasarı hasar+sH
+sınırlandırmak sınır+lAn+DHr+mAk
+için için
+yöntem yöntem
+arayışı ara+yHs+sH
+içindeler iç+sH+nDA+lAr
+. .
+</S>
+<S>
+Tüm tüm
+veya veya
+bazı bazı
+zararlar zarar+lAr
+için için
+yaklaşık yaklaşık
+% %
+72 72
+telafi telafi
+. .
+</S>
+<S>
+RJR RJR
+Nabisco Nabisco
+düzeltmeler düzel+t+mA+lAr
+ve ve
+iyileştirmeler iyi+lAs+DHr+mA+lAr
+dahil dahil
+azami azami
+30.000 30.0
+dolar dolar
+bedelinde bedel+sH+nDA
+zararı zarar+sH
+ödüyor öde+Hyor
+. .
+</S>
+<S>
+Tavuk tavuk
+zincirleri zincir+lAr+yH
+müşteri müşteri
+kaybı kayıp+sH
+nedeniyle nedeniyle
+dalgalandı dalga+lAn+DH
+</S>
+<S>
+Daha daha
+fazla fazla
+müşteri müşteri
+kaybı kayıp+sH
+bir bir
+dizi dizi
+problemin problem+nHn
+son son
+halkasıdır halka+sH+DHr
+. .
+</S>
+<S>
+Ancak ancak
+şirket şirket
+yorum yorum
+yapmayı yap+mA+yH
+reddediyor reddet+Hyor
+. .
+</S>
+<S>
+Gönülsüz gönül+SHz
+reklamcılar reklamcı+lAr
+yumuşak yumuşak
+Satış satış
+Spotlarını spot+lAr+Hn+yH
+deniyor dene+Hyor
+</S>
+<S>
+Bunu bu+nH
+reklam reklam
+vermeme ver+mA+mA
+olarak ol+yArAk
+adlandırın ad+lAn+DHr+yHn
+. .
+</S>
+<S>
+Onun o+nHn
+taktiği taktik+sH
+: :
+Faydalı fayda+lH
+ipuçları ipuçları
+sunan sun+yAn
+60-saniyelik 60-saniyelik
+radyo radyo
+reklamları reklam+lAr+sH
+. .
+</S>
+<S>
+Ancak ancak
+bu bu
+reklamlar reklam+lAr
+çok çok
+yumuşak yumuşak
+olabilir ol+yAbil+Hr
+. .
+</S>
+<S>
+Perakendeci perakendeci
+Çevresel çevresel
+Baskılarda baskı+lAr+DA
+Gizli gizli
+Tehlikeler tehlike+lAr
+Görüyor gör+Hyor
+</S>
+<S>
+Ancak ancak
+zincir zincir
+bu bu
+tür tür
+ciroların ciro+lAr+nHn
+gizli giz+lH
+tehlikelerini tehlike+lAr+Hn+yH
+hemen hemen
+fark fark
+etmektedir et+mAk+DA+DHr
+. .
+</S>
+<S>
+Bu bu
+Procter Procter
+& &
+Gamble Gamble
+Co.'yu Co.
+Cascade Cascade
+bulaşık bulaşık
+deterjanı deterjan+sH
+üreticisi üre+t+yHcH+SH
+çok çok
+heyecanlandırmadı heyecan+lAn+DHr+mA+DH
+. .
+</S>
+<S>
+" "
+Ve ve
+kesin kesin
+Ve ve
+doğru doğru
+olmak ol+mAk
+çok çok
+önemli önem+lH
+. .
+" "
+</S>
+<S>
+Ancak ancak
+sonunda sonunda
+, ,
+müşterilerin müşteri+lAr+nHn
+istekleri istek+lAr+sH
+geçerli geçerli
+olacaktır ol+yAcAk+DHr
+. .
+</S>
+<S>
+Büyük büyük
+Ayı ayı
+geri geri
+dönüşüme dönüşüm+yA
+uygun uygun
+olmayan ol+mA+yAn
+tek tek
+kullanımlık kullanım+lHk
+bezlerle bez+lAr+ylA
+ilgilenmiyor ilgilen+mA+Hyor
+. .
+</S>
+<S>
+Hala hala
+ebeveynler ebeveyn+lAr
+bunu bu+nH
+talep talep
+ediyor et+Hyor
+. .
+</S>
+<S>
+Ufak ufak
+Tefek tefek
+Şeyler şey+lAr
+</S>
+<S>
+Düzenlilik düzen+lH+lHk
+önem önem
+taşır taşı+Hr
+en en
+azından az+Hn+DAn
+bir bir
+bakkalda bakkal+DA
+. .
+</S>
+<S>
+Hangi hangi
+ünlü ün+lH
+cirantalar ciranta+lAr
+en en
+güvenilirleridir güvenilir+lAr+sH+DHr
+? ?
+</S>
+<S>
+Sonradan sonradan
+gelişen geliş+yAn
+bağışıklık bağışıklık
+yetersizliği yetersizlik+sH
+sendromu sendrom+sH
+üzerinde üzeri+Hn+DA
+birkaç birkaç
+görev görev
+gücünde güç+Hn+DA
+de de
+yer yer
+alıyor al+Hyor
+. .
+</S>
+<S>
+Sürmekte sür+mAk+DA
+olan ol+yAn
+HUD hud
+skandalları skandal+lAr+sH
+dizisi dizi+sH
+milletvekili milletvekil+H
+seçim seçim
+ödeneği ödenek+sH
+politikasının politika+sH+nHn
+kederli keder+lH
+bir bir
+biçimde biçim+DA
+önceden önceden
+kestirilebilmiş kes+DHr+Hl+yAbil+mHs
+bir bir
+sonucudur sonuç+sH+DHr
+. .
+</S>
+<S>
+Daha daha
+fazla fazla
+devlet devlet
+harcaması harca+mA+SH
+için için
+bastıran bas+DHr+yAn
+İş iş
+grupları grup+lAr+sH
+hiç hiç
+de de
+garip garip
+bir bir
+olgu olgu
+değildir değil+DHr
+. .
+</S>
+<S>
+Halen halen
+dokunulması dokun+Hl+mA+SH
+hassas hassas
+konularda konu+lAr+DA
+... ...
+</S>
+<S>
+Adil adil
+hissemizden hisse+HmHz+DAn
+fazlasını fazla+SH+Hn+yH
+aldık al+DH+k
+. .
+</S>
+<S>
+Örneğin örnek+sH
+, ,
+FHA FHA
+vasıtasıyla vasıtasıyla
+yapılan yap+Hl+yAn
+dolaylı dolay+lH
+sübvansiyonlar sübvansiyon+lAr
+daha daha
+iyi iyi
+. .
+</S>
+<S>
+Bu bu
+konut konut
+inşaatçılarının inşaatçı+lAr+Hn+nHn
+istediği iste+DHk+sH
+şey şey
+mi mi
+? ?
+</S>
+<S>
+Bay bay
+Bandow Bandow
+bir bir
+Cato Cato
+Institute ınstitute
+hocasıdır hoca+sH+DHr
+. .
+</S>
+<S>
+Hükümetler hükümet+lAr
+arası ara+sH
+konferansın konferans+nHn
+toplanma topla+n+mA
+süreci süreç+sH
+oybirliği oybirliği
+gerektirmiyor gerek+DHr+mA+Hyor
+. .
+</S>
+<S>
+Gri gri
+Cuma'daki cuma+'DA+ki
+gibiydi gibi+yDH
+. .
+</S>
+<S>
+Bu bu
+geçit geçit
+töreninin tören+sH+nHn
+büyük büyük
+tefrişatçısı tefrişatçısı
+aşırı aşırı
+kaldırma kaldır+mA
+gücünde güç+sH+nDA
+olacak ol+yAcAk
+gibi gibi
+görünüyor görün+Hyor
+. .
+</S>
+<S>
+Alım alım
+satım satım
+hisseleri hisse+lAr+sH
+en en
+ağır ağır
+zararları zarar+lAr+sH
+emdiği em+DHk+sH
+için için
+piyasayı piyasa+yH
+aşağıya aşağı+yA
+düşürdü düşür+DH
+. .
+</S>
+<S>
+İkisi iki+sH
+de de
+dün dün
+daha daha
+fazla fazla
+vuruş vur+yHs
+aldılar al+DH+lAr
+. .
+</S>
+<S>
+Hilton hilton
+cuma cuma
+günü gün+yH
+% %
+20 20
+kayba kayıp+yA
+uğrarken uğra+Hr+yken
+; ;
+Paramount'un paramount+'nHn
+kaybı kayıp+sH
+hemen hemen
+hemen hemen
+% %
+11 11
+oldu ol+DH
+. .
+</S>
+<S>
+Kesinlikle kesinlikle
+değil değil
+. .
+</S>
+<S>
+Pek pek
+şaşırtıcı şaşır+t+yHcH
+değil değil
+, ,
+bazen bazen
+ısırır ısır+Hr
+. .
+</S>
+<S>
+Gerçek gerçek
+, ,
+Washington'ın Washington'ın
+politikayı politika+yH
+ekonomiden ekonomi+DAn
+daha daha
+iyi iyi
+anlamasıdır anla+mA+sH+DHr
+. .
+</S>
+<S>
+Endeks endeks
+Pazartesi pazartesi
+günü gün+yH
+647.33 647.33
+puan puan
+ya ya
+da da
+% %
+1.8 1.8
+kaydı kay+DH
+. .
+</S>
+<S>
+Günün gün+nHn
+düşüşü düş+yHs+yH
+genellikle genellikle
+analistlerin analist+lAr+nHn
+hafta hafta
+sonu son+sH
+tahminlerine tahmin+lArH+nA
+uygundu uygun+yDH
+. .
+</S>
+<S>
+Düşen düş+yAn
+hisseler hisse+lAr
+yükselenleri yüksel+yAn+lAr+sH
+941 941
+- -
+105 105
+düşürdü düş+Hr+DH
+. .
+</S>
+<S>
+Ancak ancak
+526.2 526.2
+milyonluk milyon+lHk
+hacim hacim
+, ,
+Cuma cuma
+günkü gün+kü
+574.7 574.7
+milyonla milyon+ylA
+karşılaştırılınca karşılaş+DHr+Hl+yHncA
+biraz biraz
+zayıf zayıf
+kaldı kal+DH
+. .
+</S>
+<S>
+Böylece böylece
+, ,
+piyasa piyasa
+katılımcıları katılımcı+lAr+sH
+dün dün
+sinirli sinir+lH
+bir bir
+şekilde şekil+DA
+Wall wall
+Street'in street+'nHn
+açılışını açılış+sH+nH
+bekliyorlardı bekle+Hyor+lAr+yDH
+. .
+</S>
+<S>
+Bizim biz+Hm
+kurumsal kurumsal
+yatırımcılar yatırımcı+lAr
+için için
+satın satın
+alma al+mA
+fırsatı fırsat+sH
+geldi gel+DH
+. .
+</S>
+<S>
+Diğer diğer
+fon fon
+yöneticileri yönet+yHcH+lAr+yH
+benzer benze+Hr
+şekilde şekil+DA
+neşeli neşe+lH
+ve ve
+umutluydu umut+lH+yDH
+. .
+</S>
+<S>
+Bangkok NONE
+, ,
+Manila manila
+, ,
+Seoul seoul
+, ,
+Taipei taipei
+ve ve
+Jakarta jakarta
+sadece sadece
+küçük küçük
+kayıplarla kayıp+lAr+ylA
+kurtuldular kurtul+DH+lAr
+. .
+</S>
+<S>
+Alım alım
+satım satım
+işlemi işlem+sH
+Cuma cuma
+günkü gün+kü
+473.9 473.9
+milyonluk milyon+lHk
+hacim hacim
+sonrasında sonra+sH+nDA
+1 1
+milyar milyar
+hisseyle hisse+ylA
+epey epey
+ağırdı ağır+yDH
+. .
+</S>
+<S>
+Ancak ancak
+hacim hacim
+Cuma cuma
+günkü gün+kü
+143 143
+milyon milyon
+sonrasında sonra+sH+nDA
+yalnızca yalnızca
+162 162
+milyon milyon
+hisseye hisse+yA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Financial financial
+Times times
+30-hisse 30-hisse
+endeksi endeks+sH
+79.3 79.3
+puan puan
+düşüşle düş+yHs+ylA
+1738.7 1738.7
+puandan puan+DAn
+kapandı kapan+DH
+. .
+</S>
+<S>
+Hacim hacim
+, ,
+Cuma cuma
+günkü gün+kü
+473.9 473.9
+milyonluk milyon+lHk
+hacmin hacim+nHn
+iki iki
+katını kat+Hn+yH
+aşarak aş+yArAk
+959.3 959.3
+milyon milyon
+seviyesine seviye+sH+nA
+erişti eriş+DH
+. .
+</S>
+<S>
+Frankfurt frankfurt
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası'ndaki borsa+sH+'nDA+ki
+Fiyatlar fiyat+lAr
+ağır ağır
+alım alım
+satımda satı+Hm+DA
+alt alt
+üst üst
+oldu ol+DH
+. .
+</S>
+<S>
+Yüzde yüz+DA
+değişimi değişim+yH
+yol yol
+sonundan son+sH+nDAn
+itibarendir itibaren+DHr
+. .
+</S>
+<S>
+Yalnızca yalnızca
+California california
+sakinleri sakin+lAr+sH
+değil değil
+tüm tüm
+Amerikalılar amerikalı+lAr
+bunun bu+nHn
+geçmesi geç+mA+SH
+halinde hal+sH+nDA
+ödeyecekler öde+yAcAk+lAr
+. .
+</S>
+<S>
+Her her
+zamanki zaman+ki
+gibi gibi
+yeşil yeşil
+lobinin lobi+nHn
+teklifi teklif+sH
+bilimsel bilimsel
+gerçeklikten gerçeklik+DAn
+kopuktur kopuk+DHr
+. .
+</S>
+<S>
+Sera sera
+etkisi etki+sH
+hususunu husus+sH+nH
+göz göz
+önünde ön+sH+nDA
+bulundur bulun+DHr
+. .
+</S>
+<S>
+Teklif teklif
+edilen et+Hl+yAn
+girişim girişim
+karbon karbon
+dioksit dioksit
+salınımında salınım+sH+nDA
+% %
+40'lık 40+'+lHk
+bir bir
+kesintiyi kesinti+yH
+zorunlu zorunlu
+kılacak kıl+yAcAk
+. .
+</S>
+<S>
+Buradaki bura+DA+ki
+temel temel
+husus husus
+Genel genel
+Eyalet eyalet
+Savcısı savcı+sH
+John john
+Van van
+de d+yA
+Kamp'ın kamp+'nHn
+hırsı hırs+yH
+. .
+</S>
+<S>
+Valiliğe valilik+yA
+koşuyor koş+Hyor
+. .
+</S>
+<S>
+Bu bu
+ayrıca ayrıca
+valilik valilik
+seçimleri seçim+lAr+sH
+günüdür gün+sH+DHr
+. .
+</S>
+<S>
+Ve ve
+bu bu
+da da
+Bay bay
+Van van
+De de
+Kamp'a kamp+'yA
+kampanya kampanya
+harcama harca+mA
+sınırları sınır+lAr+yH
+etrafında etraf+sH+nDA
+gezinme gezin+mA
+imkanı imkan+sH
+sunuyor sun+Hyor
+. .
+</S>
+<S>
+Bu bu
+kısa kısa
+zaman zaman
+önce önce
+Prop. Prop.
+65 65
+anti-toksik anti-toksik
+girişimini girişim+sH+nH
+geçiren geç+Hr+yAn
+eyalet eyalet
+. .
+</S>
+<S>
+Elbette elbette
+eyaletin eyalet+nHn
+liberalleri liberal+lAr+sH
+henüz henüz
+bir bir
+millet millet
+oluşturmadılar oluş+DHr+mA+DH+lAr
+. .
+</S>
+<S>
+Önce önce
+bir bir
+idam idam
+mahkumu mahkum+sH
+bekçisi bekçi+sH
+vardı var+DH
+. .
+</S>
+<S>
+Daha daha
+sonra sonra
+neşe neşe
+. .
+</S>
+<S>
+Nasdaq nasdaq
+tezgah tezgah
+üstü üst+sH
+endeksi endeks+sH
+6.31 6.31
+puan puan
+düşüşle düş+yHs+ylA
+460.98'den 460.98+'+DAn
+kapandı kapan+DH
+. .
+</S>
+<S>
+Bu bu
+yalnızca yalnızca
+garip garip
+bir bir
+duygu duygu
+. .
+</S>
+<S>
+Kimsenin kimse+Hn+nHn
+oradan ora+DAn
+ayrıldığını ayrıl+DHk+Hn+yH
+sanmıyorum san+mA+Hyor+yHm
+diye diye
+fısıldadı fısılda+DH
+Dixie dixie
+. .
+</S>
+<S>
+Ancak ancak
+aracılar aracı+lAr
+için için
+, ,
+saat saat
+9:30'daki 9:30+'+DA+ki
+açılış açılış
+zili zil+sH
+bir bir
+felaket felaket
+gibi gibi
+görünüyordu görün+Hyor+yDH
+. .
+</S>
+<S>
+Dow dow
+Jones jones
+Sanayi sanayi
+ortalaması ortala+mA+SH
+9:30'dan 9:30+'+DAn
+kısa kısa
+süre süre
+sonra sonra
+1.64 0.64
+aşağıda aşağı+DA
+açıldı aç+Hl+DH
+. .
+</S>
+<S>
+Yapmadılar yap+mA+DH+lAr
+. .
+</S>
+<S>
+Program program
+borsacıları borsacı+lAr+sH
+da da
+, ,
+elbette elbette
+, ,
+oradaydı ora+DA+yDH
+. .
+</S>
+<S>
+Walt Walt
+Disney disney
+Co.'da co.+'DA
+işlem işlem
+yapmak yap+mAk
+özellikle özellikle
+borsacıların borsacı+lAr+nHn
+dikkatini dikkat+sH+nH
+çekti çek+DH
+. .
+</S>
+<S>
+Borsa borsa
+geç geç
+ve ve
+8 8
+1/2 1/2
+düşüşle düş+yHs+ylA
+114 114
+1/2'den 1/2+'+DAn
+açıldı aç+Hl+DH
+. .
+</S>
+<S>
+Düzenliydi düzen+lH+yDH
+. .
+</S>
+<S>
+Birlikte birlikte
+bazı bazı
+emirler emir+lAr
+girdik gir+DH+k
+. .
+</S>
+<S>
+Yurt yurt
+içi iç+sH
+veya veya
+uluslar ulus+lAr
+arası ara+sH
+olmak ol+mAk
+üzere üzere
+, ,
+çok çok
+fazla fazla
+panik panik
+satışı sat+yHs+sH
+yoktu yok+yDH
+... ...
+</S>
+<S>
+Parçalarına parça+lAr+Hn+yA
+ayrıldığı ayrıl+DHk+sH
+Cuma cuma
+günü gün+yH
+gibi gibi
+değil değil
+. .
+</S>
+<S>
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası borsa+sH
+katında kat+Hn+DA
+ve ve
+alım alım
+satım satı+Hm
+bankolarında banko+lAr+Hn+DA
+borsacılar borsacı+lAr
+onaylarını onay+lAr+Hn+yH
+çığlık çığlık
+çığlığa çığlık+yA
+bağırarak bağır+yArAk
+verdiler ver+DH+lAr
+. .
+</S>
+<S>
+Ancak ancak
+herkesin herkes+nHn
+para para
+kazanabildiği kazan+yAbil+DHk+sH
+söylenemez söyle+n+yAmA+z
+. .
+</S>
+<S>
+Merck Merck
+, ,
+Major major
+Markets Markets
+endeksindeki endeks+sH+nDA+ki
+en en
+önemli önem+lH
+hisse hisse
+senetlerinden senet+lAr+Hn+DAn
+biridir bir+sH+DHr
+. .
+</S>
+<S>
+Ve ve
+dün dün
+, ,
+en en
+yüksek yüksek
+performans performans
+gösteren göster+yAn
+sanayi sanayi
+grubu grup+sH
+petrol petrol
+sahası saha+sH
+ekipmanı ekipman+sH
+hisseleridir hisse+lAr+sH+DHr
+. .
+</S>
+<S>
+Üç üç
+aracılık aracılık
+firmasının firma+sH+nHn
+hisseleri hisse+lAr+sH
+kar kar
+bildirimi bildirim+sH
+sonrasında sonra+sH+nDA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Bay bay
+Phelan Phelan
+piyasanın piyasa+nHn
+dün dün
+tekrar tekrar
+yükseldiğine yüksel+DHk+sH+nA
+yönelik yön+yA+lHk
+bir bir
+teselli teselli
+ifade ifade
+etti et+DH
+. .
+</S>
+<S>
+19 19
+Ekim'de ekim+'DA
+olanların ol+yAn+lAr+nHn
+tam tam
+tersi ters+yH
+oldu ol+DH
+. .
+</S>
+<S>
+Kendi kendi
+muhakemelerini muhakeme+lAr+Hn+yH
+kullandılar kullan+DH+lAr
+. .
+</S>
+<S>
+Bu bu
+sabah sabah
+ilk ilk
+satış sat+yHs
+turunda tur+sH+nDA
+panik panik
+yapmadılar yap+mA+DH+lAr
+. .
+</S>
+<S>
+Belki belki
+bazı bazı
+dersler ders+lAr
+aldılar al+DH+lAr
+. .
+</S>
+<S>
+Cuma cuma
+günü gün+yH
+Wall wall
+Street street
+borsacıları borsacı+lAr+sH
+alım al+yHm
+satımların satım+lAr+nHn
+geçici geçici
+olarak ol+yArAk
+durdurulmasından dur+DHr+Hl+mA+sH+nDAn
+şikayet şikayet
+etti et+DH
+. .
+</S>
+<S>
+James james
+A. a.
+White white
+ve ve
+Sonja Sonja
+Steptoe Steptoe
+bu bu
+makaleye makale+yA
+katkı katkı
+yaptılar yap+DH+lAr
+. .
+</S>
+<S>
+Elbette elbette
+öyleydi öyle+yDH
+. .
+</S>
+<S>
+Ancak ancak
+altı altı
+saatlik saat+lHk
+tavizler taviz+lAr
+kısa kısa
+süre süre
+sonra sonra
+müteakip müteakip
+tartışmalarda tartış+mA+lAr+DA
+mutabakata mutabakat+yA
+vardı var+DH
+. .
+</S>
+<S>
+" "
+Ancak ancak
+bir bir
+talepte talep+DA
+bulunursanız bul+Hn+Hr+ysA+nHz
+, ,
+komiteyi komite+yH
+desteklemelisiniz destekle+mAlH+SHnHz
+. .
+" "
+</S>
+<S>
+Kongre kongre
+önceden önceden
+altı altı
+havalimanını havaliman+H+nH
+bu bu
+yıl yıl
+için için
+kesmişti kes+mHs+yDH
+. .
+</S>
+<S>
+Pittsburgh Pittsburgh
+merkezli merkez+lH
+Aristech aristech
+yetkilileri yetki+lH+lArH
+, ,
+yorum yorum
+yapmadı yap+mA+DH
+. .
+</S>
+<S>
+Senatör senatör
+Pete pete
+Domenici Domenici
+bu bu
+çabayı çaba+yH
+" "
+demokrasinin demokrasi+nHn
+İlk ilk
+armağanı armağan+sH
+" "
+olarak ol+yArAk
+adlandırıyor ad+lAn+DHr+Hyor
+. .
+</S>
+<S>
+Poles Poles
+onu o+nH
+bir bir
+Truva truva
+atı at+sH
+olarak ol+yArAk
+göstererek göster+yArAk
+daha daha
+iyisini iyi+sH+nH
+yapabilir yap+yAbil+Hr
+. .
+</S>
+<S>
+Hiçbir hiçbir
+olağan olağan
+üstü üst+sH
+öğe öğe
+yok yok
+. .
+</S>
+<S>
+Waterford NONE
+ara ara
+temettü temettü
+ödenmesine öde+n+mA+sH+nA
+karşı karşı
+karar karar
+aldı al+DH
+. .
+</S>
+<S>
+Epey epey
+zorlu zorlu
+ve ve
+vahşi vahşi
+bir bir
+gündü gün+yDH
+. .
+</S>
+<S>
+Firmalar firma+lAr
+arasında ara+sH+nDA
+Merrill NONE
+Lynch NONE
+& &
+Co. NONE
+ve ve
+Dean dean
+Witter NONE
+Reynolds NONE
+Inc ınc
+vardı var+DH
+. .
+</S>
+<S>
+Oran oran
+EFD NONE
+politikasındaki politika+sH+nDA+ki
+değişikliğe değişiklik+yA
+yönelik yön+yA+lHk
+bir bir
+erken erken
+uyarıydı uyarı+yDH
+. .
+</S>
+<S>
+Aslında aslında
+, ,
+bazı bazı
+ekonomistler ekonomist+lAr
+geçen geç+yAn
+haftaki haf+DA+ki
+son son
+iç iç
+açıcı aç+yHcH
+başlangıçtan başlangıç+DAn
+tatmin tatmin
+oldular ol+DH+lAr
+. .
+</S>
+<S>
+Tersine ters+Hn+yA
+dönüş dön+yHs
+kısa kısa
+vadeli vade+lH
+hazine hazine
+kağıtları kağıt+lAr+sH
+arasında ara+sH+nDA
+daha daha
+belirgindi belirgin+yDH
+. .
+</S>
+<S>
+Yatırım yatırım
+kategorisi kategori+sH
+özel özel
+sektör sektör
+tahvilleri tahvil+lAr+sH
+, ,
+ipoteğe ipotek+yA
+dayalı dayalı
+menkul menkul
+kıymetler kıymet+lAr
+ve ve
+yerel yerel
+yönetim yönetim
+tahvilleri tahvil+lAr+sH
+de de
+düştü düş+DH
+. .
+</S>
+<S>
+Bazı bazı
+borsacılar borsacı+lAr
+yüksek yüksek
+verimli verim+lH
+piyasanın piyasa+nHn
+aktif aktif
+kurumsal kurumsal
+alım alım
+tarafından taraf+Hn+DAn
+yardım yardım
+gördüğümü gör+DHk+Hm+yH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Ancak ancak
+Japon japon
+hisseleri hisse+lAr+sH
+tekrar tekrar
+yükseldiği yüksel+DHk+sH
+için için
+hazineler hazine+lAr
+geriledi gerile+DH
+ve ve
+yalnızca yalnızca
+hafif hafif
+yükselişte yüksel+yHs+DA
+tamamladı tamamla+DH
+. .
+</S>
+<S>
+Tokyo'da tokyo+'DA
+, ,
+alım alım
+satım satı+Hm
+işlemleri işlem+lAr+sH
+öğle öğle
+tatili tatil+sH
+esnasında esnasında
+durdu dur+DH
+. .
+</S>
+<S>
+Tokyo'nun tokyo+'nHn
+piyasası piyasa+sH
+ABD abd
+alım-satımı NONE
+için için
+kötü kötü
+bir bir
+elebaşına elebaş+H+nA
+dönüştü dönüş+DH
+. .
+</S>
+<S>
+Bize biz+yA
+zarar zarar
+verebilir ver+yAbil+Hr
+. .
+</S>
+<S>
+New new
+Yorklu NONE
+borsacı borsacı
+" "
+birçok birçok
+arz arz
+var var
+" "
+dedi de+DH
+. .
+</S>
+<S>
+" "
+Önümüzde ön+HmHz+DA
+2 2
+ya ya
+da da
+3 3
+zorlu zorlu
+hafta hafta
+var var
+. .
+" "
+</S>
+<S>
+Hazine hazine
+Kağıtları kağıt+lAr+sH
+</S>
+<S>
+Hazine hazine
+Bonolarının bono+lAr+Hn+nHn
+fiyatları fiyat+lAr+yH
+aktif aktif
+alım-satımda NONE
+az az
+miktarda miktar+DA
+düştü düş+DH
+. .
+</S>
+<S>
+Referans referans
+hisse hisse
+üzerindeki üzer+Hn+DA+ki
+verim verim
+% %
+7.82 7.82
+seviyesinden seviye+sH+nDAn
+% %
+7.97'ye NONE
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Kısa kısa
+vadeli vade+lH
+faiz faiz
+oranları oran+lAr+yH
+dün dün
+hükümetin hükümet+nHn
+haftalık hafta+lHk
+Hazine hazine
+bonosu bono+sH
+ihalesinde ihale+sH+nDA
+düştü düş+DH
+. .
+</S>
+<S>
+İşte işte
+ihalenin ihale+nHn
+ayrıntıları ayrıntı+lAr+yH
+: :
+</S>
+<S>
+Oranlar oran+lAr
+satın satı+Hn
+alma al+mA
+fiyatı fiyat+sH
+ile ile
+nominal nominal
+değer değer
+arasındaki ara+sH+nDA+ki
+fark fark
+ile ile
+belirlenir belirle+n+Hr
+. .
+</S>
+<S>
+Böylece böylece
+, ,
+daha daha
+yüksek yüksek
+fiyat fiyat
+verme ver+mA
+yatırımcının yatırımcı+nHn
+getirisini getiri+sH+nH
+daraltırken daral+t+Hr+yken
+, ,
+düşük düşük
+fiyat fiyat
+verme ver+mA
+genişletir genişlet+Hr
+. .
+</S>
+<S>
+iki iki
+ihraç ihraç
+da da
+19 19
+Ekim ekim
+tarihlidir tarih+lH+DHr
+. .
+</S>
+<S>
+Özel özel
+Sektör sektör
+Hisseleri hisse+lAr+sH
+</S>
+<S>
+Yatırım yatırım
+kategorisi kategori+sH
+şirket şirket
+tahvilleri tahvil+lAr+sH
+bire bir+yA
+1 1
+1\/2 1\/2
+puan puan
+düşük düşük
+sonlandı son+lAn+DH
+. .
+</S>
+<S>
+Yeni yeni
+ihraçlar ihraç+lAr
+yok yok
+. .
+</S>
+<S>
+Yabancı yabancı
+Tahviller tahvil+lAr
+</S>
+<S>
+Yabancı yaban+CH
+tahviller tahvil+lAr
+, ,
+Amerikan amerikan
+doları dolar+yH
+birçok birçok
+önde ön+DA
+gelen gel+yAn
+dövizler döviz+lAr
+karşısında karşı+sH+nDA
+zayıfladığı zayıfla+DHk+sH
+için için
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Verim verim
+% %
+5.245 5.245
+. .
+</S>
+<S>
+İpoteğe ipotek+yA
+Dayalı dayalı
+Menkul menkul
+Kıymetler kıymet+lAr
+</S>
+<S>
+Cuma cuma
+günü gün+sH
+mortgage NONE
+hisseleri hisse+lAr+sH
+1 1
+5/32 5/32
+kazandı kazan+DH
+. .
+</S>
+<S>
+Türev türev
+piyasalarda piyasa+lAr+DA
+yeni yeni
+ihraç ihraç
+faaliyeti faaliyet+sH
+yoktu yok+yDH
+. .
+</S>
+<S>
+Yerel yerel
+Yönetimler yönetim+lAr
+</S>
+<S>
+Profesyoneller profesyonel+lAr
+seans seans
+boyunca boyunca
+yerel yerel
+yönetim yönetim
+hisselerinin hisse+lAr+Hn+nHn
+alım alım
+satım satı+Hm
+işlemlerine işlem+lAr+Hn+yA
+hükmetti hükmet+DH
+. .
+</S>
+<S>
+Seri seri
+tahvil tahvil
+verimleri verim+lAr+sH
+yaklaşık yaklaşık
+0.05 0.05
+puan puan
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Satışlar sat+yHs+lAr
+178.6 178.6
+milyar milyar
+yenden yen+DAn
+% %
+40 40
+artışla art+yHs+ylA
+250.17 250.17
+milyar milyar
+Yen'e yen+'+yA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Net net
+gelir gel+Hr
+26.68 26.68
+milyardan milyar+DAn
+% %
+11 11
+artışla art+yHs+ylA
+29.62 29.62
+milyar milyar
+Yen'e yen+'yA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Yurt yurt
+içi iç+sH
+tatil tatil
+satışları sat+yHs+lAr+sH
+, ,
+bununla bu+ylA
+birlikte bir+lHk+DA
+, ,
+daha daha
+düşüktü düşük+yDH
+. .
+</S>
+<S>
+" "
+Yalnızca yalnızca
+doğru doğru
+fiyattan fiyat+DAn
+satacağız sat+yAcAk+yHz
+. .
+" "
+</S>
+<S>
+Tezgah tezgah
+üstü üst+sH
+alım alım
+satımlarda satım+lAr+DA
+, ,
+Interspec NONE
+37.5 37.5
+Cent'lik cent+'lHk
+düşüşle düş+yHs+ylA
+4.25 4.25
+dolara dolar+yA
+geriledi gerile+DH
+. .
+</S>
+<S>
+New new
+York york
+merkezli merkez+lH
+şirketlerin şirket+lAr+nHn
+İkisi iki+SH
+de de
+hisse hisse
+senetleri senet+lAr+sH
+ve ve
+para para
+basımı basım+sH
+yapıyor yap+Hyor
+. .
+</S>
+<S>
+1 1
+Temmuz temmuz
+tarihinde tarih+sH+nDA
+yapılan yap+Hl+yAn
+teklif teklif
+birkaç birkaç
+kez kez
+uzatıldı uza+t+Hl+DH
+. .
+</S>
+<S>
+Eski eski
+ve ve
+revize revize
+edilen et+Hl+yAn
+rakamların rakam+lAr+nHn
+ikisi iki+SH
+de de
+ek ek
+satış sat+yHs
+hükümlerini hüküm+lAr+Hn+yH
+içeriyor içer+Hyor
+. .
+</S>
+<S>
+Goldman goldman
+, ,
+Sachs sachs
+& &
+Co. NONE
+ve ve
+Drexel drexel
+Burnham NONE
+Lambert NONE
+Inc. ınc.
+öncü ön+CH
+sigortacılar sigortacı+lAr
+. .
+</S>
+<S>
+Bay bay
+Goldberg NONE
+, ,
+Rose rose
+Partners'deki NONE
+yegane yegane
+sınırsız sınırsız
+sorumlu sorum+lH
+ortaktır ortak+DHr
+. .
+</S>
+<S>
+Buraya bura+yA
+ait ait
+olmayan ol+mA+yAn
+nedir ne+DHr
+? ?
+</S>
+<S>
+A. a.
+elle el+ylA
+yazılan yaz+Hl+yAn
+daktilolar daktilo+lAr
+, ,
+B. b.
+Siyah-beyaz siyah-beyaz
+enstantaneler enstantane+lAr
+, ,
+C. c.
+radyo radyo
+macera macera
+şovları şov+lAr+sH
+. .
+</S>
+<S>
+siyah siyah
+ve ve
+beyaz beyaz
+enstantaneleri enstantane+lAr+sH
+tahmin tahmin
+ettiyseniz et+DH+ysA+nHz
+, ,
+haklısınız hak+lH+SHnHz
+. .
+</S>
+<S>
+Arka arka
+plana plan+yA
+düştüğü düş+DHk+sH
+yıllar yıl+lAr
+sonrasında sonra+sH+nDA
+, ,
+iki-tonlu NONE
+fotoğrafçılık fotoğrafçılık
+Geri geri
+dönüyor dön+Hyor
+. .
+</S>
+<S>
+Ve ve
+siyah siyah
+Ve ve
+beyaz beyaz
+fotoğraf fotoğraf
+sınıfları sınıf+lAr+sH
+artık artık
+öğrencilerle öğrenci+lAr+ylA
+dolup dol+yHp
+taşıyor taşı+Hyor
+. .
+</S>
+<S>
+Neden neden
+tüm tüm
+ilgi ilgi
+? ?
+</S>
+<S>
+Siyah siyah
+ve ve
+beyaz beyaz
+ticari ticari
+film film
+işleme işle+mA
+geçen geç+yAn
+yıl yıl
+% %
+24'lük NONE
+artışla art+yHs+ylA
+18.7 18.7
+milyon milyon
+rulo rulo
+sayısına sayı+sH+nA
+erişti eriş+DH
+. .
+</S>
+<S>
+Portre portre
+stüdyoları stüdyo+lAr+sH
+da da
+bu bu
+trendi trend+sH
+benimsediler benimse+DH+lAr
+. .
+</S>
+<S>
+Bunu bu+nH
+arkadaşlarıma arkadaş+lAr+Hm+yA
+gösterdim göster+DH+m
+ve ve
+hepsi hepsi
+vay vay
+dediler de+DH+lAr
+. .
+</S>
+<S>
+Bu bu
+renk renk
+gibi gibi
+sıradan sıradan
+değil değil
+. .
+</S>
+<S>
+Büyük büyük
+bir bir
+engel engel
+de de
+birkaç birkaç
+eczanenin eczane+nHn
+artık artık
+film film
+üretiyor üre+t+Hyor
+olmasıdır ol+mA+sH+DHr
+. .
+</S>
+<S>
+Ancak ancak
+fotoğraf fotoğraf
+tab NONE
+edenler et+yAn+lAr
+için için
+siyah-beyaz siyah-beyaz
+film film
+banyosuna banyo+sH+nA
+yönelik yön+yA+lHk
+maliyetler maliyet+lAr
+daha daha
+yüksek yüksek
+. .
+</S>
+<S>
+Bazı bazı
+şirketler şirket+lAr
+bu bu
+sorunu soru+Hn+yH
+çözmeye çöz+mA+yA
+çalışıyor çalış+Hyor
+. .
+</S>
+<S>
+Diğer diğer
+şirketler şirket+lAr
+ilgili ilgi+lH
+ürünler ürün+lAr
+sunmaktadır sun+mAktA+DHr
+. .
+</S>
+<S>
+Günümüzde gün+HmHz+DA
+Renkli renk+lH
+baskı baskı
+on on
+yıl yıl
+önceki önce+ki
+baskı baskı
+kalitesine kalite+sH+nA
+göre göre
+çok çok
+daha daha
+üstündür üstün+DHr
+. .
+</S>
+<S>
+Aynısını aynı+SH+Hn+yH
+siyah siyah
+ve ve
+beyaz beyaz
+için için
+söyleyemezsiniz söyle+yAmA+z+SH+HnHz
+. .
+</S>
+<S>
+İşte işte
+itiraz itiraz
+. .
+</S>
+<S>
+Fiyat the
+açıklanmadı NONE
+. .
+</S>
+<S>
+Menkul menkul
+kıymetler kıymet+lAr
+borsası borsa+sH
+fiyatları fiyat+lAr+yH
+düşerken düş+Ar+yken
+geçen geç+yAn
+Cuma cuma
+günü gün+yH
+de de
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Devralma devral+mA
+değeri değer+yH
+açıklanmadı açıkla+n+mA+DH
+. .
+</S>
+<S>
+Şirket şirket
+alımı alım+yH
+BSN'nin bsn+'nHn
+Avrupa avrupa
+makarna makarna
+piyasasındaki piyasa+sH+nDA+ki
+konumunu konum+sH+nH
+güçlendiriyor güç+lAn+DHr+Hyor
+. .
+</S>
+<S>
+Ajans ajans
+American american
+Continental'ın continental+'nHn
+tercih tercih
+edilen et+Hl+yAn
+hisse hisse
+puanının puan+sH+nHn
+C NONE
+olduğunu ol+DHk+sH+nH
+teyit teyit
+ettiğini et+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+CENTRUST centrust
+SAVINGS NONE
+BANK bank
+( (
+Miami miami
+) )
+-- --
+</S>
+<S>
+Dolar dolar
+da da
+değer değer
+kazanırken kazan+Hr+yken
+, ,
+tahvil tahvil
+fiyatları fiyat+lAr+sH
+düştü düş+DH
+ve ve
+Hazine hazine
+bonoları bono+lAr+sH
+oranları oran+lAr+sH
+hızla hızla
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Iskarta ıskarta
+tahviller tahvil+lAr
+de de
+bir bir
+şekilde şekil+DA
+düzeldi düzel+DH
+ancak ancak
+alım-satım NONE
+işlemleri işlem+lAr+sH
+durduruldu dur+DHr+Hl+DH
+. .
+</S>
+<S>
+Altın altın
+da da
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Dolar dolar
+Tokyo'da tokyo+'DA
+da da
+yükselişe yüksel+yHs+yA
+geçti geç+DH
+. .
+</S>
+<S>
+AMR amr
+22.125 22.125
+Dolar dolar
+düşüşle düş+yHs+ylA
+, ,
+76.50 76.5
+Dolardı dolar+yDH
+. .
+</S>
+<S>
+UAL ual
+56.875 56.875
+dolar dolar
+düşüşle düş+yHs+ylA
+, ,
+222.875 222.875
+dolardan dolar+DAn
+kapandı kapan+DH
+. .
+</S>
+<S>
+Analistler analist+lAr
+IBM'nin ıbm+'nHn
+önümüzdeki ön+HmHz+DA+ki
+birkaç birkaç
+çeyrek çeyrek
+için için
+görünümü görünüm+sH
+hakkında hak+sH+nDA
+karamsar karamsar
+. .
+</S>
+<S>
+Darman darman
+bir bir
+sermaye sermaye
+açığı açık+sH
+planını plan+sH+nH
+bitirmek bit+Hr+mAk
+için için
+Kongreyi kongre+yH
+teşvik teşvik
+edebilmeyi et+yAbil+mA+yH
+umut umut
+ediyor et+Hyor
+. .
+</S>
+<S>
+Bir bir
+doğal doğal
+gaz gaz
+kanunu kanun+sH
+Bir bir
+federal federal
+temyiz temyiz
+mahkemesi mahkeme+sH
+tarafından taraf+Hn+DAn
+hükümsüz hükümsüz
+kılındı kıl+Hn+DH
+. .
+</S>
+<S>
+Merrill NONE
+Lynch'in lynch+'Hn
+karı kar+yH
+üçüncü üçüncü
+çeyrekte çeyrek+DA
+% %
+37 37
+azaldı azal+DH
+. .
+</S>
+<S>
+Atılımlar atılım+lAr
+firmaya firma+yA
+A.B.D. a.b.d.
+geçici-destek NONE
+piyasasındaki piyasa+sH+nDA+ki
+egemenliğini egemen+lHk+sH+nH
+pekiştirmesinde pekiş+DHr+mA+sH+nDA
+yardımcı yardımcı
+olabilir ol+yAbil+Hr
+. .
+</S>
+<S>
+NCNB'nin ncnb+'nHn
+karı kar+yH
+iki iki
+katından kat+Hn+DAn
+fazla fazla
+. .
+</S>
+<S>
+Piyasalar piyasa+lAr
+-- --
+</S>
+<S>
+Hisseler hisse+lAr
+: :
+Hacim hacim
+416290000 416290000
+hisse hisse
+. .
+</S>
+<S>
+Tahviller tahvil+lAr
+: :
+Shearson shearson
+Lehman lehman
+Hutton hutton
+Treasury NONE
+endeksi endeks+sH
+3393.51 3393.51
+. .
+</S>
+<S>
+Dolar dolar
+: :
+141.85 141.85
+yen yen
+, ,
+düşüş düş+yHs
+0.25 0.25
+; ;
+1.8685 1.8685
+mark mark
+, ,
+düşüş düş+yHs
+0.0055 0.0055
+. .
+</S>
+<S>
+16 16
+Ekim ekim
+1989 1989
+, ,
+Pazartesi pazartesi
+</S>
+<S>
+ANA ana
+FAİZ faiz
+ORANI oran+yH
+: :
+% %
+10 10
+1\/2 1\/2
+. .
+</S>
+<S>
+Büyük büyük
+A.B.D. a.b.d.
+para para
+merkezi merkez+yH
+ticari ticari
+bankalarındaki banka+lAr+Hn+DA+ki
+kurumsal kurumsal
+kredilere kredi+lAr+yA
+yönelik yön+yA+lHk
+baz baz
+oran oran
+. .
+</S>
+<S>
+Kaynak kaynak
+: :
+Fulton NONE
+Prebon NONE
+( (
+U.S.A NONE
+. .
+) )
+Inc ınc
+. .
+</S>
+<S>
+İSKONTO iskonto
+ORANI oran+yH
+: :
+% %
+7 7
+. .
+</S>
+<S>
+New new
+York york
+Federal federal
+Reserve NONE
+Bank bank
+tarafından taraf+Hn+DAn
+mevduat mevduat
+kuruluşlarında kur+Hl+yHs+lAr+Hn+DA
+kredilerdeki kredi+lAr+DA+ki
+komisyon komisyon
+. .
+</S>
+<S>
+VADESİZ vade+SHz
+KREDİ kredi
+: :
+% %
+9 9
+3/4 3/4
+ila ila
+% %
+10 10
+. .
+</S>
+<S>
+Menkul menkul
+kıymetler kıymet+lAr
+borsası borsa+sH
+teminatlarında teminat+lAr+Hn+DA
+borsacılara borsacı+lAr+yA
+kredi kredi
+komisyonu komisyon+sH
+. .
+</S>
+<S>
+Minimum minimum
+birim birim
+100000 100000
+dolar dolar
+. .
+</S>
+<S>
+Tipik tipik
+olarak ol+yArAk
+bir bir
+ithalat ithalat
+siparişini sipariş+sH+nH
+finanse finanse
+eden et+yAn
+devredilebilir devret+Hl+yAbil+Hr
+banka banka
+teminatlı teminatlı
+iş iş
+kredisi kredi+sH
+araçları araç+lArH
+. .
+</S>
+<S>
+Bu bu
+oran oran
+göstergeleri gösterge+lAr+sH
+doğrudan doğrudan
+kıyaslanabilir kıyasla+n+yAbil+Hr
+değildir değil+DHr
+, ,
+kredi kredi
+verme ver+mA
+uygulamaları uygula+mA+lAr+sH
+mekana mekan+yA
+göre göre
+değişiklik değişik+lHk
+gösterir göster+Hr
+. .
+</S>
+<S>
+Kaynak kaynak
+: :
+Telerate NONE
+Systems NONE
+Inc ınc
+. .
+</S>
+<S>
+Kaynak kaynak
+: :
+Telerate NONE
+Systems NONE
+Inc ınc
+. .
+</S>
+<S>
+MERRILL NONE
+LYNCH LYNCH
+READY NONE
+ASSETS NONE
+TRUST NONE
+: :
+% %
+8.49 8.49
+. .
+</S>
+<S>
+Alliant NONE
+gelecekteki gel+yAcAk+DA+ki
+ürünlerde ürün+lAr+DA
+mikro-işlemci NONE
+kullanmayı kullan+mA+yH
+planladıklarını planla+DHk+lAr+Hn+yH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Mevcut mevcut
+ürün ürün
+yelpazesini yelpaze+sH+nH
+geliştirmeye geliş+DHr+mA+yA
+yönelik yön+yA+lHk
+planları plan+lAr+sH
+tartışmayı tartış+mA+yH
+reddetti reddet+DH
+. .
+</S>
+<S>
+SHV NONE
+ayrıca ayrıca
+Calor'un calor+'nHn
+% %
+40'ına NONE
+sahip sahip
+. .
+</S>
+<S>
+Grup grup
+, ,
+Weslock NONE
+Corp. corp.
+ve ve
+JPI NONE
+Modern modern
+Inc ınc
+şirketlerinden şirket+lAr+Hn+DAn
+oluşuyor oluş+Hyor
+. .
+</S>
+<S>
+Amerikalı amerikalı
+Bir bir
+gazeteci gazeteci
+halihazırda halihazırda
+Namibya'da namibya+'DA
+yargılanıyor yargıla+n+Hyor
+. .
+</S>
+<S>
+Kazanması kazan+mA+sH
+en en
+muhtemel muhtemel
+aday aday
+Marksist-görüşlü NONE
+SWAPO NONE
+isyancıları NONE
+. .
+</S>
+<S>
+Seçimlerin seçim+lAr+nHn
+tarihi tarih+yH
+7 7
+Kasım kasım
+. .
+</S>
+<S>
+Hem hem
+Güney güney
+Afrika afrika
+hem hem
+de de
+SWAPO NONE
+radikalleri radikal+lAr+sH
+seçmenlerin seçmen+lAr+nHn
+gözünü göz+sH+nH
+korkutuyor korkut+Hyor
+. .
+</S>
+<S>
+Şimdi şimdi
+Namibya'daki namibya+'DA+ki
+bu bu
+kaydı kayıt+sH
+telafi telafi
+etme et+mA
+şansına şans+sH+nA
+sahip sahip
+. .
+</S>
+<S>
+Dün dün
+, ,
+borsanın borsa+nHn
+etkisi etki+sH
+ilk ilk
+başta başta
+asabiyet asabiyet
+yarattı yarat+DH
+. .
+</S>
+<S>
+Pamuk pamuk
+ve ve
+şekerde şeker+DA
+alım-satım NONE
+sinirliydi sinir+lH+yDH
+ve ve
+küçük küçük
+düşüşler düş+yHs+lAr
+gösterdi göster+DH
+. .
+</S>
+<S>
+Chicago'da chicago+'DA
+, ,
+tahıl tahıl
+ve ve
+soya soya
+fasulyesi fasulye+sH
+fiyatları fiyat+lAr+yH
+hafif hafif
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Gümüş gümüş
+sessizce ses+SHz+CA
+performans performans
+gösterdi göster+DH
+. .
+</S>
+<S>
+Aralık aralık
+ayında ay+sH+nDA
+Gümüş gümüş
+2.3 2.3
+cent cent
+yükselerek yüksel+yArAk
+ons ons
+başına baş+sH+nA
+5.163 5.163
+dolar dolar
+fiyatına fiyat+sH+nA
+erişti eriş+DH
+. .
+</S>
+<S>
+Dünkü dün+kü
+4 4
+dolarlık dolar+lHk
+Ekim ekim
+kazancı kazanç+sH
+bununla bu+ylA
+kıyaslandığında kıyas+lAn+DHk+Hn+DA
+çok çok
+ufaktı ufak+yDH
+. .
+</S>
+<S>
+Enerji enerji
+: :
+</S>
+<S>
+Bakır bakır
+: :
+</S>
+<S>
+Aralık aralık
+sözleşmesi söz+lAs+mA+sH
+3.05 3.05
+cent cent
+düşüşle düş+yHs+ylA
+1.2745 1.2745
+dolar dolar
+seviyesine seviye+sH+nA
+geriledi gerile+DH
+. .
+</S>
+<S>
+London london
+metal metal
+Borsası borsa+sH
+bakır bakır
+stokları stok+lAr+sH
+geçen geç+yAn
+hafta hafta
+13575 13575
+ton ton
+düşerek düş+yArAk
+89300 89300
+tonda ton+DA
+kaldı kal+DH
+. .
+</S>
+<S>
+Pamuk pamuk
+: :
+</S>
+<S>
+Bu bu
+satış sat+yHs
+dün dün
+devam devam
+etti et+DH
+ve ve
+fiyatları fiyat+lAr+yH
+baskı baskı
+altında alt+Hn+DA
+tuttu tut+DH
+, ,
+dedi de+DH
+. .
+</S>
+<S>
+Bu bu
+henüz henüz
+borsacıların borsacı+lAr+nHn
+dikkatini dikkat+sH+nH
+çekmedi çek+mA+DH
+, ,
+diye diye
+ekledi ekle+DH
+. .
+</S>
+<S>
+Şeker şeker
+: :
+</S>
+<S>
+Vadeli vade+lH
+sözleşmeler söz+lAs+mA+lAr
+piyasası piyasa+sH
+fiyatları fiyat+lAr+sH
+düştü düş+DH
+. .
+</S>
+<S>
+Mart mart
+sözleşmesi söz+lAs+mA+sH
+0.32 0.32
+cent cent
+düşerek düş+yArAk
+13.97 13.97
+centte cent+DA
+kaldı kal+DH
+. .
+</S>
+<S>
+TARIM tarım
+ürünleri ürün+lAr+sH
+: :
+</S>
+<S>
+Oturumun oturum+nHn
+ilk ilk
+safhasında safha+sH+nDA
+, ,
+birçok birçok
+soya soya
+fasulyesi fasulye+sH
+sözleşmesi söz+lAs+mA+sH
+yeni yeni
+düşük düşük
+seviyeler seviye+lAr
+gördü gör+DH
+. .
+</S>
+<S>
+Teklifin teklif+nHn
+gösterge gösterge
+değeri değer+yH
+268 268
+milyon milyon
+Dolardır dolar+DHr
+. .
+</S>
+<S>
+Dunkin NONE
+' '
+Donuts NONE
+merkezi merkez+yH
+Randolph NONE
+, ,
+Massacushets'de massacushets+'DA
+bulunmaktadır bulun+mAktA+DHr
+. .
+</S>
+<S>
+CFC'ler cfc+'lAr
+geniş geniş
+ölçüde ölçü+DA
+solventler NONE
+, ,
+soğutucular soğu+t+yHcH+lAr
+ve ve
+yangın yangın
+söndürücüler sön+DHr+yHcH+lAr
+olarak ol+yArAk
+kullanılmaktadır kullan+Hl+mAktA+DHr
+. .
+</S>
+<S>
+Bir bir
+sözcü sözcü
+o o
+andan an+DAn
+itibaren itibaren
+2.6 2.6
+milyon milyon
+hissenin hisse+nHn
+satın satın
+alındığını al+Hn+DHk+Hn+yH
+belirtti belirt+DH
+. .
+</S>
+<S>
+Kamu kamu
+hizmetleri hizmet+lAr+sH
+şirketinin şirket+sH+nHn
+halihazırda halihazırda
+tedavülde tedavül+DA
+82.1 82.1
+milyon milyon
+hissesi hisse+sH
+bulunmaktadır bulun+mAktA+DHr
+. .
+</S>
+<S>
+Morgan morgan
+Stanley stanley
+& &
+Co. NONE
+yeniden yeniden
+satın satı+Hn
+alım alım
+işlemi işlem+sH
+için için
+tek tek
+yetkili yetkili
+aracı ara+CH
+olarak ol+yArAk
+hareket hareket
+edecek et+yAcAk
+. .
+</S>
+<S>
+Anlaşmanın anla+Hs+mA+nHn
+hükümleri hüküm+lAr+sH
+açıklanmadı açıkla+n+mA+DH
+. .
+</S>
+<S>
+Hughes NONE
+satışın sat+yHs+nHn
+yıl yıl
+sonuna son+sH+nA
+kadar kadar
+kapanacağının kapa+n+yAcAk+Hn+nHn
+beklendiğini bekle+n+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Onaylama onayla+mA
+işlemini işlem+sH+nH
+Philedelphia NONE
+merkezli merkez+lH
+firmaya firma+yA
+karşı karşı
+girişilen gir+Hs+Hl+yAn
+23 23
+günlük gün+lHk
+bir bir
+grev grev
+takip takip
+ediyor et+Hyor
+. .
+</S>
+<S>
+Sendikalar sendika+lAr
+ve ve
+şirket şirket
+geçen geç+yAn
+hafta hafta
+arabuluculuk arabulucu+lHk
+üzerinde üzer+Hn+DA
+anlaştı anlaş+DH
+. .
+</S>
+<S>
+CWA NONE
+40000 40000
+Nynex NONE
+işçisini işçi+sH+nH
+temsil temsil
+eder et+Ar
+ve ve
+IBEW NONE
+de de
+20.000 20.0
+işçiyi işçi+yH
+temsil temsil
+ediyor et+Hyor
+. .
+</S>
+<S>
+Şimdilik şimdilik
+, ,
+en en
+azından az+Hn+DAn
+, ,
+Wall wall
+street'de NONE
+endişenin endişe+nHn
+yerini yer+sH+nH
+coşku coşku
+ve ve
+mutluluk mutluluk
+aldı al+DH
+. .
+</S>
+<S>
+Çoğu çok+yH
+pazarlığa pazarlık+yA
+oturdu otur+DH
+. .
+</S>
+<S>
+Öncelikle öncelikle
+, ,
+tarih tarih
+kendini kendi+nH
+tekerrür tekerrür
+etmiş et+mHs
+gibi gibi
+göründü görün+DH
+. .
+</S>
+<S>
+88.12 88.12
+puan puan
+kazançla kazanç+ylA
+sona son+yA
+erdi er+DH
+. .
+</S>
+<S>
+Genel genel
+olarak ol+yArAk
+, ,
+New new
+York york
+borsasındaki borsa+sH+nDA+ki
+hisselerde hisse+lAr+DA
+kaybedenler kaybet+yAn+lAr
+kazananlardan kazan+yAn+lAr+DAn
+fazlaydı fazla+yDH
+. .
+</S>
+<S>
+Dünya dünya
+çapında çap+sH+nDA
+, ,
+alım-satım NONE
+işlemi işlem+sH
+genel genel
+olarak ol+yArAk
+yönetilebilir yönet+Hl+yAbil+Hr
+nitelikteydi nitelik+DA+yDH
+. .
+</S>
+<S>
+" "
+Buna bu+nA
+sıkıcı sık+yHcH
+bir bir
+konu konu
+olarak ol+yArAk
+bakıyorum bak+Hyor+yHm
+, ,
+" "
+diyor de+Hyor
+. .
+</S>
+<S>
+Birçok birçok
+diğer diğer
+faktör faktör
+dünkü dün+kü
+geri geri
+gelişte gel+yHs+DA
+rol rol
+oynadı oyna+DH
+. .
+</S>
+<S>
+Para para
+yöneticisi yönet+yHcH+sH
+Barry NONE
+Schrager Schrager
+" "
+Çok çok
+fazla fazla
+rehavet rehavet
+var var
+" "
+diyor de+Hyor
+. .
+</S>
+<S>
+Tokya'daki tokya+'DA+ki
+göreceli göreceli
+sakinlik sakinlik
+Avrupa'daki avrupa+'DA+ki
+piyasa piyasa
+açılışlarına açılış+lAr+sH+nA
+biraz biraz
+rahatlık rahat+lHk
+getirdi getir+DH
+. .
+</S>
+<S>
+Ekran ekran
+kırmızı kırmızı
+renkli renk+lH
+bir bir
+denizdi deniz+yDH
+. .
+</S>
+<S>
+9:45'e 9:45+'+yA
+kadar kadar
+, ,
+sanayi sanayi
+ortalaması ortala+mA+sH
+27 27
+puan puan
+düştü düş+DH
+. .
+</S>
+<S>
+Sabah sabah
+saat saat
+10'a NONE
+kadar kadar
+49 49
+puan puan
+düşmüştü düş+mHs+yDH
+. .
+</S>
+<S>
+Shearson'un shearson+'nHn
+Londra londra
+seans seans
+odası oda+sH
+delirdi delir+DH
+. .
+</S>
+<S>
+Shearson'dan shearson+'DAn
+Andy andy
+Rosen NONE
+" "
+toparlanma toparlan+mA
+, ,
+toparlanma toparla+n+mA
+, ,
+" "
+diye diye
+bağırdı bağır+DH
+. .
+</S>
+<S>
+" "
+Bu bu
+panik panik
+alımı alım+yH
+. .
+" "
+</S>
+<S>
+Japonların japon+lAr+nHn
+ağır ağır
+alıcılar al+yHcH+lAr
+olduğu ol+DHk+sH
+söylendi söyle+n+DH
+. .
+</S>
+<S>
+Alman alman
+ve ve
+Hollandalı hollandalı
+yatırımcılar yatırımcı+lAr
+, ,
+söylenenlere söyle+n+yAn+lAr+yA
+göre göre
+Kellogg kellogg
+Co NONE
+üzerine üzer+Hn+yA
+yükleniyor yük+lAn+Hyor
+. .
+</S>
+<S>
+" "
+Başımıza baş+HmHz+yA
+gelen gel+yAn
+gerçek gerçek
+, ,
+eski eski
+moda moda
+bir bir
+toparlanmaydı toparlan+mA+yDH
+. .
+" "
+</S>
+<S>
+Normal normal
+olan ol+yAn
+, ,
+herhalde herhalde
+, ,
+Batterymarch'dan NONE
+Dean dean
+LeBaron'du lebaron+'yDH
+. .
+</S>
+<S>
+Herkes herkes
+para para
+kazanamıyordu kazan+yAmA+Hyor+yDH
+. .
+</S>
+<S>
+Piyasa piyasa
+gün gün
+içinde içinde
+en en
+yükseğe yüksek+yA
+ulaştıktan ulaş+DHk+DAn
+dakikalar dakika+lAr
+sonra sonra
+kapandı kapan+DH
+</S>
+<S>
+Ben ben
+ellerimi el+lAr+Hm+yH
+üzerine üzerine
+koyabileceğim koy+yAbil+yAcAk+Hm
+parayı para+yH
+tercih tercih
+ederim et+Ar+yHm
+. .
+</S>
+<S>
+Halk halk
+halen halen
+dikkatli dikkat+lH
+. .
+</S>
+<S>
+Daha daha
+düşük düşük
+faiz faiz
+oranları oran+lAr+sH
+ödeyen öde+yAn
+Hazine hazine
+bonolarıyla bono+lAr+sH+ylA
+20 20
+milyar milyar
+dolar dolar
+daha daha
+toplanacak topla+n+yAcAk
+. .
+</S>
+<S>
+1987 1987
+kazasından kaza+sH+nDAn
+birkaç birkaç
+gün gün
+sonra sonra
+, ,
+büyük büyük
+aracı aracı
+kurumlar kurum+lAr
+yatırımcıları yatırımcı+lAr+yH
+sakinleştirmek sakinleş+DHr+mAk
+için için
+reklamlar reklam+lAr
+verdi ver+DH
+. .
+</S>
+<S>
+Fidelity fidelity
+Investments Investments
+dün dün
+gazetelere gazete+lAr+yA
+yeni yeni
+reklamlar reklam+lAr
+verdi ver+DH
+ve ve
+bugün bugün
+yayınlanacak yayınla+n+yAcAk
+yeni yeni
+bir bir
+reklam reklam
+daha daha
+yazdı yaz+DH
+. .
+</S>
+<S>
+Diğer diğer
+aracı aracı
+kurumlar kurum+lAr
+, ,
+Merrill Merrill
+Lynch Lynch
+& &
+Co. Co.
+dahil dahil
+olmak ol+mAk
+üzere üzere
+, ,
+potansiyel potansiyel
+yeni yeni
+reklam reklam
+strateji strateji
+planlarını plan+lAr+sH+nH
+çıkardı çık+Ar+yDH
+. .
+</S>
+<S>
+Örneğin örneğin
+Fidelity fidelity
+, ,
+birkaç birkaç
+ay ay
+önce önce
+pazarın pazar+nHn
+düşmesi düş+mA+sH
+ihtimaline ihtimal+sH+nA
+karşı karşı
+reklamlar reklam+lAr
+hazırladı hazırla+DH
+. .
+</S>
+<S>
+" "
+Cuma cuma
+günü gün+sH
+bunu bu+nH
+sevdiyseniz sev+DH+ysA+nHz
+ve ve
+satın satın
+aldıysanız al+DH+ysA+nHz
+, ,
+gerçek gerçek
+değeri değer+sH
+değişmedi. değişmedi.
+" "
+</S>
+<S>
+" "
+Bu bu
+noktada nokta+DA
+bir bir
+şey şey
+söylenmesi söyle+n+mA+sH
+gerektiğini gerek+DHk+sH+nH
+düşünmüyoruz düşün+mA+Hyor+yHz
+. .
+</S>
+<S>
+Fakat fakat
+onların o+nlAr+nHn
+reklamlarının reklam+lArH+nHn
+daha daha
+etkili etkili
+olup ol+yHp
+olmayacağı ol+mA+yAcAk+sH
+görülecekti gör+Hl+yAcAk+yDH
+. .
+</S>
+<S>
+Şimdi şimdi
+firmalar firma+lAr
+, ,
+reklamların reklam+lAr+nHn
+bu bu
+sefer sefer
+işe iş+yA
+yarayabileceğini yara+yAbil+yAcAk+sH+nH
+kanıtlamak kanıtla+mAk
+için için
+ellerinden el+lArH+nDAn
+geleni gel+yAn+yH
+yapmalıdır yap+mAlH+DHr
+. .
+</S>
+<S>
+John john
+Verret Verret
+, ,
+ajansın ajans+nHn
+başkanı başkan+sH
+ve ve
+CEO'su ceo+'sH
+, ,
+başkan başkan
+ünvanını ünvan+sH+nH
+muhafaza muhafaza
+edecekti et+yAcAk+yDH
+. .
+</S>
+<S>
+Dergi dergi
+zamdan zam+DAn
+gelen gel+yAn
+brüt brüt
+gelirlerin gelir+lAr+nHn
+% %
+10'unu 10+'+sH+nH
+yenilikçi yenilik+CH
+öğretmenlere öğretmen+lAr+yA
+hibe hibe
+olarak ol+yArAk
+dağıtacaktır dağıt+yAcAk+DHr
+. .
+</S>
+<S>
+Birkaç birkaç
+kişi kişi
+, ,
+her her
+iki iki
+takımın takım+nHn
+renklerini renk+lArH+nH
+ve ve
+amblemlerini amblem+lArH+nH
+taşıyan taşı+yAn
+şapkalar şapka+lAr
+bile bile
+giydi giy+DH
+. .
+</S>
+<S>
+Her her
+neyse neyse
+, ,
+A'lar a+'lAr
+sana sana
+destekleyebileceğin destekle+yAbil+yAcAk+Hn
+bir bir
+sürü sürü
+kahraman kahraman
+verdi ver+DH
+. .
+</S>
+<S>
+Sahada saha+DA
+yerinizi yer+HnHz+yH
+alınca al+yHncA
+her her
+topu top+yH
+olağanüstü olağanüstü
+bir bir
+şekilde şekil+DA
+görüyorsunuz gör+Hyor+SHnHz
+, ,
+dedi de+DH
+. .
+</S>
+<S>
+Ancak ancak
+Dodger'in dodger+'nHn
+sert sert
+oyuncusu oyuncu+sH
+, ,
+rüzgarın rüzgar+nHn
+ne ne
+zaman zaman
+tekrar tekrar
+ondan o+nDAn
+yana yan+yA
+eseceğine es+yAcAk+sH+nA
+dair dair
+bir bir
+öngörüde öngörü+DA
+bulunmayacak bulun+mA+yAcAk
+kadar kadar
+bilgeydi bilge+yDH
+. .
+</S>
+<S>
+Gelir gelir
+projeksiyonları projeksiyon+lAr+sH
+6.20 6.2
+milyardan milyar+DAn
+, ,
+6.03 6.03
+milyar milyar
+dolara dolar+yA
+indirilecektir indir+Hl+yAcAk+DHr
+. .
+</S>
+<S>
+" "
+Bütün bütün
+gece gece
+boyunca boyunca
+Birleşik Birleşik
+Devletler'den devlet+lAr+'DAn
+telefon telefon
+geldi gel+DH
+, ,
+" "
+dedi de+DH
+. .
+</S>
+<S>
+" "
+Saat saat
+başı baş+sH
+uyandırıldım uyandır+Hl+DH+m
+- -
+1:30 1:30
+, ,
+2:30 2:30
+, ,
+3:30 3:30
+, ,
+4:30 4:30
+. .
+</S>
+<S>
+Ama ama
+çılgın çılgın
+Wall wall
+Street street
+esinlerini esin+lAr+sH+nH
+taşıyan taşı+yAn
+miting miting
+sona son+yA
+erdi er+DH
+, ,
+şehir şehir
+rahat rahat
+bir bir
+nefes nefes
+aldı al+DH
+. .
+</S>
+<S>
+Wall wall
+Street'in street+'nHn
+geçen geçen
+Cuma cuma
+günkü gün+kü
+düşüşünün düşüş+sH+nHn
+ardından art+sH+nDAn
+, ,
+Londra londra
+pazarı pazar+sH
+özellikle özellikle
+savunmasız savunmasız
+kabul kabul
+edildi et+Hl+DH
+. .
+</S>
+<S>
+Birkaç birkaç
+saniye saniye
+sonra sonra
+İskoç iskoç
+ve ve
+Newcastle newcastle
+için için
+7.500 7.5
+hisseli hisse+lH
+" "
+satış satış
+" "
+emri emir+sH
+geldi gel+DH
+. .
+</S>
+<S>
+00:49'da 00:49+'+DA
+endeks endeks
+204.2 204.2
+puan puan
+düşerek düş+yArAk
+2029.7 2029.7
+seviyesine seviye+sH+nA
+geriledi gerile+DH
+. .
+</S>
+<S>
+`` ``
+İspanya ispanya
+%10 %10
+düştü düş+DH
+ve ve
+askıya askı+yA
+alındı al+Hn+DH
+, ,
+İsveç'in isveç+'nHn
+% %
+8 8
+, ,
+Norveç norveç
+% %
+11 11
+. .
+</S>
+<S>
+Yatırımcılar yatırımcı+lAr
+hala hala
+burada burada
+Jaguar jaguar
+için için
+teklifleri teklif+lAr+yH
+Ford ford
+Motor motor
+Co. Co.
+ve ve
+General general
+Motors motors
+Corp'tan corp+'DAn
+bekliyor bekle+Hyor
+. .
+</S>
+<S>
+Ardından ardından
+, ,
+dokuz dokuz
+dakika dakika
+sonra sonra
+, ,
+Wall wall
+Street street
+aniden aniden
+gününde gün+sH+nDA
+kazanca kazanç+yA
+ulaştı ulaş+DH
+. .
+</S>
+<S>
+Londra londra
+pazarı pazar+sH
+yükselirken yüksel+Hr+yken
+, ,
+bazıları bazı+lArH
+endişe endişe
+ve ve
+stres stres
+dolu dolu
+bir bir
+haftasonunun haftasonu+nHn
+buna bu+nA
+değip değ+yHp
+değmediğini değ+mA+DHk+sH+nH
+merak merak
+etti et+DH
+. .
+</S>
+<S>
+Temsilci temsilci
+Oberstar Oberstar
+, ,
+Bay bay
+Trump'ın Trump'ın
+iddialarını iddia+lAr+sH+nH
+" "
+kendi kendi
+anlaşmasının anlaşma+sH+nHn
+başarısızlığına başarı+SHz+lHk+sH+nA
+bir bir
+bahane bahane
+" "
+olarak ol+yArAk
+değerlendirip değerlendir+yHp
+önemsemedi önemse+mA+DH
+. .
+</S>
+<S>
+Ancak ancak
+UAL ual
+ve ve
+AMR amr
+örneklerini örnek+lAr+sH+nH
+bu bu
+yasayı yasa+yH
+yürürlüğe yürürlük+yA
+koymak koy+mAk
+için için
+hızlı hız+lH
+hareket hareket
+etmenin et+mA+nHn
+nedenleri neden+lAr+sH
+olarak ol+yArAk
+gösterdiler göster+DH+lAr
+. .
+</S>
+<S>
+Boeing boeing
+şu şu
+anda an+DA
+, ,
+makinistlere makinist+lAr+yA
+saatlik saat+lHk
+ortalama ortala+mA
+13.39 13.39
+dolar dolar
+ödeme ödeme
+yapıldığını yap+Hl+DHk+sH+nH
+, ,
+söyledi söyle+DH
+. .
+</S>
+<S>
+Orada orada
+bir bir
+ya ya
+da da
+bir bir
+başka başka
+psikolojik psikolojik
+, ,
+teknik teknik
+reaksiyon reaksiyon
+olabilir ol+yAbil+Hr
+, ,
+fakat fakat
+onlar o+nlAr
+temele temel+yA
+dayalı dayalı
+değildir değil+DHr
+. .
+</S>
+<S>
+Batı batı
+Almanya almanya
+ve ve
+Avrupa avrupa
+Komisyonu komisyon+sH
+( (
+Avrupa avrupa
+Topluluğu topluluk+sH
+) )
+ekonomisi ekonomi+sH
+oldukça oldukça
+istikrarlıdır istikrar+lH+DHr
+. .
+" "
+</S>
+<S>
+Keskin keskin
+düşüşlerden düş+yHs+lAr+DAn
+biri biri
+de de
+, ,
+Avrupa'nın avrupa+'nHn
+en en
+güçlü güç+lH
+ekonomisinin ekonomi+sH+nHn
+finans finans
+merkezinde merkez+sH+nDA
+meydana meydan+yA
+geldi gel+DH
+. .
+</S>
+<S>
+Ancak ancak
+bu bu
+sefer sefer
+birçok birçok
+küçük küçük
+yatırımcı yatırımcı
+bu bu
+kadar kadar
+hızlı hız+lH
+hareket hareket
+ederek et+yArAk
+zarar zarar
+görmüş gör+mHs
+olabilir ol+yAbil+Hr
+. .
+</S>
+<S>
+Commerzbank Commerzbank
+AG'nin AG'nin
+komisyoncusu komisyoncu+sH
+Nigel Nigel
+Longley Longley
+`` ``
+Başlangıçta başlangıç+DA
+kaotikti kaotik+yDH
+'' ''
+dedi de+DH
+. .
+</S>
+<S>
+Geç geç
+satışlar sat+yHs+lAr
+, ,
+günün gün+nHn
+erken erken
+saatlerinde saat+lAr+sH+nDA
+hızla hızla
+düşen düş+yAn
+Paris paris
+Borsası'nın borsa+sH+'nHn
+düşüş düşüş
+hızını hız+sH+nH
+yavaşlattı yavaşla+t+DH
+. .
+</S>
+<S>
+CAC CAC
+Genel genel
+endeksi endeks+sH
+cumadan cuma+DAn
+bu bu
+yana yan+yA
+29.6 29.6
+puan puan
+kaybederek kaybet+yArAk
+%5.4 %5.4
+düşüp düş+yHp
+523.6'da 523.6+'+DA
+kapandı kapan+DH
+. .
+</S>
+<S>
+`` ``
+Wall wall
+Street street
+açılışından açılış+sH+nDAn
+kısa kısa
+bir bir
+süre süre
+sonra sonra
+yön yön
+değiştirdiğinde değiştir+DHk+sH+nDA
+Paris'te paris+'DA
+insanlar insan+lAr
+panik panik
+içinde içinde
+alım alım
+yapmaya yap+mA+yA
+başladı başla+DH
+. .
+'' ''
+</S>
+<S>
+Wall wall
+Street street
+yön yön
+değiştirince değiştir+yHncA
+kodamanlar kodaman+lAr
+kelepir kelepir
+bulmak bul+mAk
+için için
+piyasaya piyasa+yA
+giriyor gir+Hyor
+. .
+</S>
+<S>
+Geçen geçen
+yıl yıl
+bu bu
+çeyrekte çeyrek+DA
+Morgan morgan
+233.6 233.6
+milyar milyar
+dolar dolar
+veya veya
+1.25 1.25
+dolarlık dolar+lHk
+hisse hisse
+kazandı kazan+DH
+. .
+</S>
+<S>
+Prudential-Bache Prudential-Bache
+Securities Securities
+Inc.'te Inc.'te
+analist analist
+olan ol+yAn
+George george
+M. m.
+Salem Salem
+, ,
+sonuçları sonuç+lAr+yH
+`` ``
+hafif hafif
+bir bir
+hayal hayal
+kırıklığı kırıklık+sH
+" "
+olarak ol+yArAk
+adlandırdı adlandır+DH
+. .
+</S>
+<S>
+Net Net
+faiz faiz
+geliri gelir+sH
+bu bu
+çeyrekte çeyrek+DA
+%27 %27
+azalarak azal+yArAk
+254 254
+milyon milyon
+dolardan dolar+DAn
+347 347
+milyon milyon
+dolara dolar+yA
+düştü düş+DH
+. .
+</S>
+<S>
+Banka banka
+bu bu
+artışların artış+lAr+nHn
+düşük düşük
+ticaret ticaret
+sebebiyle sebep+sH+ylA
+kısmen kısmen
+ötelendiğini ötele+n+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Donuk donuk
+olanlar ol+yAn+lAr
+, ,
+bir bir
+önceki önceki
+yılın yıl+nHn
+üçüncü üçüncü
+çeyreğinde çeyrek+sH+nDA
+230.8 230.8
+milyon milyon
+dolara dolar+yA
+veya veya
+%1.27'ye %1.27
+erişti eriş+DH
+. .
+</S>
+<S>
+Dün dün
+Big big
+Board board
+kompozit kompozit
+ticaretinde ticaret+sH+nDA
+NCNB NCNB
+hisse hisse
+başına baş+sH+nA
+3.50 3.5
+$ $
+artarak art+yArAk
+51 51
+$'a $'
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+NCNB, NCNB,
+üçüncü üçüncü
+çeyrek çeyrek
+sonuçlarının sonuç+lAr+sH+nHn
+Teksas teksas
+operasyonunun operasyon+sH+nHn
+1 1
+Ağustos'tan ağustos+'DAn
+bu bu
+yanaki yanaki
+kazançlarının kazanç+lAr+sH+nHn
+%100'ünü %100'ünü
+yansıttığını yansıt+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Security Security
+Pacific Pacific
+hisseleri hisse+lAr+sH
+, ,
+Big big
+Board board
+kompozit kompozit
+ticaretinde ticaret+sH+nDA
+37.5 37.5
+sent sent
+düşüşle düşüş+ylA
+44.625$'dan 44.625$'dan
+kapandı kapan+DH
+. .
+</S>
+<S>
+Ulusal ulusal
+kote kote
+olmamış ol+mA+mHs
+hisse hisse
+senedi senet+sH
+alım alım
+satımında satım+sH+nDA
+, ,
+LIN LIN
+2.75 2.75
+$ $
+düşüşle düşüş+ylA
+104.75$'dan 104.75$'dan
+kapandı kapan+DH
+. .
+</S>
+<S>
+Teklifimiz teklif+HmHz
+, ,
+18$'dan 18$'dan
+başlayan başla+yAn
+tüm tüm
+hisseleri hisse+lAr+yH
+satın satın
+almaktır al+mAk+DHr
+. .
+</S>
+<S>
+Bayan bayan
+Hills hills
+, ,
+ABD abd
+ve ve
+Kanada'nın kanada+'nHn
+anlaşmazlıklarını anlaşmazlık+lArH+nH
+çözmek çöz+mAk
+için için
+13 13
+Kasım'a kasım+'yA
+kadar kadar
+vakti vakit+sH
+olduğunu ol+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Bu bu
+tür tür
+sözleşmeler söz+lAs+mA+lAr
+sonuçlanmadan sonuçlan+mAdAn
+önce önce
+Kanada'daki kanada+'DA+ki
+kısıtlamaların kısıtlama+lAr+nHn
+kaldırılması kaldır+Hl+mA+sH
+gerektiğini gerek+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Şirket şirket
+, ,
+varantları varantları
+her her
+biri biri
+1 1
+dolar dolar
+olacak ol+yAcAk
+şekilde şekil+DA
+talep talep
+edebileceğini et+yAbil+yAcAk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Teklif teklif
+, ,
+belirli belirli
+bir bir
+miktarda miktar+DA
+borcun borç+nHn
+veya veya
+hissenin hisse+nHn
+borsada borsa+DA
+alınıp al+Hn+yHp
+verilmesine ver+Hl+mA+sH+nA
+bağlı bağlı
+değildir değil+DHr
+. .
+</S>
+<S>
+BSN, BSN,
+sermayesini sermaye+sH+nH
+küçültmeyi küçült+mA+yH
+ve ve
+hissedar hissedar
+değerini değer+sH+nH
+artırmayı art+Hr+mA+yH
+teklif teklif
+ettiğini et+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+`` ``
+Bununla bu+ylA
+başa baş+yA
+çıkmak çık+mAk
+için için
+yeterli yeterli
+nakit nakit
+akışımız ak+yHs+HmHz
+var var
+'' ''
+dedi de+DH
+. .
+</S>
+<S>
+Toplam toplam
+gelir gelir
+2.57 2.57
+milyardan milyar+DAn
+% %
+10 10
+yükselerek yüksel+yArAk
+, ,
+2.83 2.83
+milyar milyar
+dolara dolar+yA
+ulaştı ulaş+DH
+. .
+</S>
+<S>
+Yatırım yatırım
+bankacılığı bankacılık+sH
+geliri gelir+sH
+, ,
+daha daha
+az az
+özkaynak özkaynak
+ve ve
+belediye belediye
+yüklenmeleri yüklen+mA+lAr+sH
+nedeniyle nedeniyle
+%22 %22
+düşerek düş+yArAk
+296.6 296.6
+milyon milyon
+$'a $'a
+geriledi gerile+DH
+. .
+</S>
+<S>
+Faiz faiz
+ve ve
+temettülerden temettü+lAr+DAn
+elde elde
+edilen et+Hl+yAn
+gelir gelir
+%30 %30
+artışla artış+ylA
+1.4 1.4
+milyar milyar
+dolara dolar+yA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Brüt brüt
+gelir gelir
+478.9 478.9
+milyon milyon
+$'dan $'dan
+% %
+21 21
+artışla artış+ylA
+580.4 580.4
+milyon milyon
+$'a $'a
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Menkul menkul
+kıymetler kıymet+lAr
+firması firma+sH
+, ,
+kendi kendi
+hesabı hesap+sH
+için için
+ticaretten ticaret+DAn
+elde elde
+edilen et+Hl+yAn
+kârın kârın
+düştüğünü düş+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Yatırım yatırım
+bankacılığı bankacılık+sH
+geliri gelir+sH
+%25 %25
+artarken art+Ar+yken
+, ,
+komisyon komisyon
+geliri gelir+sH
+daha daha
+güçlü güç+lH
+bir bir
+perakende perakende
+pazarında pazar+sH+nDA
+%31 %31
+arttı art+DH
+. .
+</S>
+<S>
+Bear Bear
+Stearns Stearns
+, ,
+yatırım yatırım
+bankacılığı bankacılık+sH
+ve ve
+aracılık aracılık
+şirketi şirket+sH
+Bear Bear
+, ,
+Stearns Stearns
+& &
+Co.'nun co.+'nHn
+holding holding
+şirketidir şirket+sH+DHr
+. .
+</S>
+<S>
+Net Net
+faiz faiz
+dahil dahil
+gelir gelir
+444.9 444.9
+milyon milyon
+dolardı dolar+yDH
+, ,
+450.7 450.7
+milyon milyon
+dolardan dolar+DAn
+biraz biraz
+düşmüştü düş+mHs+yDH
+. .
+</S>
+<S>
+Big big
+Board board
+kompozit kompozit
+ticaretinde ticaret+sH+nDA
+dün dün
+, ,
+PaineWebber painewebber
+75 75
+sent sent
+artışla artış+ylA
+18.50$'dan 18.50$'dan
+kapandı kapan+DH
+. .
+</S>
+<S>
+Sistem sistem
+ve ve
+prosedürle prosedür+ylA
+uğraşmak uğraş+mAk
+, ,
+piyasaların piyasa+lAr+nHn
+panik panik
+bir bir
+satış satış
+dalgasına dalga+sH+nA
+maruz maruz
+kalmasını kal+mA+sH+nH
+hiçbir hiçbir
+şekilde şekil+DA
+engelleyemez engelle+yAmA+z
+. .
+</S>
+<S>
+Ticaretin ticaret+nHn
+geçici geçici
+olarak ol+yArAk
+kesilmesi kesil+mA+sH
+, ,
+satış satış
+paniğinin panik+sH+nHn
+kendi kendi
+kendini kendi+nH
+beslemesine besle+mA+sH+nA
+engel engel
+olabilir ol+yAbil+Hr
+. .
+</S>
+<S>
+Ticaret ticaret
+piyasaları piyasa+lAr+sH
+ve ve
+Washington washington
+arasındaki ara+sH+nDA+ki
+yoğun yoğun
+telefon telefon
+görüşmelerinden görüşme+lAr+sH+nDAn
+sonra sonra
+3:30'da 3:30+'+DA
+vadeli vade+lH
+işlem işlem
+borsaları borsa+lAr+sH
+yeniden yeniden
+açıldı aç+Hl+DH
+. .
+</S>
+<S>
+( (
+Tabii tabii
+ki ki
+, ,
+uzmanların uzman+lAr+nHn
+eylemleri eylem+lAr+sH
+tek tek
+başına baş+sH+nA
+hisse hisse
+senedi senet+sH
+fiyatlarında fiyat+lAr+sH+nDA
+büyük büyük
+bir bir
+kırılmayı kırılma+yH
+asla asla
+engelleyemez engelle+yAmA+z
+. .
+</S>
+<S>
+Oyuncular oyuncu+lAr
+, ,
+otoparkta otopark+DA
+daha daha
+fazla fazla
+alay alay
+edilmesinin et+Hl+mA+sH+nHn
+bir bir
+kavgaya kavga+yA
+yol yol
+açtığını aç+DHk+sH+nH
+söylediler söyle+DH+lAr
+. .
+</S>
+<S>
+Bay bay
+Phelan Phelan
+, ,
+pazar pazar
+kapandıktan kapan+DHk+DAn
+sonra sonra
+" "
+Hiçbir hiçbir
+operasyon operasyon
+problemimiz problem+HmHz
+yoktu yok+yDH
+, ,
+" "
+dedi de+DH
+. .
+</S>
+<S>
+Kentucky Kentucky
+Fried Fried
+Chicken Chicken
+ayrıca ayrıca
+, ,
+akşam akşam
+yemeğini yemek+sH+nH
+evde ev+DA
+yiyenler ye+yAn+lAr
+arasında ara+sH+nDA
+büyük büyük
+bir bir
+hit hit
+olabilecek ol+yAbil+yAcAk
+eve ev+yA
+teslim teslim
+tavuk tavuk
+servisini servis+sH+nH
+de de
+test test
+ediyor et+Hyor
+. .
+</S>
+<S>
+Testin test+nHn
+Chicago chicago
+, ,
+Columbus columbus
+, ,
+Ohio ohio
+ve ve
+diğer diğer
+birkaç birkaç
+şehirde şehir+DA
+devam devam
+ettiğini et+DHk+sH+nH
+söylüyor söyle+Hyor
+. .
+</S>
+<S>
+Pittsburgh Pittsburgh
+danışmanı danışman+sH
+David david
+Bear Bear
+, ,
+göz göz
+önünde ön+sH+nDA
+olmak ol+mAk
+isteyen iste+yAn
+ancak ancak
+ısrarcı ısrar+CH
+reklamlardan reklam+lAr+DAn
+kaçınan kaçın+yAn
+müşterilere müşteri+lAr+yA
+yumuşak yumuşak
+bir bir
+yaklaşım yaklaşım
+satıyor sat+Hyor
+. .
+</S>
+<S>
+Sponsor sponsor
+için için
+yapılan yap+Hl+yAn
+tek tek
+tanıtım tanıtım
+, ,
+reklamın reklam+nHn
+sonundaki son+sH+nDA+ki
+kısa kısa
+bir bir
+anmadan anma+DAn
+ibaret ibaret
+. .
+</S>
+<S>
+Reklamlarını reklam+lAr+sH+nH
+çeken çek+yAn
+yeni yeni
+firmalar firma+lAr
+arasında ara+sH+nDA
+bir bir
+Butler Butler
+, ,
+Pa.'ya pa.+'yA
+bağlı bağlı
+bir bir
+mimarlık mimarlık
+firması firma+sH
+olan ol+yAn
+Burt Burt
+Hill Hill
+Kosar Kosar
+Rittlemann Rittlemann
+Associates associates
+da da
+bulunmaktadır bulun+mAktA+DHr
+. .
+</S>
+<S>
+" "
+Bu bu
+, ,
+olası olası
+bilinirlik bilin+Hr+lHk
+kaybına kayıp+sH+nA
+karşılık karşılık
+ne ne
+kadar kadar
+güvenilirlik güvenilirlik
+kazandığınız kazan+DHk+HnHz
+sorusudur soru+sH+DHr
+. .
+</S>
+<S>
+HERE, HERE,
+çevre çevre
+açısından açı+sH+nDAn
+güvenli güvenli
+ambalaj ambalaj
+ve ve
+ürünleri ürün+lAr+yH
+kabul kabul
+ettirmeye et+DHr+mA+yA
+çalışma çalış+mA
+konusunda konu+sH+nDA
+sert sert
+davranmaya davran+mA+yA
+başlayan başla+yAn
+bir bir
+perakendeci perakendeci
+. .
+</S>
+<S>
+Örneğin örneğin
+, ,
+klorsuz klor+SHz
+bulaşık bulaşık
+makinesi makine+sH
+deterjanı deterjan+sH
+önerir öner+Hr
+ve ve
+Sunlighti sunlight+yH
+çevre çevre
+açısından açı+sH+nDAn
+güvenliler güvenli+lAr
+listesine liste+sH+nA
+koyar koy+Ar
+. .
+</S>
+<S>
+" "
+Amacımız amaç+HmHz
+en en
+iyi iyi
+alternatifi alternatif+yH
+tanıtmak tanı+t+mAk
+'' ''
+diyor de+Hyor
+. .
+</S>
+<S>
+Michael michael
+J. j.
+Fox fox
+, ,
+Bruce bruce
+Willis'in Willis'in
+yerini yer+sH+nH
+alarak al+yArAk
+üçüncü üçüncü
+sırada sıra+DA
+; ;
+Cher cher
+ikinci ikinci
+kez kez
+dördüncü dördüncü
+oldu ol+DH
+. .
+</S>
+<S>
+Colton colton
+, ,
+" "
+HUD hud
+bütçesi bütçe+sH
+1980'den 1980+'+DAn
+bu bu
+yana yan+yA
+%70'ten %70+'+DAn
+fazla fazla
+düştü düş+DH
+, ,
+" "
+diyor de+Hyor
+. .
+</S>
+<S>
+Diğer diğer
+programlar program+lAr
+da da
+benzer benzer
+bir bir
+güçlükle güçlük+ylA
+karşılaşmış karşılaş+mHs
+olsaydı ol+SA+yDH
+sorun sorun
+yaşamazdım. yaşamazdım.
+" "
+</S>
+<S>
+Herkesin herkes+nHn
+söylediği söyle+DHk+sH
+gibi gibi
+, ,
+federal federal
+hükümet hükümet
+zaten zaten
+900 900
+milyar milyar
+dolardan dolar+DAn
+fazla fazla
+ipoteği ipotek+yH
+garanti garanti
+ediyor et+Hyor
+. .
+</S>
+<S>
+Ulusal ulusal
+Vergi vergi
+Mükellefleri mükellef+lAr+sH
+Birliği'nden birliği+'Hn+DAn
+Sheila Sheila
+MacDonald MacDonald
+şöyle şöyle
+açıklıyor açıkla+Hyor
+: :
+" "
+İki iki
+dünyaya dünya+yA
+yayılıyor yayıl+Hyor
+. .
+</S>
+<S>
+Ne ne
+yazık yazık
+ki ki
+, ,
+örgütün örgüt+nHn
+domuz domuz
+eti et+sH
+arzusu arzu+sH
+, ,
+genel genel
+mali mali
+sorumluluğa sorumluluk+yA
+olan ol+yAn
+bağlılığını bağ+lH+lHk+sH+nH
+geçersiz geçersiz
+kılma kıl+mA
+eğilimindedir eğilim+sH+nDA+DHr
+. .
+</S>
+<S>
+Asıl asıl
+anahtar anahtar
+ekonominin ekonomi+nHn
+işlemesini işleme+sH+nH
+sağlamak sağla+mAk
+ve ve
+faiz faiz
+oranlarını oran+lAr+sH+nH
+düşürmektir düşür+mAk+DHr
+. .
+</S>
+<S>
+Törenler tören+lAr
+Cuma cuma
+öğleden öğle+DAn
+sonra sonra
+UAL ual
+satın satın
+alımının alım+sH+nHn
+başarısız başarı+SHz
+olduğu ol+DHk+sH
+söylentisi söylenti+sH
+yayıldığında yayıl+DHk+sH+nDA
+başladı başla+DH
+. .
+</S>
+<S>
+AMR, AMR,
+Perşembe perşembe
+günkü gün+kü
+kapanıştan kapanış+DAn
+yaklaşık yaklaşık
+%20 %20
+düşerek düş+yArAk
+Pazartesi pazartesi
+günü gün+sH
+80 80
+dolardan dolar+DAn
+açıldı aç+Hl+DH
+. .
+</S>
+<S>
+Çürük çürük
+tahvil tahvil
+piyasası piyasa+sH
+, ,
+Cuma cuma
+günkü gün+kü
+ciddi ciddi
+artış artış
+için için
+birkaç birkaç
+haftadır hafta+DHr
+zemin zemin
+hazırlıyordu hazırla+Hyor+yDH
+. .
+</S>
+<S>
+Bu bu
+, ,
+özel özel
+pazarların pazar+lAr+nHn
+Washington'un washington+'nHn
+Wall wall
+Street'i street+'yH
+yıkmasını yık+mA+sH+nH
+onayladığı onayla+DHk+sH
+bir bir
+durum durum
+mudur mu+DHr
+? ?
+</S>
+<S>
+Salı salı
+günkü gün+kü
+işlemin işlem+nHn
+ilk ilk
+25 25
+dakikasında dakika+sH+nDA
+Nikkei Nikkei
+endeksi endeks+sH
+664.83 664.83
+puan puan
+artarak art+yArAk
+35133.83 35133.83
+seviyesine seviye+sH+nA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Pazartesi pazartesi
+heyelanı heyelan+sH
+diğer diğer
+piyasalara piyasa+lAr+yA
+çok çok
+yön yön
+vermeyen ver+mA+yAn
+, ,
+nispeten nispeten
+sakin sakin
+bir bir
+oturumda oturum+DA
+gerçekleşti gerçekleş+DH
+. .
+</S>
+<S>
+" "
+Ticaret ticaret
+Avrupa avrupa
+ve ve
+New new
+York york
+üzerinden üzeri+Hn+DAn
+dolaşana dolaş+yAn+yA
+kadar kadar
+beklemek bekle+mAk
+ve ve
+görmek gör+mAk
+istiyoruz iste+Hyor+yHz
+. .
+" "
+</S>
+<S>
+Ancak ancak
+telaşlı telaşlı
+ticaretin ticaret+nHn
+yokluğunda yok+lHk+sH+nDA
+onun o+nHn
+varlığı varlık+sH
+asla asla
+açık açık
+bir bir
+şekilde şekil+DA
+hissedilmedi hisset+Hl+mA+DH
+. .
+</S>
+<S>
+Daha daha
+kapsamlı kapsamlı
+Tokyo tokyo
+Hisse hisse
+Senedi senet+sH
+Fiyatları fiyat+lAr+sH
+Endeksi endeks+sH
+45.66 45.66
+veya veya
+% %
+1.7 1.7
+değer değer
+kaybederek kaybet+yArAk
+2600.88 2600.88
+seviyesine seviye+sH+nA
+geriledi gerile+DH
+. .
+</S>
+<S>
+Piyasa piyasa
+keskin keskin
+bir bir
+düşüş düşüş
+ile ile
+açıldı aç+Hl+DH
+, ,
+Nikkei Nikkei
+ortalaması ortala+mA+sH
+20 20
+dakika dakika
+sonra sonra
+yaklaşık yaklaşık
+600 600
+düştü düş+DH
+. .
+</S>
+<S>
+Tokyo tokyo
+pazarının pazar+sH+nHn
+ikinci iki+HncH
+kısmındaki kısım+sH+nDA+ki
+daha daha
+küçük küçük
+stoklar stok+lAr
+da da
+yılın yıl+nHn
+en en
+büyük büyük
+düşüşünü düşüş+sH+nH
+kaydetti kaydet+DH
+. .
+</S>
+<S>
+İkinci iki+HncH
+bölüm bölüm
+için için
+Tokyo tokyo
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası borsa+sH
+endeksi endeks+sH
+100.96 100.96
+veya veya
+% %
+2.7 2.7
+düşerek düş+yArAk
+3655.40'a 3655.40+'+yA
+indi in+DH
+. .
+</S>
+<S>
+Japon japon
+yatırımcılar yatırımcı+lAr
+ve ve
+tüccarlar tüccar+lAr
+Tokyo tokyo
+pazarının pazar+sH+nHn
+daha daha
+keskin keskin
+bir bir
+şekilde şekil+DA
+düşmediği düş+mA+DHk+sH
+için için
+rahatladıklarını rahatla+DHk+lAr+sH+nH
+dile dil+yA
+getirdiler getir+DH+lAr
+. .
+</S>
+<S>
+Başlıca başlıca
+endeksler endeks+lAr
+Avustralya avustralya
+ve ve
+Yeni yeni
+Zelanda'da zelanda+'DA
+%8'den %8+'+DAn
+, ,
+Hong hong
+Kong'da kong+'DA
+%6.5'ten %6.5+'+DAn
+fazla fazla
+düşüş düşüş
+gösterdi göster+DH
+. .
+</S>
+<S>
+Benzer benzer
+şekilde şekil+DA
+, ,
+Kuala Kuala
+Lumpur'un lumpur+'nHn
+kompozit kompozit
+endeksi endeks+sH
+dün dün
+1988 1988
+kapanışının kapan+yHs+sH+nHn
+% %
+27.5 27.5
+üzerinde üzerinde
+gerçekleşti gerçekleş+DH
+. .
+</S>
+<S>
+Hong hong
+Kong'da kong+'DA
+, ,
+Hang Hang
+Seng Seng
+Endeksi endeks+sH
+2601.70 2601.7
+seviyesinden seviye+sH+nDAn
+bitirmek bit+Hr+mAk
+üzere üzere
+180.60 180.6
+düştü düş+DH
+. .
+</S>
+<S>
+Ancak ancak
+seans seans
+, ,
+piyasanın piyasa+nHn
+1987 1987
+çöküşünden çök+yHs+sH+nDAn
+sonraki sonraki
+dört dört
+günlük gün+lHk
+kapanışının kapan+yHs+sH+nHn
+aksine aksine
+düzenli düzenli
+bir bir
+şekilde şekil+DA
+gerçekleşti gerçekleş+DH
+. .
+</S>
+<S>
+Düşük düşük
+değerindeyken değer+sH+nDA+yken
+, ,
+Wall wall
+Street street
+açılmadan aç+Hl+mAdAn
+kısa kısa
+bir bir
+süre süre
+önce önce
+, ,
+130 130
+puandan puan+DAn
+daha daha
+yüksekti yüksek+yDH
+. .
+</S>
+<S>
+Bunları bu+nlAr+nH
+doğrudan doğrudan
+karşılaştırılabilir karşılaştır+Hl+yAbil+Hr
+yapmak yap+mAk
+için için
+, ,
+her her
+bir bir
+endeks endeks
+1969'un 1969+'+nHn
+100'e 100+'+yA
+yakın yakın
+kapanışına kapanış+sH+nA
+dayanır dayan+Hr
+. .
+</S>
+<S>
+İlginçtir ilginç+DHr
+ki ki
+, ,
+Çevre çevre
+Savunma savun+mA
+Fonu'nun fon+sH+'nHn
+bununla bu+ylA
+hiçbir hiçbir
+ilgisi ilgi+sH
+yoktur yok+DHr
+. .
+</S>
+<S>
+Kansas kansas
+buğday buğday
+çiftçileri çiftçi+lAr+sH
+ve ve
+Florida florida
+meyve meyve
+yetiştiricileri yetiştirici+lAr+sH
+adapte adapte
+olmak ol+mAk
+ya ya
+da da
+Kaliforniya kaliforniya
+pazarından pazar+sH+nDAn
+vazgeçmek vazgeç+mAk
+zorunda zor+sH+nDA
+kalacaklardı kal+yAcAk+lAr+yDH
+. .
+</S>
+<S>
+Diğer diğer
+bir bir
+deyişle deyiş+ylA
+, ,
+Californiya Californiya
+milletin millet+nHn
+çiftliği çiftlik+sH
+politikasının politika+sH+nHn
+kontrolünü kontrol+sH+nH
+ele el+yA
+geçirmek geçir+mAk
+için için
+çabalıyordu çabala+Hyor+yDH
+. .
+</S>
+<S>
+Eğer eğer
+bu bu
+yeni yeni
+teklif teklif
+yasa yasa
+haline hal+sH+nA
+gelirse gelir+ysA
+, ,
+yeşil yeşil
+lobi lobi
+bundan bundan
+doğrudan doğrudan
+faydalanacaktır faydalan+yAcAk+DHr
+. .
+</S>
+<S>
+Dow dow
+, ,
+ticaretin ticaret+nHn
+ilk ilk
+40 40
+dakikasında dakika+sH+nDA
+63.52 63.52
+kaybederek kaybet+yArAk
+düşüşünü düşüş+sH+nH
+hızlandırdı hız+lAn+DHr+DH
+. .
+</S>
+<S>
+Program program
+tüccarları tüccar+lAr+sH
+iş iş
+başında baş+sH+nDA
+görünürken görün+Hr+yken
+alıcılar alıcı+lAr
+piyasadan piyasa+DAn
+uzaklaştı uzaklaş+DH
+ve ve
+hisse hisse
+senetlerinin senet+lAr+sH+nHn
+düşüşünü düşüş+sH+nH
+izledi izle+DH
+. .
+</S>
+<S>
+Ve ve
+bu bu
+sefer sefer
+sorumlu sorum+lH
+olanlar ol+yAn+lAr
+sadece sadece
+çeşitlendirilmiş çeşit+lAn+DHr+Hl+mHs
+portfolyolara portfolyolara
+ait ait
+menkulleri menkul+lAr+yH
+alıp al+yHp
+satan sat+yAn
+tüccarlar tüccar+lAr
+değildi değil+yDH
+. .
+</S>
+<S>
+Yine yine
+de de
+, ,
+piyasa piyasa
+henüz henüz
+pozitif pozitif
+bölgeye bölge+yA
+geçmemişti geç+mA+mHs+yDH
+ve ve
+tüccarlar tüccar+lAr
+kasvetliydi kasvetli+yDH
+. .
+</S>
+<S>
+Bir bir
+Big big
+Board board
+uzmanı uzman+sH
+, ,
+" "
+Olumlu olumlu
+tarafından taraf+sH+nDAn
+bakarsak bak+Ar+ysA+k
+bir bir
+kargaşaydı kargaşa+yDH
+'' ''
+dedi de+DH
+. .
+</S>
+<S>
+Chicago chicago
+merkezli merkez+lH
+bir bir
+opsiyon opsiyon
+tüccarı tüccar+sH
+, ,
+" "
+Kesinlikle kesinlikle
+öldürüldüler öldür+Hl+DH+lAr
+, ,
+katledildiler katlet+Hl+DH+lAr
+, ,
+" "
+dedi de+DH
+. .
+</S>
+<S>
+Bu bu
+sefer sefer
+kurumlar kurum+lAr
+gelen gel+yAn
+programları program+lAr+yH
+gördü gör+DH
+ve ve
+geri geri
+çekildi çekil+DH
+. .
+</S>
+<S>
+Uzmanlar uzman+lAr
+, ,
+Cuma cuma
+günkü gün+kü
+düşüş düşüş
+sırasında sıra+sH+nDA
+düzenli düzenli
+piyasaları piyasa+lAr+yH
+sürdürememeleri sürdür+yAmA+mA+lAr+sH
+nedeniyle nedeniyle
+eleştirildi eleştir+Hl+DH
+. .
+</S>
+<S>
+Son son
+iki iki
+gündür gün+DHr
+jirasyonlarda jirasyonlarında
+pazarın pazar+nHn
+hiçbir hiçbir
+sektörü sektör+sH
+es es
+geçilmemiştir geç+Hl+mA+mHs+DHr
+. .
+</S>
+<S>
+UAL ual
+ve ve
+AMR amr
+devrimleri devrim+lAr+sH
+nedeniyle nedeniyle
+, ,
+havayolları havayol+lAr+sH
+dün dün
+piyasanın piyasa+nHn
+en en
+zayıf zayıf
+sektörü sektör+sH
+oldu ol+DH
+. .
+</S>
+<S>
+Yakın yakın
+zamanda zaman+DA
+popüler popüler
+bir bir
+hisse hisse
+senedi senet+sH
+olan ol+yAn
+Federal federal
+Ulusal ulusal
+İpotek ipotek
+Derneği dernek+sH
+, ,
+yaklaşık yaklaşık
+1.6 1.6
+milyon milyon
+hisseye hisse+yA
+4 4
+ila ila
+124 124
+tırmandı tırman+DH
+. .
+</S>
+<S>
+Bunun bu+nHn
+yerine yerine
+, ,
+zayıf zayıf
+hisseleri hisse+lAr+yH
+satın satın
+aldılar al+DH+lAr
+ve ve
+bunları bu+nlAr+nH
+piyasayı piyasa+yH
+düzenli düzenli
+tutan tut+yAn
+güce güç+yA
+sattılar sat+DH+lAr
+. .
+</S>
+<S>
+`` ``
+Onlar o+nlAr
+mükemmel mükemmel
+bir bir
+iş iş
+yaptı yap+DH
+, ,
+'' ''
+dedi de+DH
+Bay bay
+Phelan Phelan
+uzmanlar uzman+lAr
+hakkında hakkında
+. .
+</S>
+<S>
+House house
+müzakerecileri müzakereci+lAr+sH
+6-4 6-4
+farkla fark+ylA
+dün dün
+gece gece
+tüm tüm
+iç iç
+hat hat
+uçuşlarını uç+yHs+lAr+sH+nH
+kapsayan kapsa+yAn
+bir bir
+Senato senato
+hükmünü hüküm+sH+nH
+reddetti reddet+DH
+. .
+</S>
+<S>
+Başından baş+sH+nDAn
+beri beri
+, ,
+tütün tütün
+endüstrisi endüstri+sH
+hangi hangi
+stratejiyi strateji+yH
+takip takip
+edeceğinden et+yAcAk+sH+nDAn
+emin emin
+değildi değil+yDH
+. .
+</S>
+<S>
+Continental'in continental+'Hn
+sahibi sahip+sH
+Texas texas
+Air air
+Corp. corp.
+ve ve
+Hava hava
+Taşımacılığı taşımacılık+sH
+Birliği birlik+sH
+lobicilikte lobicilik+DA
+öne ön+yA
+çıktı çık+DH
+. .
+</S>
+<S>
+Ancak ancak
+hisse hisse
+senetleri senet+lAr+sH
+yükselmeye yüksel+mA+yA
+başladığında başla+DHk+sH+nDA
+Hazine hazine
+bonosu bono+sH
+fiyatları fiyat+lAr+sH
+düştü düş+DH
+. .
+</S>
+<S>
+Tüccarlar tüccar+lAr
+, ,
+dünün dün+nHn
+mütevazı mütevazı
+genişlemesinin genişle+mA+sH+nHn
+, ,
+büyük büyük
+ölçüde ölçü+DA
+beklendiği bekle+n+DHk+sH
+için için
+pek pek
+coşku coşku
+yaratmadığını yarat+mA+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Bazıları bazı+lArH
+ise i+SA
+daha daha
+agresif agresif
+bir bir
+gevşeme gevşeme
+bekledikleri bekle+DHk+lAr+sH
+için için
+bazı bazı
+yatırımcıların yatırımcı+lAr+nHn
+hayal hayal
+kırıklığına kırıklık+sH+nA
+uğradığını uğra+DHk+sH+nH
+belirtiyor belirt+Hyor
+. .
+</S>
+<S>
+Çürük çürük
+tahviller tahvil+lAr
+dört dört
+puan puan
+kadar kadar
+düştü düş+DH
+, ,
+ancak ancak
+hisse hisse
+senedi senet+sH
+fiyatlarının fiyat+lAr+sH+nHn
+yükselmesi yükselme+sH
+ile ile
+mütevazı mütevazı
+bir bir
+dönüş dön+yHs
+yaptı yap+DH
+. .
+</S>
+<S>
+ABD abd
+Hazine hazine
+bonoları bono+lAr+sH
+Japonya'da japonya+'DA
+öğleden öğle+DAn
+sonra sonra
+7.30'da 7.30+'+DA
+( (
+EDT EDT
+) )
+açılan aç+Hl+yAn
+gecelik gece+lHk
+ticarette ticaret+DA
+daha daha
+yüksekti yüksek+yDH
+. .
+</S>
+<S>
+Piyasa piyasa
+burada burada
+açıldığında aç+Hl+DHk+sH+nDA
+, ,
+borsa borsa
+yeniden yeniden
+güçlenirken güçlen+Hr+yken
+tahvil tahvil
+fiyatları fiyat+lAr+sH
+düştü düş+DH
+. .
+</S>
+<S>
+13 13
+haftalık hafta+lHk
+faturalar fatura+lAr
+18 18
+Ocak ocak
+1990'da 1990+'+DA
+ve ve
+26 26
+haftalık hafta+lHk
+faturalar fatura+lAr
+19 19
+Nisan nisan
+1990'da 1990+'+DA
+olgunlaştı olgunlaş+DH
+. .
+</S>
+<S>
+Aktif aktif
+nüshalar nüsha+lAr
+24/32 24/32
+ila ila
+30/32 30/32
+puan puan
+daha daha
+düşük düşük
+sona son+yA
+erdiğinden er+DHk+sH+nDAn
+, ,
+ipotek ipotek
+menkul menkul
+kıymetleri kıymet+lAr+sH
+Cuma cuma
+günkü gün+kü
+kazançların kazanç+lAr+nHn
+çoğunu çoğu+nH
+bıraktı bırak+DH
+. .
+</S>
+<S>
+Federal federal
+Home Home
+Loan Loan
+Mortgage mortgage
+Corp.% Corp.%
+9 9
+menkul menkul
+kıymetler kıymet+lAr
+97 97
+1/4 1/4
+, ,
+3/4 3/4
+düştü düş+DH
+. .
+</S>
+<S>
+Ribaund Ribaund
+hisse hisse
+senetleri senet+lAr+sH
+ve ve
+zayıf zayıf
+Hazine hazine
+fiyatları fiyat+lAr+sH
+, ,
+geç geç
+saatlerde saat+lAr+DA
+belediye belediye
+tahvillerini tahvil+lAr+sH+nH
+1/4 1/4
+ila ila
+3/4 3/4
+puan puan
+düşürdü düşür+DH
+. .
+</S>
+<S>
+Florida florida
+Eğitim eğitim
+Kurulu'nun kurul+sH+'nHn
+2023 2023
+tarihli tarih+lH
+7 7
+1/4 1/4
+sayısı sayı+sH
+99 99
+1/2 1/2
+teklifinde teklif+sH+nDA
+5/8 5/8
+puan puan
+daha daha
+zayıftı zayıf+yDH
+. .
+</S>
+<S>
+Bir bir
+güvenlik güvenlik
+hizmetleri hizmet+lAr+sH
+ve ve
+açık açık
+artırma art+Hr+mA
+şirketi şirket+sH
+olan ol+yAn
+ADT, ADT,
+Londra londra
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası'nda borsa+sH+'nDA
+işlem işlem
+görmektedir gör+mAktA+DHr
+. .
+</S>
+<S>
+Montreal montreal
+taşımacılığı taşımacılık+sH
+, ,
+kaynakları kaynak+lAr+sH
+ve ve
+endüstriyel endüstriyel
+holding holding
+kuruluşu kur+Hl+yHs+sH
+olan ol+yAn
+Canadian Canadian
+Pacific Pacific
+Ltd. Ltd.
+tarafından taraf+sH+nDAn
+Laidlaw'ın laidlaw+'nHn
+%47'si %47'si
+kontrol kontrol
+edilmektedir et+Hl+mAktA+DHr
+. .
+</S>
+<S>
+Pershare Pershare
+net net
+, ,
+giderler gider+lAr
+ve ve
+sermaye sermaye
+düzeltmeleri düzeltme+lAr+sH
+nedeniyle nedeniyle
+457.7 457.7
+yen'den yen'den
+423.3 423.3
+yen'e yen'e
+düştü düş+DH
+. .
+</S>
+<S>
+Hertz hertz
+Equipment Equipment
+, ,
+ABD, ABD,
+Fransa fransa
+, ,
+İspanya ispanya
+ve ve
+Birleşik Birleşik
+Krallık'ta krallık+'DA
+büyük büyük
+bir bir
+kiralık kira+lHk
+ekipman ekipman
+tedarikçisidir tedarikçi+sH+DHr
+. .
+</S>
+<S>
+Interspec Interspec
+Inc., Inc.,
+31 31
+Ağustos'ta ağustos+'DA
+sona son+yA
+eren er+yAn
+mali mali
+çeyrekte çeyrek+DA
+2.4 2.4
+milyon milyon
+$ $
+net net
+zarar zarar
+bildirdi bildir+DH
+. .
+</S>
+<S>
+Bay bay
+Simmons Simmons
+, ,
+üçüncü üçüncü
+çeyrek çeyrek
+sonuçlarının sonuç+lAr+sH+nHn
+verimlilik verimlilik
+ve ve
+faaliyet faaliyet
+marjlarındaki marj+lAr+sH+nDA+ki
+sürekli sürekli
+gelişmeleri geliş+mA+lAr+sH
+yansıttığını yansıt+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+ABD abd
+Banknotu banknot+sH
+, ,
+" "
+Hiçbir hiçbir
+güvence güvence
+olamaz ol+yAmA+z
+, ,
+" "
+dedi de+DH
+, ,
+bir bir
+satış satış
+anlaşması anlaşma+sH
+yapılacaktı yap+Hl+yAcAk+yDH
+. .
+</S>
+<S>
+ABD abd
+Banknotu banknot+sH
+, ,
+Citibank'ın citibank+'nHn
+üst üst
+düzey düzey
+güvenli güvenli
+finansman finansman
+taahhüdünün taahhüt+sH+nHn
+sona son+yA
+erme er+mA
+tarihini tarih+sH+nH
+15 15
+Kasım'a kasım+'yA
+kadar kadar
+uzattığını uzat+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Bu bu
+sonuçlar sonuç+lAr
+, ,
+borcun borç+nHn
+geri geri
+ödenmesi öde+n+mA+sH
+ile ile
+ilgili ilgi+lH
+2.7 2.7
+milyon milyon
+$'lık $'lık
+bir bir
+masrafı masraf+sH
+içermektedir içer+mAktA+DHr
+. .
+</S>
+<S>
+Tekliften teklif+DAn
+elde el+DA
+edilen et+Hl+yAn
+net net
+gelirin gelir+nHn
+200 200
+milyon milyon
+$'a $'a
+yakın yakın
+olması ol+mA+sH
+bekleniyor bekle+n+Hyor
+. .
+</S>
+<S>
+DIG, DIG,
+Rose rose
+Partners partners
+L.P'nin l.p+'nHn
+bir bir
+birimi birim+sH
+olan ol+yAn
+DIG DIG
+Holding holding
+Corp'un corp+'nHn
+bir bir
+birimidir birim+sH+DHr
+. .
+</S>
+<S>
+Modaya moda+yA
+uygun uygun
+dergi dergi
+reklamları reklam+lAr+sH
+, ,
+Hollywood hollywood
+ünlülerinin ünlü+lAr+sH+nHn
+kot kot
+pantolon pantolon
+, ,
+ayakkabı ayakkabı
+ve ve
+likör likör
+tanıtan tanı+t+yAn
+, ,
+çarığıcı çarığıcı
+siyah siyah
+beyaz beyaz
+fotoğraflarını fotoğraf+lAr+sH+nH
+içeriyor içer+Hyor
+. .
+</S>
+<S>
+Sadece sadece
+renkli renkli
+çekim çekim
+yapmaya yap+mA+yA
+alışkın alışkın
+olan ol+yAn
+portre portre
+stüdyoları stüdyo+lAr+sH
+, ,
+siyah siyah
+beyaz beyaz
+portre portre
+siparişlerinde sipariş+lAr+sH+nDA
+bir bir
+artış artış
+olduğunu ol+DHk+sH+nH
+belirtiyor belirt+Hyor
+. .
+</S>
+<S>
+İki iki
+yıl yıl
+öncesine önce+sH+nA
+kadar kadar
+, ,
+siyah-beyaz siyah-beyaz
+film film
+satışları satış+lAr+sH
+1960'lardan 1960+'lAr+DAn
+bu bu
+yana yan+yA
+istikrarlı istikrarlı
+bir bir
+şekilde şekil+DA
+azalıyordu azal+Hyor+yDH
+. .
+</S>
+<S>
+Ilford'un ılford+'nHn
+pazarlama pazarla+mA
+iletişimi iletişim+sH
+direktörü direktör+sH
+Laurie laurie
+DiCara DiCara
+, ,
+" "
+Trendin trend+nHn
+sürmesini sür+mA+sH+nH
+umuyoruz um+Hyor+yHz
+, ,
+" "
+diyor de+Hyor
+. .
+</S>
+<S>
+" "
+Siyah siyah
+ve ve
+beyazla beyaz+ylA
+gerçekliğin gerçeklik+nHn
+dışına dış+sH+nA
+çıkabilirsiniz çık+yAbil+Hr+SHnHz
+, ,
+" "
+diye diye
+ekliyor ekle+Hyor
+. .
+</S>
+<S>
+Kampanya kampanya
+, ,
+bir bir
+uzman uzman
+perakendecinin perakendeci+nHn
+bu bu
+yılki yıl+ki
+en en
+iyi iyi
+reklamı reklam+sH
+olarak ol+yArAk
+Cleo Cleo
+ödülü ödül+yH
+kazandı kazan+DH
+. .
+</S>
+<S>
+Uzun uzun
+süredir süre+DHr
+renge renk+yA
+bağlı bağlı
+olan ol+yAn
+gıda gıda
+ürünleri ürün+lAr+sH
+ve ve
+otomobiller otomobil+lAr
+bile bile
+geçiş geç+yHs
+yapıyor yap+Hyor
+. .
+</S>
+<S>
+Şu şu
+anda an+DA
+iki iki
+tonlu tonlu
+reklamlar reklam+lAr
+kullanan kullan+yAn
+diğer diğer
+şirketler şirket+lAr
+arasında ara+sH+nDA
+American american
+Express express
+Co. Co.
+ve ve
+Epson Epson
+America america
+Inc ınc
+yer yer
+almaktadır al+mAktA+DHr
+. .
+</S>
+<S>
+Yine yine
+de de
+, ,
+çoğu çoğu
+tüketici tüketici
+ailenin aile+nHn
+fotoğrafını fotoğraf+sH+nH
+çekmek çek+mAk
+için için
+kameralarına kamera+lAr+sH+nA
+siyah siyah
+beyaz beyaz
+film film
+koymuyor koy+mA+Hyor
+. .
+</S>
+<S>
+Siyah siyah
+beyaz beyaz
+film film
+tüketicilere tüketici+lAr+yA
+için için
+renkli renkli
+filmden film+DAn
+biraz biraz
+daha daha
+az az
+maliyetlidir maliyetli+DHr
+ve ve
+banyo banyo
+maliyetleri maliyet+lAr+sH
+de de
+aynıdır aynı+DHr
+. .
+</S>
+<S>
+Müşteri müşteri
+çekmeyi çek+mA+yH
+amaçlayan amaçla+yAn
+şirket şirket
+, ,
+siyah siyah
+beyaz beyaz
+fotoğraf fotoğraf
+derslerine ders+lAr+sH+nA
+verdiği ver+DHk+sH
+sponsorluğu sponsorluğu
+da da
+artırıyor artır+Hyor
+. .
+</S>
+<S>
+Ancak ancak
+bazı bazı
+endüstri endüstri
+gözlemcileri gözlemci+lAr+sH
+, ,
+siyah siyah
+ve ve
+beyazın beyaz+nHn
+yeniden yeniden
+canlanmasının can+lAn+mA+sH+nHn
+sadece sadece
+bir bir
+heves heves
+olduğuna ol+DHk+sH+nA
+inanıyor inan+Hyor
+. .
+</S>
+<S>
+Satışlar satış+lAr
+88.3 88.3
+milyon milyon
+$'dan $'dan
+% %
+7'den 7+'+DAn
+fazla fazla
+94.9 94.9
+milyon milyon
+$'a $'a
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Satışlar sat+yHs+lAr
+261.3 261.3
+milyon milyon
+$'dan $'dan
+neredeyse neredeyse
+%7 %7
+artışla artış+ylA
+279.1 279.1
+milyon milyon
+$'a $'a
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Bu bu
+iki iki
+teklif teklif
+özeldi özel+yDH
+ve ve
+sözcüsü sözcü+sH
+teklif teklif
+veren ver+yAn
+şirketleri şirket+lAr+yH
+söylemeyi söyle+mA+yH
+reddetti reddet+DH
+. .
+</S>
+<S>
+223.0'ın 223.0'ın
+son son
+okuması oku+mA+sH
+Temmuz'daki temmuz+'DA+ki
+222.3'ten 222.3+'+DAn
+yüksekti yüksek+yDH
+ve ve
+henüz henüz
+Mart mart
+ayında ay+sH+nDA
+215.3'tü 215.3+'+yDH
+. .
+</S>
+<S>
+Grup grup
+normalde normal+DA
+ancak ancak
+ekonominin ekonomi+nHn
+genel genel
+gidişatında gidişat+sH+nDA
+bir bir
+değişiklik değişiklik
+olması ol+mA+sH
+muhtemel muhtemel
+olduğunda ol+DHk+sH+nDA
+toplanır toplan+Hr
+. .
+</S>
+<S>
+Enflasyon enflasyon
+ayarlaması ayarla+mA+sH
+sonrasında sonra+sH+nDA
+, ,
+gayri gayri
+safi safi
+milli milli
+hasılada hasıla+DA
+1990 1990
+yılında yıl+sH+nDA
+%2.6'lık %2.6'lık
+bir bir
+artış artış
+bekliyorlar bekle+Hyor+lAr
+. .
+</S>
+<S>
+Ağustos ağustos
+ayında ay+sH+nDA
+tahvil tahvil
+tedbiri tedbir+sH
+1987'nin 1987+'+nHn
+başından baş+sH+nDAn
+bu bu
+yana yan+yA
+en en
+yüksek yüksek
+aylık aylık
+ortalamasında ortala+mA+sH+nDA
+gerçekleşti gerçekleş+DH
+. .
+</S>
+<S>
+BSN BSN
+başlangıçta başlangıç+DA
+, ,
+yakın yakın
+bir bir
+endişe endişe
+kaynağı kaynak+sH
+olan ol+yAn
+Birkel'de birkel+'DA
+%15 %15
+faiz faiz
+kazanacak kazan+yAcAk
+. .
+</S>
+<S>
+BSN BSN
+, ,
+devralımın devralımın
+Batı batı
+Alman alman
+kartel kartel
+ofisi ofis+sH
+tarafından tarafından
+onay onay
+için için
+ibraz ibraz
+edildiğini et+Hl+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Moody's moody's
+Investors Investors
+Service service
+Inc., Inc.,
+CenTrust'un centrust+'nHn
+Caa'ya caa+'yA
+olan ol+yAn
+borcunu borç+sH+nH
+B-3'ten b-3+'DAn
+düşürdü düşür+DH
+. .
+</S>
+<S>
+Derecelendirme derecelendir+mA
+kuruluşu kur+Hl+yHs+sH
+, ,
+yaklaşık yaklaşık
+85 85
+milyon milyon
+dolarlık dolar+lHk
+menkul menkul
+kıymetin kıymet+nHn
+etkilendiğini etkilen+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Tokyo tokyo
+hisse hisse
+senedi senet+sH
+fiyatları fiyat+lAr+sH
+Pazartesi pazartesi
+günkü gün+kü
+%1.8'lik %1.8'lik
+düşüşün düşüş+nHn
+ardından art+sH+nDAn
+Salı salı
+erken erken
+saatlerde saat+lAr+DA
+toparlandı toparlan+DH
+. .
+</S>
+<S>
+IBM'in ıbm+'Hn
+kazancı kazanç+sH
+üçüncü üçüncü
+çeyrekte çeyrek+DA
+beklenenden bekle+n+yAn+DAn
+biraz biraz
+daha daha
+fazla fazla
+, ,
+%30 %30
+kadar kadar
+, ,
+düştü düş+DH
+. .
+</S>
+<S>
+Bilgisayar bilgisayar
+devi dev+sH
+, ,
+doların dolar+nHn
+yükselişinden yüksel+yHs+sH+nDAn
+ve ve
+yeni yeni
+yüksek yüksek
+kaliteli kaliteli
+disk disk
+sürücüsünün sürücü+sH+nHn
+geciken gecik+yAn
+teslimatından teslimat+sH+nDAn
+bahsetti bahset+DH
+. .
+</S>
+<S>
+ABD'de abd+'DA
+Japonların japon+lAr+nHn
+sahip sahip
+olduğu ol+DHk+sH
+ve ve
+yönettiği yönet+DHk+sH
+fabrikalardaki fabrika+lAr+DA+ki
+üretimin üretim+nHn
+%42 %42
+artması art+mA+sH
+bekleniyor bekle+n+Hyor
+. .
+</S>
+<S>
+S&L S&L
+kurtarma kurtar+mA
+ajansının ajans+sH+nHn
+sermayeyi sermaye+yH
+nasıl nasıl
+arttıracağı art+DHr+yAcAk+sH
+, ,
+yeni yeni
+bir bir
+yasa yasa
+tasarısı tasarı+sH
+ile ile
+kısıtlanacaktı kısıtla+n+yAcAk+yDH
+. .
+</S>
+<S>
+The the
+Ways Ways
+and and
+Means Means
+planı plan+sH
+hasta hasta
+ekonomi ekonomi
+enstitülerini enstitü+lAr+sH+nH
+satmanın sat+mA+nHn
+önünde ön+sH+nDA
+başka başka
+bir bir
+engel engel
+yaratacaktır yarat+yAcAk+DHr
+. .
+</S>
+<S>
+Bear Bear
+Stearns Stearns
+%7.5 %7.5
+kazanç kazanç
+kaydederken kaydet+Ar+yken
+PaineWebber painewebber
+bir bir
+yıl yıl
+önceye önce+yA
+göre göre
+düşüş düşüş
+gösterdi göster+DH
+. .
+</S>
+<S>
+Britanya'nın britanya+'nHn
+Blue Blue
+Arrow'u arrow+'yH
+Manpower Manpower
+ismine isim+sH+nA
+dönmeyi dön+mA+yH
+ve ve
+büyük büyük
+meblağda meblağ+DA
+borç borç
+sildirmeyi sil+DHr+mA+yH
+planlıyor planla+Hyor
+. .
+</S>
+<S>
+Dow dow
+Jones jones
+2657.38 2657.38
+, ,
+88.12 88.12
+artış artış
+; ;
+ulaştırma ulaştırma
+1304.23 1304.23
+, ,
+102.06 102.06
+düşüş düşüş
+; ;
+kamu kamu
+hizmetleri hizmet+lAr+sH
+214.73 214.73
+, ,
+2.77 2.77
+artış artış
+. .
+</S>
+<S>
+Emtia emtia
+: :
+Dow dow
+Jones jones
+vadeli vade+lH
+endeks endeks
+129.12 129.12
+, ,
+0.15 0.15
+düşüş düşüş
+; ;
+spot spot
+endeksi endeks+sH
+130.16 130.16
+, ,
+0.91 0.91
+artış artış
+. .
+</S>
+<S>
+Ticari ticari
+bankalar banka+lAr
+arasında ara+sH+nDA
+gecelik gece+lHk
+kullanım kullanım
+için için
+1 1
+milyon milyon
+dolar dolar
+veya veya
+daha daha
+fazla fazla
+tutarda tutar+DA
+işlem işlem
+gören gör+yAn
+rezervler rezerv+lAr
+. .
+</S>
+<S>
+%9.83 %9.83
+standart standart
+konvansiyonel konvansiyonel
+sabit sabit
+oranlı oran+lH
+ipotek ipotek
+; ;
+% %
+7.875 7.875
+, ,
+% %
+2 2
+faiz faiz
+oranı oran+sH
+bir bir
+yıllık yıl+lHk
+ayarlanabilir ayarla+n+yAbil+Hr
+faiz faiz
+oranlı oran+lH
+ipotekleri ipotek+lAr+yH
+içermektedir içer+mAktA+DHr
+. .
+</S>
+<S>
+Son son
+30 30
+güne gün+yA
+ait ait
+giderlerden gider+lAr+DAn
+sonra sonra
+yıllık yıl+lHk
+ortalama ortala+mA
+getiri getiri
+oranı oran+sH
+; ;
+gelecekteki gelecek+DA+ki
+getirilerin getiri+lAr+nHn
+bir bir
+öngörüsü öngörü+sH
+değil değil
+. .
+</S>
+<S>
+Omnicare Omnicare
+, ,
+bölümün bölüm+nHn
+ACCO ACCO
+ticari ticari
+adı ad+sH
+altında alt+sH+nDA
+faaliyet faaliyet
+gösterdiğini göster+DHk+sH+nH
+ve ve
+tıbbi tıbbi
+ve ve
+dental dental
+pazarlara pazar+lAr+yA
+tedarikte tedarik+DA
+bulunduğunu bulun+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Faaliyet faaliyet
+geliri gelir+sH
+, ,
+bir bir
+önceki önceki
+çeyrekte çeyrek+DA
+19.7 19.7
+milyon milyon
+$'dan $'dan
+% %
+13 13
+artışla artış+ylA
+22.2 22.2
+milyon milyon
+$'a $'a
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Bundan bundan
+kısa kısa
+bir bir
+süre süre
+sonra sonra
+, ,
+Bay bay
+O'Linn O'Linn
+, ,
+Scott scott
+Stanley'yi Stanley'yi
+tutukladı tutukla+DH
+ve ve
+pasaportuna pasaport+sH+nA
+el el
+koydu koy+DH
+. .
+</S>
+<S>
+Bay bay
+Stanley stanley
+tutuklandı tutukla+n+DH
+ve ve
+bu bu
+ay ay
+Namibya namibya
+döndüğünde dön+DHk+sH+nDA
+diğerleri diğer+lAr+sH
+ile ile
+birlikte birlikte
+suçlandı suçla+n+DH
+. .
+</S>
+<S>
+Hem hem
+Dışişleri dışişleri
+Bakanlığı bakanlık+sH
+hem hem
+de de
+Avukatlar avukat+lAr
+Basın basın
+Özgürlüğü özgür+lHk+sH
+Komitesi komite+sH
+Bay bay
+Stanley'in stanley+'nHn
+tutuklanmasını tutukla+n+mA+sH+nH
+protesto protesto
+etti et+DH
+. .
+</S>
+<S>
+Emtia emtia
+vadeli vade+lH
+işlem işlem
+fiyatları fiyat+lAr+sH
+genel genel
+olarak ol+yArAk
+Cuma cuma
+günkü gün+kü
+düşüşünün düşüş+sH+nHn
+ardından art+sH+nDAn
+borsa borsa
+istikrarını istikrar+sH+nH
+yansıttı yansı+t+DH
+. .
+</S>
+<S>
+Ekim ekim
+ayı ay+sH
+altın altın
+fiyatı fiyat+sH
+4 4
+$'dan $'dan
+367.30 367.3
+$'a $'a
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+Gold Gold
+, ,
+iki iki
+yıl yıl
+önce önce
+Black black
+Monday'deki monday+'DA+ki
+muhteşem muhteşem
+performansçı performans+CH
+değildi değil+yDH
+artık artık
+. .
+</S>
+<S>
+Altının alt+sH+nHn
+kazançlarını kazanç+lAr+sH+nH
+sürdürmesi sürdür+mA+sH
+ve ve
+daha daha
+da da
+yükselmesi yüksel+mA+sH
+çok çok
+muhtemel muhtemel
+, ,
+dedi de+DH
+. .
+</S>
+<S>
+Bunun bu+nHn
+dolara dolar+yA
+zarar zarar
+vereceğini ver+yAcAk+sH+nH
+ve ve
+altına alt+sH+nA
+destek destek
+olacağını ol+yAcAk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Bazı bazı
+analistler analist+lAr
+, ,
+birkaç birkaç
+gün gün
+süren sür+yAn
+önemli önemli
+kazanımların kazanım+lAr+nHn
+ardından art+sH+nDAn
+ham ham
+petrolün petrol+nHn
+bir bir
+şekilde şekil+DA
+düzeltilmesi düzelt+Hl+mA+sH
+gerektiğini gerek+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Analist analist
+, ,
+şimdi şimdi
+sadece sadece
+küçük küçük
+noktaların nokta+lAr+nHn
+temizlenmesi temizle+n+mA+SH
+gerektiğini gerek+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+New new
+York york
+Ticaret ticaret
+Borsası'ndaki borsa+sH+'nDA+ki
+bakır bakır
+stokları stok+lAr+sH
+dün dün
+516 516
+ton ton
+artışla artış+ylA
+10004 10004
+tona ton+yA
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+LME LME
+hisse hisse
+senetlerinin senet+lAr+sH+nHn
+düşüşü düşüş+sH
+beklendiği bekle+n+DHk+sH
+gibi gibi
+gerçekleşti gerçekleş+DH
+, ,
+ancak ancak
+Comex Comex
+kazancı kazanç+sH
+beklenilen bekle+n+Hl+yAn
+şekilde şekil+DA
+gerçekleşmedi gerçekleş+mA+DH
+. .
+</S>
+<S>
+Ancak ancak
+analist analist
+, ,
+bunun bu+nHn
+borsaya borsa+yA
+duyulan duy+Hl+yAn
+endişeyle endişe+ylA
+bir bir
+kenara kenar+yA
+bırakıldığını bırak+Hl+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Vadeli vade+lH
+işlem işlem
+fiyatları fiyat+lAr+sH
+, ,
+piyasadaki piyasa+DA+ki
+herhangi herhangi
+bir bir
+etkiden etki+DAn
+çok çok
+Jerry jerry
+Kasırgası'na kasırga+sH+'nA
+tepki tepki
+olarak ol+yArAk
+azaldı azal+DH
+. .
+</S>
+<S>
+Aralık aralık
+ayı ay+sH
+sözleşmesi sözleşme+sH
+, ,
+74.48 74.48
+sent sent
+ile ile
+pound pound
+başına baş+sH+nA
+0.22 0.22
+cent'lik cent'lik
+bir bir
+kayıpla kayıp+ylA
+sona son+yA
+erdi er+DH
+. .
+</S>
+<S>
+Analist analist
+, ,
+Hindistan'ın hindistan+'nHn
+son son
+zamanlarda zaman+lAr+DA
+200000 200000
+ton ton
+satın satın
+aldığını al+DHk+sH+nH
+ve ve
+daha daha
+fazla fazla
+satın satın
+almasının al+mA+sH+nHn
+beklendiğini bekle+n+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Başka başka
+bir bir
+analist analist
+, ,
+Hindistan'ın hindistan+'nHn
+borsa borsa
+endişesi endişe+sH
+nedeniyle nedeniyle
+geri geri
+çekilmiş çekil+mHs
+olabileceğini ol+yAbil+yAcAk+sH+nH
+düşündü düşün+DH
+. .
+</S>
+<S>
+New new
+York york
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası borsa+sH
+kompozit kompozit
+ticaretinde ticaret+sH+nDA
+dün dün
+, ,
+Knight-Ridder Knight-Ridder
+37.5 37.5
+sent sent
+düşüşle düşüş+ylA
+51.75$'dan 51.75$'dan
+kapandı kapan+DH
+. .
+</S>
+<S>
+DD DD
+Acquisition Acquisition
+, ,
+Unicorp Unicorp
+Canada Canada
+Corp.'un Corp.'un
+Kingsbridge Kingsbridge
+Capital Capital
+Group group
+birimi birim+sH
+ve ve
+Cara cara
+Operations Operations
+Ltd'nin ltd+'nHn
+bir bir
+ortaklığıdır ortaklık+sH+DHr
+. .
+</S>
+<S>
+Şirket şirket
+, ,
+bir bir
+önceki önceki
+çeyrekte çeyrek+DA
+36 36
+milyon milyon
+dolar dolar
+veya veya
+57 57
+sent sent
+hisse hisse
+aldı al+DH
+. .
+</S>
+<S>
+Mevduat mevduat
+büyümesi büyüme+sH
+, ,
+bir bir
+önceki önceki
+yıla yıl+yA
+göre göre
+iki iki
+kattan kat+DAn
+fazla fazla
+, ,
+393 393
+milyon milyon
+dolar dolar
+olarak ol+yArAk
+gerçekleşti gerçekleş+DH
+. .
+</S>
+<S>
+Daha daha
+önceki önceki
+onarımlar onarım+lAr
+, ,
+doğrudan doğrudan
+atmosfere atmosfer+yA
+giden git+yAn
+bir bir
+hortumla hortum+ylA
+CFC'leri cfc+'lAr+yH
+evden ev+DAn
+havalandırdı havalan+DHr+DH
+. .
+</S>
+<S>
+Üretim üretim
+paylaşım paylaşım
+sözleşmesi sözleşme+sH
+alanı alan+sH
+Endonezya endonezya
+devlet devlet
+petrol petrol
+şirketi şirket+sH
+Pertamina Pertamina
+ile ile
+düzenleniyor düzenlen+Hyor
+. .
+</S>
+<S>
+Şirket şirket
+daha daha
+önce önce
+net net
+2.3 2.3
+milyon milyon
+dolar dolar
+ya ya
+da da
+hisse hisse
+başına baş+sH+nA
+15 15
+sent sent
+bildirdi bildir+DH
+. .
+</S>
+<S>
+Amerikan amerikan
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası borsa+sH
+bileşik bileşik
+ticaretinde ticaret+sH+nDA
+, ,
+ISI ısı
+3.125$'ı 3.125$'ı
+18.625$'dan 18.625$'dan
+kapadı kapa+DH
+. .
+</S>
+<S>
+Montreal montreal
+Exchange exchange
+ticaretinde ticaret+sH+nDA
+, ,
+Memotec Memotec
+10.625 10.625
+Kanada kanada
+Doları'nda dolar+sH+'nDA
+(9.05 (9.05
+ABD abd
+Doları) Doları)
+değişmeden değiş+mAdAn
+kapandı kapan+DH
+. .
+</S>
+<S>
+Memotec Memotec
+, ,
+Montreal montreal
+merkezli merkez+lH
+bir bir
+telekomünikasyon telekomünikasyon
+ürünleri ürün+lAr+sH
+üreticisi üretici+sH
+ve ve
+telekomünikasyon telekomünikasyon
+ve ve
+bilgisayar bilgisayar
+hizmetleri hizmet+lAr+sH
+sağlayıcısıdır sağlayıcı+SH+DHr
+. .
+</S>
+<S>
+ISI, ISI,
+daha daha
+iyi iyi
+bir bir
+teklif teklif
+ortaya orta+yA
+çıkarsa çık+Ar+ysA
+Memotec Memotec
+ile ile
+birleşme birleş+mA
+anlaşmasından anlaşma+sH+nDAn
+çekilebileceğini çekil+yAbil+yAcAk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Elektro-optik Elektro-optik
+sistemlerin sistem+lAr+nHn
+yapılmasına yap+Hl+mA+sH+nA
+ek ek
+olarak ol+yArAk
+, ,
+ünite ünite
+ayrıca ayrıca
+lazer lazer
+uyarı uyarı
+alıcıları alıcı+lAr+sH
+da da
+üretmektedir üret+mAktA+DHr
+. .
+</S>
+<S>
+Hem hem
+sendika sendika
+hem hem
+de de
+bölgesel bölgesel
+telefon telefon
+şirketi şirket+sH
+, ,
+farklılıkları fark+lH+lHk+lAr+sH
+çözmek çöz+mAk
+için için
+birlikte birlikte
+çalıştıklarını çalış+DHk+lAr+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Ama ama
+sonra sonra
+, ,
+Dow dow
+düştüğü düş+DHk+sH
+anda an+DA
+, ,
+tersine tersine
+dönmeye dön+mA+yA
+başladı başla+DH
+. .
+</S>
+<S>
+Nitekim nitekim
+Dow dow
+Jones jones
+Ulaşım ulaşım
+Ortalaması ortala+mA+sH
+, ,
+tarihin tarih+nHn
+en en
+kötü kötü
+ikinci iki+HncH
+düşüşü düşüş+sH
+olan ol+yAn
+102.06 102.06
+puana puan+yA
+geriledi gerile+DH
+. .
+</S>
+<S>
+Dahası dahası
+, ,
+bu bu
+kısa kısa
+süreli süreli
+felaketler felaket+lAr
+atlatılabilir atlat+Hl+yAbil+Hr
+ve ve
+panik panik
+satışı sat+yHs+sH
+için için
+bir bir
+neden neden
+değildir değil+DHr
+. .
+</S>
+<S>
+Ortalama ortala+mA
+, ,
+ticaretin ticaret+nHn
+ilk ilk
+20 20
+dakikasında dakika+sH+nDA
+yaklaşık yaklaşık
+600 600
+puan puan
+veya veya
+% %
+1.7 1.7
+düştü düş+DH
+. .
+</S>
+<S>
+İki iki
+yıl yıl
+önce önce
+olduğu ol+DHk+sH
+gibi gibi
+, ,
+Japonya'nın japonya+'nHn
+büyük büyük
+yatırımcılarının yatırımcı+lAr+sH+nHn
+çoğu çok+sH
+bu bu
+felaketi felaket+sH
+ortadan orta+DAn
+kaldırmayı kaldır+mA+yH
+seçti seç+DH
+. .
+</S>
+<S>
+Bir bir
+Merrill Merrill
+tüccarı tüccar+sH
+, ,
+müşterilerin müşteri+lAr+nHn
+hepsinin hepsi+nHn
+" "
+pazarın pazar+nHn
+dışında dış+sH+nDA
+kaldığını kal+DHk+sH+nH
+" "
+söyledi söyle+DH
+. .
+</S>
+<S>
+Frankfurt'un frankfurt+'nHn
+açılışı açılış+sH
+, ,
+satış satış
+emirlerindeki emir+lAr+sH+nDA+ki
+çöküş çöküş
+nedeniyle nedeniyle
+yarım yarım
+saat saat
+ertelendi ertele+n+DH
+. .
+</S>
+<S>
+Commerzbank Commerzbank
+komisyoncusu komisyoncu+sH
+Nigel Nigel
+Longley Longley
+, ,
+" "
+Başlangıç başlangıç
+kaotikti kaotik+yDH
+, ,
+" "
+diyor de+Hyor
+. .
+</S>
+<S>
+100 100
+tane tane
+güvenilir güvenilir
+hisse hisse
+senedini senet+sH+nH
+gösteren göster+yAn
+bilgisayar bilgisayar
+ekranı ekran+sH
+, ,
+hisseler hisse+lAr
+düşerken düş+Ar+yken
+her her
+birini bir+sH+nH
+kırmızıya kırmızı+yA
+boyuyor boya+Hyor
+. .
+</S>
+<S>
+Chicago'daki chicago+'DA+ki
+vadeli vade+lH
+işlem işlem
+piyasaları piyasa+lAr+sH
+, ,
+Dow'un dow+'nHn
+yaklaşık yaklaşık
+60 60
+puan puan
+düşeceğini düş+yAcAk+sH+nH
+gösteren göster+yAn
+bir bir
+seviyede seviye+DA
+açılmıştı aç+Hl+mHs+yDH
+. .
+</S>
+<S>
+On on
+dakika dakika
+sonra sonra
+Dow dow
+dibe dip+yA
+vurdu vur+DH
+- -
+63.52 63.52
+puan puan
+, ,
+bir bir
+%2.5 %2.5
+daha daha
+. .
+</S>
+<S>
+Fakat fakat
+Wall wall
+Street'in street+'nHn
+en en
+zeki zeki
+tüccarları tüccar+lAr+sH
+kısa kısa
+bir bir
+süre süre
+önce önce
+bir bir
+dönüş dön+yHs
+hissettiklerini hisset+DHk+lAr+sH+nH
+söylüyor söyle+Hyor
+. .
+</S>
+<S>
+" "
+Bu bu
+, ,
+insanların insan+lAr+nHn
+panikle panik+ylA
+tahvillerin tahvil+lAr+nHn
+güvenli güvenli
+kollarına kol+lAr+sH+nA
+koşmadığı koş+mA+DHk+sH
+anlamına anlam+sH+nA
+geliyordu gel+Hyor+yDH
+. .
+" "
+</S>
+<S>
+Reuters reuters
+, ,
+Quotron Quotron
+ve ve
+Telerate Telerate
+ekranları ekran+lAr+sH
+Wall wall
+Street'te street+'DA
+daralmaya daral+mA+yA
+devam devam
+eden et+yAn
+bir bir
+kayıp kayıp
+gösterirken göster+Hr+yken
+tüccarlar tüccar+lAr
+bağırdı bağır+DH
+. .
+</S>
+<S>
+Sonra sonra
+, ,
+dokuz dokuz
+dakika dakika
+sonra sonra
+, ,
+Wall wall
+Street street
+aniden aniden
+dönüş dön+yHs
+yapıp yap+yHp
+kazanç kazanç
+elde elde
+etti et+DH
+. .
+</S>
+<S>
+Mitinge miting+yA
+Philip philip
+Morris morris
+, ,
+General general
+Motors motors
+ve ve
+Proctor Proctor
+& &
+Gamble Gamble
+gibi gibi
+güvenilir güvenilir
+hisse hisse
+senetleri senet+lAr+sH
+liderlik liderlik
+etti et+DH
+. .
+</S>
+<S>
+Bir bir
+Big big
+Board board
+uzmanı uzman+sH
+, ,
+" "
+İyi iyi
+anlamda anlam+DA
+bir bir
+kargaşa kargaşa
+vardı var+yDH
+, ,
+" "
+dedi de+DH
+. .
+</S>
+<S>
+Chicago chicago
+merkezli merkez+lH
+bir bir
+opsiyon opsiyon
+tüccarı tüccar+sH
+, ,
+`` ``
+Kesinlikle kesinlikle
+öldürüldüler öldür+Hl+DH+lAr
+, ,
+katledildiler katlet+Hl+DH+lAr
+'' ''
+dedi de+DH
+. .
+</S>
+<S>
+Bunun bu+nHn
+yerine yerine
+, ,
+miting miting
+sadece sadece
+yaklaşık yaklaşık
+25 25
+dakika dakika
+durakladı durakla+DH
+ve ve
+kurumlar kurum+lAr
+satın satın
+almaya al+mA+yA
+devam devam
+ettikçe et+DHkCA
+şiddetlendi şiddetlen+DH
+. .
+</S>
+<S>
+Ava ava
+belediye belediye
+başkanı başkan+sH
+James james
+Norman Norman
+şöyle şöyle
+diyor de+Hyor
+: :
+" "
+Hisse hisse
+senetlerine senet+lAr+sH+nA
+yatırım yatırım
+yapmıyorum yap+mA+Hyor+yHm
+. .
+" "
+</S>
+<S>
+Başkan başkan
+Norman Norman
+pazarın pazar+nHn
+performansını performans+sH+nH
+Pazartesi pazartesi
+günü gün+sH
+güven güven
+verici verici
+bulurken bul+Hr+yken
+, ,
+hâlâ hâlâ
+tedirgin tedirgin
+olduğunu ol+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Pittsburg Pittsburg
+, ,
+Kan kan
+merkezli merkez+lH
+National national
+Pizza pizza
+, ,
+işlemin işlem+nHn
+döner döner
+kredi kredi
+anlaşması anlaşma+sH
+kapsamında kapsam+sH+nDA
+finanse finanse
+edileceğini et+Hl+yAcAk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Aleni aleni
+satışta sat+yHs+DA
+Skipper'ın Skipper'ın
+hisseleri hisse+lAr+sH
+50 50
+sent sent
+artarak art+yArAk
+11 11
+$'a $'a
+yükseldi yüksel+DH
+. .
+</S>
+<S>
+National national
+Pizza pizza
+, ,
+Pizza pizza
+Hut'la hut+'ylA
+olan ol+yAn
+anlaşmazlığını anlaş+mA+z+lHk+sH+nH
+çözerek çöz+yArAk
+satın satın
+alma al+mA
+yapmasına yap+mA+sH+nA
+izin izin
+verdiğini ver+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Gorbaçov gorbaçov
+, ,
+Sovyetler sovyet+lAr
+Birliği'nin birlik+sH+'nHn
+basınını basın+sH+nH
+ülkenin ülke+nHn
+git git
+gide git+yA
+artan art+yAn
+sorunlarına sorun+lAr+sH+nA
+katkıda katkı+DA
+bulunmakla bulun+mAk+ylA
+suçladı suçla+DH
+. .
+</S>
+<S>
+Uzay uzay
+ajansı ajans+sH
+, ,
+hava hava
+şartlarının şart+lAr+sH+nHn
+veya veya
+protestocuların protestocuların
+kalkışı kalk+yHs+sH
+engellemesini engelle+mA+sH+nH
+beklemediğini bekle+mA+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Ancak ancak
+beş beş
+Afrika afrika
+ülkesi ülke+sH
+değerli değerli
+fildişlerini fildiş+lAr+sH+nH
+satmaya sat+mA+yA
+devam devam
+edeceklerini et+yAcAk+lAr+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Mısır mısır
+cumhurbaşkanı cumhurbaşkan+H
+görüşmelere görüşme+lAr+yA
+devam devam
+etmek et+mAk
+için için
+bugün bugün
+Libya'yı libya+'yH
+ziyaret ziyaret
+edeceğini et+yAcAk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Seul seul
+ve ve
+Pyongyang Pyongyang
+, ,
+bölünmüş bölün+mHs
+Kore kore
+yarımadasında yarımada+sH+nDA
+aileler aile+lAr
+arasında ara+sH+nDA
+ziyaretlere ziyaret+lAr+yA
+izin izin
+vermek ver+mAk
+için için
+geçici geçici
+bir bir
+anlaşmaya anlaş+mA+yA
+vardılar var+DH+lAr
+. .
+</S>
+<S>
+Ancak ancak
+, ,
+Kuzey kuzey
+ve ve
+Güney güney
+Kore kore
+hükümetleri hükümet+lAr+sH
+arasında ara+sH+nDA
+döviz döviz
+değişimine değişim+sH+nA
+dair dair
+koşullar koşul+lAr
+hakkındaki hak+sH+nDA+ki
+farklılıklar fark+lH+lHk+lAr
+olduğu ol+DHk+sH
+gibi gibi
+kaldı kal+DH
+. .
+</S>
+<S>
+Polonya'nın polonya+'nHn
+yasama yasama
+organı organ+sH
+, ,
+gıda gıda
+fiyatı fiyat+sH
+artışları art+yHs+lAr+sH
+için için
+özel özel
+hükümler hüküm+lAr
+olmadan ol+mAdAn
+otomatik otomatik
+ücret ücret
+artışlarına artış+lAr+sH+nA
+ilişkin ilişkin
+onaylanmış onayla+n+mHs
+limitleri limit+lAr+sH
+onayladı onayla+DH
+. .
+</S>
+<S>
+Ölüm ölüm
+: :
+Los los
+Angeles'ta Angeles'ta
+, ,
+aktör aktör
+ve ve
+yönetmen yönetmen
+, ,
+74 74
+yaşındaki yaş+sH+nDA+ki
+Cornel Cornel
+Wilde Wilde
+, ,
+lösemi lösemi
+... ...
+. .
+</S>
+<S>
+Yugoslav yugoslav
+doğumlu doğumlu
+romancı romancı
+ve ve
+denemeci denemeci
+54 54
+yaşındaki yaş+sH+nDA+ki
+Danilo Danilo
+Kis Kis
+, ,
+Pazar pazar
+günü gün+sH
+Paris'te paris+'DA
+kanserden kanser+DAn
+. .
+</S>
+<S>
+Satışın satış+nHn
+Kasım kasım
+ayı ay+sH
+sonunda sonunda
+tamamlanmasının tamamlan+mA+sH+nHn
+beklendiğini bekle+n+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+Bir bir
+sözcü sözcü
+, ,
+şirketin şirket+nHn
+1988 1988
+yılında yıl+sH+nDA
+400 400
+milyon milyon
+dolar dolar
+satış satış
+yaptığını yap+DHk+sH+nH
+söyledi söyle+DH
+. .
+</S>
+<S>
+New new
+York york
+Menkul menkul
+Kıymetler kıymet+lAr
+Borsası borsa+sH
+bileşik bileşik
+ticaretinde ticaret+sH+nDA
+, ,
+West west
+Point-Pepperell Point-Pepperell
+25 25
+sent sent
+düşerek düş+yArAk
+53.875 53.875
+dolara dolar+yA
+indi in+DH
+. .
+</S>
+<S>
+ABD'deki abd+'DA+ki
+hisse hisse
+sahipleri sahip+lAr+sH
+, ,
+geçtiğimiz geç+DHk+HmHz
+Ocak ocak
+ayındaki ay+sH+nDA+ki
+%9'a %9+'+yA
+kıyasla kıyasla
+şimdi şimdi
+Blue Blue
+Arrow'un arrow+'nHn
+%60'ından %60'ından
+fazlasına fazla+sH+nA
+sahip sahip
+. .
+</S>
+<S>
+Hareketler hareket+lAr
+, ,
+hissedarların hissedar+lAr+nHn
+Mavi mavi
+Ok'un ok+'nHn
+hengamede hengame+DA
+bir bir
+şirket şirket
+olduğu ol+DHk+sH
+algısını algı+sH+nH
+da da
+silebilir sil+yAbil+Hr
+. .
+</S>
+<S>
+Önerilen öner+Hl+yAn
+değişikliklerin değişiklik+lAr+nHn
+hepsinin hepsi+nHn
+onun o+nHn
+için için
+" "
+çok çok
+mantıklı mantıklı
+" "
+olduğunu ol+DHk+sH+nH
+ekledi ekle+DH
+. .
+</S>
+<S>
+Bay bay
+Fromstein Fromstein
+, ,
+Nisan nisan
+ayında ay+sH+nDA
+başkanlık başkanlık
+görevini görev+sH+nH
+üstlenerek üstlen+yArAk
+kontrolünü kontrol+sH+nH
+sağlamlaştırdı sağlamlaş+DHr+DH
+. .
+</S>
+<S>
+Bay bay
+Fromstein Fromstein
+, ,
+" "
+Bilançolarımız bilanço+lAr+HmHz
+Alice'nin alice+'nHn
+harikalar harika+lAr
+diyarından diyar+sH+nDAn
+gelmiş gel+mHs
+gibi gibi
+görünüyor görün+Hyor
+, ,
+" "
+dedi de+DH
+. .
+</S>
+<S>
+45 45
+yaşındaki yaş+sH+nDA+ki
+eski eski
+General general
+Electric Electric
+Co. Co.
+yöneticisi yönetici+sH
+bu bu
+sefer sefer
+daha daha
+kolay kolay
+olacağını ol+yAcAk+sH+nH
+tahmin tahmin
+ediyor et+Hyor
+. .
+</S>
+<S>
+Applied Applied
+tarafından tarafından
+147 147
+milyon milyon
+dolara dolar+yA
+işe iş+yA
+alınan al+Hn+yAn
+Barry Barry
+Wright Wright
+, ,
+bilgisayar bilgisayar
+odası oda+sH
+ekipmanı ekipman+sH
+ve ve
+titreşim titreşim
+kontrol kontrol
+sistemleri sistem+lAr+sH
+üretiyor üret+Hyor
+. .
+</S>
+<S>
+Watertown Watertown
+, ,
+Mass., Mass.,
+Şirketin şirket+nHn
+satışları sat+yHs+lAr+sH
+uykuda uyku+DA
+kaldı kal+DH
+ve ve
+karları kar+lAr+sH
+düştü düş+DH
+. .
+</S>
+<S>
+Güçlü güç+lH
+kazanç kazanç
+artışı art+yHs+sH
+Ağustos ağustos
+1988'de 1988+'+DA
+bu bu
+fiyatın fiyat+nHn
+planlananın plan+lAn+yAn+nHn
+çok çok
+ötesine öte+sH+nA
+ulaşmasına ulaş+mA+sH+nA
+yardımcı yardımcı
+oldu ol+DH
+. .
+</S>
+<S>
+Ama ama
+Bay bay
+Sim sim
+, ,
+yeni yeni
+bir bir
+hedef hedef
+belirlediğinde belirle+DHk+sH+nDA
+</S>
+<S>
+O o
+dönemde dönem+DA
+yakında yakında
+tutulan tut+Hl+yAn
+Applied Applied
+, ,
+kontrolde kontrol+DA
+olan ol+yAn
+ailenin aile+nHn
+yönetimi yönetim+sH
+altında alt+sH+nDA
+durgunlaşmıştı durgunlaş+mHs+yDH
+. .
+</S>
+<S>
+Biraz biraz
+sabırla sabırla
+, ,
+bu bu
+işletmeler işlet+mA+lAr
+çok çok
+tatmin tatmin
+edici et+yHcH
+bir bir
+performans performans
+sergileyecek sergile+yAcAk
+, ,
+diyor de+Hyor
+Bay bay
+Sim sim
+</S>
+<S>
+1986 1986
+yılında yıl+sH+nDA
+Applied'in applied+'nHn
+CEO'su ceo+'sH
+seçildi seç+Hl+DH
+ve ve
+geçen geçen
+Kasım kasım
+ayında ay+sH+nDA
+başkan başkan
+oldu ol+DH
+. .
+</S>

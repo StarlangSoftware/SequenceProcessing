@@ -1,0 +1,3924 @@
+<S>
+Devasa ARG0$TUR10-0122530
+ölçekli ARG0$TUR10-0122530
+yeni ARG0$TUR10-0122530
+kanunda ARG0$TUR10-0122530
+kullanılan ARG0$TUR10-0122530
+karmaşık ARG0$TUR10-0122530
+ve ARG0$TUR10-0122530
+çetrefilli ARG0$TUR10-0122530
+dil ARG0$TUR10-0122530
+kavgayı NONE
+bulandırdı PREDICATE$TUR10-0122530
+. NONE
+</S>
+<S>
+Gelir ARG0$TUR10-0834470
+Artırma ARG0$TUR10-0834470
+Usulleri ARG0$TUR10-0834470
+Komitesi ARG0$TUR10-0834470
+gelecek NONE
+Salı NONE
+günü NONE
+kanun ARG1$TUR10-0834470
+tasarısı ARG1$TUR10-0834470
+hakkında ARG1$TUR10-0834470
+bir ARG1$TUR10-0834470
+duruşma ARG1$TUR10-0834470
+yapacak PREDICATE$TUR10-0834470
+. NONE
+</S>
+<S>
+Reklam NONE
+ve NONE
+tanıtımın NONE
+işe NONE
+yarayıp NONE
+yaramadığını NONE
+görmek NONE
+üzereyiz NONE
+. NONE
+</S>
+<S>
+Bu ARGMTMP$TUR10-0328250
+defa ARGMTMP$TUR10-0328250
+, NONE
+daha ARGMMNR$TUR10-0328250
+da ARGMMNR$TUR10-0328250
+hızlı ARGMMNR$TUR10-0328250
+hareket PREDICATE$TUR10-0328250
+ediyorlar PREDICATE$TUR10-0328250
+. NONE
+</S>
+<S>
+Shearson ARG0$TUR10-0845200
+Lehman ARG0$TUR10-0845200
+Hutton ARG0$TUR10-0845200
+Inc. ARG0$TUR10-0845200
+dün ARGMTMP$TUR10-0845200
+öğleden ARGMTMP$TUR10-0845200
+sonraya ARGMTMP$TUR10-0845200
+kadar ARGMTMP$TUR10-0845200
+yeni NONE
+TV NONE
+reklamları NONE
+yazmıştı PREDICATE$TUR10-0845200
+. NONE
+</S>
+<S>
+Bu NONE
+kez NONE
+, NONE
+firmalar NONE
+hazırdı NONE
+. NONE
+</S>
+<S>
+Diyaloğun NONE
+sürdürülmesi NONE
+kesinlikle NONE
+temel NONE
+öneme NONE
+haizdir NONE
+. NONE
+</S>
+<S>
+Cuma NONE
+günü NONE
+bunların NONE
+üzerine NONE
+düşünüldüğünde NONE
+çok NONE
+geç NONE
+kalmış NONE
+olunacaktı PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Bunun ARG0$TUR10-0724810
+hakkında ARG0$TUR10-0724810
+önceden ARG0$TUR10-0724810
+düşünmemiz ARG0$TUR10-0724810
+gerekiyordu PREDICATE$TUR10-0724810
+. NONE
+</S>
+<S>
+İsme NONE
+göre NONE
+çeşitlilik NONE
+gösteren NONE
+birkaç NONE
+kefaret NONE
+fonunun NONE
+reklamını NONE
+yapmak NONE
+için NONE
+devam PREDICATE$TUR10-0019950
+ediyor PREDICATE$TUR10-0019950
+. NONE
+</S>
+<S>
+PaineWebber NONE
+1987 NONE
+tarihli NONE
+iflas NONE
+sayesinde NONE
+daha NONE
+çabuk NONE
+bir NONE
+şekilde NONE
+vites NONE
+yükseltebilmişti NONE
+. NONE
+</S>
+<S>
+Tanıtım NONE
+dün NONE
+gece NONE
+CNN'de NONE
+3 NONE
+kere NONE
+gösterilecek NONE
+şekilde NONE
+programlandı NONE
+. NONE
+</S>
+<S>
+PaineWebber ARG0$TUR10-0886370
+belirli ARG1$TUR10-0886370
+hisseleri ARG1$TUR10-0886370
+öneren ARG1$TUR10-0886370
+daha ARG1$TUR10-0886370
+sert ARG1$TUR10-0886370
+bir ARG1$TUR10-0886370
+satışı ARG1$TUR10-0886370
+dikkate PREDICATE$TUR10-0886370
+aldı PREDICATE$TUR10-0886370
+. NONE
+</S>
+<S>
+Ekledi PREDICATE$TUR10-1055660
+, NONE
+" NONE
+Bu NONE
+1987'nin NONE
+yeniden NONE
+ziyaret NONE
+edilmesi NONE
+değil NONE
+. NONE
+" NONE
+</S>
+<S>
+Ekledi PREDICATE$TUR10-1055660
+... NONE
+</S>
+<S>
+ARNOLD NONE
+REKLAMCILIK NONE
+: NONE
+</S>
+<S>
+Anlaşma ARG1$TUR10-0220370
+şartları ARG1$TUR10-0220370
+açıklanmadı PREDICATE$TUR10-0220370
+. NONE
+</S>
+<S>
+Bu ARG1$TUR10-0902730
+hesap ARG1$TUR10-0902730
+Della ARG0$TUR10-0902730
+Femina ARG0$TUR10-0902730
+, NONE
+McNamee ARG0$TUR10-0902730
+WCRS ARG0$TUR10-0902730
+tarafından NONE
+idare PREDICATE$TUR10-0902730
+edildi PREDICATE$TUR10-0448700
+. NONE
+</S>
+<S>
+EĞİTİM NONE
+REKLAMLARI NONE
+: NONE
+</S>
+<S>
+Ortalamalar ARG1$TUR10-0340500
+yasasının ARG1$TUR10-0340500
+ne ARG1$TUR10-0340500
+demek ARG1$TUR10-0340500
+olduğunu ARG1$TUR10-0340500
+biliyorsun PREDICATE$TUR10-0340500
+değil NONE
+mi NONE
+? NONE
+</S>
+<S>
+Bu NONE
+Giant'ın NONE
+fanatiklerini NONE
+rahatlatacak NONE
+bir NONE
+ortalama NONE
+değildir NONE
+. NONE
+</S>
+<S>
+Bugün NONE
+Giantlardan NONE
+yanayım NONE
+ancak NONE
+yalnızca NONE
+dün NONE
+kaybettikleri NONE
+için NONE
+. NONE
+</S>
+<S>
+Her ARG1$TUR10-0682550
+ikisini ARG1$TUR10-0682550
+de ARG1$TUR10-0682550
+seviyorum PREDICATE$TUR10-0682550
+. NONE
+</S>
+<S>
+Yukarıdaki ARG0$TUR10-1158360
+ilgisizlik ARG1$TUR10-1158360
+veya ARG1$TUR10-1158360
+kibarlığın ARG1$TUR10-1158360
+bir ARG1$TUR10-1158360
+zaferini ARG1$TUR10-1158360
+temsil PREDICATE$TUR10-1158360
+ediyor PREDICATE$TUR10-1158360
+. NONE
+</S>
+<S>
+Onun NONE
+sıkı NONE
+ve NONE
+güçlü NONE
+vurucu NONE
+McGwire'nin NONE
+kendi NONE
+imzası NONE
+değil NONE
+. NONE
+</S>
+<S>
+Sıfır ARGMTMP$TUR10-0299010
+sayı ARGMTMP$TUR10-0299010
+vuruşu ARGMTMP$TUR10-0299010
+ve ARGMTMP$TUR10-0299010
+gol ARGMTMP$TUR10-0299010
+vuruşu ARGMTMP$TUR10-0299010
+ile ARGMTMP$TUR10-0299010
+burada ARGMLOC$TUR10-0299010
+kolektif ARGMLOC$TUR10-0299010
+5/24'e ARGMLOC$TUR10-0299010
+gittiler PREDICATE$TUR10-0299010
+. NONE
+</S>
+<S>
+Bu NONE
+beyzboldur NONE
+. NONE
+</S>
+<S>
+Tedavüldeki ARG1$TUR10-0881180
+ortalama ARG1$TUR10-0881180
+hisseler ARG1$TUR10-0881180
+82.1 ARGMEXT$TUR10-0881180
+milyondan ARGMEXT$TUR10-0881180
+75.8 ARGMEXT$TUR10-0881180
+milyon ARGMEXT$TUR10-0881180
+seviyesine ARGMEXT$TUR10-0881180
+düştü PREDICATE$TUR10-0881180
+. NONE
+</S>
+<S>
+Gelirler ARG0$TUR10-0294020
+1.41 NONE
+milyardan NONE
+% NONE
+1'lik NONE
+düşüşle NONE
+1.39 NONE
+milyar NONE
+dolar NONE
+geriledi PREDICATE$TUR10-0294020
+. NONE
+</S>
+<S>
+Şimdi NONE
+, NONE
+yeni NONE
+bir NONE
+ürün NONE
+gibi NONE
+olmayacak PREDICATE$TUR10-0221670
+. NONE
+</S>
+<S>
+Phyllis NONE
+Kyle NONE
+Stephenson NONE
+Newport NONE
+News NONE
+Va NONE
+. NONE
+</S>
+<S>
+Öğle NONE
+arası NONE
+saatine NONE
+kadar NONE
+satış NONE
+hemen NONE
+hemen NONE
+paniğe NONE
+yakın NONE
+bir NONE
+istim NONE
+üzerindeydi NONE
+. NONE
+</S>
+<S>
+Böylece NONE
+Londra'nın NONE
+finans NONE
+merkezinin NONE
+işlem NONE
+odalarında NONE
+dün ARGMTMP$TUR10-0298990
+gitti PREDICATE$TUR10-0298990
+. NONE
+</S>
+<S>
+Ve ARGMDIS$TUR10-0822270
+Londra ARG1$TUR10-0822270
+açısından ARG1$TUR10-0822270
+karmaşık ARG1$TUR10-0822270
+sinyaller ARG1$TUR10-0822270
+bıraktı PREDICATE$TUR10-0822270
+. NONE
+</S>
+<S>
+Ekranlarda ARG0$TUR10-0307200
+görülen ARG0$TUR10-0307200
+kırmızı ARG0$TUR10-0307200
+rakamlar ARG0$TUR10-0307200
+değeri ARG1$TUR10-0307200
+düşen ARG1$TUR10-0307200
+hisseleri ARG1$TUR10-0307200
+, NONE
+mavi ARG0$TUR10-0307200
+rakamlar ARG0$TUR10-0307200
+yükselen ARG1$TUR10-0307200
+hisseleri ARG1$TUR10-0307200
+gösteriyor PREDICATE$TUR10-0307200
+. NONE
+</S>
+<S>
+Çok NONE
+sıkı NONE
+ve NONE
+disiplinli NONE
+bir NONE
+idareye NONE
+meyilliyiz NONE
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+son NONE
+derece NONE
+sinir NONE
+bozucu NONE
+. NONE
+" NONE
+</S>
+<S>
+Reuters NONE
+hissesi NONE
+için NONE
+arayışını ARG1$TUR10-0100140
+geçici ARGMMNR$TUR10-0100140
+olarak ARGMMNR$TUR10-0100140
+bıraktı PREDICATE$TUR10-0100140
+. NONE
+</S>
+<S>
+Kaçınılmaz NONE
+olarak NONE
+birçok NONE
+türbülansın NONE
+içindeyiz NONE
+... NONE
+</S>
+<S>
+Haklıydı NONE
+. NONE
+</S>
+<S>
+Londra NONE
+piyasası NONE
+Öğle NONE
+vaktine NONE
+kadar NONE
+tam NONE
+bir NONE
+geri NONE
+çekilmedeydi NONE
+. NONE
+</S>
+<S>
+İletişim ARG1$TUR10-0320480
+patronların NONE
+çoğunun NONE
+TV'de NONE
+en NONE
+son NONE
+verilen NONE
+piyasa NONE
+istatistiklerini NONE
+izlemesi NONE
+nedeniyle NONE
+hafifledi PREDICATE$TUR10-0320480
+. NONE
+</S>
+<S>
+Bu ARG0$TUR10-0029370
+piyasa ARG0$TUR10-0029370
+çok NONE
+kötü NONE
+hasar ARGMMNR$TUR10-0029370
+aldı PREDICATE$TUR10-0029370
+. NONE
+</S>
+<S>
+Tümünü NONE
+elden NONE
+çıkarma NONE
+sayesinde NONE
+yaratılan ARG1$TUR10-0672700
+bir ARG1$TUR10-0672700
+fırsat ARG1$TUR10-0672700
+gördüler PREDICATE$TUR10-0672700
+. NONE
+</S>
+<S>
+Aniden NONE
+yaklaşık NONE
+45 NONE
+dakika NONE
+sonra NONE
+, NONE
+ABD NONE
+piyasaları NONE
+toparlandı NONE
+. NONE
+</S>
+<S>
+Wall ARGMCAU$TUR10-0928070
+Street ARGMCAU$TUR10-0928070
+direnç ARGMCAU$TUR10-0928070
+kazandığı ARGMCAU$TUR10-0928070
+için ARGMCAU$TUR10-0928070
+Londra ARG0$TUR10-0928070
+işlem ARG0$TUR10-0928070
+odası ARG0$TUR10-0928070
+çılgınlaştı PREDICATE$TUR10-0928070
+. NONE
+</S>
+<S>
+Aracılar ARG0$TUR10-0069090
+ekranlarında NONE
+Wall NONE
+Street NONE
+üzerinde NONE
+sürekli ARG1$TUR10-0069090
+daralan ARG1$TUR10-0069090
+bir ARG1$TUR10-0069090
+zarar ARG1$TUR10-0069090
+belirdikçe NONE
+bağırdılar PREDICATE$TUR10-0069090
+</S>
+<S>
+" NONE
+Bu NONE
+panik NONE
+alımı NONE
+! NONE
+" NONE
+</S>
+<S>
+Bu NONE
+kadar NONE
+kötümser NONE
+olmayın PREDICATE$TUR10-0585930
+Bay ARG0$TUR10-0585930
+Büyükelçi ARG0$TUR10-0585930
+. NONE
+</S>
+<S>
+Frank NONE
+Tremdine NONE
+</S>
+<S>
+Boeing'deki ARG1$TUR10-0716620
+iş ARG1$TUR10-0716620
+; NONE
+müfettişler ARGMMNR$TUR10-0716620
+, NONE
+gözetmenler ARGMMNR$TUR10-0716620
+ve ARGMMNR$TUR10-0716620
+üretim ARGMMNR$TUR10-0716620
+hatlarına ARGMMNR$TUR10-0716620
+yerleştirilen ARGMMNR$TUR10-0716620
+grevde ARGMMNR$TUR10-0716620
+olmayan ARGMMNR$TUR10-0716620
+personelle ARGMMNR$TUR10-0716620
+sürdürülüyor PREDICATE$TUR10-0716620
+. NONE
+</S>
+<S>
+Kansas NONE
+çalışma NONE
+hakkı NONE
+kanunlarına NONE
+göre NONE
+, NONE
+sözleşmeler ARG0$TUR10-0724810
+çalışanların ARG1$TUR10-0724810
+sendika ARG1$TUR10-0724810
+üyesi ARG1$TUR10-0724810
+olmasını NONE
+gerektirmeyebiliyor PREDICATE$TUR10-0724810
+. NONE
+</S>
+<S>
+Sendika NONE
+yetkililerine NONE
+yorum ARG1$TUR10-0798140
+almak ARG1$TUR10-0798140
+için ARG1$TUR10-0798140
+ulaşamadık PREDICATE$TUR10-0798140
+. NONE
+</S>
+<S>
+Bir ARG0$TUR10-0205320
+DPC ARG0$TUR10-0205320
+sözcüsü ARG0$TUR10-0205320
+, NONE
+grubun ARG1$TUR10-0205320
+yeni ARG1$TUR10-0205320
+planı ARG1$TUR10-0205320
+hakkında ARG1$TUR10-0205320
+detay ARG1$TUR10-0205320
+vermeyi ARG1$TUR10-0205320
+istemedi PREDICATE$TUR10-0205320
+. NONE
+</S>
+<S>
+Avrupalı NONE
+yatırımcıların NONE
+bugün NONE
+ABD NONE
+sıçraması NONE
+sonrasında NONE
+iyimserlik NONE
+için NONE
+başka NONE
+bir NONE
+sebebi NONE
+var NONE
+. NONE
+</S>
+<S>
+Hisse ARG1$TUR10-0881290
+fiyatları ARG1$TUR10-0881290
+Milan ARGMLOC$TUR10-0881290
+, ARGMLOC$TUR10-0881290
+Amsterdam ARGMLOC$TUR10-0881290
+, ARGMLOC$TUR10-0881290
+Zürih ARGMLOC$TUR10-0881290
+, ARGMLOC$TUR10-0881290
+Madrid ARGMLOC$TUR10-0881290
+ve ARGMLOC$TUR10-0881290
+Stockholm'da ARGMLOC$TUR10-0881290
+düştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+Bir ARG0$TUR10-0405220
+bilgisayar ARG0$TUR10-0405220
+arızasının ARG0$TUR10-0405220
+alım ARG0$TUR10-0405220
+satım ARG0$TUR10-0405220
+işlemlerini ARG0$TUR10-0405220
+kesintiye ARG0$TUR10-0405220
+uğrattığı ARG0$TUR10-0405220
+Brüksel'deki ARG0$TUR10-0405220
+fiyatlar ARG0$TUR10-0405220
+da ARG0$TUR10-0405220
+alt NONE
+üst NONE
+oldu PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Aşağıdaki NONE
+büyük NONE
+bir NONE
+piyasa NONE
+faaliyetinin NONE
+bozulmasıdır NONE
+</S>
+<S>
+FRANKFURT NONE
+: NONE
+</S>
+<S>
+Endeks ARG0$TUR10-0444190
+203.56 NONE
+puan NONE
+düşüşle NONE
+1385.72 NONE
+seviyesinde NONE
+kapandı PREDICATE$TUR10-0444190
+. NONE
+</S>
+<S>
+En NONE
+kurumsal NONE
+yatırımcılar NONE
+dahil NONE
+herkes NONE
+halen NONE
+güvenliydi NONE
+. NONE
+</S>
+<S>
+Batı ARG0$TUR10-0307160
+Almanya'nın ARG0$TUR10-0307160
+bazı ARG0$TUR10-0307160
+en ARG0$TUR10-0307160
+iyi ARG0$TUR10-0307160
+kalite ARG0$TUR10-0307160
+ve ARG0$TUR10-0307160
+güvenilir ARG0$TUR10-0307160
+hisse ARG0$TUR10-0307160
+senetleri ARG0$TUR10-0307160
+bazı ARG1$TUR10-0307160
+en ARG0$TUR10-0307160
+yüksek ARG1$TUR10-0307160
+artışları ARG1$TUR10-0307160
+gösterdi PREDICATE$TUR10-0307160
+. NONE
+</S>
+<S>
+Londra NONE
+: NONE
+</S>
+<S>
+Hacim NONE
+959.3 NONE
+milyon NONE
+adet NONE
+hisseyle NONE
+son NONE
+seviyelerin NONE
+3 NONE
+katından NONE
+fazlaydı NONE
+. NONE
+</S>
+<S>
+Paris NONE
+: NONE
+</S>
+<S>
+J.P. NONE
+Morgan NONE
+& NONE
+Co NONE
+. NONE
+</S>
+<S>
+Son NONE
+çeyreğin NONE
+zararı NONE
+hisse NONE
+başına NONE
+9.92 NONE
+dolar NONE
+. NONE
+</S>
+<S>
+Faiz ARG0$TUR10-0185840
+dışı ARG0$TUR10-0185840
+giderler ARG0$TUR10-0185840
+%16'lık NONE
+artışla NONE
+496 ARG0$TUR10-0185840
+milyon ARG1$TUR10-0185840
+dolara ARG0$TUR10-0185840
+dayandı PREDICATE$TUR10-0185840
+. NONE
+</S>
+<S>
+NCNB NONE
+Corp NONE
+. NONE
+</S>
+<S>
+Sonuçlar ARG1$TUR10-0575280
+piyasa ARGMMNR$TUR10-0575280
+kapandıktan ARGMMNR$TUR10-0575280
+sonra ARGMMNR$TUR10-0575280
+yayınlandı PREDICATE$TUR10-0575280
+. NONE
+</S>
+<S>
+Security NONE
+Pacific NONE
+Corp NONE
+. NONE
+</S>
+<S>
+Kredi ARG0$TUR10-0405050
+büyüme ARG0$TUR10-0405050
+dengesi ARG0$TUR10-0405050
+kriz ARGMLOC$TUR10-0405050
+içindeki ARGMLOC$TUR10-0405050
+Arizona ARGMLOC$TUR10-0405050
+piyasasında ARGMLOC$TUR10-0405050
+gayrimenkul ARG1$TUR10-0405050
+kredi ARG1$TUR10-0405050
+zararlarını ARG1$TUR10-0405050
+sürdürüyor PREDICATE$TUR10-0405050
+. NONE
+</S>
+<S>
+Faiz ARG0$TUR10-0048030
+dışı ARG0$TUR10-0048030
+giderler ARG0$TUR10-0048030
+dönem NONE
+içinde NONE
+yalnızca NONE
+% NONE
+4 NONE
+arttı PREDICATE$TUR10-0048030
+. NONE
+</S>
+<S>
+Mektup NONE
+6 NONE
+Ekim NONE
+tarihliydi NONE
+. NONE
+</S>
+<S>
+Telerate ARG0$TUR10-0643980
+3 ARG1$TUR10-0643980
+Kasım ARG1$TUR10-0643980
+tarihinde ARG1$TUR10-0643980
+süresi ARG1$TUR10-0643980
+dolacak ARG1$TUR10-0643980
+olan ARG1$TUR10-0643980
+teklifi ARG1$TUR10-0643980
+reddetti PREDICATE$TUR10-0643980
+. NONE
+</S>
+<S>
+Bu ARG0$TUR10-0669670
+hareket ARG0$TUR10-0669670
+koruma NONE
+temelinde NONE
+Kanada NONE
+hükümeti NONE
+tarafından NONE
+savunuldu PREDICATE$TUR10-0669670
+. NONE
+</S>
+<S>
+Bayan ARG0$TUR10-0191150
+Hills ARG0$TUR10-0191150
+dün ARGMTMP$TUR10-0191150
+bu ARG1$TUR10-0191150
+Kanada ARG1$TUR10-0191150
+hükümeti ARG1$TUR10-0191150
+argümanını ARG1$TUR10-0191150
+reddettiğini ARG1$TUR10-0191150
+söyledi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Atıl NONE
+Düşünce NONE
+</S>
+<S>
+-- NONE
+May NONE
+Richstone NONE
+. NONE
+</S>
+<S>
+Telecussed NONE
+</S>
+<S>
+-- NONE
+Dick NONE
+Emmons NONE
+. NONE
+</S>
+<S>
+BSN NONE
+halihazırda NONE
+ödenmemiş NONE
+4.6 NONE
+milyon NONE
+adi NONE
+hisseye NONE
+sahiptir NONE
+. NONE
+</S>
+<S>
+Teklifler ARG0$TUR10-0636350
+Kasım ARGMTMP$TUR10-0636350
+ortası ARGMTMP$TUR10-0636350
+ile ARGMTMP$TUR10-0636350
+sonu ARGMTMP$TUR10-0636350
+arasında NONE
+sona NONE
+erecek NONE
+şekilde NONE
+programlandı PREDICATE$TUR10-0636350
+. NONE
+</S>
+<S>
+Varlık-yönetim ARG0$TUR10-0129560
+ücreti ARG0$TUR10-0129560
+gelirleri ARG0$TUR10-0129560
+% NONE
+12 NONE
+artışla NONE
+151 ARG1$TUR10-0129560
+milyon ARG1$TUR10-0129560
+dolara ARG1$TUR10-0129560
+ulaştı PREDICATE$TUR10-0129560
+. NONE
+</S>
+<S>
+Piyasa ARG0$TUR10-0672350
+değişimlerinin ARG0$TUR10-0672350
+henüz ARG0$TUR10-0672350
+bir ARG0$TUR10-0672350
+nakit ARG0$TUR10-0672350
+sıkıntısını ARG0$TUR10-0672350
+tetiklemediği ARG0$TUR10-0672350
+açıkça NONE
+görülüyor PREDICATE$TUR10-0672350
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+iyi NONE
+bir NONE
+haber NONE
+, NONE
+zira NONE
+hepimiz ARG0$TUR10-0868230
+Bu ARG1$TUR10-0868230
+suda ARG1$TUR10-0868230
+yüzüyoruz PREDICATE$TUR10-0868230
+. NONE
+" NONE
+</S>
+<S>
+Şimdi NONE
+, NONE
+yarına NONE
+gelince NONE
+, NONE
+peki NONE
+, NONE
+kim NONE
+bilir NONE
+? NONE
+</S>
+<S>
+Ancak NONE
+piyasalar ARG0$TUR10-0385800
+daha NONE
+yüksek NONE
+veya NONE
+daha NONE
+düşük NONE
+verimlilikle NONE
+işleyebilir PREDICATE$TUR10-0385800
+. NONE
+</S>
+<S>
+Teorinin NONE
+gerçekçi NONE
+olup NONE
+olmadığını NONE
+bilmek NONE
+imkansızdır NONE
+. NONE
+</S>
+<S>
+Cuma NONE
+günü NONE
+olan NONE
+bitenler NONE
+tüm NONE
+dünyanın NONE
+en NONE
+kötüsüydü NONE
+. NONE
+</S>
+<S>
+Options ARG0$TUR10-0225690
+piyasaları ARG0$TUR10-0225690
+birçok NONE
+hissede NONE
+alım ARG1$TUR10-0225690
+satımı ARG1$TUR10-0225690
+durdurdu PREDICATE$TUR10-0225690
+. NONE
+</S>
+<S>
+New ARG0$TUR10-0405050
+York ARG0$TUR10-0405050
+Borsası ARG0$TUR10-0405050
+, NONE
+kendi NONE
+koşulları NONE
+altında NONE
+, NONE
+açık NONE
+kaldı PREDICATE$TUR10-0405050
+. NONE
+</S>
+<S>
+Bu NONE
+piyasada NONE
+likidite NONE
+zayıfladığı NONE
+için NONE
+fiyatlar ARG0$TUR10-0307160
+keskin NONE
+düşüş NONE
+gösterdi PREDICATE$TUR10-0307160
+. NONE
+</S>
+<S>
+Aracılar ARG0$TUR10-0188740
+stratejilerini ARG1$TUR10-0188740
+değiştirebilir PREDICATE$TUR10-0188740
+ve NONE
+kendi ARG0$TUR10-0188740
+emirlerini ARG0$TUR10-0188740
+bu NONE
+stratejilerden NONE
+biri NONE
+dahilinde NONE
+yürütebilir PREDICATE$TUR10-0867070
+. NONE
+</S>
+<S>
+Bu NONE
+yüzden NONE
+her ARG0$TUR10-0405220
+piyasa ARG0$TUR10-0405220
+için ARG0$TUR10-0405220
+farklı ARG0$TUR10-0405220
+devre ARG0$TUR10-0405220
+kırıcıları ARG0$TUR10-0405220
+kabul ARG0$TUR10-0405220
+etmesinin ARG0$TUR10-0405220
+bir ARG0$TUR10-0405220
+anlamı ARG0$TUR10-0405220
+olmaz PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Ancak ARGMDIS$TUR10-0899630
+piyasa ARG0$TUR10-0899630
+performansının ARG0$TUR10-0899630
+geliştirilmesi ARG0$TUR10-0899630
+görevi ARG0$TUR10-0899630
+henüz ARGMTMP$TUR10-0899630
+bitmemiş ARGMMNR$TUR10-0899630
+şekilde ARGMMNR$TUR10-0899630
+duruyor PREDICATE$TUR10-0899630
+. NONE
+</S>
+<S>
+Birleşik ARG0$TUR10-0214630
+bir ARG0$TUR10-0214630
+Avrupa ARG0$TUR10-0214630
+işgücü ARG0$TUR10-0214630
+problemleri ARG0$TUR10-0214630
+doğuruyor PREDICATE$TUR10-0214630
+ve NONE
+ABD ARGMLOC$TUR10-0042580
+firmalarında ARGMLOC$TUR10-0042580
+arıyor PREDICATE$TUR10-0042580
+. NONE
+</S>
+<S>
+Kulüplere NONE
+akan NONE
+bir NONE
+fan NONE
+Baltimore NONE
+Orioles'in NONE
+hatası NONE
+değildi NONE
+. NONE
+</S>
+<S>
+Hemşire NONE
+eksikliğiyle NONE
+başa NONE
+çıkılmasına NONE
+yönelik NONE
+olarak NONE
+teklifler ARG0$TUR10-0473480
+ortaya NONE
+konuluyor PREDICATE$TUR10-0473480
+. NONE
+</S>
+<S>
+Birçoğu ARG0$TUR10-0489280
+ayrıca NONE
+istihdam ARG1$TUR10-0489280
+ikramiyeleri ARG1$TUR10-0489280
+, NONE
+eğitim NONE
+geri NONE
+ödemeleri NONE
+, NONE
+kredi NONE
+ödemeleri NONE
+veya NONE
+çocuk NONE
+bakım NONE
+yardımı NONE
+kullanıyor PREDICATE$TUR10-0489280
+. NONE
+</S>
+<S>
+Bazıları ARG0$TUR10-0818310
+götürü ARG1$TUR10-0818310
+teşvikler ARG1$TUR10-0818310
+veriyor PREDICATE$TUR10-0818310
+. NONE
+</S>
+<S>
+Bu NONE
+onların NONE
+en NONE
+yüksek NONE
+beş NONE
+çalışma NONE
+değeri NONE
+. NONE
+</S>
+<S>
+3000 ARG0$TUR10-0655820
+çalışma ARG0$TUR10-0655820
+saati ARG0$TUR10-0655820
+devlete NONE
+55000 ARG1$TUR10-0655820
+dolar ARG1$TUR10-0655820
+tasarruf ARG1$TUR10-0655820
+sağlıyor PREDICATE$TUR10-0655820
+. NONE
+</S>
+<S>
+Konut ARG0$TUR10-0116510
+satışı ARG0$TUR10-0116510
+zararları ARG0$TUR10-0116510
+yükseliyor PREDICATE$TUR10-0116510
+ancak NONE
+genellikle NONE
+çalışanlar ARG0$TUR10-0412200
+tarafından NONE
+kapatılıyor PREDICATE$TUR10-0412200
+. NONE
+</S>
+<S>
+Ancak NONE
+hasarı NONE
+sınırlandırmak NONE
+için NONE
+yöntem NONE
+arayışı NONE
+içindeler NONE
+. NONE
+</S>
+<S>
+Tüm NONE
+veya NONE
+bazı NONE
+zararlar NONE
+için NONE
+yaklaşık NONE
+% NONE
+72 NONE
+telafi NONE
+. NONE
+</S>
+<S>
+RJR ARG0$TUR10-0598180
+Nabisco ARG0$TUR10-0598180
+düzeltmeler NONE
+ve NONE
+iyileştirmeler NONE
+dahil NONE
+azami NONE
+30.000 NONE
+dolar NONE
+bedelinde NONE
+zararı ARG1$TUR10-0598180
+ödüyor PREDICATE$TUR10-0598180
+. NONE
+</S>
+<S>
+Tavuk ARG0$TUR10-0434390
+zincirleri ARG0$TUR10-0434390
+müşteri ARGMMNR$TUR10-0434390
+kaybı ARGMMNR$TUR10-0434390
+nedeniyle ARGMMNR$TUR10-0434390
+dalgalandı NONE
+</S>
+<S>
+Daha NONE
+fazla NONE
+müşteri NONE
+kaybı NONE
+bir NONE
+dizi NONE
+problemin NONE
+son NONE
+halkasıdır NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+şirket ARG0$TUR10-0643980
+yorum ARG1$TUR10-0643980
+yapmayı ARG1$TUR10-0643980
+reddediyor PREDICATE$TUR10-0643980
+. NONE
+</S>
+<S>
+Gönülsüz ARG0$TUR10-0192570
+reklamcılar ARG0$TUR10-0192570
+yumuşak ARG1$TUR10-0192570
+Satış ARG1$TUR10-0192570
+Spotlarını ARG1$TUR10-0192570
+deniyor PREDICATE$TUR10-0192570
+</S>
+<S>
+Bunu ARG1$TUR10-0008820
+reklam NONE
+vermeme NONE
+olarak NONE
+adlandırın PREDICATE$TUR10-0008820
+. NONE
+</S>
+<S>
+Onun NONE
+taktiği NONE
+: NONE
+Faydalı NONE
+ipuçları NONE
+sunan NONE
+60-saniyelik NONE
+radyo NONE
+reklamları NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+bu ARG0$TUR10-0405220
+reklamlar ARG0$TUR10-0405220
+çok ARGMMNR$TUR10-0405220
+yumuşak ARGMMNR$TUR10-0405220
+olabilir PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Perakendeci ARG0$TUR10-0305590
+Çevresel NONE
+Baskılarda NONE
+Gizli ARG1$TUR10-0305590
+Tehlikeler ARG1$TUR10-0305590
+Görüyor PREDICATE$TUR10-0305590
+</S>
+<S>
+Ancak NONE
+zincir NONE
+bu NONE
+tür NONE
+ciroların NONE
+gizli NONE
+tehlikelerini NONE
+hemen NONE
+fark NONE
+etmektedir NONE
+. NONE
+</S>
+<S>
+Bu ARG0$TUR10-1189320
+Procter ARG0$TUR10-1189320
+& ARG0$TUR10-1189320
+Gamble ARG0$TUR10-1189320
+Co.'yu ARG0$TUR10-1189320
+Cascade NONE
+bulaşık NONE
+deterjanı NONE
+üreticisi NONE
+çok NONE
+heyecanlandırmadı PREDICATE$TUR10-1189320
+. NONE
+</S>
+<S>
+" NONE
+Ve NONE
+kesin NONE
+Ve NONE
+doğru NONE
+olmak NONE
+çok NONE
+önemli NONE
+. NONE
+" NONE
+</S>
+<S>
+Ancak ARGMDIS$TUR10-1209660
+sonunda ARGMTMP$TUR10-1209660
+, NONE
+müşterilerin ARG0$TUR10-1209660
+istekleri ARG0$TUR10-1209660
+geçerli PREDICATE$TUR10-1209660
+olacaktır PREDICATE$TUR10-1209660
+. NONE
+</S>
+<S>
+Büyük ARG0$TUR10-0368280
+Ayı ARG0$TUR10-0368280
+geri NONE
+dönüşüme NONE
+uygun NONE
+olmayan NONE
+tek ARG0$TUR10-0368280
+kullanımlık ARG1$TUR10-0368280
+bezlerle ARG1$TUR10-0368280
+ilgilenmiyor PREDICATE$TUR10-0368280
+. NONE
+</S>
+<S>
+Hala ARGMTMP$TUR10-1150780
+ebeveynler ARG0$TUR10-1150780
+bunu ARG1$TUR10-1150780
+talep PREDICATE$TUR10-1150780
+ediyor PREDICATE$TUR10-1150780
+. NONE
+</S>
+<S>
+Ufak NONE
+Tefek NONE
+Şeyler NONE
+</S>
+<S>
+Düzenlilik ARG1$TUR10-0750040
+önem NONE
+taşır PREDICATE$TUR10-0750040
+en ARG1$TUR10-0750040
+azından ARG1$TUR10-0750040
+bir ARG1$TUR10-0750040
+bakkalda ARG1$TUR10-0750040
+. NONE
+</S>
+<S>
+Hangi NONE
+ünlü NONE
+cirantalar NONE
+en NONE
+güvenilirleridir NONE
+? NONE
+</S>
+<S>
+Sonradan ARG0$TUR10-0024100
+gelişen ARG0$TUR10-0024100
+bağışıklık ARG0$TUR10-0024100
+yetersizliği ARG0$TUR10-0024100
+sendromu NONE
+üzerinde NONE
+birkaç NONE
+görev NONE
+gücünde NONE
+de NONE
+yer PREDICATE$TUR10-0024100
+alıyor PREDICATE$TUR10-1059960
+. NONE
+</S>
+<S>
+Sürmekte NONE
+olan NONE
+HUD NONE
+skandalları NONE
+dizisi NONE
+milletvekili NONE
+seçim NONE
+ödeneği NONE
+politikasının NONE
+kederli NONE
+bir NONE
+biçimde NONE
+önceden NONE
+kestirilebilmiş NONE
+bir NONE
+sonucudur NONE
+. NONE
+</S>
+<S>
+Daha NONE
+fazla NONE
+devlet NONE
+harcaması NONE
+için NONE
+bastıran NONE
+İş NONE
+grupları NONE
+hiç NONE
+de NONE
+garip NONE
+bir NONE
+olgu NONE
+değildir NONE
+. NONE
+</S>
+<S>
+Halen NONE
+dokunulması NONE
+hassas NONE
+konularda NONE
+... NONE
+</S>
+<S>
+Adil NONE
+hissemizden NONE
+fazlasını NONE
+aldık PREDICATE$TUR10-0029260
+. NONE
+</S>
+<S>
+Örneğin NONE
+, NONE
+FHA NONE
+vasıtasıyla NONE
+yapılan NONE
+dolaylı NONE
+sübvansiyonlar NONE
+daha NONE
+iyi NONE
+. NONE
+</S>
+<S>
+Bu NONE
+konut NONE
+inşaatçılarının NONE
+istediği NONE
+şey NONE
+mi NONE
+? NONE
+</S>
+<S>
+Bay NONE
+Bandow NONE
+bir NONE
+Cato NONE
+Institute NONE
+hocasıdır NONE
+. NONE
+</S>
+<S>
+Hükümetler ARG0$TUR10-0724810
+arası ARG0$TUR10-0724810
+konferansın ARG0$TUR10-0724810
+toplanma ARG0$TUR10-0724810
+süreci ARG0$TUR10-0724810
+oybirliği ARG0$TUR10-0724810
+gerektirmiyor PREDICATE$TUR10-0724810
+. NONE
+</S>
+<S>
+Gri NONE
+Cuma'daki NONE
+gibiydi NONE
+. NONE
+</S>
+<S>
+Bu ARG0$TUR10-0306160
+geçit ARG0$TUR10-0306160
+töreninin NONE
+büyük NONE
+tefrişatçısı NONE
+aşırı NONE
+kaldırma NONE
+gücünde NONE
+olacak NONE
+gibi NONE
+görünüyor PREDICATE$TUR10-0306160
+. NONE
+</S>
+<S>
+Alım ARG0$TUR10-0885620
+satım ARG0$TUR10-0885620
+hisseleri NONE
+en NONE
+ağır NONE
+zararları NONE
+emdiği NONE
+için NONE
+piyasayı NONE
+aşağıya PREDICATE$TUR10-0885620
+düşürdü PREDICATE$TUR10-0885620
+. NONE
+</S>
+<S>
+İkisi ARG0$TUR10-0029260
+de ARG0$TUR10-0029260
+dün NONE
+daha NONE
+fazla NONE
+vuruş NONE
+aldılar PREDICATE$TUR10-0029260
+. NONE
+</S>
+<S>
+Hilton ARG1$TUR10-0405220
+cuma ARG1$TUR10-0405220
+günü ARG1$TUR10-0405220
+% ARG1$TUR10-0405220
+20 ARG1$TUR10-0405220
+kayba ARG1$TUR10-0405220
+uğrarken ARG1$TUR10-0405220
+; NONE
+Paramount'un NONE
+kaybı NONE
+hemen NONE
+hemen NONE
+% NONE
+11 NONE
+oldu PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Kesinlikle NONE
+değil NONE
+. NONE
+</S>
+<S>
+Pek ARG1$TUR10-0847690
+şaşırtıcı NONE
+değil NONE
+, NONE
+bazen NONE
+ısırır PREDICATE$TUR10-0847690
+. NONE
+</S>
+<S>
+Gerçek NONE
+, NONE
+Washington'ın NONE
+politikayı NONE
+ekonomiden NONE
+daha NONE
+iyi NONE
+anlamasıdır NONE
+. NONE
+</S>
+<S>
+Endeks ARG0$TUR10-0433840
+Pazartesi ARGMTMP$TUR10-0433840
+günü ARGMTMP$TUR10-0433840
+647.33 NONE
+puan NONE
+ya NONE
+da NONE
+% ARGMDIR$TUR10-0433840
+1.8 ARGMDIR$TUR10-0433840
+kaydı PREDICATE$TUR10-0433840
+. NONE
+</S>
+<S>
+Günün NONE
+düşüşü NONE
+genellikle NONE
+analistlerin NONE
+hafta NONE
+sonu NONE
+tahminlerine NONE
+uygundu NONE
+. NONE
+</S>
+<S>
+Düşen NONE
+hisseler NONE
+yükselenleri NONE
+941 NONE
+- NONE
+105 NONE
+düşürdü NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+526.2 ARG0$TUR10-0405050
+milyonluk ARG0$TUR10-0405050
+hacim NONE
+, NONE
+Cuma NONE
+günkü NONE
+574.7 NONE
+milyonla NONE
+karşılaştırılınca NONE
+biraz NONE
+zayıf NONE
+kaldı PREDICATE$TUR10-0405050
+. NONE
+</S>
+<S>
+Böylece NONE
+, NONE
+piyasa ARG0$TUR10-0089620
+katılımcıları ARG0$TUR10-0089620
+dün NONE
+sinirli NONE
+bir NONE
+şekilde NONE
+Wall ARG1$TUR10-0089620
+Street'in ARG1$TUR10-0089620
+açılışını ARG1$TUR10-0089620
+bekliyorlardı PREDICATE$TUR10-0089620
+. NONE
+</S>
+<S>
+Bizim NONE
+kurumsal NONE
+yatırımcılar NONE
+için NONE
+satın NONE
+alma NONE
+fırsatı NONE
+geldi PREDICATE$TUR10-0956810
+. NONE
+</S>
+<S>
+Diğer NONE
+fon NONE
+yöneticileri NONE
+benzer NONE
+şekilde NONE
+neşeli NONE
+ve NONE
+umutluydu NONE
+. NONE
+</S>
+<S>
+Bangkok ARG0$TUR10-0156540
+, NONE
+Manila ARG0$TUR10-0156540
+, NONE
+Seoul ARG0$TUR10-0156540
+, NONE
+Taipei ARG0$TUR10-0156540
+ve NONE
+Jakarta ARG0$TUR10-0156540
+sadece NONE
+küçük NONE
+kayıplarla NONE
+kurtuldular PREDICATE$TUR10-0156540
+. NONE
+</S>
+<S>
+Alım NONE
+satım NONE
+işlemi NONE
+Cuma NONE
+günkü NONE
+473.9 NONE
+milyonluk NONE
+hacim NONE
+sonrasında NONE
+1 NONE
+milyar NONE
+hisseyle NONE
+epey NONE
+ağırdı NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+hacim ARG0$TUR10-0116510
+Cuma ARGMTMP$TUR10-0116510
+günkü ARGMTMP$TUR10-0116510
+143 NONE
+milyon NONE
+sonrasında NONE
+yalnızca NONE
+162 NONE
+milyon NONE
+hisseye NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Financial ARG0$TUR10-0412460
+Times ARG0$TUR10-0412460
+30-hisse ARG0$TUR10-0412460
+endeksi ARG0$TUR10-0412460
+79.3 NONE
+puan NONE
+düşüşle NONE
+1738.7 NONE
+puandan NONE
+kapandı PREDICATE$TUR10-0412460
+. NONE
+</S>
+<S>
+Hacim NONE
+, NONE
+Cuma NONE
+günkü NONE
+473.9 NONE
+milyonluk NONE
+hacmin NONE
+iki NONE
+katını NONE
+aşarak NONE
+959.3 NONE
+milyon NONE
+seviyesine NONE
+erişti PREDICATE$TUR10-0123610
+. NONE
+</S>
+<S>
+Frankfurt ARG0$TUR10-0405220
+Menkul ARG0$TUR10-0405220
+Kıymetler ARG0$TUR10-0405220
+Borsası'ndaki ARG0$TUR10-0405220
+Fiyatlar ARG0$TUR10-0405220
+ağır NONE
+alım NONE
+satımda NONE
+alt NONE
+üst NONE
+oldu PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Yüzde NONE
+değişimi NONE
+yol NONE
+sonundan NONE
+itibarendir NONE
+. NONE
+</S>
+<S>
+Yalnızca NONE
+California NONE
+sakinleri NONE
+değil NONE
+tüm ARG0$TUR10-0086370
+Amerikalılar ARG0$TUR10-0086370
+bunun NONE
+geçmesi NONE
+halinde NONE
+ödeyecekler PREDICATE$TUR10-0086370
+. NONE
+</S>
+<S>
+Her NONE
+zamanki NONE
+gibi NONE
+yeşil NONE
+lobinin NONE
+teklifi NONE
+bilimsel NONE
+gerçeklikten NONE
+kopuktur NONE
+. NONE
+</S>
+<S>
+Sera ARG0$TUR10-0886370
+etkisi ARG0$TUR10-0886370
+hususunu ARG1$TUR10-0886370
+göz PREDICATE$TUR10-0886370
+önünde PREDICATE$TUR10-0886370
+bulundur PREDICATE$TUR10-0886370
+. NONE
+</S>
+<S>
+Teklif ARG0$TUR10-0686300
+edilen ARG0$TUR10-0686300
+girişim ARG0$TUR10-0686300
+karbon ARG1$TUR10-0686300
+dioksit ARG1$TUR10-0686300
+salınımında ARG1$TUR10-0686300
+% ARG1$TUR10-0686300
+40'lık ARG1$TUR10-0686300
+bir ARG1$TUR10-0686300
+kesintiyi ARG1$TUR10-0686300
+zorunlu PREDICATE$TUR10-0686300
+kılacak PREDICATE$TUR10-0686300
+. NONE
+</S>
+<S>
+Buradaki NONE
+temel NONE
+husus NONE
+Genel NONE
+Eyalet NONE
+Savcısı NONE
+John NONE
+Van NONE
+de NONE
+Kamp'ın NONE
+hırsı NONE
+. NONE
+</S>
+<S>
+Valiliğe NONE
+koşuyor PREDICATE$TUR10-0477510
+. NONE
+</S>
+<S>
+Bu NONE
+ayrıca NONE
+valilik NONE
+seçimleri NONE
+günüdür NONE
+. NONE
+</S>
+<S>
+Ve NONE
+bu ARG0$TUR10-0712620
+da NONE
+Bay NONE
+Van NONE
+De NONE
+Kamp'a NONE
+kampanya NONE
+harcama NONE
+sınırları NONE
+etrafında NONE
+gezinme ARG1$TUR10-0712620
+imkanı ARG1$TUR10-0712620
+sunuyor PREDICATE$TUR10-0712620
+. NONE
+</S>
+<S>
+Bu NONE
+kısa NONE
+zaman NONE
+önce NONE
+Prop. NONE
+65 NONE
+anti-toksik NONE
+girişimini NONE
+geçiren NONE
+eyalet NONE
+. NONE
+</S>
+<S>
+Elbette NONE
+eyaletin ARG0$TUR10-1098960
+liberalleri ARG0$TUR10-1098960
+henüz NONE
+bir ARG1$TUR10-1098960
+millet ARG1$TUR10-1098960
+oluşturmadılar PREDICATE$TUR10-1098960
+. NONE
+</S>
+<S>
+Önce NONE
+bir NONE
+idam NONE
+mahkumu NONE
+bekçisi NONE
+vardı NONE
+. NONE
+</S>
+<S>
+Daha NONE
+sonra NONE
+neşe NONE
+. NONE
+</S>
+<S>
+Nasdaq ARG0$TUR10-0412460
+tezgah ARG0$TUR10-0412460
+üstü ARG0$TUR10-0412460
+endeksi ARG0$TUR10-0412460
+6.31 NONE
+puan NONE
+düşüşle NONE
+460.98'den NONE
+kapandı PREDICATE$TUR10-0412460
+. NONE
+</S>
+<S>
+Bu NONE
+yalnızca NONE
+garip NONE
+bir NONE
+duygu NONE
+. NONE
+</S>
+<S>
+Kimsenin ARG1$TUR10-1088170
+oradan ARG1$TUR10-1088170
+ayrıldığını ARG1$TUR10-1088170
+sanmıyorum ARG1$TUR10-1088170
+diye NONE
+fısıldadı PREDICATE$TUR10-1088170
+Dixie ARG0$TUR10-1088170
+. NONE
+</S>
+<S>
+Ancak NONE
+aracılar NONE
+için NONE
+, NONE
+saat ARG0$TUR10-0306160
+9:30'daki ARG0$TUR10-0306160
+açılış ARG0$TUR10-0306160
+zili ARG0$TUR10-0306160
+bir NONE
+felaket NONE
+gibi NONE
+görünüyordu PREDICATE$TUR10-0306160
+. NONE
+</S>
+<S>
+Dow ARG0$TUR10-0006390
+Jones ARG0$TUR10-0006390
+Sanayi ARG0$TUR10-0006390
+ortalaması ARG0$TUR10-0006390
+9:30'dan NONE
+kısa NONE
+süre NONE
+sonra NONE
+1.64 NONE
+aşağıda NONE
+açıldı PREDICATE$TUR10-0006390
+. NONE
+</S>
+<S>
+Yapmadılar PREDICATE$TUR10-0834440
+. NONE
+</S>
+<S>
+Program NONE
+borsacıları NONE
+da NONE
+, NONE
+elbette NONE
+, NONE
+oradaydı NONE
+. NONE
+</S>
+<S>
+Walt NONE
+Disney NONE
+Co.'da NONE
+işlem ARG0$TUR10-1006570
+yapmak ARG0$TUR10-1006570
+özellikle NONE
+borsacıların ARG1$TUR10-1006570
+dikkatini PREDICATE$TUR10-1006570
+çekti PREDICATE$TUR10-1006570
+. NONE
+</S>
+<S>
+Borsa ARG0$TUR10-0006390
+geç NONE
+ve NONE
+8 NONE
+1/2 NONE
+düşüşle NONE
+114 NONE
+1/2'den NONE
+açıldı PREDICATE$TUR10-0006390
+. NONE
+</S>
+<S>
+Düzenliydi NONE
+. NONE
+</S>
+<S>
+Birlikte NONE
+bazı ARG1$TUR10-0791230
+emirler ARG1$TUR10-0791230
+girdik PREDICATE$TUR10-0791230
+. NONE
+</S>
+<S>
+Yurt NONE
+içi NONE
+veya NONE
+uluslar NONE
+arası NONE
+olmak NONE
+üzere NONE
+, NONE
+çok NONE
+fazla NONE
+panik NONE
+satışı NONE
+yoktu NONE
+... NONE
+</S>
+<S>
+Parçalarına NONE
+ayrıldığı NONE
+Cuma NONE
+günü NONE
+gibi NONE
+değil NONE
+. NONE
+</S>
+<S>
+Menkul NONE
+Kıymetler NONE
+Borsası NONE
+katında NONE
+ve NONE
+alım NONE
+satım NONE
+bankolarında NONE
+borsacılar ARG0$TUR10-0818310
+onaylarını ARG1$TUR10-0818310
+çığlık NONE
+çığlığa NONE
+bağırarak NONE
+verdiler PREDICATE$TUR10-0818310
+. NONE
+</S>
+<S>
+Ancak NONE
+herkesin ARG0$TUR10-0191150
+para ARG0$TUR10-0191150
+kazanabildiği ARG0$TUR10-0191150
+söylenemez PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Merck NONE
+, NONE
+Major NONE
+Markets NONE
+endeksindeki NONE
+en NONE
+önemli NONE
+hisse NONE
+senetlerinden NONE
+biridir NONE
+. NONE
+</S>
+<S>
+Ve NONE
+dün NONE
+, NONE
+en NONE
+yüksek NONE
+performans NONE
+gösteren NONE
+sanayi NONE
+grubu NONE
+petrol NONE
+sahası NONE
+ekipmanı NONE
+hisseleridir NONE
+. NONE
+</S>
+<S>
+Üç ARG0$TUR10-0116510
+aracılık ARG0$TUR10-0116510
+firmasının ARG0$TUR10-0116510
+hisseleri ARG0$TUR10-0116510
+kar ARGMTMP$TUR10-0116510
+bildirimi ARGMTMP$TUR10-0116510
+sonrasında ARGMTMP$TUR10-0116510
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Bay ARG0$TUR10-1053340
+Phelan ARG0$TUR10-1053340
+piyasanın ARG1$TUR10-1053340
+dün ARGMTMP$TUR10-1053340
+tekrar ARG1$TUR10-1053340
+yükseldiğine ARG1$TUR10-1053340
+yönelik ARG1$TUR10-1053340
+bir ARG1$TUR10-1053340
+teselli ARG1$TUR10-1053340
+ifade PREDICATE$TUR10-1053340
+etti PREDICATE$TUR10-1053340
+. NONE
+</S>
+<S>
+19 NONE
+Ekim'de NONE
+olanların ARG0$TUR10-0405220
+tam ARG0$TUR10-0405220
+tersi ARG0$TUR10-0405220
+oldu PREDICATE$TUR10-0405220
+. NONE
+</S>
+<S>
+Kendi ARG1$TUR10-0489280
+muhakemelerini ARG1$TUR10-0489280
+kullandılar PREDICATE$TUR10-0489280
+. NONE
+</S>
+<S>
+Bu NONE
+sabah NONE
+ilk NONE
+satış NONE
+turunda NONE
+panik NONE
+yapmadılar PREDICATE$TUR10-0834440
+. NONE
+</S>
+<S>
+Belki NONE
+bazı ARG1$TUR10-0901640
+dersler ARG1$TUR10-0901640
+aldılar PREDICATE$TUR10-0901640
+. NONE
+</S>
+<S>
+Cuma NONE
+günü NONE
+Wall ARG0$TUR10-0347340
+Street ARG0$TUR10-0347340
+borsacıları ARG0$TUR10-0347340
+alım NONE
+satımların NONE
+geçici NONE
+olarak NONE
+durdurulmasından NONE
+şikayet PREDICATE$TUR10-0347340
+etti PREDICATE$TUR10-0347340
+. NONE
+</S>
+<S>
+James ARG0$TUR10-0834470
+A. ARG0$TUR10-0834470
+White ARG0$TUR10-0834470
+ve NONE
+Sonja ARG0$TUR10-0834470
+Steptoe ARG0$TUR10-0834470
+bu NONE
+makaleye NONE
+katkı NONE
+yaptılar PREDICATE$TUR10-0834470
+. NONE
+</S>
+<S>
+Elbette NONE
+öyleydi NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+altı ARG0$TUR10-1199310
+saatlik ARG0$TUR10-1199310
+tavizler ARG0$TUR10-1199310
+kısa NONE
+süre NONE
+sonra NONE
+müteakip NONE
+tartışmalarda NONE
+mutabakata PREDICATE$TUR10-1199310
+vardı PREDICATE$TUR10-1199310
+. NONE
+</S>
+<S>
+" NONE
+Ancak NONE
+bir NONE
+talepte NONE
+bulunursanız PREDICATE$TUR10-0123780
+, NONE
+komiteyi ARG1$TUR10-0123780
+desteklemelisiniz PREDICATE$TUR10-0198530
+. NONE
+" NONE
+</S>
+<S>
+Kongre ARG0$TUR10-0445250
+önceden NONE
+altı ARG1$TUR10-0445250
+havalimanını ARG1$TUR10-0445250
+bu ARGMTMP$TUR10-0445250
+yıl NONE
+için NONE
+kesmişti PREDICATE$TUR10-0445250
+. NONE
+</S>
+<S>
+Pittsburgh ARG0$TUR10-1200570
+merkezli ARG0$TUR10-1200570
+Aristech ARG0$TUR10-1200570
+yetkilileri ARG0$TUR10-1200570
+, NONE
+yorum PREDICATE$TUR10-1200570
+yapmadı PREDICATE$TUR10-1200570
+. NONE
+</S>
+<S>
+Senatör ARG0$TUR10-0008810
+Pete ARG0$TUR10-0008810
+Domenici ARG0$TUR10-0008810
+bu ARG1$TUR10-0008810
+çabayı ARG1$TUR10-0008810
+" NONE
+demokrasinin ARGMMNR$TUR10-0008810
+İlk ARGMMNR$TUR10-0008810
+armağanı ARGMMNR$TUR10-0008810
+" NONE
+olarak NONE
+adlandırıyor PREDICATE$TUR10-0008810
+. NONE
+</S>
+<S>
+Poles ARG0$TUR10-0834440
+onu ARG1$TUR10-0834440
+bir NONE
+Truva NONE
+atı NONE
+olarak NONE
+göstererek NONE
+daha ARG1$TUR10-0834440
+iyisini ARG1$TUR10-0834440
+yapabilir PREDICATE$TUR10-0834440
+. NONE
+</S>
+<S>
+Hiçbir NONE
+olağan NONE
+üstü NONE
+öğe NONE
+yok NONE
+. NONE
+</S>
+<S>
+Waterford ARG0$TUR10-0906080
+ara ARGMMNR$TUR10-0906080
+temettü ARGMMNR$TUR10-0906080
+ödenmesine ARGMMNR$TUR10-0906080
+karşı ARGMMNR$TUR10-0906080
+karar PREDICATE$TUR10-0906080
+aldı PREDICATE$TUR10-0906080
+. NONE
+</S>
+<S>
+Epey NONE
+zorlu NONE
+ve NONE
+vahşi NONE
+bir NONE
+gündü NONE
+. NONE
+</S>
+<S>
+Firmalar NONE
+arasında NONE
+Merrill NONE
+Lynch NONE
+& NONE
+Co. NONE
+ve NONE
+Dean NONE
+Witter NONE
+Reynolds NONE
+Inc NONE
+vardı NONE
+. NONE
+</S>
+<S>
+Oran NONE
+EFD NONE
+politikasındaki NONE
+değişikliğe NONE
+yönelik NONE
+bir NONE
+erken NONE
+uyarıydı NONE
+. NONE
+</S>
+<S>
+Aslında NONE
+, NONE
+bazı NONE
+ekonomistler NONE
+geçen NONE
+haftaki NONE
+son NONE
+iç NONE
+açıcı NONE
+başlangıçtan NONE
+tatmin PREDICATE$TUR10-1154510
+oldular PREDICATE$TUR10-1154510
+. NONE
+</S>
+<S>
+Tersine NONE
+dönüş NONE
+kısa NONE
+vadeli NONE
+hazine NONE
+kağıtları NONE
+arasında NONE
+daha NONE
+belirgindi NONE
+. NONE
+</S>
+<S>
+Yatırım NONE
+kategorisi NONE
+özel NONE
+sektör NONE
+tahvilleri NONE
+, NONE
+ipoteğe NONE
+dayalı NONE
+menkul NONE
+kıymetler NONE
+ve NONE
+yerel NONE
+yönetim NONE
+tahvilleri NONE
+de NONE
+düştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+Bazı NONE
+borsacılar NONE
+yüksek NONE
+verimli NONE
+piyasanın NONE
+aktif NONE
+kurumsal NONE
+alım NONE
+tarafından NONE
+yardım NONE
+gördüğümü NONE
+söyledi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Ancak NONE
+Japon NONE
+hisseleri NONE
+tekrar NONE
+yükseldiği NONE
+için NONE
+hazineler NONE
+geriledi PREDICATE$TUR10-0294020
+ve NONE
+yalnızca NONE
+hafif NONE
+yükselişte NONE
+tamamladı PREDICATE$TUR10-0742490
+. NONE
+</S>
+<S>
+Tokyo'da NONE
+, NONE
+alım NONE
+satım NONE
+işlemleri NONE
+öğle NONE
+tatili NONE
+esnasında NONE
+durdu PREDICATE$TUR10-0225690
+. NONE
+</S>
+<S>
+Tokyo'nun NONE
+piyasası NONE
+ABD NONE
+alım-satımı NONE
+için NONE
+kötü NONE
+bir NONE
+elebaşına NONE
+dönüştü PREDICATE$TUR10-0585930
+. NONE
+</S>
+<S>
+Bize NONE
+zarar PREDICATE$TUR10-0915330
+verebilir PREDICATE$TUR10-0915330
+. NONE
+</S>
+<S>
+New NONE
+Yorklu NONE
+borsacı NONE
+" NONE
+birçok NONE
+arz NONE
+var NONE
+" NONE
+dedi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+" NONE
+Önümüzde NONE
+2 NONE
+ya NONE
+da NONE
+3 NONE
+zorlu NONE
+hafta NONE
+var NONE
+. NONE
+" NONE
+</S>
+<S>
+Hazine NONE
+Kağıtları NONE
+</S>
+<S>
+Hazine NONE
+Bonolarının NONE
+fiyatları NONE
+aktif NONE
+alım-satımda NONE
+az NONE
+miktarda NONE
+düştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+Referans NONE
+hisse NONE
+üzerindeki NONE
+verim NONE
+% NONE
+7.82 NONE
+seviyesinden NONE
+% NONE
+7.97'ye NONE
+yükseldi NONE
+. NONE
+</S>
+<S>
+Kısa NONE
+vadeli NONE
+faiz NONE
+oranları NONE
+dün NONE
+hükümetin NONE
+haftalık NONE
+Hazine NONE
+bonosu NONE
+ihalesinde NONE
+düştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+İşte NONE
+ihalenin NONE
+ayrıntıları NONE
+: NONE
+</S>
+<S>
+Oranlar NONE
+satın NONE
+alma NONE
+fiyatı NONE
+ile NONE
+nominal NONE
+değer NONE
+arasındaki NONE
+fark NONE
+ile NONE
+belirlenir PREDICATE$TUR10-0091400
+. NONE
+</S>
+<S>
+Böylece NONE
+, NONE
+daha NONE
+yüksek NONE
+fiyat NONE
+verme NONE
+yatırımcının NONE
+getirisini NONE
+daraltırken NONE
+, NONE
+düşük NONE
+fiyat NONE
+verme NONE
+genişletir PREDICATE$TUR10-1161020
+. NONE
+</S>
+<S>
+iki NONE
+ihraç NONE
+da NONE
+19 NONE
+Ekim NONE
+tarihlidir NONE
+. NONE
+</S>
+<S>
+Özel NONE
+Sektör NONE
+Hisseleri NONE
+</S>
+<S>
+Yatırım NONE
+kategorisi NONE
+şirket NONE
+tahvilleri NONE
+bire NONE
+1 NONE
+1\/2 NONE
+puan NONE
+düşük NONE
+sonlandı NONE
+. NONE
+</S>
+<S>
+Yeni NONE
+ihraçlar NONE
+yok NONE
+. NONE
+</S>
+<S>
+Yabancı NONE
+Tahviller NONE
+</S>
+<S>
+Yabancı NONE
+tahviller NONE
+, NONE
+Amerikan NONE
+doları NONE
+birçok NONE
+önde NONE
+gelen NONE
+dövizler NONE
+karşısında NONE
+zayıfladığı NONE
+için NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Verim NONE
+% NONE
+5.245 NONE
+. NONE
+</S>
+<S>
+İpoteğe NONE
+Dayalı NONE
+Menkul NONE
+Kıymetler NONE
+</S>
+<S>
+Cuma NONE
+günü NONE
+mortgage NONE
+hisseleri NONE
+1 NONE
+5/32 NONE
+kazandı PREDICATE$TUR10-0435880
+. NONE
+</S>
+<S>
+Türev NONE
+piyasalarda NONE
+yeni NONE
+ihraç NONE
+faaliyeti NONE
+yoktu NONE
+. NONE
+</S>
+<S>
+Yerel NONE
+Yönetimler NONE
+</S>
+<S>
+Profesyoneller NONE
+seans NONE
+boyunca NONE
+yerel NONE
+yönetim NONE
+hisselerinin NONE
+alım NONE
+satım NONE
+işlemlerine NONE
+hükmetti PREDICATE$TUR10-0351080
+. NONE
+</S>
+<S>
+Seri NONE
+tahvil NONE
+verimleri NONE
+yaklaşık NONE
+0.05 NONE
+puan NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Satışlar NONE
+178.6 NONE
+milyar NONE
+yenden NONE
+% NONE
+40 NONE
+artışla NONE
+250.17 NONE
+milyar NONE
+Yen'e NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Net NONE
+gelir NONE
+26.68 NONE
+milyardan NONE
+% NONE
+11 NONE
+artışla NONE
+29.62 NONE
+milyar NONE
+Yen'e NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Yurt NONE
+içi NONE
+tatil NONE
+satışları NONE
+, NONE
+bununla NONE
+birlikte NONE
+, NONE
+daha NONE
+düşüktü NONE
+. NONE
+</S>
+<S>
+" NONE
+Yalnızca NONE
+doğru NONE
+fiyattan NONE
+satacağız PREDICATE$TUR10-0668610
+. NONE
+" NONE
+</S>
+<S>
+Tezgah NONE
+üstü NONE
+alım NONE
+satımlarda NONE
+, NONE
+Interspec NONE
+37.5 NONE
+Cent'lik NONE
+düşüşle NONE
+4.25 NONE
+dolara NONE
+geriledi PREDICATE$TUR10-0294020
+. NONE
+</S>
+<S>
+New NONE
+York NONE
+merkezli NONE
+şirketlerin NONE
+İkisi NONE
+de NONE
+hisse NONE
+senetleri NONE
+ve NONE
+para NONE
+basımı NONE
+yapıyor PREDICATE$TUR10-0834440
+. NONE
+</S>
+<S>
+1 NONE
+Temmuz NONE
+tarihinde NONE
+yapılan NONE
+teklif NONE
+birkaç NONE
+kez NONE
+uzatıldı PREDICATE$TUR10-0405050
+. NONE
+</S>
+<S>
+Eski NONE
+ve NONE
+revize NONE
+edilen NONE
+rakamların NONE
+ikisi NONE
+de NONE
+ek NONE
+satış NONE
+hükümlerini NONE
+içeriyor PREDICATE$TUR10-1054150
+. NONE
+</S>
+<S>
+Goldman NONE
+, NONE
+Sachs NONE
+& NONE
+Co. NONE
+ve NONE
+Drexel NONE
+Burnham NONE
+Lambert NONE
+Inc. NONE
+öncü NONE
+sigortacılar NONE
+. NONE
+</S>
+<S>
+Bay NONE
+Goldberg NONE
+, NONE
+Rose NONE
+Partners'deki NONE
+yegane NONE
+sınırsız NONE
+sorumlu NONE
+ortaktır NONE
+. NONE
+</S>
+<S>
+Buraya NONE
+ait NONE
+olmayan NONE
+nedir NONE
+? NONE
+</S>
+<S>
+A. NONE
+elle NONE
+yazılan NONE
+daktilolar NONE
+, NONE
+B. NONE
+Siyah-beyaz NONE
+enstantaneler NONE
+, NONE
+C. NONE
+radyo NONE
+macera NONE
+şovları NONE
+. NONE
+</S>
+<S>
+siyah NONE
+ve NONE
+beyaz NONE
+enstantaneleri NONE
+tahmin NONE
+ettiyseniz NONE
+, NONE
+haklısınız NONE
+. NONE
+</S>
+<S>
+Arka NONE
+plana NONE
+düştüğü NONE
+yıllar NONE
+sonrasında NONE
+, NONE
+iki-tonlu NONE
+fotoğrafçılık NONE
+Geri PREDICATE$TUR10-0768420
+dönüyor PREDICATE$TUR10-0768420
+. NONE
+</S>
+<S>
+Ve NONE
+siyah NONE
+Ve NONE
+beyaz NONE
+fotoğraf NONE
+sınıfları NONE
+artık NONE
+öğrencilerle NONE
+dolup NONE
+taşıyor NONE
+. NONE
+</S>
+<S>
+Neden NONE
+tüm NONE
+ilgi NONE
+? NONE
+</S>
+<S>
+Siyah NONE
+ve NONE
+beyaz NONE
+ticari NONE
+film NONE
+işleme NONE
+geçen NONE
+yıl NONE
+% NONE
+24'lük NONE
+artışla NONE
+18.7 NONE
+milyon NONE
+rulo NONE
+sayısına NONE
+erişti NONE
+. NONE
+</S>
+<S>
+Portre NONE
+stüdyoları NONE
+da NONE
+bu NONE
+trendi NONE
+benimsediler PREDICATE$TUR10-0353980
+. NONE
+</S>
+<S>
+Bunu NONE
+arkadaşlarıma NONE
+gösterdim PREDICATE$TUR10-0307160
+ve NONE
+hepsi NONE
+vay NONE
+dediler PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Bu NONE
+renk NONE
+gibi NONE
+sıradan NONE
+değil NONE
+. NONE
+</S>
+<S>
+Büyük NONE
+bir NONE
+engel NONE
+de NONE
+birkaç NONE
+eczanenin NONE
+artık NONE
+film NONE
+üretiyor NONE
+olmasıdır NONE
+. NONE
+</S>
+<S>
+Ancak NONE
+fotoğraf NONE
+tab NONE
+edenler NONE
+için NONE
+siyah-beyaz NONE
+film NONE
+banyosuna NONE
+yönelik NONE
+maliyetler NONE
+daha NONE
+yüksek NONE
+. NONE
+</S>
+<S>
+Bazı NONE
+şirketler NONE
+bu NONE
+sorunu NONE
+çözmeye NONE
+çalışıyor PREDICATE$TUR10-0147870
+. NONE
+</S>
+<S>
+Diğer NONE
+şirketler NONE
+ilgili NONE
+ürünler NONE
+sunmaktadır PREDICATE$TUR10-0712620
+. NONE
+</S>
+<S>
+Günümüzde NONE
+Renkli NONE
+baskı NONE
+on NONE
+yıl NONE
+önceki NONE
+baskı NONE
+kalitesine NONE
+göre NONE
+çok NONE
+daha NONE
+üstündür NONE
+. NONE
+</S>
+<S>
+Aynısını NONE
+siyah NONE
+ve NONE
+beyaz NONE
+için NONE
+söyleyemezsiniz NONE
+. NONE
+</S>
+<S>
+İşte NONE
+itiraz NONE
+. NONE
+</S>
+<S>
+Fiyat NONE
+açıklanmadı NONE
+. NONE
+</S>
+<S>
+Menkul NONE
+kıymetler NONE
+borsası NONE
+fiyatları NONE
+düşerken NONE
+geçen NONE
+Cuma NONE
+günü NONE
+de NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Devralma NONE
+değeri NONE
+açıklanmadı PREDICATE$TUR10-0220370
+. NONE
+</S>
+<S>
+Şirket NONE
+alımı NONE
+BSN'nin NONE
+Avrupa NONE
+makarna NONE
+piyasasındaki NONE
+konumunu NONE
+güçlendiriyor NONE
+. NONE
+</S>
+<S>
+Ajans NONE
+American NONE
+Continental'ın NONE
+tercih NONE
+edilen NONE
+hisse NONE
+puanının NONE
+C NONE
+olduğunu NONE
+teyit NONE
+ettiğini NONE
+söyledi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+CENTRUST NONE
+SAVINGS NONE
+BANK NONE
+( NONE
+Miami NONE
+) NONE
+-- NONE
+</S>
+<S>
+Dolar NONE
+da NONE
+değer NONE
+kazanırken NONE
+, NONE
+tahvil NONE
+fiyatları NONE
+düştü PREDICATE$TUR10-0881350
+ve NONE
+Hazine NONE
+bonoları NONE
+oranları NONE
+hızla NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Iskarta NONE
+tahviller NONE
+de NONE
+bir NONE
+şekilde NONE
+düzeldi PREDICATE$TUR10-0231850
+ancak NONE
+alım-satım NONE
+işlemleri NONE
+durduruldu PREDICATE$TUR10-0225690
+. NONE
+</S>
+<S>
+Altın NONE
+da NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Dolar NONE
+Tokyo'da NONE
+da NONE
+yükselişe NONE
+geçti PREDICATE$TUR10-0094670
+. NONE
+</S>
+<S>
+AMR NONE
+22.125 NONE
+Dolar NONE
+düşüşle NONE
+, NONE
+76.50 NONE
+Dolardı NONE
+. NONE
+</S>
+<S>
+UAL NONE
+56.875 NONE
+dolar NONE
+düşüşle NONE
+, NONE
+222.875 NONE
+dolardan NONE
+kapandı PREDICATE$TUR10-0444190
+. NONE
+</S>
+<S>
+Analistler NONE
+IBM'nin NONE
+önümüzdeki NONE
+birkaç NONE
+çeyrek NONE
+için NONE
+görünümü NONE
+hakkında NONE
+karamsar NONE
+. NONE
+</S>
+<S>
+Darman NONE
+bir NONE
+sermaye NONE
+açığı NONE
+planını NONE
+bitirmek NONE
+için NONE
+Kongreyi NONE
+teşvik NONE
+edebilmeyi NONE
+umut PREDICATE$TUR10-0089650
+ediyor PREDICATE$TUR10-0089650
+. NONE
+</S>
+<S>
+Bir NONE
+doğal NONE
+gaz NONE
+kanunu NONE
+Bir NONE
+federal NONE
+temyiz NONE
+mahkemesi NONE
+tarafından NONE
+hükümsüz PREDICATE$TUR10-0505610
+kılındı PREDICATE$TUR10-0505610
+. NONE
+</S>
+<S>
+Merrill NONE
+Lynch'in NONE
+karı NONE
+üçüncü NONE
+çeyrekte NONE
+% NONE
+37 NONE
+azaldı PREDICATE$TUR10-0240010
+. NONE
+</S>
+<S>
+Atılımlar NONE
+firmaya NONE
+A.B.D. NONE
+geçici-destek NONE
+piyasasındaki NONE
+egemenliğini NONE
+pekiştirmesinde NONE
+yardımcı PREDICATE$TUR10-0893550
+olabilir PREDICATE$TUR10-0893550
+. NONE
+</S>
+<S>
+NCNB'nin NONE
+karı NONE
+iki NONE
+katından NONE
+fazla NONE
+. NONE
+</S>
+<S>
+Piyasalar NONE
+-- NONE
+</S>
+<S>
+Hisseler NONE
+: NONE
+Hacim NONE
+416290000 NONE
+hisse NONE
+. NONE
+</S>
+<S>
+Tahviller NONE
+: NONE
+Shearson NONE
+Lehman NONE
+Hutton NONE
+Treasury NONE
+endeksi NONE
+3393.51 NONE
+. NONE
+</S>
+<S>
+Dolar NONE
+: NONE
+141.85 NONE
+yen NONE
+, NONE
+düşüş NONE
+0.25 NONE
+; NONE
+1.8685 NONE
+mark NONE
+, NONE
+düşüş NONE
+0.0055 NONE
+. NONE
+</S>
+<S>
+16 NONE
+Ekim NONE
+1989 NONE
+, NONE
+Pazartesi NONE
+</S>
+<S>
+ANA NONE
+FAİZ NONE
+ORANI NONE
+: NONE
+% NONE
+10 NONE
+1\/2 NONE
+. NONE
+</S>
+<S>
+Büyük NONE
+A.B.D. NONE
+para NONE
+merkezi NONE
+ticari NONE
+bankalarındaki NONE
+kurumsal NONE
+kredilere NONE
+yönelik NONE
+baz NONE
+oran NONE
+. NONE
+</S>
+<S>
+Kaynak NONE
+: NONE
+Fulton NONE
+Prebon NONE
+( NONE
+U.S.A NONE
+. NONE
+) NONE
+Inc NONE
+. NONE
+</S>
+<S>
+İSKONTO NONE
+ORANI NONE
+: NONE
+% NONE
+7 NONE
+. NONE
+</S>
+<S>
+New NONE
+York NONE
+Federal NONE
+Reserve NONE
+Bank NONE
+tarafından NONE
+mevduat NONE
+kuruluşlarında NONE
+kredilerdeki NONE
+komisyon NONE
+. NONE
+</S>
+<S>
+VADESİZ NONE
+KREDİ NONE
+: NONE
+% NONE
+9 NONE
+3/4 NONE
+ila NONE
+% NONE
+10 NONE
+. NONE
+</S>
+<S>
+Menkul NONE
+kıymetler NONE
+borsası NONE
+teminatlarında NONE
+borsacılara NONE
+kredi NONE
+komisyonu NONE
+. NONE
+</S>
+<S>
+Minimum NONE
+birim NONE
+100000 NONE
+dolar NONE
+. NONE
+</S>
+<S>
+Tipik NONE
+olarak NONE
+bir NONE
+ithalat NONE
+siparişini NONE
+finanse PREDICATE$TUR10-1206790
+eden NONE
+devredilebilir NONE
+banka NONE
+teminatlı NONE
+iş NONE
+kredisi NONE
+araçları PREDICATE$TUR10-1206790
+. NONE
+</S>
+<S>
+Bu NONE
+oran NONE
+göstergeleri NONE
+doğrudan NONE
+kıyaslanabilir NONE
+değildir NONE
+, NONE
+kredi NONE
+verme NONE
+uygulamaları NONE
+mekana NONE
+göre NONE
+değişiklik NONE
+gösterir PREDICATE$TUR10-0307160
+. NONE
+</S>
+<S>
+Kaynak NONE
+: NONE
+Telerate NONE
+Systems NONE
+Inc NONE
+. NONE
+</S>
+<S>
+Kaynak NONE
+: NONE
+Telerate NONE
+Systems NONE
+Inc NONE
+. NONE
+</S>
+<S>
+MERRILL NONE
+LYNCH NONE
+READY NONE
+ASSETS NONE
+TRUST NONE
+: NONE
+% NONE
+8.49 NONE
+. NONE
+</S>
+<S>
+Alliant NONE
+gelecekteki NONE
+ürünlerde NONE
+mikro-işlemci NONE
+kullanmayı NONE
+planladıklarını NONE
+söyledi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Mevcut NONE
+ürün NONE
+yelpazesini NONE
+geliştirmeye NONE
+yönelik NONE
+planları NONE
+tartışmayı NONE
+reddetti PREDICATE$TUR10-0643980
+. NONE
+</S>
+<S>
+SHV NONE
+ayrıca NONE
+Calor'un NONE
+% NONE
+40'ına NONE
+sahip NONE
+. NONE
+</S>
+<S>
+Grup NONE
+, NONE
+Weslock NONE
+Corp. NONE
+ve NONE
+JPI NONE
+Modern NONE
+Inc NONE
+şirketlerinden NONE
+oluşuyor PREDICATE$TUR10-0956810
+. NONE
+</S>
+<S>
+Amerikalı NONE
+Bir NONE
+gazeteci NONE
+halihazırda NONE
+Namibya'da NONE
+yargılanıyor NONE
+. NONE
+</S>
+<S>
+Kazanması NONE
+en NONE
+muhtemel NONE
+aday NONE
+Marksist-görüşlü NONE
+SWAPO NONE
+isyancıları NONE
+. NONE
+</S>
+<S>
+Seçimlerin NONE
+tarihi NONE
+7 NONE
+Kasım NONE
+. NONE
+</S>
+<S>
+Hem NONE
+Güney NONE
+Afrika NONE
+hem NONE
+de NONE
+SWAPO NONE
+radikalleri NONE
+seçmenlerin NONE
+gözünü PREDICATE$TUR10-0306200
+korkutuyor PREDICATE$TUR10-0306200
+. NONE
+</S>
+<S>
+Şimdi NONE
+Namibya'daki NONE
+bu NONE
+kaydı NONE
+telafi NONE
+etme NONE
+şansına NONE
+sahip NONE
+. NONE
+</S>
+<S>
+Dün NONE
+, NONE
+borsanın NONE
+etkisi NONE
+ilk NONE
+başta NONE
+asabiyet NONE
+yarattı PREDICATE$TUR10-0836050
+. NONE
+</S>
+<S>
+Pamuk NONE
+ve NONE
+şekerde NONE
+alım-satım NONE
+sinirliydi NONE
+ve NONE
+küçük NONE
+düşüşler NONE
+gösterdi PREDICATE$TUR10-0307160
+. NONE
+</S>
+<S>
+Chicago'da NONE
+, NONE
+tahıl NONE
+ve NONE
+soya NONE
+fasulyesi NONE
+fiyatları NONE
+hafif NONE
+yükseldi PREDICATE$TUR10-0116510
+. NONE
+</S>
+<S>
+Gümüş NONE
+sessizce NONE
+performans NONE
+gösterdi PREDICATE$TUR10-0307160
+. NONE
+</S>
+<S>
+Aralık NONE
+ayında NONE
+Gümüş NONE
+2.3 NONE
+cent NONE
+yükselerek NONE
+ons NONE
+başına NONE
+5.163 NONE
+dolar NONE
+fiyatına NONE
+erişti NONE
+. NONE
+</S>
+<S>
+Dünkü NONE
+4 NONE
+dolarlık NONE
+Ekim NONE
+kazancı NONE
+bununla NONE
+kıyaslandığında NONE
+çok NONE
+ufaktı NONE
+. NONE
+</S>
+<S>
+Enerji NONE
+: NONE
+</S>
+<S>
+Bakır NONE
+: NONE
+</S>
+<S>
+Aralık NONE
+sözleşmesi NONE
+3.05 NONE
+cent NONE
+düşüşle NONE
+1.2745 NONE
+dolar NONE
+seviyesine NONE
+geriledi PREDICATE$TUR10-0294020
+. NONE
+</S>
+<S>
+London NONE
+metal NONE
+Borsası NONE
+bakır NONE
+stokları NONE
+geçen NONE
+hafta NONE
+13575 NONE
+ton NONE
+düşerek NONE
+89300 NONE
+tonda NONE
+kaldı NONE
+. NONE
+</S>
+<S>
+Pamuk NONE
+: NONE
+</S>
+<S>
+Bu NONE
+satış NONE
+dün NONE
+devam NONE
+etti NONE
+ve NONE
+fiyatları NONE
+baskı NONE
+altında NONE
+tuttu NONE
+, NONE
+dedi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Bu NONE
+henüz NONE
+borsacıların NONE
+dikkatini NONE
+çekmedi NONE
+, NONE
+diye NONE
+ekledi PREDICATE$TUR10-0238670
+. NONE
+</S>
+<S>
+Şeker NONE
+: NONE
+</S>
+<S>
+Vadeli NONE
+sözleşmeler NONE
+piyasası NONE
+fiyatları NONE
+düştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+Mart NONE
+sözleşmesi NONE
+0.32 NONE
+cent NONE
+düşerek NONE
+13.97 NONE
+centte NONE
+kaldı PREDICATE$TUR10-0405050
+. NONE
+</S>
+<S>
+TARIM NONE
+ürünleri NONE
+: NONE
+</S>
+<S>
+Oturumun NONE
+ilk NONE
+safhasında NONE
+, NONE
+birçok NONE
+soya NONE
+fasulyesi NONE
+sözleşmesi NONE
+yeni NONE
+düşük NONE
+seviyeler NONE
+gördü PREDICATE$TUR10-0305620
+. NONE
+</S>
+<S>
+Teklifin NONE
+gösterge NONE
+değeri NONE
+268 NONE
+milyon NONE
+Dolardır NONE
+. NONE
+</S>
+<S>
+Dunkin NONE
+' NONE
+Donuts NONE
+merkezi NONE
+Randolph NONE
+, NONE
+Massacushets'de NONE
+bulunmaktadır NONE
+. NONE
+</S>
+<S>
+CFC'ler NONE
+geniş NONE
+ölçüde NONE
+solventler NONE
+, NONE
+soğutucular NONE
+ve NONE
+yangın NONE
+söndürücüler NONE
+olarak PREDICATE$TUR10-1209560
+kullanılmaktadır PREDICATE$TUR10-1209560
+. NONE
+</S>
+<S>
+Bir NONE
+sözcü NONE
+o NONE
+andan NONE
+itibaren NONE
+2.6 NONE
+milyon NONE
+hissenin NONE
+satın NONE
+alındığını NONE
+belirtti PREDICATE$TUR10-1155540
+. NONE
+</S>
+<S>
+Kamu NONE
+hizmetleri NONE
+şirketinin NONE
+halihazırda NONE
+tedavülde NONE
+82.1 NONE
+milyon NONE
+hissesi NONE
+bulunmaktadır PREDICATE$TUR10-0123790
+. NONE
+</S>
+<S>
+Morgan NONE
+Stanley NONE
+& NONE
+Co. NONE
+yeniden NONE
+satın NONE
+alım NONE
+işlemi NONE
+için NONE
+tek NONE
+yetkili NONE
+aracı NONE
+olarak NONE
+hareket PREDICATE$TUR10-0328260
+edecek PREDICATE$TUR10-0328260
+. NONE
+</S>
+<S>
+Anlaşmanın NONE
+hükümleri NONE
+açıklanmadı PREDICATE$TUR10-0220370
+. NONE
+</S>
+<S>
+Hughes NONE
+satışın NONE
+yıl NONE
+sonuna NONE
+kadar NONE
+kapanacağının NONE
+beklendiğini NONE
+söyledi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Onaylama NONE
+işlemini NONE
+Philedelphia NONE
+merkezli NONE
+firmaya NONE
+karşı NONE
+girişilen NONE
+23 NONE
+günlük NONE
+bir NONE
+grev NONE
+takip PREDICATE$TUR10-0740260
+ediyor PREDICATE$TUR10-0740260
+. NONE
+</S>
+<S>
+Sendikalar NONE
+ve NONE
+şirket NONE
+geçen NONE
+hafta NONE
+arabuluculuk NONE
+üzerinde NONE
+anlaştı PREDICATE$TUR10-0037990
+. NONE
+</S>
+<S>
+CWA NONE
+40000 NONE
+Nynex NONE
+işçisini NONE
+temsil NONE
+eder NONE
+ve NONE
+IBEW NONE
+de NONE
+20.000 NONE
+işçiyi NONE
+temsil PREDICATE$TUR10-1158360
+ediyor PREDICATE$TUR10-1158360
+. NONE
+</S>
+<S>
+Şimdilik NONE
+, NONE
+en NONE
+azından NONE
+, NONE
+Wall NONE
+street'de NONE
+endişenin NONE
+yerini NONE
+coşku NONE
+ve NONE
+mutluluk NONE
+aldı PREDICATE$TUR10-0489280
+. NONE
+</S>
+<S>
+Çoğu NONE
+pazarlığa NONE
+oturdu NONE
+. NONE
+</S>
+<S>
+Öncelikle NONE
+, NONE
+tarih NONE
+kendini NONE
+tekerrür NONE
+etmiş NONE
+gibi NONE
+göründü PREDICATE$TUR10-0306160
+. NONE
+</S>
+<S>
+88.12 NONE
+puan NONE
+kazançla NONE
+sona PREDICATE$TUR10-0444150
+erdi PREDICATE$TUR10-0444150
+. NONE
+</S>
+<S>
+Genel NONE
+olarak NONE
+, NONE
+New NONE
+York NONE
+borsasındaki NONE
+hisselerde NONE
+kaybedenler NONE
+kazananlardan NONE
+fazlaydı NONE
+. NONE
+</S>
+<S>
+Dünya NONE
+çapında NONE
+, NONE
+alım-satım NONE
+işlemi NONE
+genel NONE
+olarak NONE
+yönetilebilir NONE
+nitelikteydi NONE
+. NONE
+</S>
+<S>
+" NONE
+Buna NONE
+sıkıcı NONE
+bir NONE
+konu NONE
+olarak NONE
+bakıyorum NONE
+, NONE
+" NONE
+diyor PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Birçok NONE
+diğer NONE
+faktör NONE
+dünkü NONE
+geri NONE
+gelişte NONE
+rol NONE
+oynadı NONE
+. NONE
+</S>
+<S>
+Para NONE
+yöneticisi NONE
+Barry NONE
+Schrager NONE
+" NONE
+Çok NONE
+fazla NONE
+rehavet NONE
+var NONE
+" NONE
+diyor PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Tokya'daki NONE
+göreceli NONE
+sakinlik NONE
+Avrupa'daki NONE
+piyasa NONE
+açılışlarına NONE
+biraz NONE
+rahatlık NONE
+getirdi PREDICATE$TUR10-0294850
+. NONE
+</S>
+<S>
+Ekran NONE
+kırmızı NONE
+renkli NONE
+bir NONE
+denizdi NONE
+. NONE
+</S>
+<S>
+9:45'e NONE
+kadar NONE
+, NONE
+sanayi NONE
+ortalaması NONE
+27 NONE
+puan NONE
+düştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+Sabah NONE
+saat NONE
+10'a NONE
+kadar NONE
+49 NONE
+puan NONE
+düşmüştü PREDICATE$TUR10-0881290
+. NONE
+</S>
+<S>
+Shearson'un NONE
+Londra NONE
+seans NONE
+odası NONE
+delirdi PREDICATE$TUR10-0928070
+. NONE
+</S>
+<S>
+Shearson'dan NONE
+Andy NONE
+Rosen NONE
+" NONE
+toparlanma NONE
+, NONE
+toparlanma NONE
+, NONE
+" NONE
+diye NONE
+bağırdı PREDICATE$TUR10-0133220
+. NONE
+</S>
+<S>
+" NONE
+Bu NONE
+panik NONE
+alımı NONE
+. NONE
+" NONE
+</S>
+<S>
+Japonların NONE
+ağır NONE
+alıcılar NONE
+olduğu NONE
+söylendi PREDICATE$TUR10-0191150
+. NONE
+</S>
+<S>
+Alman NONE
+ve NONE
+Hollandalı NONE
+yatırımcılar NONE
+, NONE
+söylenenlere NONE
+göre NONE
+Kellogg NONE
+Co NONE
+üzerine NONE
+yükleniyor NONE
+. NONE
+</S>
+<S>
+" NONE
+Başımıza NONE
+gelen NONE
+gerçek NONE
+, NONE
+eski NONE
+moda NONE
+bir NONE
+toparlanmaydı NONE
+. NONE
+" NONE
+</S>
+<S>
+Normal NONE
+olan NONE
+, NONE
+herhalde NONE
+, NONE
+Batterymarch'dan NONE
+Dean NONE
+LeBaron'du NONE
+. NONE
+</S>
+<S>
+Herkes NONE
+para NONE
+kazanamıyordu PREDICATE$TUR10-0435880
+. NONE
+</S>
+<S>
+Piyasa NONE
+gün NONE
+içinde NONE
+en NONE
+yükseğe NONE
+ulaştıktan NONE
+dakikalar NONE
+sonra NONE
+kapandı PREDICATE$TUR10-0412460
+</S>
+<S>
+Ben NONE
+ellerimi NONE
+üzerine NONE
+koyabileceğim NONE
+parayı NONE
+tercih NONE
+ederim NONE
+. NONE
+</S>
+<S>
+Halk NONE
+halen NONE
+dikkatli NONE
+. NONE
+</S>

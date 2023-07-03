@@ -1,0 +1,6006 @@
+<S>
+Pittsburgh'tan PROPN
+Atlanta'ya PROPN
+25 NUM
+Nisan'da PROPN
+kalkan ADJ
+ve CCONJ
+6 NUM
+Mayıs'ta PROPN
+dönen ADJ
+en ADV
+ucuz ADJ
+uçuşu NOUN
+istiyorum VERB
+</S>
+<S>
+Memphis'ten PROPN
+Seattle'ye PROPN
+en ADV
+geç ADJ
+akşam NOUN
+saat NOUN
+3'te NOUN
+varacak ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Bana PRON
+gelecek ADJ
+salı NOUN
+kalkan ADJ
+ve CCONJ
+ertesi ADJ
+gün NOUN
+dönen ADJ
+Chicago'dan PROPN
+Detroit'e PROPN
+gidiş NOUN
+dönüş NOUN
+uçuşlarını NOUN
+gösterin VERB
+</S>
+<S>
+yemek NOUN
+için ADP
+d NOUN
+s NOUN
+ne ADJ
+anlama NOUN
+geliyor VERB
+</S>
+<S>
+Bana PRON
+Atlanta'dan PROPN
+Denver'e PROPN
+yarından NOUN
+sonraki ADJ
+gün NOUN
+saat NOUN
+5'ten NOUN
+sonra ADP
+kalkan ADJ
+tüm DET
+uçuşları NOUN
+gösterin VERB
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh'a PROPN
+olan ADJ
+hangi ADJ
+uçuş NOUN
+sabah NOUN
+en ADV
+erken ADV
+gelir VERB
+</S>
+<S>
+New PROPN
+York'tan PROPN
+Montreal PROPN
+Kanada'ya PROPN
+Çarşamba PROPN
+günü NOUN
+kalkan ADJ
+uçuşların NOUN
+listesini NOUN
+alabilir VERB
+miyim AUX
+</S>
+<S>
+Pazartesi PROPN
+günleri NOUN
+olan ADJ
+kule NOUN
+hava NOUN
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+US NOUN
+Air PROPN
+ile ADP
+Washington PROPN
+DC'de PROPN
+mola NOUN
+vererek ADV
+Toronto'dan PROPN
+San PROPN
+Diego'ya PROPN
+giden ADJ
+tüm DET
+uçuşları NOUN
+görüntüleyin VERB
+</S>
+<S>
+Kısıtlama NOUN
+Ap57 PROPN
+nedir VERB
+</S>
+<S>
+Denver PROPN
+Colorado'da PROPN
+kara NOUN
+taşımacılığı NOUN
+ile ADP
+ilgili ADJ
+bilgiye NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+22 NUM
+Mayıs PROPN
+Cumartesi NOUN
+günü NOUN
+Kansas PROPN
+City'den PROPN
+Burbank'a PROPN
+varan ADJ
+aktarmasız ADJ
+uçuşlar NOUN
+nelerdir VERB
+</S>
+<S>
+1 NUM
+Haziran PROPN
+öğleden NOUN
+sonrası NOUN
+için ADP
+Los PROPN
+Angeles'ten PROPN
+Pittsburgh'a PROPN
+bir DET
+uçuş NOUN
+rezervasyonu NOUN
+yapmak NOUN
+istiyorum VERB
+</S>
+<S>
+yemek NOUN
+kodu NOUN
+sb NOUN
+nedir VERB
+</S>
+<S>
+Ve CCONJ
+şimdi ADV
+bana PRON
+gece NOUN
+geç ADJ
+saatlerde NOUN
+Boston'a PROPN
+gidebileceğim VERB
+kara NOUN
+ulaşımını NOUN
+gösterin VERB
+</S>
+<S>
+Bana PRON
+Atlanta'dan PROPN
+Oakland'a PROPN
+öğleden NOUN
+sonra ADP
+kalkan ADJ
+ve CCONJ
+öğleden NOUN
+sonra ADP
+430 NUM
+- PUNCT
+630 NUM
+arasında NOUN
+varan ADJ
+aktarmasız ADJ
+uçuşları NOUN
+gösterin VERB
+</S>
+<S>
+Bana PRON
+akşam NOUN
+4'ten NOUN
+sonra ADP
+Dallas'tan PROPN
+kalkan ADJ
+Dallas PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+arası NOUN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Bana PRON
+Washington PROPN
+DC'deki PROPN
+tüm DET
+kara NOUN
+ulaşımını NOUN
+gösterin VERB
+</S>
+<S>
+Bana PRON
+Baltimore'den PROPN
+Dallas'a PROPN
+olan ADJ
+ekonomi NOUN
+sınıfı NOUN
+uçuşları NOUN
+gösterebilir VERB
+misiniz AUX
+</S>
+<S>
+10 NUM
+- PUNCT
+2 NUM
+arası NOUN
+Pittsburgh'tan PROPN
+Baltimore'ye PROPN
+olan ADJ
+uçuşlar NOUN
+</S>
+<S>
+Tampa'dan PROPN
+Milwaukee'ye PROPN
+Amerikan NOUN
+811 NUM
+uçuşunda NOUN
+hangi PRON
+yemekler NOUN
+servis NOUN
+edilir VERB
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+gitmem NOUN
+gerekiyor VERB
+ve CCONJ
+aynı ADJ
+gün NOUN
+geri ADJ
+dönmem NOUN
+gerekiyor VERB
+Bana PRON
+Boston'dan PROPN
+en ADV
+erken ADJ
+uçuşu NOUN
+bulun VERB
+</S>
+<S>
+Orlando'ya PROPN
+Houston'dan PROPN
+gelen ADJ
+en ADV
+erken ADV
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Chicago'dan PROPN
+Kansas PROPN
+City'e PROPN
+önümüzdeki ADJ
+Perşembe PROPN
+akşam NOUN
+7:00 NUM
+civarında NOUN
+varan ADJ
+uçuşlar NOUN
+için ADP
+birinci ADJ
+sınıf NOUN
+ve CCONJ
+otobüs NOUN
+ücretleri NOUN
+nedir VERB
+</S>
+<S>
+AP PROPN
+57 NUM
+ne PRON
+anlama NOUN
+geliyor VERB
+</S>
+<S>
+AP PROPN
+57 NUM
+kısıtlamasını NOUN
+açıklayın VERB
+</S>
+<S>
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+en ADV
+az ADJ
+bir NUM
+durakla NOUN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Lütfen ADV
+Ontario PROPN
+California'dan PROPN
+Orlando PROPN
+Florida'ya PROPN
+olan ADJ
+en ADV
+kısa ADJ
+tek ADJ
+aktarmalı ADJ
+uçuşu NOUN
+listeleyin VERB
+</S>
+<S>
+Bana PRON
+önümüzdeki ADJ
+Pazartesi PROPN
+Atlanta'dan PROPN
+kalkan ADJ
+ve CCONJ
+Charlotte PROPN
+Kuzey PROPN
+Carolina'ya PROPN
+giden ADJ
+uçuşları NOUN
+söyleyin VERB
+Charlotte'ye PROPN
+akşam NOUN
+415 NUM
+ile CCONJ
+530 NUM
+arasında NOUN
+varacak ADJ
+uçuşları NOUN
+bilmem NOUN
+gerekiyor VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Charlotte PROPN
+North PROPN
+Carolina'ya PROPN
+önümüzdeki ADJ
+Pazartesi PROPN
+günü NOUN
+kalkan ADJ
+tüm DET
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Bana PRON
+Dallas PROPN
+Fort PROPN
+Worth PROPN
+ile CCONJ
+San PROPN
+Francisco PROPN
+veya CCONJ
+Oakland PROPN
+arasındaki ADJ
+akşam NOUN
+5 NUM
+- PUNCT
+7 NUM
+saatleri NOUN
+arasında NOUN
+kalkan ADJ
+tüm DET
+uçuşları NOUN
+gösterin VERB
+</S>
+<S>
+JFK'den PROPN
+Miami'ye PROPN
+olan ADJ
+Delta PROPN
+Havayolları NOUN
+uçuşlarını NOUN
+gösterin VERB
+</S>
+<S>
+SFO'dan PROPN
+Long PROPN
+Beach'a PROPN
+olan ADJ
+tüm DET
+uçuşlar NOUN
+</S>
+<S>
+American PROPN
+Havayolları'nda NOUN
+birinci ADJ
+sınıf NOUN
+uçuş NOUN
+sayısı NOUN
+kaçtır NOUN
+</S>
+<S>
+US NOUN
+Air PROPN
+ile ADP
+Orlando'dan PROPN
+Cleveland'a PROPN
+olan ADJ
+uçuşun NOUN
+numarasını NOUN
+bulmaya NOUN
+çalışıyorum VERB
+ve CCONJ
+saat NOUN
+10 NUM
+civarında NOUN
+varıyor VERB
+</S>
+<S>
+Boston'da PROPN
+kiralık ADJ
+arabalar NOUN
+</S>
+<S>
+Lütfen ADV
+Pittsburgh'taki PROPN
+kiralık ADJ
+araba NOUN
+bilgilerini NOUN
+listeleyin VERB
+</S>
+<S>
+AP57 PROPN
+kısıtlaması NOUN
+nedir VERB
+</S>
+<S>
+Atlanta'ya PROPN
+Boston'dan PROPN
+4 NUM
+- PUNCT
+8 NUM
+saatleri NOUN
+arasında NOUN
+varan ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Denver'e PROPN
+akşam NOUN
+8 NUM
+- PUNCT
+9 NUM
+arasında NOUN
+varan ADJ
+her DET
+tür NOUN
+uçakla NOUN
+ilgili ADJ
+tüm DET
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+American PROPN
+Havayolları NOUN
+tarafından ADV
+sağlanan ADJ
+Atlanta PROPN
+ve CCONJ
+DFW PROPN
+uçuşları NOUN
+için ADP
+ücretler NOUN
+nelerdir VERB
+</S>
+<S>
+Boston'dan PROPN
+BWI'ye PROPN
+öğle NOUN
+yemeği NOUN
+servisi NOUN
+yapan ADJ
+en ADV
+erken ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+America PROPN
+West PROPN
+Boston'dan PROPN
+hangi PRON
+şehirlere NOUN
+birinci ADJ
+sınıf NOUN
+uçuyor VERB
+</S>
+<S>
+Northwest PROPN
+hangi PRON
+şehirlerden NOUN
+uçuyor VERB
+</S>
+<S>
+Öğleden NOUN
+sonra ADP
+12 NUM
+ile CCONJ
+4 NUM
+arasında NOUN
+Pittsburgh'tan PROPN
+kalkan ADJ
+tüm DET
+US NOUN
+Air PROPN
+uçuşlarını NOUN
+gösterin VERB
+</S>
+<S>
+Boston PROPN
+şehri NOUN
+için ADP
+limuzin NOUN
+ücretlerini NOUN
+listeleyin VERB
+</S>
+<S>
+Atlanta PROPN
+Havaalanı'ndan NOUN
+şehir NOUN
+merkezine NOUN
+limuzinle NOUN
+gitmenin NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Lütfen ADV
+Dallas'tan PROPN
+Pittsburgh'a PROPN
+4 NUM
+Temmuz PROPN
+1991'deki ADJ
+tüm DET
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+11 NUM
+Kasım PROPN
+1991 NUM
+Pazartesi PROPN
+Denver'den PROPN
+Washington PROPN
+DC'ye PROPN
+</S>
+<S>
+Bana PRON
+1 NUM
+Eylül PROPN
+1991 NUM
+için ADP
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+uçuşların NOUN
+listesini NOUN
+gösterin VERB
+</S>
+<S>
+United PROPN
+Airlines'in PROPN
+Denver'den PROPN
+Boston'a PROPN
+olan ADJ
+son ADJ
+uçuşunun NOUN
+kalkış NOUN
+saati NOUN
+nedir VERB
+</S>
+<S>
+saat NOUN
+10'dan NOUN
+sonra ADP
+ve CCONJ
+2'den NOUN
+önce ADP
+olan ADJ
+Denver'den PROPN
+Philadelphia'ya PROPN
+kalkış NOUN
+saatlerini NOUN
+listeleyin VERB
+</S>
+<S>
+Lütfen ADV
+Newark'tan PROPN
+Boston'a PROPN
+uçuş NOUN
+saatlerini NOUN
+listeleyin VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Washington PROPN
+DC'ye PROPN
+sabah NOUN
+kalkan ADJ
+gidiş NOUN
+dönüş VERB
+bir DET
+yolculuğa NOUN
+ve CCONJ
+ücretlerine NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Pittsburgh'tan PROPN
+Dallas'a PROPN
+12'den NOUN
+sonra ADP
+1100 NUM
+dolardan NOUN
+daha ADV
+az ADV
+gidiş NOUN
+dönüş NOUN
+tüm DET
+uçuşlar NOUN
+ve CCONJ
+ücretler NOUN
+</S>
+<S>
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+tüm DET
+uçuşları NOUN
+ve CCONJ
+ücretleri NOUN
+gösterin VERB
+</S>
+<S>
+Mia PROPN
+nedir VERB
+</S>
+<S>
+Ewr PROPN
+ne PRON
+anlama NOUN
+geliyor VERB
+</S>
+<S>
+Atlanta'ya PROPN
+ATL PROPN
+kara NOUN
+taşımacılığı NOUN
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+uçmak NOUN
+ne PRON
+kadar ADP
+sürüyor VERB
+</S>
+<S>
+Toronto PROPN
+Uluslararası ADJ
+Havaalanı'ndan NOUN
+Toronto PROPN
+şehir NOUN
+merkezine NOUN
+olan ADJ
+mesafeyi NOUN
+mil NOUN
+cinsinden NOUN
+listeleyin VERB
+</S>
+<S>
+Orlando PROPN
+Havaalanı'ndan NOUN
+şehre NOUN
+olan ADJ
+mesafeyi NOUN
+söyleyin VERB
+</S>
+<S>
+Denver'deki PROPN
+havaalanının NOUN
+adı NOUN
+ne PRON
+</S>
+<S>
+Havaalanları NOUN
+</S>
+<S>
+Boston'dan PROPN
+Oakland'a PROPN
+olan ADJ
+uçuşlar NOUN
+nerede PRON
+durur VERB
+</S>
+<S>
+B PROPN
+ücret NOUN
+kodu NOUN
+business NOUN
+sınıfı NOUN
+ile ADP
+aynı ADJ
+mı AUX
+</S>
+<S>
+Akşam NOUN
+San PROPN
+Francisco'ya PROPN
+Dallas'tan PROPN
+kalkan ADJ
+iki NUM
+American PROPN
+Havayolları NOUN
+uçuşu NOUN
+hangileri PRON
+</S>
+<S>
+Boston PROPN
+ve CCONJ
+Denver PROPN
+arasında NOUN
+Boston'a PROPN
+varmak NOUN
+için ADP
+en ADV
+az ADJ
+durak NOUN
+gerektiren ADJ
+bir NUM
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+General PROPN
+Mitchell PROPN
+International'daki PROPN
+tüm DET
+inişleri NOUN
+listeleyin VERB
+</S>
+<S>
+Bana PRON
+Love PROPN
+Field'e PROPN
+olan ADJ
+uçuşları NOUN
+gösterin VERB
+</S>
+<S>
+Hangi PRON
+uçuşlar NOUN
+herhangi ADJ
+bir DET
+şehirden NOUN
+General PROPN
+Mitchell PROPN
+International'a PROPN
+iner VERB
+</S>
+<S>
+Bana PRON
+gidiş NOUN
+dönüş NOUN
+466 NUM
+dolardan NOUN
+daha ADV
+az ADJ
+olan ADJ
+Salı NOUN
+günü NOUN
+New PROPN
+York PROPN
+- PUNCT
+Miami PROPN
+uçuşlarını NOUN
+gösterin VERB
+</S>
+<S>
+Denver'e PROPN
+500 NUM
+doların NOUN
+altında NOUN
+uçmak NOUN
+istiyorum VERB
+Lütfen ADV
+bana PRON
+Pittsburgh PROPN
+ve CCONJ
+Denver PROPN
+arasındaki ADJ
+uçuş NOUN
+ücretlerini NOUN
+gösterin VERB
+</S>
+<S>
+Bana PRON
+Dallas'tan PROPN
+Baltimore'ye PROPN
+415 NUM
+dolarlık ADJ
+uçuşları NOUN
+gösterin VERB
+</S>
+<S>
+M80 PROPN
+uçağının NOUN
+koltuk NOUN
+kapasitesi NOUN
+nedir VERB
+</S>
+<S>
+733 NUM
+uçağının NOUN
+koltuk NOUN
+kapasitesi NOUN
+nedir VERB
+</S>
+<S>
+757'nin NOUN
+koltuk NOUN
+kapasitesi NOUN
+nedir VERB
+</S>
+<S>
+M80 PROPN
+uçağındaki ADJ
+oturma NOUN
+kapasitesi NOUN
+nedir VERB
+</S>
+<S>
+Ekonomi NOUN
+sınıfı NOUN
+Kansas PROPN
+City'den PROPN
+Las PROPN
+Vegas'a PROPN
+</S>
+<S>
+Denver'den PROPN
+Philadelphia'ya PROPN
+ekonomi NOUN
+ücretlerini NOUN
+görmek NOUN
+istiyorum VERB
+</S>
+<S>
+Dallas'tan PROPN
+Atlanta'ya PROPN
+tek ADJ
+yön NOUN
+ekonomi NOUN
+ücretlerini NOUN
+gösterebilir VERB
+misin AUX
+</S>
+<S>
+Üzgünüm VERB
+TWA PROPN
+ile ADP
+uçmak NOUN
+istedim. NOUN
+TWA PROPN
+ile ADP
+Dallas PROPN
+Fort PROPN
+Worth'da PROPN
+mola NOUN
+olacak ADJ
+şekilde NOUN
+Oakland PROPN
+ve CCONJ
+Boston PROPN
+arasında NOUN
+bir DET
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Tampa'dan PROPN
+Montreal'a PROPN
+New PROPN
+York'ta PROPN
+mola NOUN
+veren ADJ
+ve CCONJ
+öğle NOUN
+yemeği NOUN
+servisi NOUN
+yapan ADJ
+bir DET
+uçuş NOUN
+bulmak NOUN
+istiyorum VERB
+</S>
+<S>
+Fort PROPN
+Worth PROPN
+Dallas'ta PROPN
+mola NOUN
+veren ADJ
+Boston PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+uçuşunuz VERB
+var ADJ
+mı AUX
+</S>
+<S>
+St. PROPN
+Louis'te PROPN
+mola NOUN
+veren ADJ
+ve CCONJ
+akşam NOUN
+yemeği NOUN
+servis NOUN
+eden ADJ
+bir DET
+Charlotte PROPN
+- PUNCT
+Las PROPN
+Vegas PROPN
+uçuşu NOUN
+bulun VERB
+ve CCONJ
+bu PRON
+uçuş NOUN
+için ADP
+havayolu NOUN
+bulmak NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+Atlanta'ya PROPN
+direkt ADV
+uçuşunuz VERB
+var ADJ
+mı AUX
+</S>
+<S>
+7 NUM
+Mayıs'ta PROPN
+Atlanta'dan PROPN
+Denver'e PROPN
+direkt ADV
+uçuşun NOUN
+ne ADV
+kadar ADP
+olacağına NOUN
+bakalım VERB
+</S>
+<S>
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+saat NOUN
+4'ten NOUN
+sonra ADP
+kalkan ADJ
+aktarmalı ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Bana PRON
+sabah NOUN
+10'da NOUN
+Boston'dan PROPN
+kalkan ADJ
+Boston'dan PROPN
+Denver'e PROPN
+aktarmalı ADJ
+uçuşun NOUN
+güzergahını NOUN
+gösterin VERB
+</S>
+<S>
+5 NUM
+Haziran'da PROPN
+Chicago'dan PROPN
+Seattle'ye PROPN
+olan ADJ
+bağlantılı ADJ
+uçuşlar NOUN
+nelerdir VERB
+</S>
+<S>
+Bana PRON
+San PROPN
+Francisco'dan PROPN
+Boston'a PROPN
+olan ADJ
+Cuma PROPN
+sabah NOUN
+uçuşlarını NOUN
+gösterin VERB
+</S>
+<S>
+Boston'dan PROPN
+Pittsburgh'a PROPN
+sabah NOUN
+erkenden ADV
+kalkan ADJ
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Sabah NOUN
+erkenden ADV
+ayrılmak NOUN
+istiyorum VERB
+</S>
+<S>
+Yarın NOUN
+erken ADJ
+saatte NOUN
+Columbus'tan PROPN
+Minneapolis'e PROPN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+sabah NOUN
+erkenden ADV
+kalkan ADJ
+TWA PROPN
+uçuşunuz VERB
+var ADJ
+mı AUX
+</S>
+<S>
+United PROPN
+Airline'nin PROPN
+Denver'den PROPN
+Baltimore'ye PROPN
+olan ADJ
+günlük ADJ
+uçuşlarını NOUN
+birinci ADJ
+sınıf NOUN
+hizmetle NOUN
+listeleyin VERB
+</S>
+<S>
+St. PROPN
+Louis'ten PROPN
+Milwaukee'ye PROPN
+günlük ADJ
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Philadelphia PROPN
+ve CCONJ
+Pittsburgh PROPN
+arasında NOUN
+günde NOUN
+kaç ADJ
+tane NOUN
+US NOUN
+Air PROPN
+uçuşu NOUN
+var ADJ
+</S>
+<S>
+Oakland PROPN
+ve CCONJ
+Salt PROPN
+Lake PROPN
+City PROPN
+arasındaki ADJ
+en ADV
+son ADJ
+günlük ADJ
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+2 NUM
+Mart'ta PROPN
+New PROPN
+York'tan PROPN
+Las PROPN
+Vegas'a PROPN
+aktarmasız ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+4 NUM
+Temmuz'da PROPN
+birinci ADJ
+sınıf NOUN
+United PROPN
+Airlines PROPN
+ile ADP
+Denver'den PROPN
+kalkan ADJ
+ve CCONJ
+Baltimore'ye PROPN
+varan ADJ
+en ADV
+erken ADJ
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Bana PRON
+Pittsburgh'tan PROPN
+Baltimore'ye PROPN
+oraya ADV
+14 NUM
+Haziran'da PROPN
+varan ADJ
+uçuşları NOUN
+gösterin VERB
+</S>
+<S>
+1 NUM
+Mart'ta PROPN
+Dallas'tan PROPN
+Houston'a PROPN
+ilk ADJ
+uçuşu NOUN
+ve CCONJ
+yine ADV
+1 NUM
+Mart'ta PROPN
+Houston'dan PROPN
+Dallas'a PROPN
+son ADJ
+uçuşu NOUN
+istiyorum VERB
+</S>
+<S>
+Delta PROPN
+Havayolları NOUN
+tarafından ADV
+birinci ADJ
+sınıf NOUN
+uçuşlarla NOUN
+kaç ADJ
+şehre NOUN
+hizmet NOUN
+verilmektedir VERB
+</S>
+<S>
+Delta'nın PROPN
+kaç ADJ
+gece NOUN
+uçuşu NOUN
+birinci ADJ
+sınıftır VERB
+</S>
+<S>
+Continental'ın PROPN
+kaç ADJ
+tane NOUN
+Atlanta'ya PROPN
+gidiş NOUN
+ve CCONJ
+dönüş NOUN
+uçuşu NOUN
+var ADJ
+</S>
+<S>
+Her DET
+havayolunun NOUN
+birinci ADJ
+sınıf NOUN
+hizmetle NOUN
+kaç ADJ
+uçuşu NOUN
+var ADJ
+</S>
+<S>
+Sabah NOUN
+9'dan NOUN
+önce ADP
+Dallas PROPN
+Fort PROPN
+Worth'a PROPN
+Boston'dan PROPN
+kalkan ADJ
+uçuşların NOUN
+sayısını NOUN
+listeleyin VERB
+</S>
+<S>
+1 NUM
+Ağustos'ta PROPN
+Atlanta'dan PROPN
+Boston'a PROPN
+olan ADJ
+uçuşların NOUN
+tarifesi NOUN
+nedir VERB
+</S>
+<S>
+Salı NOUN
+günü NOUN
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+uçuşların NOUN
+tarifesini NOUN
+istiyorum VERB
+</S>
+<S>
+7 NUM
+Temmuz'da PROPN
+San PROPN
+Francisco’dan PROPN
+Pittsburg’e PROPN
+uçuş NOUN
+yapan ADJ
+uçaklarınızın NOUN
+saatleri NOUN
+nelerdir VERB
+</S>
+<S>
+TWA PROPN
+San PROPN
+Francisco'ya PROPN
+gitmek NOUN
+için ADP
+Boston'dan PROPN
+kaçta ADV
+kalkıyor VERB
+</S>
+<S>
+New PROPN
+York'ta PROPN
+bir DET
+arabaya NOUN
+ihtiyacım NOUN
+olacak ADJ
+</S>
+<S>
+Pittsburgh PROPN
+Havaalanı'nda NOUN
+limuzin NOUN
+servisi NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Çarşamba PROPN
+Phoenix PROPN
+Arizona'dan PROPN
+Ontario PROPN
+California'ya PROPN
+olan ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Pazar PROPN
+akşamı NOUN
+San PROPN
+Diego PROPN
+California'ya PROPN
+olan ADJ
+bir DET
+uçuşla NOUN
+Montreal PROPN
+Quebec'den PROPN
+ayrılmak NOUN
+istiyorum VERB
+</S>
+<S>
+Lütfen ADV
+Ontario PROPN
+California'dan PROPN
+Orlando PROPN
+Florida'ya PROPN
+olan ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Lütfen ADV
+Miami PROPN
+Florida'dan PROPN
+Las PROPN
+Vegas PROPN
+Nevada'ya PROPN
+saat NOUN
+4'ten NOUN
+önce ADP
+varan ADJ
+bir DET
+uçuş NOUN
+bulun VERB
+</S>
+<S>
+Boston PROPN
+ve CCONJ
+Baltimore PROPN
+arasındaki ADJ
+en ADV
+ucuz ADJ
+uçak NOUN
+bileti NOUN
+nedir VERB
+</S>
+<S>
+Boston'dan PROPN
+Dallas'a PROPN
+gidiş NOUN
+dönüş NOUN
+en ADV
+pahalı ADJ
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Denver'e PROPN
+12 NUM
+Ekim'de PROPN
+kalkan ADJ
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+bilet NOUN
+nedir VERB
+</S>
+<S>
+Boston'dan PROPN
+Dallas'a PROPN
+en ADV
+pahalı ADJ
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Dallas'tan PROPN
+Baltimore'ye PROPN
+en ADV
+düşük ADJ
+maliyetli ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+uçmanın NOUN
+en ADV
+ucuz ADJ
+yolu NOUN
+nedir VERB
+</S>
+<S>
+Bana PRON
+Nashville PROPN
+Havaalanı'ndaki ADJ
+kara NOUN
+ulaşımından NOUN
+bahsedin VERB
+</S>
+<S>
+Charlotte PROPN
+havaalanı NOUN
+ile CCONJ
+Charlotte PROPN
+şehir NOUN
+merkezi NOUN
+arasındaki ADJ
+kara NOUN
+ulaşımı NOUN
+nedir VERB
+</S>
+<S>
+Baltimore PROPN
+havalimanında NOUN
+hangi PRON
+kara NOUN
+ulaşımı NOUN
+mevcut NOUN
+</S>
+<S>
+Denver PROPN
+havalimanında NOUN
+kara NOUN
+ulaşımı NOUN
+mevcut NOUN
+mu AUX
+</S>
+<S>
+San PROPN
+Francisco PROPN
+kara NOUN
+ulaşımı NOUN
+</S>
+<S>
+Dallas PROPN
+Fort PROPN
+Worth'da PROPN
+hangi PRON
+kara NOUN
+ulaşımı NOUN
+seçenekleri NOUN
+mevcut NOUN
+</S>
+<S>
+havalimanından NOUN
+Las PROPN
+Vegas'a PROPN
+kara NOUN
+ulaşımı NOUN
+seçeneklerini NOUN
+öğrenmek NOUN
+istiyorum VERB
+</S>
+<S>
+Milwaukee'den PROPN
+St. PROPN
+Louise PROPN
+olan ADJ
+tüm DET
+uçuşları NOUN
+bul VERB
+</S>
+<S>
+United'in PROPN
+salı NOUN
+ve CCONJ
+çarşamba PROPN
+günleri NOUN
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+yaptığı ADJ
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+bana PRON
+Delta PROPN
+ve CCONJ
+Twa'nin PROPN
+Atlanta'dan PROPN
+geçen ADJ
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+bana PRON
+Baltimore'den PROPN
+Philadelphia PROPN
+ya CCONJ
+da CCONJ
+Denver'e PROPN
+Denver'den PROPN
+Philadelphia'ya PROPN
+ya CCONJ
+da CCONJ
+Pittsburgh'tan PROPN
+Philadelphia'ya PROPN
+olan ADJ
+tüm DET
+uçuşların NOUN
+bir DET
+listesini NOUN
+ver VERB
+</S>
+<S>
+bana PRON
+cumartesi NOUN
+ya CCONJ
+da CCONJ
+pazar NOUN
+kalkışlı ADJ
+Milwaukee'den PROPN
+Phoenix'e PROPN
+giden ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+ücret NOUN
+kodu NOUN
+qx NOUN
+ne ADJ
+anlama NOUN
+geliyor VERB
+</S>
+<S>
+rezervasyon NOUN
+sınıfı NOUN
+c NOUN
+nedir VERB
+</S>
+<S>
+ücret NOUN
+kodu NOUN
+c NOUN
+nedir VERB
+</S>
+<S>
+ücret NOUN
+kodu NOUN
+m NOUN
+nedir VERB
+</S>
+<S>
+ücret NOUN
+kodunu NOUN
+tekrar ADV
+görmek NOUN
+istiyorum VERB
+qx NOUN
+</S>
+<S>
+yn NOUN
+kodu NOUN
+ne PRON
+anlama NOUN
+geliyor VERB
+</S>
+<S>
+Perşembe PROPN
+günü NOUN
+Atlanta'dan PROPN
+kalkıp ADV
+öğleden NOUN
+sonra ADP
+5’ten NOUN
+önce ADV
+Oakland'a PROPN
+varan ADJ
+ve CCONJ
+yemek NOUN
+servisi NOUN
+yapan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+en ADV
+erken ADJ
+saatte NOUN
+giden ADJ
+ve CCONJ
+yemek NOUN
+servis NOUN
+eden ADJ
+uçuşun NOUN
+bilgilerini NOUN
+istiyorum VERB
+</S>
+<S>
+Continental'ın PROPN
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+1765 NUM
+numaralı ADJ
+uçuşunda NOUN
+ne ADJ
+yemek NOUN
+servis NOUN
+ediliyor VERB
+</S>
+<S>
+Cumartesi NOUN
+günü NOUN
+Oakland'dan PROPN
+Philadelphia’ya PROPN
+giden ADJ
+ve CCONJ
+yemek NOUN
+servisi NOUN
+yapan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Lütfen ADV
+bana PRON
+Atlanta'dan PROPN
+kalkıp ADV
+Baltimore'ye PROPN
+öğleden NOUN
+sonra ADP
+7’de NOUN
+iniş NOUN
+yapan ADJ
+aktarmasız ADJ
+bir DET
+Boeing PROPN
+757 NUM
+uçuşu NOUN
+bulabilir VERB
+misin AUX
+</S>
+<S>
+M80 PROPN
+ne PRON
+tür NOUN
+bir DET
+uçak NOUN
+</S>
+<S>
+San PROPN
+Francisco’dan PROPN
+Baltimore'ye PROPN
+747 NUM
+ile ADP
+sefer NOUN
+yapıyor VERB
+musunuz AUX
+</S>
+<S>
+Oakland'dan PROPN
+San PROPN
+Francisco'ya PROPN
+kahvaltı NOUN
+uçuşu NOUN
+lütfen ADV
+</S>
+<S>
+Boston'dan PROPN
+Denver'e PROPN
+giden ADJ
+ve CCONJ
+öğle NOUN
+yemeği NOUN
+servis NOUN
+eden ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+St. PROPN
+Paul'dan PROPN
+Kansas PROPN
+City'e PROPN
+cuma NOUN
+günü NOUN
+giden ADJ
+hangi PRON
+uçuşlarda NOUN
+akşam NOUN
+yemeği NOUN
+servisi NOUN
+yapılıyor VERB
+</S>
+<S>
+Bana PRON
+Boston'dan PROPN
+Denver'e PROPN
+giden ADJ
+ve CCONJ
+kahvaltı NOUN
+servisi NOUN
+yapan ADJ
+en ADV
+erken ADJ
+uçuşu NOUN
+bul VERB
+</S>
+<S>
+Long PROPN
+Beach'tan PROPN
+St. PROPN
+Louis'e PROPN
+gitmek NOUN
+istiyorum VERB
+ve CCONJ
+Dallas'ta PROPN
+durmak NOUN
+istiyorum VERB
+bir DET
+de CCONJ
+uçuşum NOUN
+sırasında ADV
+öğle NOUN
+yemeği NOUN
+yemek NOUN
+istiyorum VERB
+</S>
+<S>
+Oakland'dan PROPN
+ayrılıp ADV
+öğleden NOUN
+sonra ADP
+saat NOUN
+5'te NOUN
+Boston'a PROPN
+varmak NOUN
+istiyorum VERB
+</S>
+<S>
+Hangi PRON
+havayollarının NOUN
+Boston'dan PROPN
+Denver'e PROPN
+aktarmasız ADJ
+öğleden NOUN
+sonra ADP
+uçuşları NOUN
+var ADJ
+</S>
+<S>
+St. PROPN
+Petersburg PROPN
+ve CCONJ
+Charlotte PROPN
+arasında NOUN
+öğleden NOUN
+sonra ADP
+kalkan ADJ
+ve CCONJ
+akşamüstü ADV
+5'ten NOUN
+kısa ADJ
+süre NOUN
+sonra ADV
+iniş NOUN
+yapan ADJ
+tüm DET
+aktarmasız ADJ
+uçuşları NOUN
+listeleyebilir VERB
+misin AUX
+</S>
+<S>
+Hangi PRON
+uçuşlar NOUN
+on NUM
+üç NUM
+Nisan PROPN
+çarşamba PROPN
+günü NOUN
+Indianapolis'ten PROPN
+kalkıyor VERB
+ve CCONJ
+sabah NOUN
+Montreal'a PROPN
+varıyor VERB
+</S>
+<S>
+Boston'dan PROPN
+Denver'e PROPN
+giden ADJ
+ve CCONJ
+çarşamba PROPN
+sabahı NOUN
+saat NOUN
+8'den NOUN
+önce ADP
+iniş NOUN
+yapan ADJ
+uçuşları NOUN
+bilmek NOUN
+istiyorum VERB
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+öğleden NOUN
+sonra ADP
+ayrılan ADJ
+ve CCONJ
+akşamüstü ADV
+saat NOUN
+5 NUM
+civarında NOUN
+Denver'e PROPN
+varan ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Washington PROPN
+DC'den PROPN
+Denver'e PROPN
+hangi PRON
+uçuşlar NOUN
+gidiyor VERB
+</S>
+<S>
+Lütfen ADV
+Washington PROPN
+DC'den PROPN
+Atlanta'ya PROPN
+olan ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Washington PROPN
+DC'den PROPN
+Philadelphia'ya PROPN
+giden ADJ
+2 NUM
+Aralık PROPN
+tarihli ADJ
+uçuşları NOUN
+ver VERB
+</S>
+<S>
+Washington PROPN
+DC'den PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+tüm DET
+birinci ADJ
+sınıf NOUN
+uçuşlar NOUN
+</S>
+<S>
+Washington PROPN
+DC'den PROPN
+Denver'e PROPN
+saat NOUN
+dörtte NOUN
+bir DET
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Washington PROPN
+DC'den PROPN
+San PROPN
+Diego'ya PROPN
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+US NOUN
+Air PROPN
+2153 NUM
+numaralı ADJ
+San PROPN
+Francisco PROPN
+- PUNCT
+Baltimore PROPN
+uçuşunda NOUN
+uçak NOUN
+saat NOUN
+kaçta ADV
+ve CCONJ
+hangi PRON
+şehirde NOUN
+duruyor VERB
+</S>
+<S>
+United PROPN
+Airlines'in PROPN
+21 NUM
+sefer NOUN
+sayılı ADJ
+uçuşundaki ADJ
+uçak NOUN
+türü NOUN
+nedir VERB
+</S>
+<S>
+Perşembe PROPN
+gecesi NOUN
+Chicago'dan PROPN
+Kansas PROPN
+City'e PROPN
+United PROPN
+Airlines PROPN
+415 NUM
+sefer NOUN
+sayılı ADJ
+uçuşunun NOUN
+fiyatı NOUN
+nedir VERB
+</S>
+<S>
+Washington'dan PROPN
+Boston'a PROPN
+324 NUM
+no'lu NOUN
+uçuş NOUN
+ile ADP
+2 NUM
+Ağustos'ta PROPN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+Denver'den PROPN
+Philadelphia'ya PROPN
+giden ADJ
+DL NOUN
+402 NUM
+uçuşunun NOUN
+fiyatı NOUN
+ne PRON
+kadar ADP
+</S>
+<S>
+Boston'dan PROPN
+Oakland'a PROPN
+giden ADJ
+813 NUM
+sefer NOUN
+sayılı ADJ
+American PROPN
+uçuşunun NOUN
+başka ADJ
+bir DET
+şehirde NOUN
+duraklama NOUN
+yapıp ADV
+yapmayacağını NOUN
+bilmek NOUN
+istiyorum VERB
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Dallas PROPN
+Fort PROPN
+Worth'dan PROPN
+Boston'a PROPN
+giden ADJ
+928 NUM
+sefer NOUN
+sayılı ADJ
+uçuşunun NOUN
+ücreti NOUN
+nedir VERB
+</S>
+<S>
+Bu DET
+hafta NOUN
+cuma NOUN
+günü NOUN
+Atlanta'dan PROPN
+Boston'a PROPN
+giden ADJ
+uçağın NOUN
+türünü NOUN
+öğrenmek NOUN
+istiyorum VERB
+</S>
+<S>
+Bana PRON
+CP'nin PROPN
+kullandığı ADJ
+uçak NOUN
+tipini NOUN
+göster VERB
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Atlanta'ya PROPN
+sabah NOUN
+8 NUM
+uçuşunda NOUN
+ne PRON
+tür NOUN
+uçak NOUN
+kullanılır VERB
+</S>
+<S>
+Charlotte'den PROPN
+tüm DET
+uçuşlar NOUN
+için ADP
+uçak NOUN
+türlerini NOUN
+listeleyin VERB
+</S>
+<S>
+Delta PROPN
+Boston'dan PROPN
+Denver'e PROPN
+2 NUM
+Ağustos'ta PROPN
+sabah NOUN
+8'den NOUN
+önce ADP
+ne PRON
+tür NOUN
+bir DET
+uçak NOUN
+ile ADP
+uçuyor VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+ayrılacağım VERB
+ve CCONJ
+San PROPN
+Francisco'ya PROPN
+gitmek NOUN
+istiyorum VERB
+ve CCONJ
+birinci ADJ
+sınıf NOUN
+American PROPN
+ile ADP
+uçmak NOUN
+istiyorum VERB
+ve CCONJ
+Dallas'ta PROPN
+durmak NOUN
+istiyorum VERB
+lütfen ADV
+bana PRON
+ne PRON
+tür NOUN
+bir DET
+uçakla NOUN
+uçacağınızı NOUN
+söyler VERB
+misiniz AUX
+</S>
+<S>
+Boston PROPN
+havaalanından NOUN
+Boston PROPN
+şehir NOUN
+merkezine NOUN
+kara NOUN
+ulaşımı NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+La NOUN
+Guardia PROPN
+Havaalanı'ndan NOUN
+San PROPN
+Jose'ye PROPN
+giden ADJ
+bir DET
+uçuş NOUN
+bulmak NOUN
+istiyorum VERB
+uçuşun NOUN
+United PROPN
+Airlines PROPN
+ile ADP
+olmasını NOUN
+ve CCONJ
+akşam NOUN
+10 NUM
+civarında NOUN
+San PROPN
+Jose'ye PROPN
+varmasını NOUN
+istiyorum VERB
+</S>
+<S>
+Lütfen ADV
+General PROPN
+Mitchell PROPN
+International'dan PROPN
+gelen ADJ
+ve CCONJ
+giden ADJ
+tüm DET
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+General PROPN
+Mitchell PROPN
+International'daki PROPN
+tüm DET
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Cumartesi NOUN
+günü NOUN
+Charlotte PROPN
+Havaalanı'ndan NOUN
+öğlen NOUN
+saat NOUN
+1'de NOUN
+kalkan ADJ
+US NOUN
+Air PROPN
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Bana PRON
+Love PROPN
+Field'deki PROPN
+havayollarını NOUN
+göster VERB
+</S>
+<S>
+Yarın NOUN
+kalkan ADJ
+Boston PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+uçuşları NOUN
+nelerdir VERB
+</S>
+<S>
+Yarın NOUN
+Denver'den PROPN
+Philadelphia'ya PROPN
+hangi PRON
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Bugün ADV
+Los PROPN
+Angeles'ten PROPN
+Charlotte'ye PROPN
+sabah NOUN
+erken ADJ
+saatte NOUN
+kalkan ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Yarın NOUN
+Pittsburgh'tan PROPN
+kalkan ADJ
+ve CCONJ
+Baltimore'ye PROPN
+akşamüstü ADV
+5'ten NOUN
+sonra ADP
+varan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Yarın NOUN
+akşam NOUN
+Tacoma PROPN
+için ADP
+Milwaukee'den PROPN
+saat NOUN
+akşam NOUN
+810'dan NOUN
+sonra ADP
+kalkan ADJ
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Bana PRON
+yarın NOUN
+St. PROPN
+Petersburg'dan PROPN
+Milwaukee'ye PROPN
+giden ADJ
+en ADV
+erken ADV
+United PROPN
+Airlines PROPN
+uçuşunu NOUN
+ver VERB
+</S>
+<S>
+Bu DET
+öğleden NOUN
+sonra ADV
+Cincinnati'den PROPN
+Burbank'a PROPN
+bir DET
+American PROPN
+uçuşuyla NOUN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+Cumartesi NOUN
+günü NOUN
+öğleden NOUN
+sonra ADP
+1'de NOUN
+Charlotte'ye PROPN
+varan ADJ
+tüm DET
+US NOUN
+Air PROPN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Cleveland'dan PROPN
+cumartesi NOUN
+günü NOUN
+öğlen NOUN
+1'de NOUN
+kalkıp ADV
+Kansas PROPN
+City'e PROPN
+pazartesi PROPN
+öğleden NOUN
+sonra ADP
+3'ten NOUN
+önce NOUN
+varan ADJ
+tüm DET
+US NOUN
+Air PROPN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Baltimore'den PROPN
+Newark'a PROPN
+çarşamba PROPN
+öğleden NOUN
+önce ADP
+aktarmasız ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Kansas PROPN
+City'den PROPN
+Cleveland'a PROPN
+giden ADJ
+uçuş NOUN
+çarşamba PROPN
+aşamüstü NOUN
+5'ten NOUN
+önce ADP
+varıyor VERB
+</S>
+<S>
+Los PROPN
+Angeles'ten PROPN
+kalkan ADJ
+ve CCONJ
+Pittsburgh'a PROPN
+pazartesi PROPN
+saat NOUN
+5'ten NOUN
+sonra ADP
+varan ADJ
+aktarmasız ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Önümüzdeki ADJ
+hafta NOUN
+çarşamba PROPN
+saat NOUN
+5'ten NOUN
+sonra ADP
+Boston'dan PROPN
+Pittsburgh'a PROPN
+başka ADJ
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Bana PRON
+önümüzdeki ADJ
+salı NOUN
+akşam NOUN
+7 NUM
+civarında NOUN
+Charlotte'den PROPN
+kalkıp ADV
+Atlanta'ya PROPN
+giden ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Önümüzdeki ADJ
+salı NOUN
+Boston'dan PROPN
+Washington'a PROPN
+hangi ADJ
+uçuşlar NOUN
+gidecek ADJ
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+aynı ADJ
+gün NOUN
+içinde ADV
+gitmem NOUN
+gerekiyor VERB
+bana PRON
+Boston'dan PROPN
+en ADV
+erken ADV
+ayrılan ADJ
+uçuşu NOUN
+bul VERB
+</S>
+<S>
+Önümüzdeki ADJ
+çarşamba PROPN
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+öğleden NOUN
+sonra ADV
+kalkan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Önümüzdeki ADJ
+pazar NOUN
+yapılacak ADJ
+San PROPN
+Jose PROPN
+- PUNCT
+Houston PROPN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Bana PRON
+gelecek NOUN
+pazar NOUN
+Miami'den PROPN
+Cleveland'a PROPN
+gidecek ADJ
+uçuşların NOUN
+fiyatlarını NOUN
+göster VERB
+</S>
+<S>
+Önümüzdeki ADJ
+çarşamba PROPN
+Phoenix PROPN
+ve CCONJ
+Milwaukee PROPN
+arasında NOUN
+yapılacak ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Washington PROPN
+DC'ye PROPN
+perşembe NOUN
+günü NOUN
+en ADV
+erken ADJ
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Bana PRON
+San PROPN
+Francisco'dan PROPN
+Washington PROPN
+DC'ye PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Oakland'dan PROPN
+Washington PROPN
+DC'ye PROPN
+pazar NOUN
+günü NOUN
+uçuşları NOUN
+nelerdir VERB
+</S>
+<S>
+Bana PRON
+Denver'den PROPN
+Washington PROPN
+DC'ye PROPN
+giden ADJ
+en ADV
+son ADJ
+aktarmasız ADJ
+uçuşu NOUN
+göster VERB
+</S>
+<S>
+Lütfen ADV
+23 NUM
+Temmuz'da PROPN
+Dallas PROPN
+Fort PROPN
+Worth'dan PROPN
+DC PROPN
+Baltimore'ye PROPN
+giden ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Denver'den PROPN
+Washington PROPN
+DC'ye PROPN
+perşembe NOUN
+günkü ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Oakland PROPN
+- PUNCT
+Washington PROPN
+DC PROPN
+arası NOUN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Denver'den PROPN
+Washington PROPN
+DC'ye PROPN
+aktarmasız ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Burbank'tan PROPN
+Tacoma PROPN
+Washington'a PROPN
+giden ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Cincinnati'den PROPN
+San PROPN
+Jose PROPN
+California'ya PROPN
+gidiş NOUN
+dönüş NOUN
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Bana PRON
+Philadelphia'dan PROPN
+Atlanta PROPN
+Georgia'ya PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Lütfen ADV
+Las PROPN
+Vegas'tan PROPN
+Michigan'a PROPN
+bir DET
+uçuş NOUN
+bul VERB
+</S>
+<S>
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+23 NUM
+Ocak PROPN
+için ADP
+uçuş NOUN
+bilgileri NOUN
+</S>
+<S>
+22 NUM
+Mayıs PROPN
+Cumartesi NOUN
+günü NOUN
+Las PROPN
+Vegas'tan PROPN
+Burbank'a PROPN
+uçuşlar NOUN
+nelerdir VERB
+</S>
+<S>
+23 NUM
+Kasım'da PROPN
+American PROPN
+Airlines'in PROPN
+Boston PROPN
+ile CCONJ
+Denver PROPN
+arasında NOUN
+hangi PRON
+uçuşları NOUN
+var ADJ
+</S>
+<S>
+27 NUM
+Ağustos NOUN
+sabahı NOUN
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+en ADV
+erken ADV
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+23 NUM
+Temmuz'da PROPN
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+American PROPN
+ile CCONJ
+erken ADJ
+bir DET
+uçuş NOUN
+</S>
+<S>
+Atlanta'dan PROPN
+Dallas'a PROPN
+27 NUM
+Ağustos NOUN
+sabahı NOUN
+hangi PRON
+uçuş NOUN
+var ADJ
+</S>
+<S>
+Tamam ADJ
+tam ADV
+23 NUM
+Kasım'da PROPN
+Atlanta'dan PROPN
+Denver'e PROPN
+uçmak NOUN
+istiyorum VERB
+ve CCONJ
+hangi PRON
+uçuşların NOUN
+müsait ADJ
+olduğunu NOUN
+bilmem NOUN
+gerekiyor VERB
+</S>
+<S>
+24 NUM
+Aralık'ta PROPN
+Dallas'tan PROPN
+Baltimore'ye PROPN
+uçmak NOUN
+için ADP
+en ADV
+ucuz ADJ
+hava NOUN
+yolu NOUN
+hangisi PRON
+</S>
+<S>
+Bana PRON
+31 NUM
+Ağustos'taki PROPN
+San PROPN
+Francisco PROPN
+- PUNCT
+Boston PROPN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Canadian PROPN
+Airlines PROPN
+International'ın PROPN
+kısaltması NOUN
+nedir VERB
+</S>
+<S>
+Philadelphia PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+uçuşlarını NOUN
+hangi ADJ
+ücret NOUN
+kodları NOUN
+kapsar ADJ
+</S>
+<S>
+dl ADJ
+nedir VERB
+</S>
+<S>
+Airline PROPN
+NW PROPN
+nedir VERB
+</S>
+<S>
+TWA'deki PROPN
+hizmet NOUN
+sınıfları NOUN
+nelerdir VERB
+</S>
+<S>
+Columbus'tan PROPN
+St. PROPN
+Louis'e PROPN
+gidiş NOUN
+dönüş NOUN
+uçuş NOUN
+ne ADV
+kadar ADP
+tutuyor VERB
+</S>
+<S>
+Tamam ADJ
+TWA'nin PROPN
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+uçuşu NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Columbus'tan PROPN
+St. PROPN
+Louis'e PROPN
+TWA'nin PROPN
+en ADV
+ucuz ADJ
+gidiş NOUN
+dönüş NOUN
+uçuşu NOUN
+hangisi PRON
+</S>
+<S>
+Columbus'tan PROPN
+Milwaukee'ye PROPN
+TWA PROPN
+ile CCONJ
+uçmanın NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Orlando'dan PROPN
+Cleveland'a PROPN
+US NOUN
+Air'in PROPN
+akşam NOUN
+10 NUM
+civarı NOUN
+gelen ADJ
+uçuşları NOUN
+nelerdir VERB
+</S>
+<S>
+Hangi ADJ
+uçuşlar NOUN
+Boston'dan PROPN
+ayrılıp ADV
+Philadelphia'ya PROPN
+sabah NOUN
+7'den NOUN
+önce NOUN
+varıyor VERB
+</S>
+<S>
+Bana PRON
+Denver PROPN
+ile ADP
+Oakland PROPN
+arasındaki ADJ
+öğleden NOUN
+sonra ADP
+kalkan ADJ
+ve CCONJ
+5'ten NOUN
+sonra ADP
+varan ADJ
+tüm DET
+aktarmasız ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Orlando'dan PROPN
+Cleveland'a PROPN
+saat NOUN
+10 NUM
+civarında NOUN
+varan ADJ
+hangi PRON
+uçuşlar NOUN
+uygun ADJ
+</S>
+<S>
+Oakland PROPN
+ile CCONJ
+Boston PROPN
+arasında NOUN
+saat NOUN
+5'ten NOUN
+önce ADV
+varan ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Herhangi ADJ
+bir DET
+havaalanından NOUN
+Baltimore'ye PROPN
+perşembe NOUN
+sabahı NOUN
+saat NOUN
+9'dan NOUN
+önce NOUN
+varan ADJ
+tüm DET
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Minneapolis'ten PROPN
+San PROPN
+Diego'ya PROPN
+7'den NOUN
+önce NOUN
+varan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Baltimore'ye PROPN
+aktarmasız ADJ
+uçup ADV
+saat NOUN
+7'de NOUN
+oraya ADV
+varmak NOUN
+istiyorum VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Baltimore'ye PROPN
+giden ADJ
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+ve CCONJ
+bu PRON
+uçuş NOUN
+akşam NOUN
+saat NOUN
+7'de NOUN
+varmalı ADJ
+lütfen ADV
+</S>
+<S>
+Denver'e PROPN
+hangi PRON
+havayolları NOUN
+hizmet NOUN
+ediyor VERB
+</S>
+<S>
+Baltimore'den PROPN
+San PROPN
+Francisco'ya PROPN
+giderken ADV
+Denver'de PROPN
+duran ADJ
+bir DET
+havayolunuz VERB
+var ADJ
+mı AUX
+</S>
+<S>
+Hangi ADJ
+havayolu NOUN
+Denver PROPN
+Pittsburgh PROPN
+ve CCONJ
+Atlanta'ya PROPN
+hizmet NOUN
+veriyor VERB
+</S>
+<S>
+Hangi PRON
+havayolları NOUN
+Boston'dan PROPN
+Baltimore'ye PROPN
+uçuyor VERB
+</S>
+<S>
+Denver'e PROPN
+veya CCONJ
+Denver'den PROPN
+uçuşu NOUN
+olan ADJ
+havayollarını NOUN
+listeleyin VERB
+</S>
+<S>
+Detroit PROPN
+ve CCONJ
+Westchester PROPN
+County PROPN
+arasında NOUN
+hangi ADJ
+havayolları NOUN
+uçuyor VERB
+</S>
+<S>
+Pittsburgh PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+arası NOUN
+uçan ADJ
+tüm DET
+hava NOUN
+yollarını NOUN
+göster VERB
+</S>
+<S>
+Boston PROPN
+ve CCONJ
+San PROPN
+Francisco PROPN
+arasında NOUN
+hangi ADJ
+havayolları NOUN
+uçuyor VERB
+</S>
+<S>
+Herhangi ADJ
+bir DET
+havayolunun NOUN
+Boston'dan PROPN
+Denver'e PROPN
+öğleden NOUN
+sonra ADP
+erken ADJ
+saatlerde NOUN
+uçuşu NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Hangi PRON
+havayollarının NOUN
+Kansas PROPN
+City'den PROPN
+Chicago'ya PROPN
+aktarmasız ADJ
+uçuşları NOUN
+var ADJ
+</S>
+<S>
+Atlanta PROPN
+ve CCONJ
+San PROPN
+Francisco PROPN
+arasında NOUN
+hangi PRON
+havayolları NOUN
+uçuyor VERB
+</S>
+<S>
+Hangi ADJ
+havayolu NOUN
+business NOUN
+class NOUN
+uçuşlar NOUN
+sağlıyor VERB
+</S>
+<S>
+Denver'den PROPN
+Kansas PROPN
+City'e PROPN
+aktarmasız ADJ
+uçuşlar NOUN
+</S>
+<S>
+Pazar PROPN
+günü NOUN
+San PROPN
+Francisco PROPN
+- PUNCT
+Pittsburgh PROPN
+aktarmasız ADJ
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Kansas PROPN
+City'den PROPN
+St. PROPN
+Paul'a PROPN
+giden ADJ
+uçuşların NOUN
+hepsi PRON
+aktarmasız ADJ
+mı AUX
+</S>
+<S>
+Toronto PROPN
+- PUNCT
+St. PROPN
+Petersburg PROPN
+arası NOUN
+aktarmasız ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Perşembe PROPN
+sabahı NOUN
+Indianapolis'ten PROPN
+Toronto'ya PROPN
+giden ADJ
+aktarmasız ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Toronto'dan PROPN
+St. PROPN
+Louis'e PROPN
+giden ADJ
+aktarmasız ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Salt PROPN
+Lake PROPN
+City'den PROPN
+Cincinnati'ye PROPN
+mümkünse VERB
+aktarmasız ADJ
+gidiş NOUN
+dönüş NOUN
+uçuşlar NOUN
+</S>
+<S>
+Denver'den PROPN
+Atlanta'ya PROPN
+bir DET
+uçak NOUN
+bileti NOUN
+almak NOUN
+istiyorum VERB
+</S>
+<S>
+Baltimore'den PROPN
+Sallas'a PROPN
+birinci NUM
+sınıf NOUN
+bir DET
+biletin NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Bana PRON
+pazartesi PROPN
+günü NOUN
+Pittsburgh PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+uçuşlarının NOUN
+birinci ADJ
+sınıf NOUN
+ücretlerini NOUN
+göster VERB
+</S>
+<S>
+Bana PRON
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+salı NOUN
+günü NOUN
+kalkan ADJ
+birinci ADJ
+sınıf NOUN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+birinci ADJ
+sınıf NOUN
+bir DET
+biletin NOUN
+gidiş NOUN
+dönüş NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+San PROPN
+Francisco'ya PROPN
+en ADV
+ucuz ADJ
+birinci ADJ
+sınıf NOUN
+uçak NOUN
+bileti NOUN
+hangisi PRON
+</S>
+<S>
+Bana PRON
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+birinci ADJ
+sınıf NOUN
+gidiş NOUN
+dönüş NOUN
+biletleri NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Toronto'ya PROPN
+giden ADJ
+US NOUN
+Air PROPN
+business NOUN
+class NOUN
+ücretlerini NOUN
+göster VERB
+</S>
+<S>
+Baltimore'den PROPN
+Dallas'a PROPN
+birinci ADJ
+sınıf NOUN
+olmayan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Detroit'ten PROPN
+St. PROPN
+Petersburg'a PROPN
+birinci ADJ
+sınıf NOUN
+gidiş NOUN
+dönüş NOUN
+uçak NOUN
+biletlerini NOUN
+listeleyin VERB
+</S>
+<S>
+Denver'den PROPN
+Baltimore'ye PROPN
+giden ADJ
+United PROPN
+Airlines'ten PROPN
+birinci ADJ
+sınıf NOUN
+bir DET
+bilete NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+7 NUM
+Temmuz'da PROPN
+Denver'den PROPN
+Baltimore'ye PROPN
+giden ADJ
+United PROPN
+Airlines PROPN
+uçuşlarında NOUN
+birinci ADJ
+sınıf NOUN
+bir DET
+gidiş NOUN
+dönüş NOUN
+biletinin NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Bana PRON
+1'den NOUN
+önce ADV
+varan ADJ
+San PROPN
+Francisco PROPN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Bana PRON
+St. PROPN
+Petersburg'dan PROPN
+Toronto'ya PROPN
+öğleden NOUN
+önce ADV
+varan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Bana PRON
+çarşamba PROPN
+günü NOUN
+öğlen NOUN
+12 NUM
+civarında NOUN
+kalkan ADJ
+Boston PROPN
+- PUNCT
+Baltimore PROPN
+arası NOUN
+ekonomi NOUN
+sınıfı NOUN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Las PROPN
+Vegas'tan PROPN
+Detroit'e PROPN
+en ADV
+ucuz ADJ
+gidiş NOUN
+dönüş NOUN
+ekonomi NOUN
+sınıfı NOUN
+bilet NOUN
+ücretini NOUN
+göster VERB
+</S>
+<S>
+Dallas'tan PROPN
+Baltimore'ye PROPN
+gidiş NOUN
+dönüş NOUN
+ekonomi NOUN
+sınıfı NOUN
+ücretini NOUN
+göster VERB
+</S>
+<S>
+Charlotte'de PROPN
+hangi PRON
+kara NOUN
+ulaşımı NOUN
+mevcut NOUN
+</S>
+<S>
+Lütfen ADV
+Pittsburgh'taki PROPN
+mevcut NOUN
+kara NOUN
+ulaşımını NOUN
+listeleyin VERB
+</S>
+<S>
+Kara NOUN
+ulaşımı NOUN
+Dallas PROPN
+</S>
+<S>
+American PROPN
+Airlines PROPN
+için ADP
+Atlanta'daki PROPN
+kalkış VERB
+ve CCONJ
+varışları NOUN
+göster VERB
+</S>
+<S>
+Oakland'da PROPN
+kara NOUN
+ulaşımı NOUN
+nasıldır VERB
+</S>
+<S>
+Dallas'ta PROPN
+ne PRON
+tür NOUN
+bir DET
+kara NOUN
+ulaşımı NOUN
+var ADJ
+</S>
+<S>
+Midwest PROPN
+Express PROPN
+Baltimore'de PROPN
+hizmet NOUN
+veriyor VERB
+mu AUX
+</S>
+<S>
+Atlanta'da PROPN
+kara NOUN
+ulaşımı NOUN
+nedir VERB
+</S>
+<S>
+Boston'a PROPN
+hangi ADJ
+kara NOUN
+ulaşımını NOUN
+alabilirim VERB
+</S>
+<S>
+Bana PRON
+Toronto'daki PROPN
+kara NOUN
+ulaşımını NOUN
+anlat VERB
+</S>
+<S>
+Denver'de PROPN
+kara NOUN
+ulaşımı NOUN
+</S>
+<S>
+Bana PRON
+Denver'deki PROPN
+kara NOUN
+ulaşımını NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Oakland'a PROPN
+Denver PROPN
+aktarmalı ADJ
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+hangi PRON
+Dallas PROPN
+aktarmalı ADJ
+uçuşlar NOUN
+kalkıyor VERB
+</S>
+<S>
+Denver PROPN
+- PUNCT
+Pittsburgh PROPN
+arası NOUN
+Atlanta'da PROPN
+duran ADJ
+en ADV
+ucuz ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Dallas'ta PROPN
+mola NOUN
+vererek ADV
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+seyahat NOUN
+etmek NOUN
+istiyorum VERB
+</S>
+<S>
+Continental PROPN
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+Denver PROPN
+aktarmalı ADJ
+uçuyor VERB
+mu AUX
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+ve CCONJ
+Denver'de PROPN
+duran ADJ
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Columbus'tan PROPN
+Phoenix'e PROPN
+Cincinnati PROPN
+aktarmalı ADJ
+bir DET
+uçuş NOUN
+bulmaya NOUN
+çalışıyorum VERB
+</S>
+<S>
+Dallas'ta PROPN
+durarak ADV
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+Aslında ADV
+Ontario'dan PROPN
+Westchester'e PROPN
+Chicago PROPN
+üzerinden NOUN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Washington'a PROPN
+Indianapolis PROPN
+üzerinden NOUN
+hangi ADJ
+uçuşlar NOUN
+gidiyor VERB
+</S>
+<S>
+Seattle'den PROPN
+Boston'a PROPN
+Minneapolis PROPN
+üzerinden NOUN
+hangi ADJ
+uçuşlar NOUN
+kalkıyor VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+Dallas PROPN
+üzerinden NOUN
+giden ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+Dallas'a PROPN
+Atlanta'da PROPN
+mola NOUN
+veren ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Washington'dan PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+ve CCONJ
+Denver'de PROPN
+duran ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'ta PROPN
+aktarma NOUN
+yapan ADJ
+Denver PROPN
+- PUNCT
+Atlanta PROPN
+arası NOUN
+en ADV
+ucuz ADJ
+uçuşu NOUN
+bulun VERB
+</S>
+<S>
+Boston'da PROPN
+havalimanı NOUN
+ile CCONJ
+şehir NOUN
+merkezi NOUN
+arasında NOUN
+kara NOUN
+ulaşımınız VERB
+var ADJ
+mı AUX
+</S>
+<S>
+Atlanta'daki PROPN
+havaalanından NOUN
+kara NOUN
+ulaşımı NOUN
+hakkında ADV
+bilgiye NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Akşam NOUN
+5'ten NOUN
+sonra ADP
+Boston'dan PROPN
+Atlanta'ya PROPN
+gitmek NOUN
+istiyorum VERB
+bana PRON
+uygun ADJ
+uçuşları NOUN
+söyleyebilir ADJ
+misin AUX
+</S>
+<S>
+Dallas'tan PROPN
+Denver'e PROPN
+akşam NOUN
+saat NOUN
+3'ten NOUN
+sonra ADP
+hangi ADJ
+uçuşlar NOUN
+kalkıyor VERB
+</S>
+<S>
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+yaklaşık ADJ
+615'te NOUN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Bana PRON
+akşam NOUN
+saat NOUN
+9'dan NOUN
+sonra ADP
+San PROPN
+Francisco'dan PROPN
+kalkan ADJ
+Boston PROPN
+- PUNCT
+San PROPN
+Francisco PROPN
+arası NOUN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuşu NOUN
+göster VERB
+</S>
+<S>
+Perşembe PROPN
+günü NOUN
+saat NOUN
+5'ten NOUN
+önce ADP
+Boston'dan PROPN
+Atlanta'ya PROPN
+tüm DET
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Continental'ın PROPN
+Denver'den PROPN
+Chicago'ya PROPN
+pazar NOUN
+günü NOUN
+934'ten NOUN
+sonra ADP
+hareket NOUN
+eden ADJ
+tüm DET
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Saat NOUN
+9'dan NOUN
+önce ADP
+Montreal'dan PROPN
+Philly'e PROPN
+giden ADJ
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+akşam NOUN
+6'dan NOUN
+sonra ADP
+kalkan ADJ
+uçuşları NOUN
+bul VERB
+</S>
+<S>
+Merhaba NOUN
+Pittsburgh'tan PROPN
+Denver'e PROPN
+2'den NOUN
+sonra ADP
+giden ADJ
+bir DET
+uçuş NOUN
+bulmaya NOUN
+çalışıyorum VERB
+</S>
+<S>
+Tamam ADJ
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+saat NOUN
+8'den NOUN
+önce ADP
+kalkan ADJ
+bir DET
+uçak NOUN
+istiyorum VERB
+</S>
+<S>
+Bana PRON
+Pittsburgh'tan PROPN
+Baltimore'ye PROPN
+perşembe NOUN
+günü NOUN
+saat NOUN
+3'ten NOUN
+sonra ADP
+kalkan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Pazartesi PROPN
+gecesi NOUN
+saat NOUN
+8'den NOUN
+sonra ADP
+Dallas'tan PROPN
+Boston'a PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Milwaukee'den PROPN
+Indianapolis'e PROPN
+pazartesi PROPN
+sabah NOUN
+9'dan NOUN
+önce ADP
+kalkan ADJ
+bir DET
+uçağa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Dallas'tan PROPN
+Pittsburgh'a PROPN
+pazartesi PROPN
+günü NOUN
+sabah NOUN
+saat NOUN
+8'den NOUN
+sonra ADP
+kalkan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Washington'dan PROPN
+Denver'e PROPN
+öğlen NOUN
+saat NOUN
+1'den NOUN
+sonraki ADJ
+ilk ADV
+uçuş NOUN
+nedir VERB
+</S>
+<S>
+Akşam NOUN
+9 NUM
+sonrası NOUN
+Pittsburgh'tan PROPN
+San PROPN
+Francisco'ya PROPN
+hangi ADJ
+uçuşları NOUN
+bulabilirim NOUN
+</S>
+<S>
+Sabah NOUN
+815 NUM
+sonrası ADJ
+kalkan ADJ
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+bir DET
+United PROPN
+Havayolları NOUN
+uçuşu NOUN
+istiyorum VERB
+</S>
+<S>
+Öğlen NOUN
+1'de NOUN
+Charlotte'den PROPN
+kalkan ADJ
+US NOUN
+Air PROPN
+uçuşları NOUN
+</S>
+<S>
+Akşam NOUN
+7'de NOUN
+Chicago'dan PROPN
+Kansas PROPN
+City'e PROPN
+dönmek NOUN
+istıyorum VERB
+</S>
+<S>
+Indianapolis'ten PROPN
+Memphis'e PROPN
+herhangi ADJ
+bir DET
+gün NOUN
+sabah NOUN
+10'dan NOUN
+önceki ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Milwaukee'den PROPN
+Orlando'ya PROPN
+en ADV
+kısa ADJ
+uçuşu NOUN
+alabilir VERB
+miyim AUX
+</S>
+<S>
+Oakland'dan PROPN
+Salt PROPN
+Lake PROPN
+City'e PROPN
+çarşamba PROPN
+günü NOUN
+geç ADV
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Çarşamba PROPN
+günü NOUN
+Boston'dan PROPN
+Denver'e PROPN
+en ADV
+erken ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Phoenix'den PROPN
+Salt PROPN
+Lake PROPN
+City'e PROPN
+en ADV
+erken ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Dallas'tan PROPN
+Philadelphia'ya PROPN
+en ADV
+geç ADJ
+uçuşunuz VERB
+hangisi PRON
+</S>
+<S>
+Newark'tan PROPN
+Los PROPN
+Angeles'e PROPN
+çarşamba PROPN
+günü NOUN
+en ADV
+geç ADV
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Boston'dan PROPN
+Philadelphia'ya PROPN
+ilk ADJ
+uçuşu NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+ilk ADV
+uçuşu NOUN
+göster VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+Denver'e PROPN
+giden ADJ
+en ADV
+geç ADV
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+7 NUM
+Temmuz'da PROPN
+Boston'dan PROPN
+Pittsburgh'a PROPN
+en ADV
+geç ADV
+kalkışlı ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Pittsburgh'tan PROPN
+Boston'a PROPN
+giden ADJ
+en ADV
+geç ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Atlanta PROPN
+ve CCONJ
+Denver PROPN
+arası NOUN
+en ADV
+erken ADJ
+uçuşu NOUN
+söyle VERB
+</S>
+<S>
+Salt PROPN
+Lake PROPN
+City'den PROPN
+St. PROPN
+Petersburg'a PROPN
+en ADV
+geç ADV
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Toronto'dan PROPN
+Salt PROPN
+Lake PROPN
+City'e PROPN
+en ADV
+erken ADV
+varışlı ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+7 NUM
+Temmuz'da PROPN
+Boston'dan PROPN
+Dallas'a PROPN
+en ADV
+geç ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Philadelphia'dan PROPN
+Boston'a PROPN
+en ADV
+geç ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Washington'dan PROPN
+San PROPN
+Francisco'ya PROPN
+Cuma PROPN
+günü NOUN
+en ADV
+erken ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+7 NUM
+Ekim PROPN
+Çarşamba PROPN
+kalkan ADJ
+en ADV
+erken ADJ
+Washington'dan PROPN
+Atlanta'ya PROPN
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+San PROPN
+Jose'den PROPN
+Houston'a PROPN
+en ADV
+kısa ADJ
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Salt PROPN
+Lake PROPN
+City'den PROPN
+Phoenix'e PROPN
+en ADV
+geç ADV
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuşu NOUN
+söyleyebilir VERB
+misiniz AUX
+</S>
+<S>
+Denver'den PROPN
+Oakland'a PROPN
+en ADV
+ucuz ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Boston'dan PROPN
+Dallas'a PROPN
+en ADV
+ucuz ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Boston PROPN
+ve CCONJ
+San PROPN
+Francisco PROPN
+arası NOUN
+en ADV
+ucuz ADJ
+uçuşu NOUN
+söyleyebilir ADJ
+misin AUX
+</S>
+<S>
+Dallas'tan PROPN
+Baltimore'ye PROPN
+en ADV
+ucuz ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Orlando'dan PROPN
+Tacoma'ya PROPN
+en ADV
+ucuz ADJ
+uçuş NOUN
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Boston'a PROPN
+en ADV
+ucuz ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+San PROPN
+Francisco PROPN
+ve CCONJ
+Philadelphia PROPN
+arası NOUN
+bulabileceğim ADJ
+en ADV
+ucuz ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh'a PROPN
+en ADV
+ucuz ADJ
+tarife NOUN
+hangisi PRON
+</S>
+<S>
+Indianapolis'ten PROPN
+Seattle'ye PROPN
+gidiş NOUN
+dönüş NOUN
+en ADV
+uygun ADJ
+tarifeyle NOUN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Miami'den PROPN
+New PROPN
+York'a PROPN
+Pazar PROPN
+kalkışlı ADJ
+en ADV
+ucuz ADJ
+tarifeleri NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Baltimore'ye PROPN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+tarife NOUN
+hangisi PRON
+</S>
+<S>
+Milwaukee'den PROPN
+San PROPN
+Francisco'ya PROPN
+gidiş NOUN
+dönüş NOUN
+en ADV
+ucuz ADJ
+nasıl ADJ
+gidilir VERB
+</S>
+<S>
+Houston'dan PROPN
+Boston'a PROPN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuşu NOUN
+göster VERB
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh'a PROPN
+en ADV
+ucuz ADJ
+uçuş NOUN
+hangisi PRON
+</S>
+<S>
+Nashville'den PROPN
+Seattle'ye PROPN
+uçmak NOUN
+istiyorum VERB
+ve CCONJ
+en ADV
+ucuz ADJ
+gidiş NOUN
+dönüş NOUN
+tarifesini NOUN
+istiyorum VERB
+</S>
+<S>
+Charlotte'den PROPN
+Long PROPN
+Beach'a PROPN
+en ADV
+ucuz ADJ
+uçuşu NOUN
+ver VERB
+</S>
+<S>
+Dallas'tan PROPN
+Denver'e PROPN
+en ADV
+ucuz ADJ
+tek ADJ
+yön NOUN
+uçuşu NOUN
+istiyorum VERB
+</S>
+<S>
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+en ADV
+ucuz ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Çarşamba PROPN
+öğleden NOUN
+sonra ADP
+ve CCONJ
+Perşembe PROPN
+öğleden NOUN
+önce ADP
+kalkan ADJ
+Milwaukee'den PROPN
+Orlando'ya PROPN
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Nashville'den PROPN
+Cleveland'a PROPN
+pazar NOUN
+günü NOUN
+9'dan NOUN
+önce ADV
+</S>
+<S>
+Washington'dan PROPN
+San PROPN
+Francisco'ya PROPN
+2'den NOUN
+sonra ADP
+kalkan ADJ
+tüm DET
+uçuşlar NOUN
+</S>
+<S>
+Boston'dan PROPN
+Pittsburgh'a PROPN
+öğleden NOUN
+sonra ADP
+1205'te NOUN
+hangi ADJ
+uçuşlar NOUN
+gidiyor VERB
+</S>
+<S>
+Öğleden NOUN
+sonra ADP
+3'te NOUN
+Pittsburgh'tan PROPN
+Boston'a PROPN
+giden ADJ
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Lütfen ADV
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+tüm DET
+gidiş NOUN
+dönüş NOUN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Baltimore'den PROPN
+Philadelphia'ya PROPN
+gidiş NOUN
+dönüş NOUN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+New PROPN
+York'tan PROPN
+San PROPN
+Jose'ye PROPN
+gidiş NOUN
+dönüş NOUN
+bir DET
+tarife NOUN
+istiyorum VERB
+</S>
+<S>
+Baltimore'den PROPN
+Pittsburgh'a PROPN
+gidiş NOUN
+dönüş NOUN
+uçuşu NOUN
+için ADP
+seyahat NOUN
+düzenlemeleri NOUN
+bulun VERB
+</S>
+<S>
+Kansas PROPN
+şehrinden NOUN
+Chicago'ya PROPN
+gidiş NOUN
+dönüş NOUN
+uçak NOUN
+bileti NOUN
+rezervasyonu NOUN
+yapmak NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+Atlanta'ya PROPN
+tek ADJ
+yönlü ADJ
+bir DET
+uçuşun NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Bana PRON
+Pittsburgh'tan PROPN
+Oakland'a PROPN
+giden ADJ
+tüm DET
+uçuşların NOUN
+ücretlerini NOUN
+göster VERB
+</S>
+<S>
+Şimdi ADV
+Pittsburgh'tan PROPN
+Denver'e PROPN
+tek ADJ
+yönlü ADJ
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+gidiş NOUN
+dönüş NOUN
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+Boston'dan PROPN
+Pittsburgh'a PROPN
+gidiş NOUN
+dönüş NOUN
+uçuşu NOUN
+için ADP
+seyahat NOUN
+düzenlemeleri NOUN
+bulun VERB
+</S>
+<S>
+Bana PRON
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+üç NUM
+Aralık PROPN
+için ADP
+dönüş NOUN
+uçuşları NOUN
+ver VERB
+</S>
+<S>
+On NUM
+bir DET
+Temmuz'da PROPN
+Boston PROPN
+ve CCONJ
+Atlanta PROPN
+arasında NOUN
+öğleden NOUN
+sonra ADP
+saat NOUN
+birde NOUN
+kalkan ADJ
+uçuşları NOUN
+istiyorum VERB
+</S>
+<S>
+Yirmi NUM
+Ağustos NOUN
+için ADP
+Washington'dan PROPN
+Boston'a PROPN
+öğleden NOUN
+sonra ADV
+olan ADJ
+bir DET
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Altı NUM
+Ağustos NOUN
+akşamı NOUN
+olan ADJ
+Pittsburgh'tan PROPN
+Atlanta'ya PROPN
+uçuşları NOUN
+listeleyin VERB
+</S>
+<S>
+San PROPN
+Jose'den PROPN
+Nashville'ye PROPN
+üç NUM
+Haziran PROPN
+cuma NOUN
+sabahı NOUN
+olan ADJ
+uçuşları NOUN
+istiyorum VERB
+</S>
+<S>
+Hangi ADJ
+United PROPN
+Airlines PROPN
+uçuşları NOUN
+sekiz NUM
+Haziran'da PROPN
+Westchester PROPN
+bölgesinden NOUN
+Cincinnati'ye PROPN
+gidiyor VERB
+</S>
+<S>
+United PROPN
+Airlines'in PROPN
+yirmi NUM
+Eylül NOUN
+sabahı NOUN
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+Charlotte'den PROPN
+Atlanta'ya PROPN
+bir NUM
+Haziran'da PROPN
+uçuşunuz VERB
+var ADJ
+mı AUX
+</S>
+<S>
+St. PROPN
+Petersburg'dan PROPN
+Milwaukee'ye PROPN
+on NUM
+bir NUM
+Haziran'da PROPN
+bir DET
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+bir NUM
+ekim PROPN
+salı NOUN
+günü NOUN
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+Bir NUM
+Temmuz'da PROPN
+Kansas PROPN
+City'den PROPN
+Newark'a PROPN
+bir DET
+uçak NOUN
+bileti NOUN
+istiyorum VERB
+</S>
+<S>
+Lütfen ADV
+bana PRON
+Kansas PROPN
+City'den PROPN
+Chicago'ya PROPN
+ayın NOUN
+on NUM
+altısındaki ADJ
+uçuşları NOUN
+verin VERB
+</S>
+<S>
+Denver PROPN
+ve CCONJ
+San PROPN
+Francisco PROPN
+arasındaki ADJ
+on NUM
+yedi VERB
+Eylül NOUN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Westchester PROPN
+bölgesinden NOUN
+Cincinnati'ye PROPN
+olan ADJ
+sekiz NUM
+Haziran PROPN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Nashville'den PROPN
+Tacoma'ya PROPN
+olan ADJ
+ayın NOUN
+on NUM
+sekizindeki ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Delta PROPN
+havayollarının NOUN
+Boston'dan PROPN
+Philadelphia'ya PROPN
+gidiş NOUN
+uçuşlarının NOUN
+fiyatlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+uçuşların NOUN
+fiyatlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Denver'den PROPN
+Atlanta'ya PROPN
+olan ADJ
+uçuşların NOUN
+fiyatları NOUN
+nedir VERB
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+olan ADJ
+uçuşun NOUN
+maliyeti NOUN
+nedir VERB
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh PROPN
+ve CCONJ
+Atlanta'ya PROPN
+olan ADJ
+bir DET
+bilet NOUN
+hakkında ADV
+biraz ADJ
+bilgi NOUN
+almak NOUN
+istiyorum VERB
+</S>
+<S>
+Lütfen ADV
+Denver'den PROPN
+Philadelphia'ya PROPN
+olan ADJ
+uçuşların NOUN
+fiyatlarını NOUN
+verin VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Dallas'a PROPN
+olan ADJ
+sabah NOUN
+uçuşlarının NOUN
+fiyatları NOUN
+nedir VERB
+</S>
+<S>
+Philadephia PROPN
+ve CCONJ
+San PROPN
+Francisco PROPN
+arasındaki ADJ
+gece NOUN
+uçuşlarının NOUN
+fiyatlarını NOUN
+gösterin VERB
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Philadelphia'dan PROPN
+Dallas'a PROPN
+olan ADJ
+sabah NOUN
+uçuşlarını NOUN
+tekrar ADV
+söyleyin VERB
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+San PROPN
+Francisco'dan PROPN
+Philadelphia'ya PROPN
+olan ADJ
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Bana PRON
+American PROPN
+Airlines'in PROPN
+Phoenix'den PROPN
+Milwaukee PROPN
+olan ADJ
+çarşamba PROPN
+günü NOUN
+uçuşlarını NOUN
+gösterin VERB
+</S>
+<S>
+Salı NOUN
+günü NOUN
+San PROPN
+Francisco'dan PROPN
+Pittsburgh'a PROPN
+hangi ADJ
+US NOUN
+Air PROPN
+uçuşları NOUN
+var ADJ
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Philadelphia'dan PROPN
+Dallas'a PROPN
+olan ADJ
+uçuşlarını NOUN
+verin VERB
+</S>
+<S>
+Lütfen ADV
+American PROPN
+Airlines'in PROPN
+Houston'dan PROPN
+Milwaaukee'ye PROPN
+olan ADJ
+cuma NOUN
+günü NOUN
+akşam NOUN
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Alaska PROPN
+Airline'nin PROPN
+Burbank PROPN
+kalkışlı ADJ
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+United PROPN
+Airlines'in PROPN
+Boston'dan PROPN
+Denver'e PROPN
+uçuşu NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Milwaukee'den PROPN
+Phoenix'e PROPN
+olan ADJ
+cuma NOUN
+günkü ADJ
+tüm DET
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+San PROPN
+Francisco PROPN
+kalkışlı ADJ
+herhangi ADJ
+bir DET
+Us NOUN
+Air PROPN
+uçuşu NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Canadian PROPN
+Airlines PROPN
+uluslararası ADJ
+hangi ADJ
+bölgelere NOUN
+uçuyor VERB
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh'a PROPN
+bir DET
+uçak NOUN
+bileti NOUN
+rezervasyonu NOUN
+yapmak NOUN
+istiyorum VERB
+ve CCONJ
+Eastern PROPN
+Airlines'e PROPN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+United PROPN
+Airline'nin PROPN
+Dallas'tan PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+uçuşları NOUN
+hangileri PRON
+bilmek NOUN
+istiyorum VERB
+</S>
+<S>
+American PROPN
+Airlines'ten PROPN
+Cincinnati'den PROPN
+Burbank'a PROPN
+giden ADJ
+bir DET
+öğleden NOUN
+sonra ADP
+bileti NOUN
+istiyorum VERB
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+çarşamba PROPN
+günü NOUN
+Phoenix'den PROPN
+kalkıp ADV
+Milwaukee'ye PROPN
+inen ADJ
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Phoenix PROPN
+kalkışlı ADJ
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+American PROPN
+Airlines'in PROPN
+Houston'dan PROPN
+Milwaukee'ye PROPN
+olan ADJ
+cuma NOUN
+akşam NOUN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+San PROPN
+Francisco'ya PROPN
+perşembe NOUN
+akşamı NOUN
+kalkan ADJ
+tüm DET
+uçuşlar NOUN
+hakkında ADV
+bilgi NOUN
+almak NOUN
+istiyorum VERB
+</S>
+<S>
+Pazartesi PROPN
+sabahı NOUN
+San PROPN
+Francisco'dan PROPN
+Pittsburgh'a PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Bana PRON
+San PROPN
+Jose'den PROPN
+Nashville'ye PROPN
+olan ADJ
+cumartesi NOUN
+öğleden NOUN
+sonra ADP
+uçuşlarını NOUN
+söyleyebilir VERB
+misin AUX
+</S>
+<S>
+Bana PRON
+Atlanta'dan PROPN
+Boston'a PROPN
+olan ADJ
+sabah NOUN
+uçuşlarının NOUN
+bir DET
+listesini NOUN
+ver VERB
+</S>
+<S>
+Bana PRON
+cumartesi NOUN
+sabahı NOUN
+Chicago'dan PROPN
+kalkan ADJ
+Continental PROPN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Cumartesi NOUN
+öğleden NOUN
+sonra ADP
+Charlotte PROPN
+kalkışlı ADJ
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Pazartesi PROPN
+öğleden NOUN
+sonra ADP
+Baltimore'den PROPN
+Dallas'a PROPN
+bir DET
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Boston'dan PROPN
+Denver'e PROPN
+tüm DET
+salı NOUN
+akşam NOUN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Lütfen ADV
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+öğleden NOUN
+sonra ADP
+kalkan ADJ
+uçuşlar NOUN
+</S>
+<S>
+Baltimore'den PROPN
+Newark'a PROPN
+bir DET
+sabah NOUN
+uçuşu NOUN
+alabilir VERB
+miyim AUX
+lütfen ADV
+</S>
+<S>
+Denver'den PROPN
+Dallas'a PROPN
+öğleden NOUN
+sonraları ADV
+hangi ADJ
+uçuşlar NOUN
+uygun ADJ
+</S>
+<S>
+Dallas'tan PROPN
+Milwaukee'ye PROPN
+bir DET
+akşam NOUN
+uçuşu NOUN
+istiyorum VERB
+</S>
+<S>
+Öğleden NOUN
+sonra ADP
+Boston'dan PROPN
+Baltimore'ye PROPN
+uçmak NOUN
+istiyorum VERB
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Denver PROPN
+ve CCONJ
+Dallas PROPN
+arasındaki ADJ
+hangi ADJ
+öğleden NOUN
+sonra ADP
+uçuşları NOUN
+müsait ADJ
+</S>
+<S>
+Salı NOUN
+sabahı NOUN
+Denver'den PROPN
+St. PROPN
+Louis'e PROPN
+giden ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Boston'dan PROPN
+Philadelphia'ya PROPN
+olan ADJ
+sabah NOUN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Lütfen ADV
+bana PRON
+çarşamba PROPN
+günü NOUN
+sabah NOUN
+erken ADV
+saatlerdeki ADJ
+Atlanta'dan PROPN
+Philadelphia'ya PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Cincinnati PROPN
+ve CCONJ
+Tampa PROPN
+arasındaki ADJ
+sabah NOUN
+erken ADV
+saatlerdeki ADJ
+uçuşlar NOUN
+</S>
+<S>
+Çarşamba PROPN
+sabahı NOUN
+Baltimore'den PROPN
+Newark'a PROPN
+giden ADJ
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Hoston'dan PROPN
+Milwaukee'ye PROPN
+giden ADJ
+akşam NOUN
+uçuşlarını NOUN
+listeleyin VERB
+</S>
+<S>
+Pazartesi PROPN
+sabah NOUN
+San PROPN
+Diego'dan PROPN
+Phoenix PROPN
+olan ADJ
+uçuşları NOUN
+bul VERB
+</S>
+<S>
+Akşamleyin ADV
+Indianapolis'ten PROPN
+Montreal'a PROPN
+nasıl ADV
+gidebilirim VERB
+</S>
+<S>
+Bana PRON
+sabahleyin ADV
+Atlanta'dan PROPN
+kalkan ADJ
+Baltimore'ye PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Washington PROPN
+ve CCONJ
+Boston PROPN
+arasındaki ADJ
+öğleden NOUN
+sonra ADP
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+Cincinnati'den PROPN
+Burbank'a PROPN
+bir DET
+uçak NOUN
+bileti NOUN
+istiyorum VERB
+uçuş NOUN
+Amerikan ADJ
+olmalı ADJ
+öğleden NOUN
+sonra ADP
+kalkmalı ADJ
+uçak NOUN
+ve CCONJ
+uçuş NOUN
+numarasını NOUN
+da CCONJ
+bilmem NOUN
+gerekiyor VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+Oakland'a PROPN
+olan ADJ
+akşam NOUN
+uçuşları NOUN
+</S>
+<S>
+Çarşamba PROPN
+sabahı NOUN
+Baltimore'den PROPN
+Newark'a PROPN
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Philadelphia'ya PROPN
+olan ADJ
+uçuş NOUN
+hakkında ADV
+bilgi NOUN
+</S>
+<S>
+Bana PRON
+San PROPN
+Francisco'dan PROPN
+Pittsburgh'a PROPN
+olan ADJ
+salı NOUN
+günkü ADJ
+uygun ADJ
+uçuşları NOUN
+ve CCONJ
+fiyatlarını NOUN
+göster VERB
+</S>
+<S>
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Çarşamba PROPN
+günü NOUN
+Salt PROPN
+Lake PROPN
+City'den PROPN
+St. PROPN
+Petersburg'a PROPN
+geri ADV
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Cuma PROPN
+günü NOUN
+San PROPN
+Francisco'dan PROPN
+Pittsburgh'a PROPN
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Denver'e PROPN
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Boston'a PROPN
+çarşamba PROPN
+günü NOUN
+olan ADJ
+bir DET
+uçuş NOUN
+bul VERB
+</S>
+<S>
+Kansas PROPN
+City'den PROPN
+Cleveland'a PROPN
+olan ADJ
+uçuşlar NOUN
+ve CCONJ
+fiyatları NOUN
+</S>
+<S>
+Kansas PROPN
+City'den PROPN
+Denver'e PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+St. PROPN
+Petersburg PROPN
+ve CCONJ
+Charlotte PROPN
+arasındaki ADJ
+uçuşlar NOUN
+</S>
+<S>
+Salt PROPN
+Lake PROPN
+City'den PROPN
+St. PROPN
+Petersburg'a PROPN
+olan ADJ
+çarşamba PROPN
+günkü ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Seattle'ye PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Lütfen ADV
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+olan ADJ
+salı NOUN
+günü NOUN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Denver'e PROPN
+</S>
+<S>
+Pazar PROPN
+günü NOUN
+New PROPN
+York PROPN
+City'den PROPN
+Las PROPN
+Vegas'a PROPN
+uçuşlarını NOUN
+ve CCONJ
+pazar NOUN
+günü NOUN
+Memphis'ten PROPN
+Las PROPN
+Vegas'a PROPN
+uçuşlarını NOUN
+ver VERB
+</S>
+<S>
+St. PROPN
+Louis'ten PROPN
+Charlotte'ye PROPN
+bir DET
+uçak NOUN
+bileti NOUN
+istiyorum VERB
+</S>
+<S>
+Las PROPN
+Vegas'tan PROPN
+Phoenix'e PROPN
+olan ADJ
+uçuşlar NOUN
+</S>
+<S>
+New PROPN
+York'tan PROPN
+Miami'ye PROPN
+olan ADJ
+salı NOUN
+günü NOUN
+uçuşlarını NOUN
+ve CCONJ
+Miami'den PROPN
+New PROPN
+York'a PROPN
+olan ADJ
+pazar NOUN
+günü NOUN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Dallas'a PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+lütfen ADV
+</S>
+<S>
+San PROPN
+Francisco'dan PROPN
+Denver'e PROPN
+salı NOUN
+günü NOUN
+</S>
+<S>
+San PROPN
+Diego'dan PROPN
+Newark'a PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Delta'nın PROPN
+Dallas PROPN
+ve CCONJ
+Denver PROPN
+arasında NOUN
+hangi ADJ
+uçuşları NOUN
+var ADJ
+</S>
+<S>
+Atlanta PROPN
+kalkışlı ADJ
+Delta PROPN
+uçuşları NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Atlanta PROPN
+için ADP
+Boston'dan PROPN
+kalkan ADJ
+Delta PROPN
+uçuşları NOUN
+</S>
+<S>
+Cincinnati'den PROPN
+Burbank'a PROPN
+bir DET
+American PROPN
+uçuşu NOUN
+istiyorum VERB
+</S>
+<S>
+Lufthansa PROPN
+Boston PROPN
+ve CCONJ
+Oakland PROPN
+arasında NOUN
+uçuyor VERB
+mu AUX
+</S>
+<S>
+Newark PROPN
+ve CCONJ
+Nashville PROPN
+arasındaki ADJ
+American PROPN
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+Seattle'den PROPN
+Salt PROPN
+Lake PROPN
+City'e PROPN
+olan ADJ
+Delta PROPN
+uçuşlarını NOUN
+uçak NOUN
+tipiyle NOUN
+birlikte ADP
+listeleyin VERB
+</S>
+<S>
+Cincinnati'den PROPN
+Houston'a PROPN
+olan ADJ
+American PROPN
+uçuşları NOUN
+</S>
+<S>
+Pazar PROPN
+günü NOUN
+Denver'den PROPN
+Chicago'ya PROPN
+Continental PROPN
+uçuşları NOUN
+</S>
+<S>
+Pittsburgh'tan PROPN
+Atlanta'ya PROPN
+çarşamba PROPN
+günü NOUN
+</S>
+<S>
+Pazartesi PROPN
+salı NOUN
+çarşamba PROPN
+perşembe NOUN
+cuma NOUN
+günleri NOUN
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Pazartesi PROPN
+günü NOUN
+Phoenix'den PROPN
+Denver'e PROPN
+</S>
+<S>
+Çarşamba PROPN
+günü NOUN
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+</S>
+<S>
+Indianapolis'ten PROPN
+Charlotte'ye PROPN
+olan ADJ
+pazartesi PROPN
+günkü ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Denver'den PROPN
+Boston'a PROPN
+olan ADJ
+salı NOUN
+günkü ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+pazartesi PROPN
+günkü ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Houston'dan PROPN
+Memphis'e PROPN
+olan ADJ
+cuma NOUN
+günkü ADJ
+uçuşları NOUN
+bul VERB
+</S>
+<S>
+Pazartesi PROPN
+günü NOUN
+Boston'dan PROPN
+Denver'e PROPN
+</S>
+<S>
+Cuma PROPN
+günü NOUN
+Newark'tan PROPN
+kalkan ADJ
+Lampa PROPN
+uçuşları NOUN
+hangileri PRON
+</S>
+<S>
+Pekala ADV
+çarşamba PROPN
+günü NOUN
+Oakland'dan PROPN
+Philadelphia'ya PROPN
+ne ADV
+var ADJ
+</S>
+<S>
+Cumartesi NOUN
+günü NOUN
+Montreal'dan PROPN
+Las PROPN
+Vegas'a PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Cleveland'dan PROPN
+Kansas'a PROPN
+giden ADJ
+pazartesi PROPN
+günkü ADJ
+tüm DET
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Memphis'ten PROPN
+Las PROPN
+Vegas'a PROPN
+olan ADJ
+pazar NOUN
+günü NOUN
+uçuşları NOUN
+</S>
+<S>
+Pazartesi PROPN
+günü NOUN
+Boston'dan PROPN
+Atlanta'ya PROPN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+Baltimore'ye PROPN
+giden ADJ
+tüm DET
+cumartesi NOUN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Oakland'dan PROPN
+Dallas'a PROPN
+giden ADJ
+tüm DET
+pazar NOUN
+günü NOUN
+uçuşlarını NOUN
+göster VERB
+</S>
+<S>
+Lütfen ADV
+salı NOUN
+günkü ADJ
+Dallas PROPN
+- PUNCT
+Atlanta PROPN
+uçuşlarını NOUN
+listele VERB
+</S>
+<S>
+Pazartesi PROPN
+günü NOUN
+Denver'den PROPN
+Philadelphia'ya PROPN
+</S>
+<S>
+Detroit'ten PROPN
+San PROPN
+Diego'ya PROPN
+salı NOUN
+günü NOUN
+için ADP
+uçuş NOUN
+bul VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Toronto'dan PROPN
+San PROPN
+Diego'ya PROPN
+olan ADJ
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Philadelphia'dan PROPN
+San PROPN
+Francisco'ya PROPN
+</S>
+<S>
+Boston'dan PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+San PROPN
+Francisco'ya PROPN
+olan ADJ
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Tacoma'dan PROPN
+San PROPN
+Jose'ye PROPN
+hangi ADJ
+uçuşlar NOUN
+gider VERB
+</S>
+<S>
+Denver'den PROPN
+Las PROPN
+Vegas'a PROPN
+giden ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Pekala ADV
+şimdi ADV
+Seattle'den PROPN
+San PROPN
+Diego'ya PROPN
+kalkan ADJ
+bir DET
+uçağa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Tampa PROPN
+ve CCONJ
+St. PROPN
+Louis PROPN
+arasındaki ADJ
+uçuşlar NOUN
+</S>
+<S>
+Memphis'ten PROPN
+Las PROPN
+Vegas'a PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Bana PRON
+Cincinnati'den PROPN
+New PROPN
+York PROPN
+City PROPN
+bölgesindeki ADJ
+herhangi ADJ
+bir DET
+havaalanına NOUN
+giden ADJ
+bir DET
+uçuş NOUN
+bul VERB
+</S>
+<S>
+Denver'den PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+hangi ADJ
+uçuşlar NOUN
+müsait ADJ
+</S>
+<S>
+Boston'dan PROPN
+Fort PROPN
+Worth'a PROPN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Boston'dan PROPN
+Denver'e PROPN
+ve CCONJ
+sonrasında NOUN
+da CCONJ
+San PROPN
+Francisco'dan PROPN
+tekrar ADV
+Boston'a PROPN
+uçmam NOUN
+gerekiyor VERB
+</S>
+<S>
+Boston PROPN
+ve CCONJ
+San PROPN
+Francisco PROPN
+arasında NOUN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+San PROPN
+Francisco'ya PROPN
+giden ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Denver'den PROPN
+Salt PROPN
+Lake PROPN
+City'e PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+giden ADJ
+uçuşlar NOUN
+hangileri PRON
+</S>
+<S>
+Baltimore'den PROPN
+Philadelphia'ya PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston PROPN
+ve CCONJ
+Denver PROPN
+arasında NOUN
+bir DET
+uçak NOUN
+bileti NOUN
+ver VERB
+</S>
+<S>
+Baltimore'den PROPN
+Philadelphia'ya PROPN
+olan ADJ
+uçuşlar NOUN
+lütfen ADV
+</S>
+<S>
+Boston'dan PROPN
+Philadelphia'ya PROPN
+olan ADJ
+tüm DET
+uçuşları NOUN
+görmek NOUN
+istiyorum VERB
+</S>
+<S>
+Atlanta'dan PROPN
+Baltimore'ye PROPN
+olan ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Washington'a PROPN
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Tampa'dan PROPN
+Milwaukee'ye PROPN
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+Baltimore'ye PROPN
+</S>
+<S>
+Lütfen ADV
+Denver'den PROPN
+Philadelphia'ya PROPN
+gelen ADJ
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Pittsburgh'a PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Pittsburgh'tan PROPN
+Atlanta'ya PROPN
+uçuşları NOUN
+görmek NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh PROPN
+Milwaukee PROPN
+arası NOUN
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Baltimore'den PROPN
+Seattle'ye PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Nashville'den PROPN
+Cleveland'a PROPN
+uçuş NOUN
+</S>
+<S>
+Şimdi ADV
+Denver'den PROPN
+Atlanta'ya PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Phoenix'den PROPN
+Newark'a PROPN
+uçuşlar NOUN
+</S>
+<S>
+Newark'tan PROPN
+Cleveland'a PROPN
+</S>
+<S>
+Boston'dan PROPN
+Dallas'a PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Uçuş NOUN
+Boston'dan PROPN
+başlayacak ADJ
+</S>
+<S>
+Denver'de PROPN
+yaşıyorum VERB
+ve CCONJ
+Pittsburgh'a PROPN
+seyahat NOUN
+etmek NOUN
+istiyorum VERB
+</S>
+<S>
+Boston'dan PROPN
+Baltimore'ye PROPN
+olan ADJ
+uçuşlar NOUN
+nelerdir VERB
+</S>
+<S>
+Bana PRON
+Pittsburgh PROPN
+ve CCONJ
+Philadelphia PROPN
+arası NOUN
+bir DET
+uçuş NOUN
+verebilir VERB
+misiniz AUX
+</S>
+<S>
+Charlotte'den PROPN
+olan ADJ
+tüm DET
+uçuşlar NOUN
+</S>
+<S>
+Pittsburgh'dan PROPN
+Dallas'a PROPN
+giden ADJ
+uçuşların NOUN
+listesini NOUN
+istiyorum VERB
+</S>
+<S>
+Indianapolis'ten PROPN
+Houston'a PROPN
+uçuşları NOUN
+listele VERB
+</S>
+<S>
+Tacoma'da PROPN
+havaalanından NOUN
+şehir NOUN
+merkezine NOUN
+nasıl ADV
+giderim VERB
+</S>
+<S>
+Toronto'dan PROPN
+Cincinnati'ye PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh'a PROPN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Baltimore'den PROPN
+Dallas'a PROPN
+uçuşları NOUN
+gösterebilir VERB
+misin AUX
+</S>
+<S>
+Milwaukee'den PROPN
+Seattle'ye PROPN
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Boston'dan PROPN
+Atlanta'ya PROPN
+giden ADJ
+uçuş NOUN
+var ADJ
+mı AUX
+</S>
+<S>
+Boston'dan PROPN
+Denver'e PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Baltimore'den PROPN
+Dallas'a PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Washington'dan PROPN
+Seattle'ye PROPN
+uçuşlar NOUN
+</S>
+<S>
+Charlotte'den PROPN
+Miami'ye PROPN
+uçuş NOUN
+istiyorum VERB
+</S>
+<S>
+Columbus'tan PROPN
+Charlotte'ye PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Denver'den PROPN
+Pittsburgh'a PROPN
+uçmak NOUN
+istiyorum VERB
+</S>
+<S>
+Boston'dan PROPN
+Oakland'a PROPN
+gitmek NOUN
+istiyorum VERB
+</S>
+<S>
+Pittsburgh'dan PROPN
+Denver'e PROPN
+gidiş NOUN
+dönüş NOUN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Boston'dan PROPN
+Orlando'ya PROPN
+giden ADJ
+bir DET
+uçuşa NOUN
+ihtiyacım NOUN
+var ADJ
+</S>
+<S>
+Denver'den PROPN
+Philadelphia'ya PROPN
+tüm DET
+uçuşları NOUN
+görmek NOUN
+istiyorum VERB
+</S>
+<S>
+Lütfen ADV
+Dallas'tan PROPN
+Denver'e PROPN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Oakland'a PROPN
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Indianapolis'ten PROPN
+Montreal'a PROPN
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Aynı ADJ
+zamanda NOUN
+Oakland'dan PROPN
+Denver'e PROPN
+tüm DET
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Boston'dan PROPN
+Washington'a PROPN
+hangi ADJ
+uçuşlar NOUN
+var ADJ
+</S>
+<S>
+Boston'dan PROPN
+Pittsburgh'a PROPN
+uçuşlar NOUN
+</S>
+<S>
+Houston PROPN
+Orlando PROPN
+arası NOUN
+uçuşları NOUN
+göster VERB
+</S>
+<S>
+Baltimore'den PROPN
+Philadelphia'ya PROPN
+uçuşları NOUN
+görmek NOUN
+istiyorum VERB
+</S>
+<S>
+Cleveland'dan PROPN
+Miami'ye PROPN
+uçuşlar NOUN
+</S>
+<S>
+Nashville'den PROPN
+Phoenix'e PROPN
+hangi ADJ
+uçuşlar NOUN
+gidiyor VERB
+</S>
+<S>
+Oakland'a PROPN
+giden ADJ
+tüm DET
+uçuşlar NOUN
+aynı ADJ
+yere NOUN
+mi AUX
+iniyor VERB
+</S>

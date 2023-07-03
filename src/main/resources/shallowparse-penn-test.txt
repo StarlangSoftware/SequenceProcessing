@@ -1,0 +1,5677 @@
+<S>
+Hayır HİÇBİRİ
+, HİÇBİRİ
+kara NESNE
+pazartesi NESNE
+değildi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Birilerini ÖZNE
+suçlama ÖZNE
+süreci ÖZNE
+çoktan ZARF_TÜMLECİ
+başladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hisse ÖZNE
+senedi ÖZNE
+piyasası ÖZNE
+likit YÜKLEM
+değildi YÜKLEM
+. NONE
+</S>
+<S>
+Kapanıştan ÖZNE
+önceki ÖZNE
+Son ÖZNE
+saatteki ÖZNE
+alım ÖZNE
+satım ÖZNE
+işlemi ÖZNE
+108.1 ZARF_TÜMLECİ
+milyon ZARF_TÜMLECİ
+hisse ZARF_TÜMLECİ
+ile ZARF_TÜMLECİ
+New DOLAYLI_TÜMLEÇ
+York DOLAYLI_TÜMLEÇ
+Menkul DOLAYLI_TÜMLEÇ
+Kıymetler DOLAYLI_TÜMLEÇ
+Piyasası DOLAYLI_TÜMLEÇ
+için DOLAYLI_TÜMLEÇ
+rekor DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+seviyeye DOLAYLI_TÜMLEÇ
+erişti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Günün ZARF_TÜMLECİ
+sonunda ZARF_TÜMLECİ
+, HİÇBİRİ
+251.2 ZARF_TÜMLECİ
+milyon ZARF_TÜMLECİ
+adet ZARF_TÜMLECİ
+hisse ÖZNE
+alım ÖZNE
+satımı ÖZNE
+gerçekleştirildi YÜKLEM
+. NONE
+</S>
+<S>
+Dow ÖZNE
+Jones ÖZNE
+sanayi ÖZNE
+endeksi ÖZNE
+2569.26 DOLAYLI_TÜMLEÇ
+seviyesinden DOLAYLI_TÜMLEÇ
+kapandı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Dow ÖZNE
+Jones ÖZNE
+Kara ZARF_TÜMLECİ
+Pazartesi'nde ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+22.6 ZARF_TÜMLECİ
+düştü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Birkaç ZARF_TÜMLECİ
+borsa ZARF_TÜMLECİ
+işlemcisinin ZARF_TÜMLECİ
+son ZARF_TÜMLECİ
+dakika ZARF_TÜMLECİ
+gelişmelerine ZARF_TÜMLECİ
+yönelik ZARF_TÜMLECİ
+haberler ZARF_TÜMLECİ
+verildiğinde ZARF_TÜMLECİ
+kafalarını ÖZNE
+salladığı ÖZNE
+görülebilirdi YÜKLEM
+. NONE
+</S>
+<S>
+Gelinen DOLAYLI_TÜMLEÇ
+Bu DOLAYLI_TÜMLEÇ
+noktada DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+Dow ÖZNE
+endeksi ÖZNE
+yaklaşık ZARF_TÜMLECİ
+35 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+düşüktü YÜKLEM
+. NONE
+</S>
+<S>
+Piyasa ÖZNE
+çöktü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+hisseler ÖZNE
+sonunda ZARF_TÜMLECİ
+yeniden ZARF_TÜMLECİ
+açıldı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bunun ZARF_TÜMLECİ
+sonucunda ZARF_TÜMLECİ
+, HİÇBİRİ
+vadeli ÖZNE
+işlemler ÖZNE
+ile ÖZNE
+hisse ÖZNE
+senedi ÖZNE
+piyasaları ÖZNE
+arasındaki ÖZNE
+zincir ÖZNE
+parçalandı YÜKLEM
+. NONE
+</S>
+<S>
+Vadeli DOLAYLI_TÜMLEÇ
+alım DOLAYLI_TÜMLEÇ
+satımların DOLAYLI_TÜMLEÇ
+duraklamasına DOLAYLI_TÜMLEÇ
+bile DOLAYLI_TÜMLEÇ
+NY ÖZNE
+Menkul ÖZNE
+Kıymetler ÖZNE
+Borsası'nın ÖZNE
+borsa ÖZNE
+tacirleri ÖZNE
+tarafından YÜKLEM
+saldırıldı YÜKLEM
+. NONE
+</S>
+<S>
+Önemli ÖZNE
+bir ÖZNE
+uzman ÖZNE
+" HİÇBİRİ
+Bu NESNE
+işleri NESNE
+berbat NESNE
+etti NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+dedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+hisseler ÖZNE
+değer NESNE
+kaybetmeyi NESNE
+sürdürdü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Dow ÖZNE
+sanayi ÖZNE
+endeksi ÖZNE
+vadeli ÖZNE
+işlemleri ÖZNE
+durdurulmasından ZARF_TÜMLECİ
+önce ZARF_TÜMLECİ
+saat ZARF_TÜMLECİ
+15 ZARF_TÜMLECİ
+sularında ZARF_TÜMLECİ
+55 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+düşmüştü YÜKLEM
+. NONE
+</S>
+<S>
+Alıcılar ÖZNE
+vadeli DOLAYLI_TÜMLEÇ
+işlemler DOLAYLI_TÜMLEÇ
+mağarasından DOLAYLI_TÜMLEÇ
+içeri ZARF_TÜMLECİ
+girdiler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ve HİÇBİRİ
+ben ÖZNE
+birçok NESNE
+kişinin NESNE
+bilgisayar NESNE
+programı NESNE
+destekli NESNE
+alım-satım NESNE
+üzerinde NESNE
+çok NESNE
+duracağını NESNE
+düşünüyorum YÜKLEM
+. NONE
+</S>
+<S>
+Tartışmayı NESNE
+hemen ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+tekrardan ZARF_TÜMLECİ
+ön DOLAYLI_TÜMLEÇ
+plana DOLAYLI_TÜMLEÇ
+çıkaracak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+ortada DOLAYLI_TÜMLEÇ
+hiçbir ZARF_TÜMLECİ
+alıcı ÖZNE
+yoktu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+hiç ÖZNE
+kimse ÖZNE
+vadeli NESNE
+işlemlerin NESNE
+ve NESNE
+hisse NESNE
+senetlerinin NESNE
+bugün NESNE
+hangi NESNE
+seviyeden NESNE
+açılacağını NESNE
+bilmiyor YÜKLEM
+. NONE
+</S>
+<S>
+Bilmek NESNE
+isteyeceğinizi NESNE
+düşündük YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+George HİÇBİRİ
+Morton HİÇBİRİ
+</S>
+<S>
+Hooker'in YÜKLEM
+felsefesi YÜKLEM
+inşa YÜKLEM
+etmek YÜKLEM
+ve YÜKLEM
+satmaktı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Biz ÖZNE
+inşa NESNE
+etmek NESNE
+ve NESNE
+tutmak NESNE
+istiyoruz YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hoare ÖZNE
+Govett ÖZNE
+konsorsiyumun YÜKLEM
+yatırım YÜKLEM
+bankacısı YÜKLEM
+olarak YÜKLEM
+davranıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Merksamer ÖZNE
+zinciri ÖZNE
+halihazırda ZARF_TÜMLECİ
+First YÜKLEM
+Boston YÜKLEM
+Corp. YÜKLEM
+tarafından YÜKLEM
+satışa NESNE
+yönelik NESNE
+olarak NESNE
+arz YÜKLEM
+ediliyor YÜKLEM
+. NONE
+</S>
+<S>
+haftanın ÖZNE
+toplamı ÖZNE
+bir ZARF_TÜMLECİ
+yıl ZARF_TÜMLECİ
+önce ZARF_TÜMLECİ
+274,963 ZARF_TÜMLECİ
+tondan ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+6.2 ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+yukarıdaydı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bunlar YÜKLEM
+minimum DOLAYLI_TÜMLEÇ
+10000 ZARF_TÜMLECİ
+$'lık DOLAYLI_TÜMLEÇ
+nominal DOLAYLI_TÜMLEÇ
+değerlerde DOLAYLI_TÜMLEÇ
+mevcut YÜKLEM
+olacak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+bir NESNE
+kerelik NESNE
+bir NESNE
+işmiş NESNE
+gibi NESNE
+bir NESNE
+his NESNE
+veriyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İnsanlar ÖZNE
+paniklemiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Test ÖZNE
+bugün ZARF_TÜMLECİ
+gelebilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Cuma ÖZNE
+gününün ÖZNE
+hisse ÖZNE
+senedi ÖZNE
+borsasındaki ÖZNE
+elden ÖZNE
+çıkarma ÖZNE
+işlemleri ÖZNE
+birçok YÜKLEM
+yatırımcı YÜKLEM
+için YÜKLEM
+harekete YÜKLEM
+geçmek YÜKLEM
+açısından YÜKLEM
+çok YÜKLEM
+geç YÜKLEM
+ortaya YÜKLEM
+çıktı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+fon ÖZNE
+yöneticileri ÖZNE
+hazır NESNE
+olduklarını NESNE
+belirttiler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Fonların ÖZNE
+tümü ÖZNE
+elbette HİÇBİRİ
+nakit NESNE
+seviyelerini NESNE
+yükseltmedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Birçok ÖZNE
+fon ÖZNE
+yöneticisi ÖZNE
+halihazırda NESNE
+artık NESNE
+satın NESNE
+alma NESNE
+zamanının NESNE
+geldiğini NESNE
+tartışıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+çoğu ÖZNE
+yatırımcı ÖZNE
+hisse NESNE
+fiyatlarını NESNE
+ve NESNE
+diğer NESNE
+bilgileri NESNE
+arıyordu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İşlem ÖZNE
+hacmi ÖZNE
+normalden ZARF_TÜMLECİ
+yalnızca ZARF_TÜMLECİ
+biraz ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+yüksekti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hala HİÇBİRİ
+fon ÖZNE
+grupları ÖZNE
+kendini NESNE
+riske YÜKLEM
+atmıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Cumartesi ZARF_TÜMLECİ
+günü ZARF_TÜMLECİ
+Fidelity ÖZNE
+ülke ZARF_TÜMLECİ
+çapında ZARF_TÜMLECİ
+54 NESNE
+bağımsız NESNE
+yatırımcı NESNE
+merkezi NESNE
+açtı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Merkezler ÖZNE
+normalde ZARF_TÜMLECİ
+hafta ZARF_TÜMLECİ
+sonları ZARF_TÜMLECİ
+kapalıdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Janus YÜKLEM
+Groupun YÜKLEM
+yatırımcılara YÜKLEM
+yönelik YÜKLEM
+benzer YÜKLEM
+bir YÜKLEM
+kaydı YÜKLEM
+var YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Birçok ÖZNE
+fon ÖZNE
+yöneticisi ÖZNE
+bu ZARF_TÜMLECİ
+sabah ZARF_TÜMLECİ
+fiyatlar ZARF_TÜMLECİ
+istikrarlı ZARF_TÜMLECİ
+hale ZARF_TÜMLECİ
+gelmeden ZARF_TÜMLECİ
+önce ZARF_TÜMLECİ
+daha NESNE
+sert NESNE
+bir NESNE
+piyasa NESNE
+bekliyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu HİÇBİRİ
+büyük HİÇBİRİ
+çaplı HİÇBİRİ
+bir HİÇBİRİ
+çöküş HİÇBİRİ
+değildir HİÇBİRİ
+, HİÇBİRİ
+dedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şimdi ZARF_TÜMLECİ
+bu ÖZNE
+yolların ÖZNE
+Ocak ÖZNE
+ayına ÖZNE
+kadar ÖZNE
+başlaması ÖZNE
+beklenmiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bunların YÜKLEM
+da YÜKLEM
+geç YÜKLEM
+kalacağı YÜKLEM
+hemen YÜKLEM
+hemen YÜKLEM
+kesin YÜKLEM
+gibi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Müşterilerinin NESNE
+bunu NESNE
+çok NESNE
+seveceğini NESNE
+sanmıyorum YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+yatırım ÖZNE
+topluluğu ÖZNE
+, HİÇBİRİ
+Bilhassa HİÇBİRİ
+hızlı NESNE
+bir NESNE
+çözüm NESNE
+bekliyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Hiçbir NESNE
+şey NESNE
+için NESNE
+acil NESNE
+bir NESNE
+çözüm NESNE
+beklentisi YÜKLEM
+içinde YÜKLEM
+değilim YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Bununla HİÇBİRİ
+birlikte HİÇBİRİ
+Sendika ÖZNE
+süresi ÖZNE
+sona ÖZNE
+eren ÖZNE
+sözleşme ÖZNE
+üzerinde YÜKLEM
+çalışmayı YÜKLEM
+sürdürüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Uzlaşı ÖZNE
+dün ZARF_TÜMLECİ
+sona YÜKLEM
+erdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Pratt ÖZNE
+& ÖZNE
+Whitney ÖZNE
+, HİÇBİRİ
+United YÜKLEM
+Technologies YÜKLEM
+Inc'in YÜKLEM
+bir YÜKLEM
+birimidir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Martinair ÖZNE
+Hollanda'ın ÖZNE
+merkezi ÖZNE
+, HİÇBİRİ
+Amsterdam'dadır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bridget ÖZNE
+O'Brian ÖZNE
+bu DOLAYLI_TÜMLEÇ
+makaleye DOLAYLI_TÜMLEÇ
+katkıda YÜKLEM
+bulundu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Projeler ÖZNE
+büyük YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+1 NESNE
+milyar NESNE
+dolar NESNE
+artıda NESNE
+olabilirler NESNE
+, HİÇBİRİ
+dedi YÜKLEM
+Bay ÖZNE
+Richardson ÖZNE
+. HİÇBİRİ
+</S>
+<S>
+5 DOLAYLI_TÜMLEÇ
+Ekim DOLAYLI_TÜMLEÇ
+tarihli DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+Centennial DOLAYLI_TÜMLEÇ
+Journal DOLAYLI_TÜMLEÇ
+makalesinde DOLAYLI_TÜMLEÇ
+, NONE
+ücretler ÖZNE
+tersine YÜKLEM
+döndürüldü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Diamond ÖZNE
+Shamrock ÖZNE
+Offshore ÖZNE
+Partners ÖZNE
+, HİÇBİRİ
+Lousiana NESNE
+eyaletinde NESNE
+denizde NESNE
+gaz NESNE
+kaynağı NESNE
+keşfettiğini NESNE
+açıkladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Diamond ÖZNE
+Shamrock ÖZNE
+kuyuda ZARF_TÜMLECİ
+% NONE
+100 ZARF_TÜMLECİ
+çıkarı ZARF_TÜMLECİ
+olan ZARF_TÜMLECİ
+operatördür YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Genellikle ZARF_TÜMLECİ
+muhafazakar ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+tutumla ZARF_TÜMLECİ
+hareket YÜKLEM
+ediyoruz YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+halihazırda ZARF_TÜMLECİ
+fiyatlar ÖZNE
+pike YÜKLEM
+yaptı YÜKLEM
+ve HİÇBİRİ
+Quantum'un ÖZNE
+kârı ÖZNE
+büyük ZARF_TÜMLECİ
+hızla ZARF_TÜMLECİ
+düşüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Fiyatlandırma DOLAYLI_TÜMLEÇ
+döngülerinde DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+emin DOLAYLI_TÜMLEÇ
+olmak DOLAYLI_TÜMLEÇ
+adına DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+plastik ZARF_TÜMLECİ
+üreticileri ZARF_TÜMLECİ
+açısından ZARF_TÜMLECİ
+yeni ÖZNE
+hiçbir ÖZNE
+şey ÖZNE
+yok YÜKLEM
+. NONE
+</S>
+<S>
+" HİÇBİRİ
+Şimdi ZARF_TÜMLECİ
+listenin DOLAYLI_TÜMLEÇ
+en DOLAYLI_TÜMLEÇ
+altında DOLAYLI_TÜMLEÇ
+en YÜKLEM
+kötü YÜKLEM
+durumdayız YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+İnsanlar HİÇBİRİ
+çantaları HİÇBİRİ
+bile HİÇBİRİ
+istifliyordu HİÇBİRİ
+, HİÇBİRİ
+" HİÇBİRİ
+diyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şimdi ZARF_TÜMLECİ
+üreticiler ÖZNE
+fiyatların NESNE
+dibe NESNE
+vurmasını NESNE
+umut YÜKLEM
+ediyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bazıları YÜKLEM
+Kasım NESNE
+diyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ben ÖZNE
+1992 NESNE
+diyorum YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hızlı ÖZNE
+ve ÖZNE
+keskin ÖZNE
+bir ÖZNE
+toparlanma ÖZNE
+, HİÇBİRİ
+nakit ZARF_TÜMLECİ
+gereksinimleri ZARF_TÜMLECİ
+halen ZARF_TÜMLECİ
+ağır ZARF_TÜMLECİ
+derecede ZARF_TÜMLECİ
+seyrettiği ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+Quantum YÜKLEM
+açısından YÜKLEM
+çok YÜKLEM
+önemlidir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bazı ÖZNE
+analistler ÖZNE
+ödemeyi NESNE
+hisse ZARF_TÜMLECİ
+ele ZARF_TÜMLECİ
+geçirme ZARF_TÜMLECİ
+spekülasyonunu ZARF_TÜMLECİ
+defetmek ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+bir YÜKLEM
+çaba YÜKLEM
+olarak YÜKLEM
+gördü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bundan ZARF_TÜMLECİ
+sonra ZARF_TÜMLECİ
+ikinci ÖZNE
+bir ÖZNE
+patlama ÖZNE
+meydana YÜKLEM
+geldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İki ÖZNE
+işçi ÖZNE
+öldü YÜKLEM
+ve HİÇBİRİ
+altı ÖZNE
+işçi ÖZNE
+halen ZARF_TÜMLECİ
+hastanede DOLAYLI_TÜMLEÇ
+tedavi YÜKLEM
+görüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Ve HİÇBİRİ
+halen ZARF_TÜMLECİ
+müzakere YÜKLEM
+etmek YÜKLEM
+zorundasınız YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Quantum ÖZNE
+için ÖZNE
+Her ÖZNE
+şey ÖZNE
+ümitsiz YÜKLEM
+ve YÜKLEM
+amansız YÜKLEM
+görünmüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Petrolane ÖZNE
+, NONE
+ABD'deki DOLAYLI_TÜMLEÇ
+en ZARF_TÜMLECİ
+büyük ZARF_TÜMLECİ
+ikinci ZARF_TÜMLECİ
+propan ZARF_TÜMLECİ
+distribütörüdür YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+En ÖZNE
+büyük ÖZNE
+, HİÇBİRİ
+Suburban ÖZNE
+Propane ÖZNE
+, HİÇBİRİ
+zaten YÜKLEM
+Quantum'un YÜKLEM
+şirketiydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Quantum ÖZNE
+halen ZARF_TÜMLECİ
+bir YÜKLEM
+kriz YÜKLEM
+içinde YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bazı ÖZNE
+analistler ÖZNE
+zayıflayan NESNE
+borsanın NESNE
+bir NESNE
+talibi NESNE
+halen NESNE
+cezbedebileceği NESNE
+spekülasyonunu YÜKLEM
+yapıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+kota ÖZNE
+1984 ZARF_TÜMLECİ
+yılında ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+6.9 ZARF_TÜMLECİ
+gibi ZARF_TÜMLECİ
+büyük YÜKLEM
+bir YÜKLEM
+rakamdaydı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Gelir ÖZNE
+toplamı ÖZNE
+5 YÜKLEM
+milyon YÜKLEM
+Dolar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ölçü NESNE
+kaplarının NESNE
+yerini NESNE
+kısa ZARF_TÜMLECİ
+süre ZARF_TÜMLECİ
+sonra ZARF_TÜMLECİ
+çamaşır DOLAYLI_TÜMLEÇ
+odasındaki DOLAYLI_TÜMLEÇ
+yemek ÖZNE
+kaşıkları ÖZNE
+alabilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bir ÖZNE
+P&G ÖZNE
+sözcüsü ÖZNE
+Phoenix'e NESNE
+yapılan NESNE
+sevkiyatların NESNE
+geçen NESNE
+ay NESNE
+sonunda NESNE
+başladığını NESNE
+teyit YÜKLEM
+etti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Süper ÖZNE
+konsantreler ÖZNE
+P&G YÜKLEM
+için YÜKLEM
+tamamıyla YÜKLEM
+yeni YÜKLEM
+değildir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ayrıca HİÇBİRİ
+Kaliforniya'da DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+ürün DOLAYLI_TÜMLEÇ
+test DOLAYLI_TÜMLEÇ
+fabrikasına DOLAYLI_TÜMLEÇ
+sahiptir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+bu ÖZNE
+tür ÖZNE
+açıklamaların ÖZNE
+politikaya ÖZNE
+Nasıl ÖZNE
+tercüme ÖZNE
+edildiği ÖZNE
+aylarca ZARF_TÜMLECİ
+anlaşılır NESNE
+bir NESNE
+hal NESNE
+almayacak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Çoğu ÖZNE
+kimse ÖZNE
+tarafından ÖZNE
+bu ZARF_TÜMLECİ
+stiller ZARF_TÜMLECİ
+arasındaki ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+tezat ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+adlandırıldı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+bazıları ÖZNE
+bunu NESNE
+klasik ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+pazarlık ZARF_TÜMLECİ
+taktiği ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+gördü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Çok ZARF_TÜMLECİ
+vahşi ZARF_TÜMLECİ
+hissetmiyorum YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sert ZARF_TÜMLECİ
+veya ZARF_TÜMLECİ
+yumuşak ZARF_TÜMLECİ
+hissetmiyorum YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Açılan HİÇBİRİ
+piyasaların NESNE
+ve NESNE
+genişleyen NESNE
+işlemlerin NESNE
+programına NESNE
+bağlı NESNE
+kaldığımı NESNE
+hissediyorum YÜKLEM
+. NONE
+</S>
+<S>
+ABD NESNE
+hükümetinin NESNE
+tanımladığı NESNE
+dışlayıcı NESNE
+ticari NESNE
+teamüllerin NESNE
+altını YÜKLEM
+çizdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+, HİÇBİRİ
+yönetilen DOLAYLI_TÜMLEÇ
+alım DOLAYLI_TÜMLEÇ
+satım DOLAYLI_TÜMLEÇ
+işlemine DOLAYLI_TÜMLEÇ
+karşıyım YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şirket ÖZNE
+dördüncü NESNE
+çeyrek NESNE
+sonuçlarını NESNE
+ortaya YÜKLEM
+koymadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sıkı ÖZNE
+sıkıya ÖZNE
+tutulan ÖZNE
+Morris ÖZNE
+Communications ÖZNE
+Augusta ÖZNE
+, HİÇBİRİ
+Ga'da YÜKLEM
+bulunmaktadır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Anlaşma ÖZNE
+şartları ÖZNE
+açıklanmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Syms ÖZNE
+, HİÇBİRİ
+A.B.D.'de DOLAYLI_TÜMLEÇ
+25 NESNE
+adet NESNE
+ucuz NESNE
+fiyatlı NESNE
+konfeksiyon NESNE
+mağazası NESNE
+işletmektedir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Petrol ÖZNE
+endüstrisinin ÖZNE
+orta ÖZNE
+halli ÖZNE
+karları ÖZNE
+yılın ZARF_TÜMLECİ
+geri ZARF_TÜMLECİ
+kalanı ZARF_TÜMLECİ
+boyunca ZARF_TÜMLECİ
+sürdürülebilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Phillips'in NESNE
+sonuçlarını NESNE
+ön NESNE
+göremedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Temmuz ZARF_TÜMLECİ
+ayından ZARF_TÜMLECİ
+itibaren ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+13 ZARF_TÜMLECİ
+düşerek ZARF_TÜMLECİ
+26 DOLAYLI_TÜMLEÇ
+cent DOLAYLI_TÜMLEÇ
+seviyelerinde DOLAYLI_TÜMLEÇ
+geriledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kimyasal ÖZNE
+fiyatı ÖZNE
+gerilemesinin ÖZNE
+büyük ÖZNE
+nedenlerinden ÖZNE
+biri ÖZNE
+aşırı YÜKLEM
+genişlemedir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şirketler ÖZNE
+kızgın ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+kapasite NESNE
+ekledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Benzinden ÖZNE
+gelen ÖZNE
+üçüncü ÖZNE
+çeyrek ÖZNE
+kârları ÖZNE
+daha YÜKLEM
+zayıftı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Aşırı ÖZNE
+arz ÖZNE
+benzin NESNE
+fiyatlarını NESNE
+bu DOLAYLI_TÜMLEÇ
+dönemde DOLAYLI_TÜMLEÇ
+aşağı YÜKLEM
+düşürdü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+1988 ZARF_TÜMLECİ
+yılının ZARF_TÜMLECİ
+ikinci ZARF_TÜMLECİ
+yarısında ZARF_TÜMLECİ
+, HİÇBİRİ
+birçok ÖZNE
+şirket ÖZNE
+rekor NESNE
+düzeyde NESNE
+benzin NESNE
+ve NESNE
+kimyasal NESNE
+karı NESNE
+yazdı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ana ÖZNE
+sebep ÖZNE
+hava ZARF_TÜMLECİ
+durumu ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+devam YÜKLEM
+ediyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Öte ZARF_TÜMLECİ
+yandan ZARF_TÜMLECİ
+, HİÇBİRİ
+bu ZARF_TÜMLECİ
+yaz ZARF_TÜMLECİ
+, HİÇBİRİ
+normalden ÖZNE
+daha ÖZNE
+yumuşak ÖZNE
+bir ÖZNE
+hava ÖZNE
+vardı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Olivetti ÖZNE
+bu DOLAYLI_TÜMLEÇ
+aletlerin DOLAYLI_TÜMLEÇ
+sevkiyatına DOLAYLI_TÜMLEÇ
+söylentilere ZARF_TÜMLECİ
+göre ZARF_TÜMLECİ
+1984'te ZARF_TÜMLECİ
+başladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İtalya ÖZNE
+Cumhurbaşkanı ÖZNE
+Francesco NESNE
+Cossiga NESNE
+Olivetti'nin NESNE
+Cocom NESNE
+kurallarının NESNE
+çiğnendiğine NESNE
+yönelik NESNE
+hızlı NESNE
+bir NESNE
+soruşturma NESNE
+yapılacağına NESNE
+söz YÜKLEM
+verdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Northview ÖZNE
+yetkililerinin ÖZNE
+yeri ÖZNE
+belirlenemedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bununla HİÇBİRİ
+birlikte HİÇBİRİ
+, HİÇBİRİ
+anlaşma ÖZNE
+Temmuz ZARF_TÜMLECİ
+1984'te ZARF_TÜMLECİ
+iptal YÜKLEM
+edildi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Anlaşma ZARF_TÜMLECİ
+hükümleri ZARF_TÜMLECİ
+altında ZARF_TÜMLECİ
+, HİÇBİRİ
+birleşik DOLAYLI_TÜMLEÇ
+şirketin DOLAYLI_TÜMLEÇ
+% DOLAYLI_TÜMLEÇ
+87.2'sine DOLAYLI_TÜMLEÇ
+sahip YÜKLEM
+olacak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ideal'ın ÖZNE
+mevcut ÖZNE
+faaliyetleri ÖZNE
+bileşik NESNE
+şirketin NESNE
+% NESNE
+39.2'sini NESNE
+temsil YÜKLEM
+edecektir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İşlem ÖZNE
+kesin DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+anlaşma DOLAYLI_TÜMLEÇ
+ve DOLAYLI_TÜMLEÇ
+Ideal DOLAYLI_TÜMLEÇ
+hissedarlarının DOLAYLI_TÜMLEÇ
+onayına DOLAYLI_TÜMLEÇ
+tabidir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ideal NESNE
+işlemi NESNE
+gelecek NESNE
+yılın NESNE
+ilk NESNE
+aylarında NESNE
+tamamlamayı NESNE
+beklediğini NESNE
+açıkladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+1970'li ZARF_TÜMLECİ
+yılların ZARF_TÜMLECİ
+ilk ZARF_TÜMLECİ
+yarısından ZARF_TÜMLECİ
+beri ZARF_TÜMLECİ
+en NESNE
+düşük NESNE
+seviye NESNE
+olacaktı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Stoklar ÖZNE
+bu ZARF_TÜMLECİ
+yılın ZARF_TÜMLECİ
+31 ZARF_TÜMLECİ
+Mayıs ZARF_TÜMLECİ
+tarihinde ZARF_TÜMLECİ
+698 YÜKLEM
+milyon YÜKLEM
+seviyesindeydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ferruzzi ÖZNE
+soya NESNE
+fasulyesi NESNE
+vadeli NESNE
+işlemler NESNE
+piyasasını NESNE
+manipüle NESNE
+etmeye NESNE
+çalıştığını NESNE
+reddetti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu HİÇBİRİ
+hafta HİÇBİRİ
+diğer HİÇBİRİ
+emtia HİÇBİRİ
+piyasalarına HİÇBİRİ
+bakınca HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+1 NONE
+pound NONE
+1.3210 NONE
+dolar ZARF_TÜMLECİ
+seviyesinde ZARF_TÜMLECİ
+4.95 ZARF_TÜMLECİ
+cent ZARF_TÜMLECİ
+kayıpla ZARF_TÜMLECİ
+hesabını NESNE
+ödedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Enerji HİÇBİRİ
+</S>
+<S>
+Bay ÖZNE
+Spielvogel ÖZNE
+hasmane ÖZNE
+bir NESNE
+teklife NESNE
+girişmeyeceğini NESNE
+söyledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şirketi ZARF_TÜMLECİ
+düze ZARF_TÜMLECİ
+çıkarmak ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+işe YÜKLEM
+alındı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ekledi YÜKLEM
+... HİÇBİRİ
+</S>
+<S>
+YENİ HİÇBİRİ
+MÜŞTERİ HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+HESAP HİÇBİRİ
+GÖZDEN HİÇBİRİ
+GEÇİRME HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Suçsuzluk HİÇBİRİ
+savunması HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+KORELİ HİÇBİRİ
+AJANS HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Samsung ÖZNE
+zaten YÜKLEM
+ülkenin YÜKLEM
+en YÜKLEM
+büyük YÜKLEM
+reklam YÜKLEM
+ajansı YÜKLEM
+olan YÜKLEM
+Korea YÜKLEM
+First YÜKLEM
+Advertising YÜKLEM
+Co.'nun YÜKLEM
+sahibidir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Gelir ÖZNE
+81.5 DOLAYLI_TÜMLEÇ
+milyondan DOLAYLI_TÜMLEÇ
+117 DOLAYLI_TÜMLEÇ
+milyon DOLAYLI_TÜMLEÇ
+Dolar DOLAYLI_TÜMLEÇ
+seviyesine DOLAYLI_TÜMLEÇ
+fırladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Gelirler ÖZNE
+161.8 DOLAYLI_TÜMLEÇ
+milyondan DOLAYLI_TÜMLEÇ
+225.5 DOLAYLI_TÜMLEÇ
+milyon DOLAYLI_TÜMLEÇ
+Dolar'a DOLAYLI_TÜMLEÇ
+yükseldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Perakendeciler ÖZNE
+yalnızca YÜKLEM
+kargaşa YÜKLEM
+içinde YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Gelirler ÖZNE
+% ZARF_TÜMLECİ
+6 ZARF_TÜMLECİ
+artışla ZARF_TÜMLECİ
+2.4 DOLAYLI_TÜMLEÇ
+milyardan DOLAYLI_TÜMLEÇ
+2.55 DOLAYLI_TÜMLEÇ
+milyar DOLAYLI_TÜMLEÇ
+Dolar'a DOLAYLI_TÜMLEÇ
+çıktı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Gelirler ÖZNE
+% ZARF_TÜMLECİ
+5.3 ZARF_TÜMLECİ
+artışla ZARF_TÜMLECİ
+383.8 DOLAYLI_TÜMLEÇ
+milyondan DOLAYLI_TÜMLEÇ
+404.1 DOLAYLI_TÜMLEÇ
+milyon DOLAYLI_TÜMLEÇ
+Dolar'a DOLAYLI_TÜMLEÇ
+çıktı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Dergideki ÖZNE
+reklam ÖZNE
+satır ÖZNE
+sayısı ÖZNE
+üçüncü ZARF_TÜMLECİ
+çeyrekte ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+6.1 ZARF_TÜMLECİ
+azaldı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Affiliated ÖZNE
+Publications ÖZNE
+Inc. ÖZNE
+geçen NESNE
+yıl NESNE
+görülen NESNE
+üçüncü NESNE
+çeyrek NESNE
+net NESNE
+zararını NESNE
+tersine YÜKLEM
+çevirdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sendika ÖZNE
+yetkilileri ÖZNE
+sonuçta ZARF_TÜMLECİ
+politik ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+bozguna YÜKLEM
+uğradılar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kanada ÖZNE
+yatırım ÖZNE
+kuralları ÖZNE
+büyük NESNE
+yabancı NESNE
+kaynaklı NESNE
+devirlerin NESNE
+standarda NESNE
+uymasını NESNE
+gerektiriyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hem ÖZNE
+Merieux ÖZNE
+, HİÇBİRİ
+hem ÖZNE
+de ÖZNE
+Connaught ÖZNE
+biyo-teknoloji NESNE
+araştırma NESNE
+ve NESNE
+aşı NESNE
+üretim NESNE
+ortaklıklarıdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hükümetin ÖZNE
+tepkisi ÖZNE
+alışılmadık YÜKLEM
+bir YÜKLEM
+tepkiydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bay ÖZNE
+Andre ÖZNE
+Yatırım ÖZNE
+, HİÇBİRİ
+Investment NESNE
+Canada'nın NESNE
+bir NESNE
+önerisine NESNE
+dayanan NESNE
+bir NESNE
+hükmü NESNE
+yayınladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Investment ÖZNE
+Canada ÖZNE
+hükümet DOLAYLI_TÜMLEÇ
+kararının DOLAYLI_TÜMLEÇ
+ardında DOLAYLI_TÜMLEÇ
+yatan DOLAYLI_TÜMLEÇ
+sebepler DOLAYLI_TÜMLEÇ
+konusunda DOLAYLI_TÜMLEÇ
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Üniversite ÖZNE
+, HİÇBİRİ
+Connaught NESNE
+tarafından NESNE
+yapılan NESNE
+bir NESNE
+çözüm NESNE
+önerisi NESNE
+üzerinde YÜKLEM
+düşünüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Fransız ÖZNE
+devletine ÖZNE
+ait ÖZNE
+Rhone-Poulenc ÖZNE
+S.A. ÖZNE
+Merieux'un NESNE
+% NESNE
+51'ini NESNE
+aldı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kamibyo ÖZNE
+kuru ÖZNE
+asla ZARF_TÜMLECİ
+tesis YÜKLEM
+edilemedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Weatherford ÖZNE
+piyasa NESNE
+koşullarının NESNE
+planlanan NESNE
+mübadelenin NESNE
+iptaline NESNE
+yol NESNE
+açtığını NESNE
+söyledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+banka ZARF_TÜMLECİ
+borcunu ZARF_TÜMLECİ
+bertaraf ZARF_TÜMLECİ
+etmek ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+yeniden ZARF_TÜMLECİ
+yapılandırmak ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+getiriler NESNE
+kullanılacak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Weatherford ÖZNE
+halihazırda DOLAYLI_TÜMLEÇ
+tedavülde DOLAYLI_TÜMLEÇ
+yaklaşık DOLAYLI_TÜMLEÇ
+11.1 DOLAYLI_TÜMLEÇ
+milyon DOLAYLI_TÜMLEÇ
+hisseye DOLAYLI_TÜMLEÇ
+sahip YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Indianapolis'te DOLAYLI_TÜMLEÇ
+Lilly ÖZNE
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şirket ÖZNE
+resmi ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+bu ZARF_TÜMLECİ
+ayın ZARF_TÜMLECİ
+başında ZARF_TÜMLECİ
+Bristol-Myers DOLAYLI_TÜMLEÇ
+Co. DOLAYLI_TÜMLEÇ
+ile DOLAYLI_TÜMLEÇ
+birleşti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bristol-Myers ÖZNE
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+New DOLAYLI_TÜMLEÇ
+York'ta DOLAYLI_TÜMLEÇ
+şirket ÖZNE
+yorum NESNE
+yapmayı NESNE
+reddetti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kalamazoo DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+Michigan'da DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+Upjohn ÖZNE
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Analistlerin NESNE
+dönem NESNE
+adına NESNE
+küçük NESNE
+bir NESNE
+kâr NESNE
+umdukları NESNE
+söyleniyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Relational ÖZNE
+Technology ÖZNE
+, HİÇBİRİ
+14 DOLAYLI_TÜMLEÇ
+dolar DOLAYLI_TÜMLEÇ
+hisse DOLAYLI_TÜMLEÇ
+fiyatıyla DOLAYLI_TÜMLEÇ
+Mayıs ZARF_TÜMLECİ
+1988'de ZARF_TÜMLECİ
+halka YÜKLEM
+açıldı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Geçen ÖZNE
+yıl ÖZNE
+en ÖZNE
+yüksek ÖZNE
+fiyat ÖZNE
+hisse ÖZNE
+başına ÖZNE
+16.375 YÜKLEM
+dolar YÜKLEM
+seviyesiydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Aileleri ÖZNE
+, HİÇBİRİ
+onların ZARF_TÜMLECİ
+uyku ZARF_TÜMLECİ
+düzenlemelerine ZARF_TÜMLECİ
+göre NESNE
+analiz YÜKLEM
+etti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Yabancılık DOLAYLI_TÜMLEÇ
+dürüstlüğüyle DOLAYLI_TÜMLEÇ
+ile DOLAYLI_TÜMLEÇ
+birlikte DOLAYLI_TÜMLEÇ
+geldiler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bay ÖZNE
+Friedman ÖZNE
+bunu NESNE
+" HİÇBİRİ
+Bir ZARF_TÜMLECİ
+Los ZARF_TÜMLECİ
+Angeles ZARF_TÜMLECİ
+çözümü ZARF_TÜMLECİ
+, HİÇBİRİ
+" HİÇBİRİ
+olarak ZARF_TÜMLECİ
+açıkladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Harry'yi ZARF_TÜMLECİ
+anlamak ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+çok NESNE
+fazla NESNE
+satır NESNE
+gerekmiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+O ÖZNE
+bir YÜKLEM
+baş YÜKLEM
+belası YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+21 ÖZNE
+mil ÖZNE
+karelik ÖZNE
+alan ÖZNE
+kurşun ZARF_TÜMLECİ
+, HİÇBİRİ
+çinko ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+diğer ZARF_TÜMLECİ
+metallerle ZARF_TÜMLECİ
+kirlendi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Liderlik HİÇBİRİ
+nerede HİÇBİRİ
+? HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Bu NESNE
+perakendecilerin NESNE
+aklını NESNE
+daha NESNE
+da NESNE
+karıştırıyor NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+dedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Fiyatlar ZARF_TÜMLECİ
+hala ZARF_TÜMLECİ
+düşüyorsa ZARF_TÜMLECİ
+bir NESNE
+kira NESNE
+anlaşması NESNE
+imzalayıp NESNE
+imzalamamaları NESNE
+gerektiğini NESNE
+merak YÜKLEM
+ediyorlar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bir ZARF_TÜMLECİ
+mağaza ZARF_TÜMLECİ
+açmak ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+kötü YÜKLEM
+bir YÜKLEM
+zaman YÜKLEM
+mı YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Yan DOLAYLI_TÜMLEÇ
+kapıdaki DOLAYLI_TÜMLEÇ
+boşlukta DOLAYLI_TÜMLEÇ
+kim ÖZNE
+olacak YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Ve HİÇBİRİ
+bazı DOLAYLI_TÜMLEÇ
+muhitlerde DOLAYLI_TÜMLEÇ
+kiralar ÖZNE
+adeta DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+durgunluk DOLAYLI_TÜMLEÇ
+dönemine DOLAYLI_TÜMLEÇ
+girdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ofis ÖZNE
+alanlarına ÖZNE
+yönelik ÖZNE
+talebi ÖZNE
+kısıtlayan ÖZNE
+aynı ÖZNE
+etkenler ÖZNE
+perakende NESNE
+satış NESNE
+faaliyetlerini NESNE
+etkiledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kesinlikle HİÇBİRİ
+, HİÇBİRİ
+fiyatlardaki ÖZNE
+son ÖZNE
+düşüş ÖZNE
+, NONE
+Manhattan'ın NESNE
+ucuz NESNE
+bir NESNE
+yer NESNE
+olduğu NESNE
+anlamına YÜKLEM
+gelmiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hassas NESNE
+dökümler NESNE
+yapıyor NESNE
+ve NESNE
+tezgah NESNE
+üstü NESNE
+satış NESNE
+yapıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Londra DOLAYLI_TÜMLEÇ
+Uluslararası DOLAYLI_TÜMLEÇ
+Borsası'nda DOLAYLI_TÜMLEÇ
+alım DOLAYLI_TÜMLEÇ
+satım DOLAYLI_TÜMLEÇ
+yapmaya DOLAYLI_TÜMLEÇ
+devam YÜKLEM
+edecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Amerikan ÖZNE
+Menkul ÖZNE
+Kıymetler ÖZNE
+Borsası ÖZNE
+iki NESNE
+şirketi NESNE
+kote YÜKLEM
+etti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Tezgah DOLAYLI_TÜMLEÇ
+üstünden DOLAYLI_TÜMLEÇ
+işlem YÜKLEM
+gördü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Columbia ÖZNE
+Laboratories ÖZNE
+Inc. ÖZNE
+, HİÇBİRİ
+Miami ÖZNE
+, HİÇBİRİ
+COB ZARF_TÜMLECİ
+simgesiyle ZARF_TÜMLECİ
+işlem NESNE
+görmeye NESNE
+başladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Tıbbi ÖZNE
+İlaç ÖZNE
+üreticisi ÖZNE
+tezgah ZARF_TÜMLECİ
+üstü ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+işlem YÜKLEM
+gördü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Nasqad ÖZNE
+tezgah NESNE
+üstü NESNE
+piyasasının NESNE
+Ulusal NESNE
+Piyasa NESNE
+Sistemi NESNE
+bir NESNE
+şirketin NESNE
+hisselerini NESNE
+listeledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ve HİÇBİRİ
+görüşü ÖZNE
+Ağustos ZARF_TÜMLECİ
+ayındaki ZARF_TÜMLECİ
+başarılı ZARF_TÜMLECİ
+katarakt ZARF_TÜMLECİ
+ameliyatı ZARF_TÜMLECİ
+sonrasında ZARF_TÜMLECİ
+düzeldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+RTC ÖZNE
+, HİÇBİRİ
+Bu HİÇBİRİ
+anlaşmalar HİÇBİRİ
+altında HİÇBİRİ
+, HİÇBİRİ
+yalnızca NESNE
+mevduatları NESNE
+ve NESNE
+sağlıklı NESNE
+varlıkları NESNE
+satıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+bu ÖZNE
+kurumların ÖZNE
+bu ÖZNE
+adımları ÖZNE
+atıp ÖZNE
+atmayacağı ÖZNE
+belirsizdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+NCNB ÖZNE
+, HİÇBİRİ
+Florida NESNE
+ve NESNE
+Teksas NESNE
+piyasalarındaki NESNE
+akınlarını NESNE
+sürdürdü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Aşağıdaki ÖZNE
+listeler ÖZNE
+Menkul NONE
+Kıymetler DOLAYLI_TÜMLEÇ
+ve DOLAYLI_TÜMLEÇ
+Kambiyo DOLAYLI_TÜMLEÇ
+Komisyonu'na DOLAYLI_TÜMLEÇ
+yeni ZARF_TÜMLECİ
+ibraz YÜKLEM
+edildi YÜKLEM
+: HİÇBİRİ
+</S>
+<S>
+" NONE
+Bu ÖZNE
+algı ÖZNE
+magazinin NESNE
+ilgisini NESNE
+üzerinden YÜKLEM
+alıyor YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Kalite NESNE
+ve NESNE
+katılım NESNE
+yaratmaya YÜKLEM
+çalışıyoruz YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Halen ZARF_TÜMLECİ
+, HİÇBİRİ
+Time'in ÖZNE
+hareketi ÖZNE
+bir ZARF_TÜMLECİ
+kez ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+iyi YÜKLEM
+olarak YÜKLEM
+alınıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Süirkülasyona ÖZNE
+katılan ÖZNE
+birkaç ÖZNE
+damlanın ÖZNE
+hiç ÖZNE
+önemi ÖZNE
+yok YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+tüm ZARF_TÜMLECİ
+başarısı ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+CNN ÖZNE
+bir DOLAYLI_TÜMLEÇ
+durgunluk DOLAYLI_TÜMLEÇ
+dönemine DOLAYLI_TÜMLEÇ
+giriyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Bu ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+hayatını NESNE
+idame YÜKLEM
+ettiremezsin YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+çok NESNE
+da NESNE
+kolay NESNE
+olmayacak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+CNN ÖZNE
+izleyicilerinin NESNE
+alışkanlıklarını NESNE
+değiştirmek NESNE
+istiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+CNN'in ÖZNE
+izleyici ÖZNE
+alışkanlıkları ÖZNE
+formatı YÜKLEM
+tarafından YÜKLEM
+biçimlendirildi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Satış ÖZNE
+çabası ÖZNE
+artık ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+kendine ZARF_TÜMLECİ
+özgü ZARF_TÜMLECİ
+gösteriler YÜKLEM
+üzerinde YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Endüstrideki ÖZNE
+bazıları ÖZNE
+şüpheci YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kuşkusuz ZARF_TÜMLECİ
+, HİÇBİRİ
+vakalardaki ÖZNE
+ilke ÖZNE
+aynıdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+bir ÖZNE
+hukuki ÖZNE
+ihtilafın ÖZNE
+sonucu ÖZNE
+daima DOLAYLI_TÜMLEÇ
+etkenlere DOLAYLI_TÜMLEÇ
+bağlıdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Charles HİÇBİRİ
+F. HİÇBİRİ
+Vihon HİÇBİRİ
+</S>
+<S>
+Bunu ÖZNE
+" HİÇBİRİ
+savaşamayacak HİÇBİRİ
+kadar HİÇBİRİ
+döküntüyüz HİÇBİRİ
+" HİÇBİRİ
+savunması NESNE
+olarak YÜKLEM
+adlandırın YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Güneş ÖZNE
+kuşağı ÖZNE
+çiftlik DOLAYLI_TÜMLEÇ
+üzerinde DOLAYLI_TÜMLEÇ
+engellendi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Valley NESNE
+Ranch'ı NESNE
+sonuncuya ZARF_TÜMLECİ
+verilen ZARF_TÜMLECİ
+ödül ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+bedava ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+temiz ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+aldık YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Yeni ÖZNE
+başkanın ÖZNE
+adı ÖZNE
+açıklanmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Güney ÖZNE
+Afrika ÖZNE
+ANC'den NESNE
+Sisulu NESNE
+ve NESNE
+7 NESNE
+diğer NESNE
+politik NESNE
+hükümlüyü NESNE
+salıverdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+salıverilenlerin ÖZNE
+çoğu ÖZNE
+en NESNE
+az NESNE
+25 NESNE
+yılını NESNE
+hapishanede NESNE
+geçirdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+önümüzdeki ZARF_TÜMLECİ
+birkaç ZARF_TÜMLECİ
+ay ZARF_TÜMLECİ
+içinde ZARF_TÜMLECİ
+tahliye ÖZNE
+edilmesi ÖZNE
+ciddi ZARF_TÜMLECİ
+anlamda ZARF_TÜMLECİ
+bekleniyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+fonlamaya NESNE
+karşı NESNE
+muhalefetini NESNE
+yineledi YÜKLEM
+, HİÇBİRİ
+ancak NESNE
+bir NESNE
+uzlaşma NESNE
+umudunu NESNE
+ifade YÜKLEM
+etti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Cihaz ÖZNE
+değiştirildi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+2.100'den ÖZNE
+fazlası ÖZNE
+hafta ZARF_TÜMLECİ
+sonunda ZARF_TÜMLECİ
+Macaristan ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+Batı DOLAYLI_TÜMLEÇ
+Almanya'ya DOLAYLI_TÜMLEÇ
+kaçtı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Değerlendirmelerini NESNE
+Bağdat'daki DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+PLO'ya DOLAYLI_TÜMLEÇ
+yaptı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+DWG ÖZNE
+, NONE
+Bay ZARF_TÜMLECİ
+Posner ZARF_TÜMLECİ
+tarafından ZARF_TÜMLECİ
+kontrol ZARF_TÜMLECİ
+edilen ZARF_TÜMLECİ
+bir YÜKLEM
+şirkettir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Çekirdek ÖZNE
+oran ÖZNE
+pek ZARF_TÜMLECİ
+de ZARF_TÜMLECİ
+uygunsuz NESNE
+değil YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Gıda ÖZNE
+fiyatları ÖZNE
+Ağustos ZARF_TÜMLECİ
+ayındaki ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+0.3 ZARF_TÜMLECİ
+yükseliş ZARF_TÜMLECİ
+sonrasında ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+0.6 ZARF_TÜMLECİ
+düştü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Toplamın ÖZNE
+yaklaşık ÖZNE
+% ÖZNE
+85'i ÖZNE
+gelir DOLAYLI_TÜMLEÇ
+getirmeyen DOLAYLI_TÜMLEÇ
+ticari DOLAYLI_TÜMLEÇ
+gayrimenkul DOLAYLI_TÜMLEÇ
+varlıklardan DOLAYLI_TÜMLEÇ
+oluşmaktaydı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+City ÖZNE
+Federal ÖZNE
+, HİÇBİRİ
+New DOLAYLI_TÜMLEÇ
+Jersey DOLAYLI_TÜMLEÇ
+ve DOLAYLI_TÜMLEÇ
+Florida DOLAYLI_TÜMLEÇ
+eyaletlerinde DOLAYLI_TÜMLEÇ
+105 ZARF_TÜMLECİ
+banka ZARF_TÜMLECİ
+ofisiyle ZARF_TÜMLECİ
+hizmet YÜKLEM
+veriyor YÜKLEM
+. ZARF_TÜMLECİ
+</S>
+<S>
+Düzenleyiciler ÖZNE
+CenTrust'a NESNE
+tercih NESNE
+edilen NESNE
+hissenin NESNE
+geri NESNE
+satın NESNE
+alınmasını NESNE
+durdurma NESNE
+emri YÜKLEM
+verdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Çoğu ÖZNE
+kimse ÖZNE
+gecikmeyi NESNE
+regülatörlerin ZARF_TÜMLECİ
+teklif ZARF_TÜMLECİ
+konusunda ZARF_TÜMLECİ
+şüpheli ZARF_TÜMLECİ
+olmasının ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+göstergesi ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+yorumluyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kadın ÖZNE
+iddiayı YÜKLEM
+kazandı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Pan-Avrupa ÖZNE
+" HİÇBİRİ
+program NESNE
+üretme NESNE
+denemeleri NESNE
+genellikle ZARF_TÜMLECİ
+düş ZARF_TÜMLECİ
+kırıklığı ZARF_TÜMLECİ
+ile ZARF_TÜMLECİ
+sonuçlandı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Hemen ÖZNE
+hemen ÖZNE
+ne ÖZNE
+olursa ÖZNE
+olsun ÖZNE
+" HİÇBİRİ
+başlığı ÖZNE
+altındaki ÖZNE
+bir ÖZNE
+ABD ÖZNE
+yapımı ÖZNE
+imitasyon ÖZNE
+hızla ZARF_TÜMLECİ
+çöküverdi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Birçok ÖZNE
+Britanya ÖZNE
+kaynaklı ÖZNE
+programlama ÖZNE
+sonradan YÜKLEM
+kazanılan YÜKLEM
+bir YÜKLEM
+lezzetin YÜKLEM
+fazlasıdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Avrupalı ÖZNE
+drama ÖZNE
+, HİÇBİRİ
+halen HİÇBİRİ
+karmaşık HİÇBİRİ
+olmasına HİÇBİRİ
+rağmen HİÇBİRİ
+, HİÇBİRİ
+daha DOLAYLI_TÜMLEÇ
+iyi DOLAYLI_TÜMLEÇ
+talihe DOLAYLI_TÜMLEÇ
+sahipti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+tür ÖZNE
+en ÖZNE
+popüler ÖZNE
+gösteriler ÖZNE
+dar DOLAYLI_TÜMLEÇ
+ulusal DOLAYLI_TÜMLEÇ
+kaygılar DOLAYLI_TÜMLEÇ
+üzerine DOLAYLI_TÜMLEÇ
+odaklanıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+bir ZARF_TÜMLECİ
+Seçenek ZARF_TÜMLECİ
+sunulunca ZARF_TÜMLECİ
+, HİÇBİRİ
+herkes ÖZNE
+ev NESNE
+yapımı NESNE
+gösteriyi NESNE
+izleyecektir YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+sık ZARF_TÜMLECİ
+sık ZARF_TÜMLECİ
+başka NESNE
+seçenek NESNE
+bulunmayabilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sonuç ÖZNE
+programlama ZARF_TÜMLECİ
+açısıdan ZARF_TÜMLECİ
+yeni ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+büyük ZARF_TÜMLECİ
+bir YÜKLEM
+lezzettir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şirketler ÖZNE
+yıl ZARF_TÜMLECİ
+sonuna ZARF_TÜMLECİ
+kadar ZARF_TÜMLECİ
+bir NESNE
+nihai NESNE
+anlaşma NESNE
+umudu NESNE
+içindeler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Girişimin ÖZNE
+Thomson ÖZNE
+açısından ÖZNE
+önemi ÖZNE
+büyük YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İngiliz DOLAYLI_TÜMLEÇ
+Aerospace'in DOLAYLI_TÜMLEÇ
+en DOLAYLI_TÜMLEÇ
+önde DOLAYLI_TÜMLEÇ
+gelen DOLAYLI_TÜMLEÇ
+füze DOLAYLI_TÜMLEÇ
+ürünleri DOLAYLI_TÜMLEÇ
+arasında DOLAYLI_TÜMLEÇ
+17 ÖZNE
+yaşındaki ÖZNE
+Rapier ÖZNE
+karadan ÖZNE
+havaya ÖZNE
+füzeleri ÖZNE
+bulunur YÜKLEM
+. NONE
+</S>
+<S>
+Bu ÖZNE
+giderek ZARF_TÜMLECİ
+büyüyen ZARF_TÜMLECİ
+bir YÜKLEM
+kaygı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sistem ÖZNE
+halihazırda ZARF_TÜMLECİ
+günde ZARF_TÜMLECİ
+1.55 NESNE
+milyon NESNE
+varil NESNE
+kapasitesi NESNE
+sunuyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Inland ÖZNE
+üçüncü NESNE
+çeyrek NESNE
+sonuçlarının NESNE
+bu NESNE
+haftanın NESNE
+ilerleyen NESNE
+günlerinde NESNE
+ilan NESNE
+edileceğini NESNE
+söyledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bilgisayar ÖZNE
+firmalarının ÖZNE
+mali ÖZNE
+sonuçlarının ÖZNE
+tahmin ÖZNE
+edilmesi ÖZNE
+son ZARF_TÜMLECİ
+zamanlarda ZARF_TÜMLECİ
+oldukça ZARF_TÜMLECİ
+zor NESNE
+bir NESNE
+iş NESNE
+haline YÜKLEM
+geldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+bunların ÖZNE
+hepsi ÖZNE
+3 YÜKLEM
+ay YÜKLEM
+önceki YÜKLEM
+hikayeydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Endüstri ÖZNE
+karakterizasyona DOLAYLI_TÜMLEÇ
+baş YÜKLEM
+kaldırıyor YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+International ÖZNE
+Business ÖZNE
+Machines ÖZNE
+Corp.'un ÖZNE
+da ÖZNE
+hayal NESNE
+kırıklığına NESNE
+uğratacak NESNE
+sonuçlar NESNE
+açıklaması NESNE
+beklenmekte YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Diğer ÖZNE
+çelişkili ÖZNE
+bir ÖZNE
+mesaj ÖZNE
+da ÖZNE
+bir DOLAYLI_TÜMLEÇ
+bilgisayar DOLAYLI_TÜMLEÇ
+perakende DOLAYLI_TÜMLEÇ
+satıcısı DOLAYLI_TÜMLEÇ
+olan DOLAYLI_TÜMLEÇ
+Businessland DOLAYLI_TÜMLEÇ
+Inc.'den DOLAYLI_TÜMLEÇ
+geldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şirketler ÖZNE
+standartlar DOLAYLI_TÜMLEÇ
+uğruna DOLAYLI_TÜMLEÇ
+savaşmaya DOLAYLI_TÜMLEÇ
+devam YÜKLEM
+edecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancaki HİÇBİRİ
+Adobe'nin ÖZNE
+ticari ÖZNE
+faaliyetlerine ÖZNE
+yönelik ÖZNE
+kısa ÖZNE
+vadeli ÖZNE
+görünüm ÖZNE
+güçlü ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+görülüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Program ÖZNE
+basılı NESNE
+malzemelerin NESNE
+kalitesinin NESNE
+artırılmasını NESNE
+amaçlıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Aldus DOLAYLI_TÜMLEÇ
+yetkililerine DOLAYLI_TÜMLEÇ
+yorum ZARF_TÜMLECİ
+almak ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+ulaşılamadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+bir ÖZNE
+Veri ÖZNE
+yolu ÖZNE
+bir ZARF_TÜMLECİ
+bilgisayar ZARF_TÜMLECİ
+dahilindeki ZARF_TÜMLECİ
+Veri ZARF_TÜMLECİ
+akışını ZARF_TÜMLECİ
+sağlayan ZARF_TÜMLECİ
+bir YÜKLEM
+otobandır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kazananlar ÖZNE
+ile ÖZNE
+ağır ÖZNE
+davrananlar ÖZNE
+arasındaki ÖZNE
+fark ÖZNE
+büyüyecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Aynı ZARF_TÜMLECİ
+zamanda ZARF_TÜMLECİ
+, HİÇBİRİ
+ikinci ÖZNE
+ligdeki ÖZNE
+firmalar ÖZNE
+da ÖZNE
+zemin DOLAYLI_TÜMLEÇ
+kaybetmeye DOLAYLI_TÜMLEÇ
+devam YÜKLEM
+edecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+bazı ÖZNE
+geri ÖZNE
+kalan ÖZNE
+rakipler ÖZNE
+bile ÖZNE
+kişisel NESNE
+bilgisayar NESNE
+işini NESNE
+birlikte ZARF_TÜMLECİ
+terk YÜKLEM
+edebilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+hızlı NESNE
+hareket NESNE
+etmek NESNE
+zorundalar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bir ÖZNE
+yığın ÖZNE
+yeni ÖZNE
+bilgisayar ÖZNE
+şirketi ÖZNE
+de ÖZNE
+bu NESNE
+" HİÇBİRİ
+server NESNE
+" HİÇBİRİ
+piyasasını NESNE
+hedefledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+orta ÖZNE
+batı ÖZNE
+Eyaletleri ÖZNE
+için ÖZNE
+Nüfus ÖZNE
+Tahliyesi ÖZNE
+Sona YÜKLEM
+Eriyor YÜKLEM
+</S>
+<S>
+IOWA ÖZNE
+bir NESNE
+geri NESNE
+dönüş NESNE
+gerçekleştiriyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Indiana ÖZNE
+, HİÇBİRİ
+Ohio ÖZNE
+ve ÖZNE
+Michigan ÖZNE
+da ÖZNE
+öyle YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kazançlar ÖZNE
+, HİÇBİRİ
+elbette HİÇBİRİ
+, HİÇBİRİ
+oldukça ZARF_TÜMLECİ
+küçük YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+nüfus DOLAYLI_TÜMLEÇ
+yarışında DOLAYLI_TÜMLEÇ
+Northeast ÖZNE
+yerini NESNE
+koruyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Daha NONE
+Fazla ÖZNE
+Yaşlı ÖZNE
+Bağımsızlığını NESNE
+Koruyor YÜKLEM
+</S>
+<S>
+Modern ZARF_TÜMLECİ
+tıp ZARF_TÜMLECİ
+sayesinde ZARF_TÜMLECİ
+, HİÇBİRİ
+artık ZARF_TÜMLECİ
+daha ÖZNE
+fazla ÖZNE
+çift ÖZNE
+birlikte ZARF_TÜMLECİ
+yaşlanıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+hisse ÖZNE
+1970'ten ZARF_TÜMLECİ
+beri ZARF_TÜMLECİ
+yaklaşık DOLAYLI_TÜMLEÇ
+% DOLAYLI_TÜMLEÇ
+24'te DOLAYLI_TÜMLEÇ
+kalıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İnsanlar ZARF_TÜMLECİ
+yaşlandıkça ZARF_TÜMLECİ
+, HİÇBİRİ
+birçoğu ÖZNE
+dul YÜKLEM
+kalıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kariyerler ÖZNE
+Çoğunlukla ZARF_TÜMLECİ
+Rahatı NESNE
+Önemli ZARF_TÜMLECİ
+Tutuyor YÜKLEM
+</S>
+<S>
+Birçok ÖZNE
+VARLIKLI ÖZNE
+insan ÖZNE
+kişisel NESNE
+başarı NESNE
+ve NESNE
+parayı NESNE
+ailenin DOLAYLI_TÜMLEÇ
+önünde DOLAYLI_TÜMLEÇ
+tutar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Zengin ZARF_TÜMLECİ
+piyasanın ZARF_TÜMLECİ
+çoğu ZARF_TÜMLECİ
+araştırmalarının ZARF_TÜMLECİ
+aksine ZARF_TÜMLECİ
+, HİÇBİRİ
+bu ÖZNE
+çalışma ÖZNE
+süper-zenginleri NESNE
+hariç YÜKLEM
+tutuyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Yüzde ÖZNE
+yirmisi ÖZNE
+finansal NESNE
+açıdan NESNE
+varlık NESNE
+içinde NESNE
+olduklarını NESNE
+hissetmiyor YÜKLEM
+bile YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Varlıklıların ÖZNE
+çoğu ÖZNE
+da ÖZNE
+kendilerinden DOLAYLI_TÜMLEÇ
+memnun YÜKLEM
+değiller YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Yaklaşık ÖZNE
+% ÖZNE
+40'ı ÖZNE
+diğerlerinden NESNE
+daha NESNE
+muktedir NESNE
+olduğunu NESNE
+hissetmiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ivır HİÇBİRİ
+Zıvır HİÇBİRİ
+</S>
+<S>
+Yaklaşık ÖZNE
+% ÖZNE
+54'ü ÖZNE
+kadın ÖZNE
+, HİÇBİRİ
+ve ÖZNE
+% ÖZNE
+44'ü ÖZNE
+yarı ZARF_TÜMLECİ
+zamanlı ZARF_TÜMLECİ
+öğrencidir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+küçük ÖZNE
+Dallas ÖZNE
+banliyosunun ÖZNE
+başı ÖZNE
+dertte YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+Addison ÖZNE
+Konseyi'nin ÖZNE
+büyük ÖZNE
+çoğunluğu ÖZNE
+bu NESNE
+argümanlara ÖZNE
+ikna YÜKLEM
+olmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Pandoranın NESNE
+kutusunu NESNE
+açacaktır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Addison ÖZNE
+da ZARF_TÜMLECİ
+artık HİÇBİRİ
+pandoranın DOLAYLI_TÜMLEÇ
+kutusuna DOLAYLI_TÜMLEÇ
+yabancı NESNE
+değil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şimdi ZARF_TÜMLECİ
+havuz DOLAYLI_TÜMLEÇ
+dalgalanmasına DOLAYLI_TÜMLEÇ
+sıra YÜKLEM
+geliyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Anita HİÇBİRİ
+Davis HİÇBİRİ
+</S>
+<S>
+Elbette HİÇBİRİ
+, HİÇBİRİ
+Bay ÖZNE
+Mason ÖZNE
+nötr NESNE
+bir NESNE
+dil NESNE
+kullanmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İnsanlar YÜKLEM
+sıkıştığı NESNE
+yeri NESNE
+hızla ZARF_TÜMLECİ
+terk YÜKLEM
+ediyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Neden ZARF_TÜMLECİ
+olumlu YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+bunlar ÖZNE
+başlıkları NESNE
+oluşturan NESNE
+farklar NESNE
+değil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İki ÖZNE
+onaylanmayan ÖZNE
+akrabanın ÖZNE
+da ÖZNE
+göçmen ÖZNE
+olması ÖZNE
+kayda YÜKLEM
+değer YÜKLEM
+bir YÜKLEM
+husus YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bir DOLAYLI_TÜMLEÇ
+yere DOLAYLI_TÜMLEÇ
+kadar DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+baloncuklar ÖZNE
+az YÜKLEM
+sayıda YÜKLEM
+ve YÜKLEM
+araları NESNE
+uzak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Tanıdık ZARF_TÜMLECİ
+mı ZARF_TÜMLECİ
+geliyor YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Ekonomiyle ÖZNE
+ilgili ÖZNE
+bir ÖZNE
+sorun ÖZNE
+yok YÜKLEM
+, HİÇBİRİ
+tüm ÖZNE
+endeksler ÖZNE
+yukarıda YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bunu HİÇBİRİ
+daha ZARF_TÜMLECİ
+önce ZARF_TÜMLECİ
+duydunuz YÜKLEM
+mu YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Önceki ÖZNE
+başkan ÖZNE
+ve ÖZNE
+icra ÖZNE
+başkanı ÖZNE
+, HİÇBİRİ
+Eric HİÇBİRİ
+W. HİÇBİRİ
+Markrud HİÇBİRİ
+, HİÇBİRİ
+Haziran'da ZARF_TÜMLECİ
+istifa YÜKLEM
+etti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Saray ÖZNE
+Senato ÖZNE
+müzakereleri ÖZNE
+hafta ZARF_TÜMLECİ
+ortasında ZARF_TÜMLECİ
+başlayacak YÜKLEM
+ve ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+süre ZARF_TÜMLECİ
+devam YÜKLEM
+edecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kesintiye DOLAYLI_TÜMLEÇ
+muhalifler ÖZNE
+hırslı ZARF_TÜMLECİ
+oynuyorlar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+mevzuat ÖZNE
+ay ZARF_TÜMLECİ
+sonuna ZARF_TÜMLECİ
+kadar ZARF_TÜMLECİ
+yasalaştırılmalıdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Beyaz ÖZNE
+Saray ÖZNE
+senatörlere DOLAYLI_TÜMLEÇ
+katılma DOLAYLI_TÜMLEÇ
+konusunda DOLAYLI_TÜMLEÇ
+isteksiz ZARF_TÜMLECİ
+görünüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Tartışmanın ÖZNE
+üzerinde ÖZNE
+gezinen ÖZNE
+diğer ÖZNE
+büyük ÖZNE
+bir ÖZNE
+sorun ÖZNE
+da ÖZNE
+Başkan YÜKLEM
+Bush'un YÜKLEM
+ne YÜKLEM
+düşündüğüdür YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bay ÖZNE
+Bentsen ÖZNE
+Senato'nun NESNE
+bu NESNE
+önlemi NESNE
+yakında NESNE
+göz NESNE
+önüne NESNE
+alacağını NESNE
+umut YÜKLEM
+ediyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İşler ÖZNE
+fazla ZARF_TÜMLECİ
+ileri ZARF_TÜMLECİ
+gitti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sen. ÖZNE
+Dole ÖZNE
+her NESNE
+Senatör NESNE
+tarafından NESNE
+hareket NESNE
+konusunda NESNE
+fedakarlık NESNE
+gerektiğini NESNE
+söyledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Çoğunlukla ZARF_TÜMLECİ
+, HİÇBİRİ
+şirketleri HİÇBİRİ
+etkileyen HİÇBİRİ
+bu HİÇBİRİ
+gelir HİÇBİRİ
+artırıcı HİÇBİRİ
+hükümler HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+önlem ÖZNE
+ayrıca HİÇBİRİ
+harcama DOLAYLI_TÜMLEÇ
+kesintileri DOLAYLI_TÜMLEÇ
+ve DOLAYLI_TÜMLEÇ
+federal DOLAYLI_TÜMLEÇ
+ücretlerde DOLAYLI_TÜMLEÇ
+artışları NESNE
+içeriyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hükümleri DOLAYLI_TÜMLEÇ
+arasında DOLAYLI_TÜMLEÇ
+bulunanlar YÜKLEM
+: HİÇBİRİ
+</S>
+<S>
+Plan ÖZNE
+gelecek ZARF_TÜMLECİ
+yıl ZARF_TÜMLECİ
+doktor DOLAYLI_TÜMLEÇ
+ücretlerinde DOLAYLI_TÜMLEÇ
+kısa NESNE
+bir NESNE
+dondurma NESNE
+getirecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Benzer ÖZNE
+bir ÖZNE
+hüküm ÖZNE
+, HİÇBİRİ
+Beyaz DOLAYLI_TÜMLEÇ
+Saray DOLAYLI_TÜMLEÇ
+versiyonunda DOLAYLI_TÜMLEÇ
+bulunuyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Nükleer ÖZNE
+Düzenleme ÖZNE
+Komisyonu ÖZNE
+ücretlerindeki ÖZNE
+artışın ÖZNE
+toplamı ÖZNE
+54 YÜKLEM
+milyon YÜKLEM
+dolar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+John ÖZNE
+E. ÖZNE
+Yang ÖZNE
+bu DOLAYLI_TÜMLEÇ
+makaleye DOLAYLI_TÜMLEÇ
+katkıda YÜKLEM
+bulundu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şaka NESNE
+mı NESNE
+yapıyorsun YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Makalenizin DOLAYLI_TÜMLEÇ
+ciddi DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+gerçeklik DOLAYLI_TÜMLEÇ
+kontrolüne DOLAYLI_TÜMLEÇ
+ihtiyacı YÜKLEM
+var YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Reva HİÇBİRİ
+Levin HİÇBİRİ
+</S>
+<S>
+Cambridge HİÇBİRİ
+, HİÇBİRİ
+Mass HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Cuma ZARF_TÜMLECİ
+günkü DOLAYLI_TÜMLEÇ
+baskıda DOLAYLI_TÜMLEÇ
+, HİÇBİRİ
+birimin ÖZNE
+adı ÖZNE
+yanlış ZARF_TÜMLECİ
+ifade YÜKLEM
+edildi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Columbia ÖZNE
+Savings ÖZNE
+sözde YÜKLEM
+ıskarta YÜKLEM
+tahvillerin YÜKLEM
+büyük YÜKLEM
+sahiplerinden YÜKLEM
+biridir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Columbia DOLAYLI_TÜMLEÇ
+Savings DOLAYLI_TÜMLEÇ
+yetkililerine DOLAYLI_TÜMLEÇ
+gerileme ZARF_TÜMLECİ
+hakkındaki ZARF_TÜMLECİ
+yorum ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+ulaşılamadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+FRANKLIN HİÇBİRİ
+SAVINGS HİÇBİRİ
+ASSOCIATION HİÇBİRİ
+( HİÇBİRİ
+Ottawa HİÇBİRİ
+, HİÇBİRİ
+Kanada HİÇBİRİ
+) HİÇBİRİ
+-- HİÇBİRİ
+) HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Sanırım ZARF_TÜMLECİ
+onların ZARF_TÜMLECİ
+tarafında ZARF_TÜMLECİ
+bu ÖZNE
+biraz NESNE
+erken NESNE
+oldu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+başka ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+kara ZARF_TÜMLECİ
+Pazartesi'nin ZARF_TÜMLECİ
+gelişine ZARF_TÜMLECİ
+yönelik ZARF_TÜMLECİ
+bir YÜKLEM
+sinyal YÜKLEM
+mi YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Joseph HİÇBİRİ
+Granville HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Bir ZARF_TÜMLECİ
+teknisyenseniz ZARF_TÜMLECİ
+, HİÇBİRİ
+sinyallare DOLAYLI_TÜMLEÇ
+uyarsınız YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+220 ZARF_TÜMLECİ
+seviyesine ZARF_TÜMLECİ
+kadar ZARF_TÜMLECİ
+önemli NESNE
+bir NESNE
+destek NESNE
+görmüyorum YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ZARF_TÜMLECİ
+ay ZARF_TÜMLECİ
+2200 DOLAYLI_TÜMLEÇ
+seviyesine DOLAYLI_TÜMLEÇ
+gidiş NESNE
+olasılığı NESNE
+görüyorum YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Elaine HİÇBİRİ
+Garzarelli HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Şimdi ZARF_TÜMLECİ
+, HİÇBİRİ
+bu HİÇBİRİ
+iki HİÇBİRİ
+yıldaki HİÇBİRİ
+gibi HİÇBİRİ
+, HİÇBİRİ
+borsa ÖZNE
+göstergeleri ÖZNE
+olumlu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Yani HİÇBİRİ
+hasarın NESNE
+kısa NESNE
+ömürlü NESNE
+ve NESNE
+sınırlı NESNE
+olacağını NESNE
+düşünüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Benim ÖZNE
+tavsiyem ÖZNE
+satın YÜKLEM
+almadır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ned HİÇBİRİ
+Davis HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+1987'de NESNE
+benzersiz NESNE
+bir NESNE
+kombinasyon NESNE
+vardı NESNE
+, HİÇBİRİ
+diyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Borç ÖZNE
+sınırı ÖZNE
+rekor ZARF_TÜMLECİ
+derecede ZARF_TÜMLECİ
+yükseldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+A NESNE
+tipi NESNE
+yatırım NESNE
+fonlarına NESNE
+yönelik NESNE
+müthiş NESNE
+bir NESNE
+Halk NESNE
+ilgisi NESNE
+vardı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Borsadaki ÖZNE
+100 ÖZNE
+milyar ÖZNE
+dolar ÖZNE
+buna DOLAYLI_TÜMLEÇ
+bağlıydı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+1987'de ZARF_TÜMLECİ
+, HİÇBİRİ
+bu ÖZNE
+satış ÖZNE
+bir DOLAYLI_TÜMLEÇ
+kartopu DOLAYLI_TÜMLEÇ
+etkisine DOLAYLI_TÜMLEÇ
+katkıda YÜKLEM
+bulundu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Gelecek ZARF_TÜMLECİ
+birkaç ZARF_TÜMLECİ
+ayda ZARF_TÜMLECİ
+, HİÇBİRİ
+buna HİÇBİRİ
+rağmen HİÇBİRİ
+, HİÇBİRİ
+işlerin NESNE
+kötü NESNE
+göründüğünü NESNE
+söylüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Muhtelemen ZARF_TÜMLECİ
+bir NESNE
+yıl NESNE
+sonu NESNE
+toparlanması NESNE
+göreceğiz YÜKLEM
+, HİÇBİRİ
+daha ZARF_TÜMLECİ
+sonra ZARF_TÜMLECİ
+tekrar ZARF_TÜMLECİ
+düşecek YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bir HİÇBİRİ
+nevi HİÇBİRİ
+iki HİÇBİRİ
+kademeli HİÇBİRİ
+ayı HİÇBİRİ
+piyasası HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Bu NESNE
+normal NESNE
+bir NESNE
+ayı NESNE
+piyasası NESNE
+olacak NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+diyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Sanırım ZARF_TÜMLECİ
+bu ÖZNE
+benim YÜKLEM
+öngörüm YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Leon HİÇBİRİ
+G. HİÇBİRİ
+Cooperman HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Piyasanın ÖZNE
+başka ÖZNE
+bir ÖZNE
+Ekim ÖZNE
+87 ÖZNE
+vakası ÖZNE
+yaşayacağını ÖZNE
+sanmıyorum YÜKLEM
+. NONE
+" HİÇBİRİ
+</S>
+<S>
+Şimdi NESNE
+ile NESNE
+iki NESNE
+yıl NESNE
+öncesi NESNE
+arasında NESNE
+birkaç NESNE
+önemli NESNE
+farkı NESNE
+işaretliyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+1987'nin ZARF_TÜMLECİ
+tersine ZARF_TÜMLECİ
+, HİÇBİRİ
+faiz ÖZNE
+oranları ÖZNE
+bu ZARF_TÜMLECİ
+yıl ZARF_TÜMLECİ
+düşmektedir YÜKLEM
+. NONE
+</S>
+<S>
+1987'nin ZARF_TÜMLECİ
+aksine ZARF_TÜMLECİ
+, HİÇBİRİ
+dolar ÖZNE
+güçlüdür YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Yani HİÇBİRİ
+çok ZARF_TÜMLECİ
+karmakarışık YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+John HİÇBİRİ
+Kenneth HİÇBİRİ
+Galbraith HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+hem NESNE
+yatırımcıları NESNE
+tedirgin YÜKLEM
+etti YÜKLEM
+hem ÖZNE
+de ÖZNE
+şirketler ÖZNE
+daha ZARF_TÜMLECİ
+kırılgan YÜKLEM
+hale YÜKLEM
+geldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bununla ZARF_TÜMLECİ
+birlikte ZARF_TÜMLECİ
+, HİÇBİRİ
+bir ÖZNE
+durgunluk ÖZNE
+ya ÖZNE
+da ÖZNE
+kriz ÖZNE
+mümkün YÜKLEM
+görünmüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Mario HİÇBİRİ
+Gabelli HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Örnekler ÖZNE
+arasında ÖZNE
+" HİÇBİRİ
+Jaguar'a YÜKLEM
+bakan YÜKLEM
+Ford YÜKLEM
+, HİÇBİRİ
+LIN YÜKLEM
+Broadcasting'a YÜKLEM
+bakan YÜKLEM
+BellSout YÜKLEM
+" HİÇBİRİ
+</S>
+<S>
+Jim HİÇBİRİ
+Rogers HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Cuma NESNE
+dolar NESNE
+satamazsın NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+diyor YÜKLEM
+. NONE
+</S>
+<S>
+Frank HİÇBİRİ
+Curzio HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Birçok ÖZNE
+kişi ÖZNE
+artık NESNE
+1987 NESNE
+çöküşünün NESNE
+tahmin NESNE
+edildiğini NESNE
+iddia YÜKLEM
+ediyor YÜKLEM
+. NONE
+</S>
+<S>
+Aksi ZARF_TÜMLECİ
+takdirde ZARF_TÜMLECİ
+, HİÇBİRİ
+" HİÇBİRİ
+Çok ZARF_TÜMLECİ
+yakında ZARF_TÜMLECİ
+2200'e DOLAYLI_TÜMLEÇ
+gidebiliriz YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Frank HİÇBİRİ
+W. HİÇBİRİ
+Terrizzi HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Renaissance ÖZNE
+parasını NESNE
+tamamen DOLAYLI_TÜMLEÇ
+nakit DOLAYLI_TÜMLEÇ
+benzeri DOLAYLI_TÜMLEÇ
+yatırımlarda DOLAYLI_TÜMLEÇ
+, NONE
+öncelikle ZARF_TÜMLECİ
+ABD DOLAYLI_TÜMLEÇ
+hazine DOLAYLI_TÜMLEÇ
+bonolarında DOLAYLI_TÜMLEÇ
+tutuyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu NESNE
+yazınızın NESNE
+gerçeklere NESNE
+dayalı NESNE
+olduğunu NESNE
+ve NESNE
+incelikli NESNE
+bir NESNE
+şekilde NESNE
+aydınlatıcı NESNE
+olduğunu NESNE
+düşünüyorum YÜKLEM
+. NONE
+</S>
+<S>
+Evet HİÇBİRİ
+, HİÇBİRİ
+yaptı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kendi NESNE
+tanıklarının NESNE
+anayasal NESNE
+haklarını NESNE
+savunan NESNE
+yaklaşık NESNE
+56 NESNE
+kelime NESNE
+sarf YÜKLEM
+etti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Anayasal NESNE
+etin NESNE
+övgüsünü NESNE
+büyük DOLAYLI_TÜMLEÇ
+huysuz DOLAYLI_TÜMLEÇ
+yorum DOLAYLI_TÜMLEÇ
+dilimlerinin DOLAYLI_TÜMLEÇ
+arasına DOLAYLI_TÜMLEÇ
+sıkıştırdı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kesinlikle ZARF_TÜMLECİ
+zırva YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Açıkçası ZARF_TÜMLECİ
+, HİÇBİRİ
+mahkeme ÖZNE
+kararı ÖZNE
+içerde YÜKLEM
+. ZARF_TÜMLECİ
+</S>
+<S>
+Tam ZARF_TÜMLECİ
+şimdi ZARF_TÜMLECİ
+kanıt NESNE
+peşinde YÜKLEM
+koşuyorlar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+uygulama ÖZNE
+benim ZARF_TÜMLECİ
+okulda ZARF_TÜMLECİ
+bulunduğum ZARF_TÜMLECİ
+zamana ZARF_TÜMLECİ
+nasıl YÜKLEM
+atfedildi YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Ah HİÇBİRİ
+, HİÇBİRİ
+evet HİÇBİRİ
+, HİÇBİRİ
+bir ÖZNE
+Star ÖZNE
+Chamber ÖZNE
+olarak YÜKLEM
+bilinen YÜKLEM
+bir YÜKLEM
+şey YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hiç ZARF_TÜMLECİ
+şüphesiz ZARF_TÜMLECİ
+bu ÖZNE
+kısmen ZARF_TÜMLECİ
+doğrudur YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bay ÖZNE
+Lantos'un ÖZNE
+mektubunda ÖZNE
+söylediği ÖZNE
+her ÖZNE
+şey ÖZNE
+kısmen ZARF_TÜMLECİ
+doğrudur YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hayır HİÇBİRİ
+, HİÇBİRİ
+Bay ÖZNE
+Lantos'un ÖZNE
+şikayetleri ÖZNE
+erozyona DOLAYLI_TÜMLEÇ
+uğramayacak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Uygun NESNE
+anayasal NESNE
+tedbirleri NESNE
+ve NESNE
+pratik NESNE
+sağduyuyu NESNE
+savundu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Sorun ÖZNE
+olan ÖZNE
+sistem YÜKLEM
+, HİÇBİRİ
+herhangi ÖZNE
+bir ÖZNE
+belirli ÖZNE
+üye ÖZNE
+değil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kişiler ÖZNE
+her ZARF_TÜMLECİ
+zaman ZARF_TÜMLECİ
+şamar YÜKLEM
+atabilirler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Hiçbir ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+HUD NESNE
+yönetimini NESNE
+savunmuyorum YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Raymond HİÇBİRİ
+Weber HİÇBİRİ
+</S>
+<S>
+Parsippany HİÇBİRİ
+, HİÇBİRİ
+N.J HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Baxter HİÇBİRİ
+v. HİÇBİRİ
+Palmingiano HİÇBİRİ
+, HİÇBİRİ
+425 HİÇBİRİ
+U.S. HİÇBİRİ
+308 HİÇBİRİ
+( HİÇBİRİ
+1976 HİÇBİRİ
+) HİÇBİRİ
+. NONE
+</S>
+<S>
+Clark HİÇBİRİ
+S. HİÇBİRİ
+Spalsbury HİÇBİRİ
+Jr HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+P HİÇBİRİ
+Estes HİÇBİRİ
+Park HİÇBİRİ
+, HİÇBİRİ
+Colorado HİÇBİRİ
+</S>
+<S>
+Ayın ZARF_TÜMLECİ
+13. ZARF_TÜMLECİ
+Günü ZARF_TÜMLECİ
+cumaydı ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+Hisse ÖZNE
+senedi ÖZNE
+piyasası ÖZNE
+yaklaşık ZARF_TÜMLECİ
+200 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+düştü YÜKLEM
+. NONE
+</S>
+<S>
+Yalnızca HİÇBİRİ
+bir YÜKLEM
+tesadüf YÜKLEM
+mü YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Ya HİÇBİRİ
+da HİÇBİRİ
+13 ÖZNE
+rakamı ÖZNE
+fobisi ÖZNE
+doğrulandı YÜKLEM
+mı YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Alım ZARF_TÜMLECİ
+satım ZARF_TÜMLECİ
+seansının ZARF_TÜMLECİ
+son ZARF_TÜMLECİ
+45 ZARF_TÜMLECİ
+dakikasında ZARF_TÜMLECİ
+10 ÖZNE
+puanlık ÖZNE
+düşüş ÖZNE
+görüldü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+288 ÖZNE
+milyon ÖZNE
+adetlik ÖZNE
+hisseyle ÖZNE
+erişilen ÖZNE
+tek ÖZNE
+gün ÖZNE
+rekoru ÖZNE
+21 ZARF_TÜMLECİ
+Ekim'de ZARF_TÜMLECİ
+kırıldı YÜKLEM
+, HİÇBİRİ
+</S>
+<S>
+Kasti ZARF_TÜMLECİ
+amaçlı ZARF_TÜMLECİ
+değildi ZARF_TÜMLECİ
+, HİÇBİRİ
+hepimiz ÖZNE
+çok ZARF_TÜMLECİ
+meşguldük YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Herkes ÖZNE
+aynı NESNE
+şeyi NESNE
+aynı NESNE
+zamanda NESNE
+yapmaya NESNE
+çalışıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Satış ZARF_TÜMLECİ
+çıldırdığında ZARF_TÜMLECİ
+, HİÇBİRİ
+fiyatlar ÖZNE
+sert ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+hızla ZARF_TÜMLECİ
+düşer YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Cuma ZARF_TÜMLECİ
+günü ZARF_TÜMLECİ
+, HİÇBİRİ
+bazı HİÇBİRİ
+borsacılara HİÇBİRİ
+göre HİÇBİRİ
+, HİÇBİRİ
+bazı ÖZNE
+piyasa ÖZNE
+belirleyiciler ÖZNE
+tekrar DOLAYLI_TÜMLEÇ
+satışa DOLAYLI_TÜMLEÇ
+başladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Herkes NESNE
+diğerlerinin NESNE
+teklifine NESNE
+çarpıyordu NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+dedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Alım NONE
+- NONE
+satımın NESNE
+hızı NESNE
+normal NESNE
+ve NESNE
+düzenliydi NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+dedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+onlar ÖZNE
+endişeliydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Nasdaq'ın ÖZNE
+en ÖZNE
+büyük ÖZNE
+hisseleri ÖZNE
+dağıldı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Tezgah ÖZNE
+üstü ÖZNE
+piyasası ÖZNE
+yalnızca ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+avuç ZARF_TÜMLECİ
+devirle ZARF_TÜMLECİ
+ilgili ZARF_TÜMLECİ
+hisseye ZARF_TÜMLECİ
+sahip YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+keskin ZARF_TÜMLECİ
+düştüler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+McCaw ÖZNE
+% ZARF_TÜMLECİ
+8 ZARF_TÜMLECİ
+veya ZARF_TÜMLECİ
+3 ZARF_TÜMLECİ
+1/2 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+düşerek ZARF_TÜMLECİ
+40 DOLAYLI_TÜMLEÇ
+seviyesine DOLAYLI_TÜMLEÇ
+yerleşti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+LIN ÖZNE
+Broadcasting ÖZNE
+, HİÇBİRİ
+5 ZARF_TÜMLECİ
+1/2 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+veya ZARF_TÜMLECİ
+% ZARF_TÜMLECİ
+5 ZARF_TÜMLECİ
+düşerek ZARF_TÜMLECİ
+107 NESNE
+1/2 NESNE
+oldu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Her ZARF_TÜMLECİ
+iki ZARF_TÜMLECİ
+hisse ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+de ZARF_TÜMLECİ
+toplam ÖZNE
+satış ÖZNE
+normaldi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Commercial ÖZNE
+Intertech ÖZNE
+6 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+düşüşle ZARF_TÜMLECİ
+26'ya DOLAYLI_TÜMLEÇ
+oturdu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Iskarta ÖZNE
+hisse ÖZNE
+piyasası ÖZNE
+ile ÖZNE
+bağlantılı ÖZNE
+şirketlerin ÖZNE
+hisseleri ÖZNE
+de ÖZNE
+Cuma ZARF_TÜMLECİ
+günü ZARF_TÜMLECİ
+alt YÜKLEM
+üst YÜKLEM
+oldu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+13 HİÇBİRİ
+Ekim HİÇBİRİ
+1989 HİÇBİRİ
+, HİÇBİRİ
+Cuma HİÇBİRİ
+</S>
+<S>
+ANA HİÇBİRİ
+FAİZ HİÇBİRİ
+ORANI HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% HİÇBİRİ
+10 HİÇBİRİ
+1\/2 HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Büyük YÜKLEM
+ABD YÜKLEM
+para YÜKLEM
+merkezi ÖZNE
+ticari YÜKLEM
+bankalarındaki YÜKLEM
+kurumsal YÜKLEM
+kredilere YÜKLEM
+yönelik YÜKLEM
+baz YÜKLEM
+oran YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+FEDERAL HİÇBİRİ
+fonlar HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Kaynak NESNE
+: HİÇBİRİ
+Fulton YÜKLEM
+Prebon YÜKLEM
+( HİÇBİRİ
+U.S.A YÜKLEM
+. HİÇBİRİ
+) HİÇBİRİ
+Inc YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İSKONTO HİÇBİRİ
+ORANI HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% YÜKLEM
+7 YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+New YÜKLEM
+York YÜKLEM
+Federal YÜKLEM
+Reserve YÜKLEM
+Bank YÜKLEM
+tarafından YÜKLEM
+Mevduat YÜKLEM
+kuruluşlarında YÜKLEM
+kredilerdeki YÜKLEM
+komisyon YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+VADESİZ HİÇBİRİ
+KREDİ HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% YÜKLEM
+9 YÜKLEM
+3/4 YÜKLEM
+ila YÜKLEM
+% YÜKLEM
+10 YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Menkul YÜKLEM
+kıymetler YÜKLEM
+borsası YÜKLEM
+teminatlarında YÜKLEM
+borsacılara YÜKLEM
+kredi YÜKLEM
+komisyonu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+General ZARF_TÜMLECİ
+Motors ZARF_TÜMLECİ
+Acceptance ZARF_TÜMLECİ
+Corp. ZARF_TÜMLECİ
+tarafından ZARF_TÜMLECİ
+doğrudan ZARF_TÜMLECİ
+yerleştirilen YÜKLEM
+ŞİRKET YÜKLEM
+SENEDİ YÜKLEM
+: HİÇBİRİ
+</S>
+<S>
+ŞİRKET HİÇBİRİ
+SENEDİ HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% NESNE
+8.65 NESNE
+, HİÇBİRİ
+30 YÜKLEM
+gün YÜKLEM
+; HİÇBİRİ
+% NESNE
+8.55 NESNE
+, HİÇBİRİ
+60 YÜKLEM
+gün YÜKLEM
+; HİÇBİRİ
+% NESNE
+8.55 NESNE
+, HİÇBİRİ
+90 YÜKLEM
+gün YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Mevduat HİÇBİRİ
+BONOLARI HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Minimum ÖZNE
+birim ÖZNE
+100.000 NONE
+dolar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İkincil HİÇBİRİ
+piyasadaki HİÇBİRİ
+tipik HİÇBİRİ
+oranlar HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% NESNE
+8.65 NESNE
+, HİÇBİRİ
+1 YÜKLEM
+ay YÜKLEM
+; HİÇBİRİ
+% NESNE
+8.65 NESNE
+, HİÇBİRİ
+3 YÜKLEM
+ay YÜKLEM
+; HİÇBİRİ
+% NESNE
+8.55 NESNE
+, HİÇBİRİ
+6 YÜKLEM
+ay YÜKLEM
+</S>
+<S>
+BANKA HİÇBİRİ
+KABUL HİÇBİRİ
+KREDİLERİ HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Devredilebilir ÖZNE
+, HİÇBİRİ
+banka ÖZNE
+destekli ÖZNE
+işletme ÖZNE
+kredi ÖZNE
+araçları ÖZNE
+tipik ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+bir NESNE
+ithalat NESNE
+siparişini NESNE
+finanse YÜKLEM
+ediyor YÜKLEM
+. NONE
+</S>
+<S>
+Londra HİÇBİRİ
+geç HİÇBİRİ
+EURODOLLAR HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Londra HİÇBİRİ
+bankalar HİÇBİRİ
+arası HİÇBİRİ
+faiz HİÇBİRİ
+oranı HİÇBİRİ
+( HİÇBİRİ
+LIBOR HİÇBİRİ
+) HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Yabancı HİÇBİRİ
+ANA HİÇBİRİ
+FAİZ HİÇBİRİ
+ORANLARI HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+oran ÖZNE
+göstergeleri ÖZNE
+doğrudan ZARF_TÜMLECİ
+kıyaslanabilir ZARF_TÜMLECİ
+değildir YÜKLEM
+, HİÇBİRİ
+kredi ÖZNE
+verme ÖZNE
+uygulamaları ÖZNE
+mekana ZARF_TÜMLECİ
+göre ZARF_TÜMLECİ
+değişiklik NESNE
+gösterir YÜKLEM
+. NONE
+</S>
+<S>
+Hazine HİÇBİRİ
+bonoları HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% NONE
+7.63 NONE
+- NONE
+13 NONE
+hafta NONE
+; NONE
+% NONE
+7.60 NONE
+- NONE
+26 NONE
+hafta NONE
+. NONE
+</S>
+<S>
+Federal HİÇBİRİ
+HOME HİÇBİRİ
+LOAN HİÇBİRİ
+MORTGAGE HİÇBİRİ
+CORP HİÇBİRİ
+. HİÇBİRİ
+( HİÇBİRİ
+Freddie HİÇBİRİ
+Mac HİÇBİRİ
+) HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+30 NONE
+gün NONE
+içinde NONE
+teslimata NONE
+yönelik NONE
+30 NONE
+yıllık NONE
+ipotek NONE
+taahhütleri NONE
+üzerine NONE
+ilan NONE
+edilen NONE
+getiri NONE
+. NONE
+</S>
+<S>
+Kaynak ÖZNE
+: HİÇBİRİ
+Telerate YÜKLEM
+Systems YÜKLEM
+Inc YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+FEDERAL HİÇBİRİ
+NATIONAL HİÇBİRİ
+MORTGAGE HİÇBİRİ
+ASSOCIATION HİÇBİRİ
+( HİÇBİRİ
+Fannie HİÇBİRİ
+Mae HİÇBİRİ
+) HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+Kaynak ÖZNE
+: HİÇBİRİ
+Telerate YÜKLEM
+Systems YÜKLEM
+Inc YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+MERRILL HİÇBİRİ
+LYNCH HİÇBİRİ
+READY HİÇBİRİ
+ASSETS HİÇBİRİ
+TRUST HİÇBİRİ
+: HİÇBİRİ
+</S>
+<S>
+% YÜKLEM
+8.33 YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ve HİÇBİRİ
+bugün ZARF_TÜMLECİ
+daha NESNE
+fazla NESNE
+satın NESNE
+almayı NESNE
+planlıyorlar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Halen ZARF_TÜMLECİ
+panik YÜKLEM
+yapabilir YÜKLEM
+ve YÜKLEM
+piyasadan YÜKLEM
+çıkabilirler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Piyasa ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+da ZARF_TÜMLECİ
+zayıflarsa ZARF_TÜMLECİ
+kalanı NESNE
+da NESNE
+yatırmayı NESNE
+bekliyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Daha ZARF_TÜMLECİ
+sonra DOLAYLI_TÜMLEÇ
+piyasaya DOLAYLI_TÜMLEÇ
+daldı YÜKLEM
+: HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Son ZARF_TÜMLECİ
+yarım ZARF_TÜMLECİ
+saatte ZARF_TÜMLECİ
+$ NESNE
+30 NESNE
+milyon NESNE
+harcadım YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Diğer ÖZNE
+para ÖZNE
+yöneticileri ÖZNE
+de ÖZNE
+cüzdanlarını NESNE
+açtı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Bu NESNE
+çöküş NESNE
+için NESNE
+temel NESNE
+seviyede NESNE
+herhangi NESNE
+bir NESNE
+gerekçe NESNE
+bulunmuyor YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Sen ZARF_TÜMLECİ
+geriye ZARF_TÜMLECİ
+dönemeden ZARF_TÜMLECİ
+önce ZARF_TÜMLECİ
+olabilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Artık ZARF_TÜMLECİ
+bunların ÖZNE
+hepsi ÖZNE
+değişti YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Servet ZARF_TÜMLECİ
+yapıyor ZARF_TÜMLECİ
+olmasak ZARF_TÜMLECİ
+da ZARF_TÜMLECİ
+, HİÇBİRİ
+iyi NESNE
+bir NESNE
+gün NESNE
+geçiriyoruz YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+bir ÖZNE
+kodaman YÜKLEM
+değil YÜKLEM
+, HİÇBİRİ
+bir YÜKLEM
+ajanda YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Birkaç ZARF_TÜMLECİ
+saat ZARF_TÜMLECİ
+sonra ZARF_TÜMLECİ
+borsa ÖZNE
+190 ZARF_TÜMLECİ
+puan ZARF_TÜMLECİ
+düştü YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bunu ÖZNE
+değerlendirin YÜKLEM
+: HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+olmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Çok NESNE
+problem NESNE
+yaşamadan NESNE
+hayatta NESNE
+kalabileceklerini NESNE
+öğrendiler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bazı ÖZNE
+oyuncular ÖZNE
+anı ZARF_TÜMLECİ
+yakalamak ZARF_TÜMLECİ
+için ZARF_TÜMLECİ
+hızlı YÜKLEM
+davrandılar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+3 ÖZNE
+ve ÖZNE
+6 ÖZNE
+aylık ÖZNE
+bonolar ÖZNE
+için ÖZNE
+15.2 YÜKLEM
+milyar YÜKLEM
+dolar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+İki ÖZNE
+yıllık ÖZNE
+tahviller ÖZNE
+, HİÇBİRİ
+muaccel NESNE
+olan NESNE
+borç NESNE
+içinde NESNE
+yaklaşık NESNE
+9.6 NESNE
+milyar NESNE
+doları NESNE
+yeniden ZARF_TÜMLECİ
+finanse YÜKLEM
+etti YÜKLEM
+. NONE
+</S>
+<S>
+53 DOLAYLI_TÜMLEÇ
+haftalık DOLAYLI_TÜMLEÇ
+tahvillerde DOLAYLI_TÜMLEÇ
+9.75 YÜKLEM
+milyar YÜKLEM
+dolar YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Connecticut HİÇBİRİ
+Light HİÇBİRİ
+& HİÇBİRİ
+Power HİÇBİRİ
+Co HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+25 ÖZNE
+dolar ÖZNE
+fiyatlı ÖZNE
+3 ÖZNE
+milyon ÖZNE
+tercihli ÖZNE
+hisse ÖZNE
+, HİÇBİRİ
+açık YÜKLEM
+artırmalı YÜKLEM
+ihale YÜKLEM
+yoluyla YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+B&H YÜKLEM
+Crude YÜKLEM
+Carriers YÜKLEM
+Ltd YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Salomon ZARF_TÜMLECİ
+Brothers ZARF_TÜMLECİ
+Inc ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+4 YÜKLEM
+milyon YÜKLEM
+adi YÜKLEM
+hisse YÜKLEM
+. NONE
+</S>
+<S>
+Baldwin HİÇBİRİ
+Technology HİÇBİRİ
+Co. HİÇBİRİ
+</S>
+<S>
+2.6 YÜKLEM
+milyon YÜKLEM
+A YÜKLEM
+Sınıfı YÜKLEM
+hisse YÜKLEM
+Smith ZARF_TÜMLECİ
+Barney ZARF_TÜMLECİ
+Harris ZARF_TÜMLECİ
+Upham&Co ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+. HİÇBİRİ
+</S>
+<S>
+Blockbuster HİÇBİRİ
+Entertainment HİÇBİRİ
+Corp HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Chase HİÇBİRİ
+Manhattan HİÇBİRİ
+Corp. HİÇBİRİ
+</S>
+<S>
+Goldman ZARF_TÜMLECİ
+, HİÇBİRİ
+Sachs ZARF_TÜMLECİ
+& ZARF_TÜMLECİ
+Co ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+14 YÜKLEM
+milyon YÜKLEM
+adi YÜKLEM
+hisse YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Comcast HİÇBİRİ
+Corp. HİÇBİRİ
+</S>
+<S>
+Merrill ZARF_TÜMLECİ
+Lynch ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+150 ÖZNE
+milyon ÖZNE
+doları ÖZNE
+dönüştürülebilir ÖZNE
+tahviller YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+CSS HİÇBİRİ
+Industries HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Merrill ZARF_TÜMLECİ
+Lynch ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+1.3 YÜKLEM
+milyon YÜKLEM
+adet YÜKLEM
+adi YÜKLEM
+hisse YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Eastern HİÇBİRİ
+Utilities HİÇBİRİ
+Associates HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+PaineWebber ZARF_TÜMLECİ
+Inc ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+1.5 YÜKLEM
+milyon YÜKLEM
+adi YÜKLEM
+hisse YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Employee DOLAYLI_TÜMLEÇ
+Benefit HİÇBİRİ
+Plans HİÇBİRİ
+Inc HİÇBİRİ
+. HİÇBİRİ
+</S>
+<S>
+Dean ZARF_TÜMLECİ
+Witter ZARF_TÜMLECİ
+Capital ZARF_TÜMLECİ
+Markets ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+2 YÜKLEM
+milyon YÜKLEM
+adi YÜKLEM
+hisse YÜKLEM
+. NONE
+</S>
+<S>
+Exabyte HİÇBİRİ
+Corp. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Goldman ZARF_TÜMLECİ
+Sachs ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+2850000 YÜKLEM
+adi YÜKLEM
+hisse YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Knowledgeware HİÇBİRİ
+Inc. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Montgomery ZARF_TÜMLECİ
+Securities ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+2.4 ZARF_TÜMLECİ
+milyon ZARF_TÜMLECİ
+adi YÜKLEM
+hisse YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Oregon HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Washington HİÇBİRİ
+, HİÇBİRİ
+D.C. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Virginia HİÇBİRİ
+Devlet HİÇBİRİ
+Okulları HİÇBİRİ
+Kurumu HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Austin HİÇBİRİ
+, HİÇBİRİ
+Teksas HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+California HİÇBİRİ
+Sağlık HİÇBİRİ
+Tesisleri HİÇBİRİ
+Finansman HİÇBİRİ
+Kurumu HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Bir ZARF_TÜMLECİ
+PaineWebber ZARF_TÜMLECİ
+Group ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+144.5 YÜKLEM
+milyon YÜKLEM
+dolar YÜKLEM
+değerinde YÜKLEM
+Kaiser YÜKLEM
+Permanente ÖZNE
+gelir ÖZNE
+bonoları YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Connecticut HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Pennsylvania HİÇBİRİ
+Yüksek HİÇBİRİ
+Eğitim HİÇBİRİ
+Tesisleri HİÇBİRİ
+Kurumu HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Tennessee HİÇBİRİ
+Valley HİÇBİRİ
+Kurumu HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+First ZARF_TÜMLECİ
+Boston ZARF_TÜMLECİ
+Corp ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+üç YÜKLEM
+milyarlık YÜKLEM
+power YÜKLEM
+tahvili YÜKLEM
+. ZARF_TÜMLECİ
+</S>
+<S>
+New HİÇBİRİ
+Jersey HİÇBİRİ
+Tıp HİÇBİRİ
+Ve HİÇBİRİ
+Dişçilik HİÇBİRİ
+Üniversitesi HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Prudential-Bache ZARF_TÜMLECİ
+Group ZARF_TÜMLECİ
+vasıtasıyla ZARF_TÜMLECİ
+55 YÜKLEM
+milyon YÜKLEM
+dolarlık YÜKLEM
+C YÜKLEM
+serisi YÜKLEM
+tahvil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+West HİÇBİRİ
+Virginia HİÇBİRİ
+Parkways HİÇBİRİ
+, HİÇBİRİ
+Ekonomik HİÇBİRİ
+Kalkınma HİÇBİRİ
+Ve HİÇBİRİ
+Turizm HİÇBİRİ
+Kurumu HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+San HİÇBİRİ
+Antonio HİÇBİRİ
+, HİÇBİRİ
+Teksas HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Güney HİÇBİRİ
+Dakota HİÇBİRİ
+Sağlık HİÇBİRİ
+ve HİÇBİRİ
+Eğitim HİÇBİRİ
+Tesisi HİÇBİRİ
+Kurumu HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+diğerleri NESNE
+hakkında NESNE
+emin NESNE
+değil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ve HİÇBİRİ
+kurumların NESNE
+gireceğini NESNE
+ve NESNE
+alım NESNE
+yapacağını NESNE
+sanıyorum YÜKLEM
+... HİÇBİRİ
+</S>
+<S>
+Ben YÜKLEM
+bekleyeceğim YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şimdi ZARF_TÜMLECİ
+satarsam ZARF_TÜMLECİ
+, HİÇBİRİ
+büyük ZARF_TÜMLECİ
+zarar YÜKLEM
+edeceğim YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Borç ÖZNE
+verenler ÖZNE
+arasındaki ÖZNE
+temayüle ÖZNE
+yönelik ÖZNE
+genel ÖZNE
+bir ÖZNE
+beğenmezlik ÖZNE
+olduğu ÖZNE
+konusunda ÖZNE
+herhangi ÖZNE
+bir ÖZNE
+şüphe ÖZNE
+yok YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Diğerleri ÖZNE
+küçük NESNE
+yatırımcının NESNE
+bu NESNE
+küçük NESNE
+şoklardan NESNE
+daha NESNE
+kaç NESNE
+tanesine NESNE
+dayanabileceğini NESNE
+merak YÜKLEM
+ediyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Şimdi ZARF_TÜMLECİ
+tekrar NESNE
+oluyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Küçük ZARF_TÜMLECİ
+adam ZARF_TÜMLECİ
+korkutulunca ZARF_TÜMLECİ
+, HİÇBİRİ
+büyük ÖZNE
+adamlar ÖZNE
+kötü ZARF_TÜMLECİ
+zarar YÜKLEM
+görür YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Merrill ÖZNE
+Lynch ÖZNE
+küçük ZARF_TÜMLECİ
+adam ZARF_TÜMLECİ
+olmadan ZARF_TÜMLECİ
+ayakta YÜKLEM
+kalamaz YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bay ZARF_TÜMLECİ
+Quackenbush'un ZARF_TÜMLECİ
+sözlerine ZARF_TÜMLECİ
+göre ZARF_TÜMLECİ
+bireysel ÖZNE
+yatırımcılar ÖZNE
+halen ZARF_TÜMLECİ
+bilgisayar DOLAYLI_TÜMLEÇ
+programı DOLAYLI_TÜMLEÇ
+destekli DOLAYLI_TÜMLEÇ
+alım NONE
+satım DOLAYLI_TÜMLEÇ
+işlemleri DOLAYLI_TÜMLEÇ
+konusunda DOLAYLI_TÜMLEÇ
+kızgın YÜKLEM
+. NONE
+</S>
+<S>
+Ve HİÇBİRİ
+, HİÇBİRİ
+son ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+, HİÇBİRİ
+başkasının ÖZNE
+talihsizliğinden ÖZNE
+zevk ÖZNE
+alanlar ÖZNE
+var YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ben YÜKLEM
+1987'de YÜKLEM
+çıktım YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bay ÖZNE
+Antori ÖZNE
+de ÖZNE
+girecek YÜKLEM
+mi YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Şaka YÜKLEM
+mı HİÇBİRİ
+yapıyorsun YÜKLEM
+! HİÇBİRİ
+</S>
+<S>
+Palmtops ÖZNE
+çok ZARF_TÜMLECİ
+da ZARF_TÜMLECİ
+geride YÜKLEM
+değil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+çok ZARF_TÜMLECİ
+büyük YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Daha ÖZNE
+küçük ÖZNE
+bilgisayarlar ÖZNE
+yapılması ÖZNE
+genellikle ZARF_TÜMLECİ
+hafızada YÜKLEM
+fedakarlık YÜKLEM
+anlamına YÜKLEM
+geliyor YÜKLEM
+. NONE
+</S>
+<S>
+Boyut ÖZNE
+ve ÖZNE
+ağırlık ÖZNE
+hususları ÖZNE
+da ÖZNE
+ekranları NESNE
+etkiledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Rekabetçi ÖZNE
+pusu ÖZNE
+ateşi ÖZNE
+bazen ZARF_TÜMLECİ
+epey ZARF_TÜMLECİ
+önemsiz NESNE
+olabilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+Dynabook ÖZNE
+ürünü ÖZNE
+iki ZARF_TÜMLECİ
+kat ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+ağır ZARF_TÜMLECİ
+ve ZARF_TÜMLECİ
+Compaq'dan DOLAYLI_TÜMLEÇ
+daha YÜKLEM
+pahalı YÜKLEM
+. NONE
+</S>
+<S>
+Compaq ÖZNE
+çoktan ZARF_TÜMLECİ
+beri ZARF_TÜMLECİ
+Zenith'in NESNE
+piyasa NESNE
+payına NESNE
+nişan YÜKLEM
+alıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Analistler ÖZNE
+bu ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+görmüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Büyük DOLAYLI_TÜMLEÇ
+Mavi'den DOLAYLI_TÜMLEÇ
+ne YÜKLEM
+haber YÜKLEM
+? HİÇBİRİ
+</S>
+<S>
+Avco ÖZNE
+Corp. NONE
+Ordudan DOLAYLI_TÜMLEÇ
+11.8 NESNE
+milyon NESNE
+Dolar NESNE
+değerinde NESNE
+bir NESNE
+helikopter NESNE
+motoru NESNE
+sözleşmesi NESNE
+aldı YÜKLEM
+. NONE
+</S>
+<S>
+Aylık ÖZNE
+artış ÖZNE
+son YÜKLEM
+4 YÜKLEM
+yılda YÜKLEM
+kaydedilen YÜKLEM
+en YÜKLEM
+yüksek YÜKLEM
+seviyedeydi YÜKLEM
+. NONE
+</S>
+<S>
+Riskli NESNE
+girişim NESNE
+? HİÇBİRİ
+</S>
+<S>
+Hangi ZARF_TÜMLECİ
+riskli ÖZNE
+girişim ÖZNE
+? HİÇBİRİ
+</S>
+<S>
+Kamu ÖZNE
+hizmeti ÖZNE
+şirketlerinin ÖZNE
+hisseleri ÖZNE
+elden ZARF_TÜMLECİ
+çıkarma ZARF_TÜMLECİ
+dönemi ZARF_TÜMLECİ
+esnasında ZARF_TÜMLECİ
+diğer ZARF_TÜMLECİ
+piyasa ZARF_TÜMLECİ
+sektörlerinden ZARF_TÜMLECİ
+görece ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+daha YÜKLEM
+iyi YÜKLEM
+korundu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Elbette ZARF_TÜMLECİ
+, HİÇBİRİ
+çok ÖZNE
+daha ÖZNE
+fazla ÖZNE
+hisse ÖZNE
+, HİÇBİRİ
+93 NESNE
+, HİÇBİRİ
+yeni NESNE
+düşük NESNE
+seviyeler NESNE
+getirdi YÜKLEM
+. NONE
+</S>
+<S>
+IBM ÖZNE
+102 ZARF_TÜMLECİ
+dolardan ZARF_TÜMLECİ
+kapanarak ZARF_TÜMLECİ
+, HİÇBİRİ
+5.625 NESNE
+dolar NESNE
+düşüş NESNE
+göstermiş NESNE
+oldu YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ekledi YÜKLEM
+: HİÇBİRİ
+1987 NESNE
+yılında NESNE
+volatilite NESNE
+konusunda NESNE
+bir NESNE
+ders NESNE
+aldık NESNE
+. HİÇBİRİ
+</S>
+<S>
+Analistler ÖZNE
+ve ÖZNE
+rakipler ÖZNE
+, HİÇBİRİ
+yine ZARF_TÜMLECİ
+de ZARF_TÜMLECİ
+, HİÇBİRİ
+rakamların ZARF_TÜMLECİ
+bu ZARF_TÜMLECİ
+kadar ZARF_TÜMLECİ
+yüksek ZARF_TÜMLECİ
+olması ZARF_TÜMLECİ
+konusunda ZARF_TÜMLECİ
+kuşku YÜKLEM
+duyuyorlardı YÜKLEM
+. NONE
+</S>
+<S>
+Budget ÖZNE
+sık NESNE
+uçan NESNE
+yolcu NESNE
+maliyetlerinin NESNE
+Avis NESNE
+seviyesine NESNE
+göre NESNE
+" NONE
+önemli NESNE
+ölçüde NESNE
+daha NESNE
+düşük NESNE
+" NESNE
+olduğunu NESNE
+bildirdi YÜKLEM
+. NONE
+</S>
+<S>
+" HİÇBİRİ
+Bu NESNE
+şovun NESNE
+enerji NESNE
+seviyesini NESNE
+yükseltecek YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Tandem ÖZNE
+3 NESNE
+aylık NESNE
+döneme NESNE
+dair NESNE
+tüm NESNE
+sonuçları NESNE
+gelecek NESNE
+hafta NESNE
+bildirmeyi NESNE
+umuyor YÜKLEM
+. NONE
+</S>
+<S>
+Tandem'in ÖZNE
+yeni ÖZNE
+yüksek ÖZNE
+kaliteli ÖZNE
+bilgisayarı ÖZNE
+Cyclone ZARF_TÜMLECİ
+olarak ZARF_TÜMLECİ
+adlandırılıyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+Tandem'in NESNE
+büyümesini NESNE
+mahmuzladı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Biz NESNE
+Biraz NESNE
+daha NESNE
+büyük NESNE
+bir NESNE
+nişin NESNE
+peşindeyiz NESNE
+, HİÇBİRİ
+" HİÇBİRİ
+dedi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Henüz ZARF_TÜMLECİ
+zıplamayın YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+garip ZARF_TÜMLECİ
+bir ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+iyimser NESNE
+görünebilir YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Aşağı ZARF_TÜMLECİ
+gittiğinde ZARF_TÜMLECİ
+, HİÇBİRİ
+tüm ZARF_TÜMLECİ
+geleneklere ZARF_TÜMLECİ
+göre ZARF_TÜMLECİ
+, HİÇBİRİ
+ekonomi ÖZNE
+izledi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Piyasa ÖZNE
+artan ZARF_TÜMLECİ
+şekilde ZARF_TÜMLECİ
+ulusun ZARF_TÜMLECİ
+geri ZARF_TÜMLECİ
+kalanından ZARF_TÜMLECİ
+kopmuş ZARF_TÜMLECİ
+görünüyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Bu ÖZNE
+tür ÖZNE
+bir ÖZNE
+hareketin ÖZNE
+hiçbir ÖZNE
+mantığı ÖZNE
+yok YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Mali NONE
+hizmetler ÖZNE
+endüstrisi ÖZNE
+1987 ZARF_TÜMLECİ
+çöküşüyle ZARF_TÜMLECİ
+hırpalandı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Büyüme ÖZNE
+daha ZARF_TÜMLECİ
+yavaş YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Karlar ÖZNE
+daha ZARF_TÜMLECİ
+yumuşak YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Borç ÖZNE
+yükleri ÖZNE
+daha ZARF_TÜMLECİ
+ağırdır YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+1987 ÖZNE
+ile ÖZNE
+1989 ÖZNE
+arasındaki ÖZNE
+başka ÖZNE
+büyük ÖZNE
+bir ÖZNE
+fark ÖZNE
+hiç NESNE
+de NESNE
+rahatlatıcı NESNE
+değil YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Birçok ÖZNE
+bastırılan ÖZNE
+talep ÖZNE
+gitti YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Bu ÖZNE
+herhangi NESNE
+bir NESNE
+yerde NESNE
+direnç NESNE
+ile NESNE
+telafi ZARF_TÜMLECİ
+işlemiydi YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+, HİÇBİRİ
+süreç ZARF_TÜMLECİ
+dahilinde ZARF_TÜMLECİ
+, HİÇBİRİ
+Fed ÖZNE
+enflasyonu NESNE
+yeniden NESNE
+ateşleme NESNE
+riskini NESNE
+alıyor YÜKLEM
+. NONE
+</S>
+<S>
+Wall ÖZNE
+Street'deki ÖZNE
+bir ÖZNE
+panik ÖZNE
+tam ZARF_TÜMLECİ
+anlamıyla ZARF_TÜMLECİ
+güven NESNE
+telkin YÜKLEM
+etmez YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Anketler ÖZNE
+tüketici NESNE
+güveninin NESNE
+Cuma NESNE
+öncesinde NESNE
+daha NESNE
+yüksek NESNE
+olduğunu NESNE
+gösterdi ÖZNE
+. HİÇBİRİ
+</S>
+<S>
+Felaket ÖZNE
+tellallarının ÖZNE
+kavrayışlı ÖZNE
+dinleyici ÖZNE
+kitlesi ÖZNE
+vardı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Kara ÖZNE
+Pazartesini ÖZNE
+izleyen ÖZNE
+bolluk ÖZNE
+bugün ZARF_TÜMLECİ
+daha DOLAYLI_TÜMLEÇ
+iyimsel DOLAYLI_TÜMLEÇ
+bir DOLAYLI_TÜMLEÇ
+görünüşe DOLAYLI_TÜMLEÇ
+izin YÜKLEM
+veriyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Bu ZARF_TÜMLECİ
+defa ZARF_TÜMLECİ
+çok ZARF_TÜMLECİ
+daha ZARF_TÜMLECİ
+tecrübeliler YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+" HİÇBİRİ
+Bu NESNE
+son NESNE
+5 NESNE
+ya NESNE
+da NESNE
+6 NESNE
+düşüşü NESNE
+işaret NESNE
+eden NESNE
+çeyreğin NESNE
+ilki NESNE
+olabilir YÜKLEM
+. HİÇBİRİ
+" HİÇBİRİ
+</S>
+<S>
+Bir ÖZNE
+Dow ÖZNE
+sözcüsü ÖZNE
+tahminler NESNE
+üzerinde NESNE
+yorum NESNE
+yapmayı NESNE
+istediğini NESNE
+reddetti YÜKLEM
+. NONE
+</S>
+<S>
+10'unun ÖZNE
+çoğunun ÖZNE
+büyük NESNE
+emtia-kimyasal NESNE
+operasyonları NESNE
+var YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Du ÖZNE
+Pont ÖZNE
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Monsanto'ya ÖZNE
+yönelik ÖZNE
+tahminlerin ÖZNE
+çoğu ÖZNE
+hisse ZARF_TÜMLECİ
+başına ZARF_TÜMLECİ
+1.70 DOLAYLI_TÜMLEÇ
+dolar DOLAYLI_TÜMLEÇ
+ile DOLAYLI_TÜMLEÇ
+2 DOLAYLI_TÜMLEÇ
+dolar DOLAYLI_TÜMLEÇ
+arasında DOLAYLI_TÜMLEÇ
+gidip YÜKLEM
+geliyor YÜKLEM
+. NONE
+</S>
+<S>
+Monsanto ÖZNE
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+emtia NONE
+- NONE
+kimyasal ÖZNE
+üreticileri ÖZNE
+bir DOLAYLI_TÜMLEÇ
+fiyatlandırma DOLAYLI_TÜMLEÇ
+döngüsünün DOLAYLI_TÜMLEÇ
+olumsuz DOLAYLI_TÜMLEÇ
+tarafında DOLAYLI_TÜMLEÇ
+yakalandı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ancak HİÇBİRİ
+tahminler ÖZNE
+hisse DOLAYLI_TÜMLEÇ
+başına DOLAYLI_TÜMLEÇ
+başa DOLAYLI_TÜMLEÇ
+baş DOLAYLI_TÜMLEÇ
+noktasından DOLAYLI_TÜMLEÇ
+35 DOLAYLI_TÜMLEÇ
+cent DOLAYLI_TÜMLEÇ
+seviyesine DOLAYLI_TÜMLEÇ
+değişiyor YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Himont ÖZNE
+, HİÇBİRİ
+Quantum ÖZNE
+ve ÖZNE
+Union ÖZNE
+Carbide'in ÖZNE
+hiçbiri ÖZNE
+yorum YÜKLEM
+yapmadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Dow HİÇBİRİ
+Chemical HİÇBİRİ
+Co. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Centel HİÇBİRİ
+Capital HİÇBİRİ
+Corp. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Federal HİÇBİRİ
+Home HİÇBİRİ
+Loan HİÇBİRİ
+Mortgage HİÇBİRİ
+Corp. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Federal HİÇBİRİ
+Home HİÇBİRİ
+Loan HİÇBİRİ
+Mortgage HİÇBİRİ
+Corp. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+Fiyatlandırma ÖZNE
+detayları ÖZNE
+hemen ZARF_TÜMLECİ
+sunulamadı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Federal HİÇBİRİ
+Home HİÇBİRİ
+Loan HİÇBİRİ
+Mortgage HİÇBİRİ
+Corp. HİÇBİRİ
+-- HİÇBİRİ
+</S>
+<S>
+$ ÖZNE
+200 ÖZNE
+milyonluk ÖZNE
+soyunmuş ÖZNE
+ipotek ÖZNE
+menkul ÖZNE
+BT ZARF_TÜMLECİ
+Securities ZARF_TÜMLECİ
+Corp ZARF_TÜMLECİ
+tarafından ZARF_TÜMLECİ
+sigortalanmıştı YÜKLEM
+. HİÇBİRİ
+</S>
+<S>
+Ek ÖZNE
+Teminat ÖZNE
+bir ZARF_TÜMLECİ
+tasarruf ZARF_TÜMLECİ
+kurumu ZARF_TÜMLECİ
+tarafından ZARF_TÜMLECİ
+satılıyor YÜKLEM
+. HİÇBİRİ
+</S>
