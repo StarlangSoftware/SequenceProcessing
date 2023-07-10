@@ -24,8 +24,10 @@ public abstract class Model implements Serializable {
     protected ArrayList<Matrix> recurrentWeights;
     protected ArrayList<String> classLabels;
     protected ActivationFunction activationFunction;
+    protected DeepNetworkParameter parameters;
 
-    public Model(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) {
+    public void train(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) throws MatrixDimensionMismatch, MatrixRowColumnMismatch {
+        this.parameters = parameters;
         this.corpus = corpus;
         this.activationFunction = parameters.getActivationFunction();
         ArrayList<Matrix> layers = new ArrayList<>();
@@ -182,13 +184,14 @@ public abstract class Model implements Serializable {
         }
     }
 
-    protected abstract void calculateOutput(LabelledVectorizedWord word) throws MatrixRowColumnMismatch, MatrixDimensionMismatch;
+    protected abstract void calculateOutput(Sentence sentence, int index) throws MatrixRowColumnMismatch, MatrixDimensionMismatch;
+
+    protected abstract void backpropagation(Sentence sentence, int index, double learningRate) throws MatrixRowColumnMismatch, MatrixDimensionMismatch;
 
     public ArrayList<String> predict(Sentence sentence) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
         ArrayList<String> classLabels = new ArrayList<>();
         for (int i = 0; i < sentence.wordCount(); i++) {
-            LabelledVectorizedWord word = (LabelledVectorizedWord) sentence.getWord(i);
-            calculateOutput(word);
+            calculateOutput(sentence, i);
             double bestValue = Double.MIN_VALUE;
             String best = this.classLabels.get(0);
             for (int j = 0; j < layers.get(layers.size() - 1).getRow(); j++) {
