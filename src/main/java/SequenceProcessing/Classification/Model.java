@@ -50,6 +50,22 @@ public abstract class Model implements Serializable {
         this.oldLayers = oldLayers;
         this.weights = weights;
         this.recurrentWeights = recurrentWeights;
+        int epoch = parameters.getEpoch();
+        double learningRate = parameters.getLearningRate();
+        for (int i = 0; i < epoch; i++) {
+            //System.out.println("epoch: " + (i + 1));
+            corpus.shuffleSentences(parameters.getSeed());
+            for (int j = 0; j < corpus.sentenceCount(); j++) {
+                Sentence sentence = corpus.getSentence(j);
+                for (int k = 0; k < sentence.wordCount(); k++) {
+                    calculateOutput(sentence, k);
+                    backpropagation(sentence, k, learningRate);
+                    clear();
+                }
+                clearOldValues();
+            }
+            learningRate *= parameters.getEtaDecrease();
+        }
     }
 
     protected void createInputVector(LabelledVectorizedWord word) {

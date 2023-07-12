@@ -1,10 +1,7 @@
 package SequenceProcessing.Classification;
 
-import Classification.Parameter.DeepNetworkParameter;
 import Corpus.Sentence;
-import SequenceProcessing.Initializer.Initializer;
 import SequenceProcessing.Sequence.LabelledVectorizedWord;
-import SequenceProcessing.Sequence.SequenceCorpus;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -12,25 +9,6 @@ import java.util.ArrayList;
 import Math.*;
 
 public class RecurrentNeuralNetworkModel extends Model implements Serializable {
-
-    public void train(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {
-        super.train(corpus, parameters, initializer);
-        int epoch = parameters.getEpoch();
-        double learningRate = parameters.getLearningRate();
-        for (int i = 0; i < epoch; i++) {
-            corpus.shuffleSentences(parameters.getSeed());
-            for (int j = 0; j < corpus.sentenceCount(); j++) {
-                Sentence sentence = corpus.getSentence(j);
-                for (int k = 0; k < sentence.wordCount(); k++) {
-                    calculateOutput(sentence, k);
-                    backpropagation(sentence, k, learningRate);
-                    clear();
-                }
-                clearOldValues();
-            }
-            learningRate *= parameters.getEtaDecrease();
-        }
-    }
 
     @Override
     protected void calculateOutput(Sentence sentence, int index) throws MatrixRowColumnMismatch, MatrixDimensionMismatch {

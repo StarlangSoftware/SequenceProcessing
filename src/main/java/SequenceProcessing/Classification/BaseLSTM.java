@@ -1,9 +1,8 @@
 package SequenceProcessing.Classification;
 
-import Classification.Parameter.ActivationFunction;
 import Classification.Parameter.DeepNetworkParameter;
-import Corpus.Sentence;
 import SequenceProcessing.Initializer.Initializer;
+import SequenceProcessing.Sequence.LabelledVectorizedWord;
 import SequenceProcessing.Sequence.SequenceCorpus;
 import Math.*;
 
@@ -29,7 +28,12 @@ public abstract class BaseLSTM extends Model implements Serializable {
     protected ArrayList<Matrix> cOldVectors;
 
     public void train(SequenceCorpus corpus, DeepNetworkParameter parameters, Initializer initializer) throws MatrixDimensionMismatch, MatrixRowColumnMismatch {
-        super.train(corpus, parameters, initializer);
+        ArrayList<Integer> layers = new ArrayList<>();
+        layers.add(((LabelledVectorizedWord) corpus.getSentence(0).getWord(0)).getVector().size());
+        for (int i = 0; i < parameters.layerSize(); i++) {
+            layers.add(parameters.getHiddenNodes(i));
+        }
+        layers.add(corpus.getClassLabels().size());
         fVectors = new ArrayList<>();
         fWeights = new ArrayList<>();
         fRecurrentWeights = new ArrayList<>();
@@ -51,30 +55,16 @@ public abstract class BaseLSTM extends Model implements Serializable {
             oVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             cVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
             cOldVectors.add(new Matrix(parameters.getHiddenNodes(i), 1));
-            fWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
-            gWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
-            iWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
-            oWeights.add(initializer.initialize(this.layers.get(i + 1).getRow(), this.layers.get(i).getRow() + 1, new Random(parameters.getSeed())));
+            fWeights.add(initializer.initialize(layers.get(i + 1), layers.get(i) + 1, new Random(parameters.getSeed())));
+            gWeights.add(initializer.initialize(layers.get(i + 1), layers.get(i) + 1, new Random(parameters.getSeed())));
+            iWeights.add(initializer.initialize(layers.get(i + 1), layers.get(i) + 1, new Random(parameters.getSeed())));
+            oWeights.add(initializer.initialize(layers.get(i + 1), layers.get(i) + 1, new Random(parameters.getSeed())));
             fRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
             gRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
             iRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
             oRecurrentWeights.add(initializer.initialize(parameters.getHiddenNodes(i), parameters.getHiddenNodes(i), new Random(parameters.getSeed())));
         }
-        double learningRate = parameters.getLearningRate();
-        for (int i = 0; i < parameters.getEpoch(); i++) {
-            System.out.println("epoch: " + (i + 1));
-            corpus.shuffleSentences(parameters.getSeed());
-            for (int j = 0; j < corpus.sentenceCount(); j++) {
-                Sentence sentence = corpus.getSentence(j);
-                for (int k = 0; k < sentence.wordCount(); k++) {
-                    calculateOutput(sentence, k);
-                    backpropagation(sentence, k, learningRate);
-                    clear();
-                }
-                clearOldValues();
-            }
-            learningRate *= parameters.getEtaDecrease();
-        }
+        super.train(corpus, parameters, initializer);
     }
 
     protected abstract void oldLayersUpdate();
