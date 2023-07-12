@@ -53,7 +53,7 @@ public abstract class Model implements Serializable {
         int epoch = parameters.getEpoch();
         double learningRate = parameters.getLearningRate();
         for (int i = 0; i < epoch; i++) {
-            //System.out.println("epoch: " + (i + 1));
+            System.out.println("epoch: " + (i + 1));
             corpus.shuffleSentences(parameters.getSeed());
             for (int j = 0; j < corpus.sentenceCount(); j++) {
                 Sentence sentence = corpus.getSentence(j);
