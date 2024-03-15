@@ -54,14 +54,13 @@ public class SequenceCorpus extends Corpus {
                 }
                 line = br.readLine();
             }
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (IOException ignored) {
         }
     }
 
     public ArrayList<String> getClassLabels() {
         boolean sentenceLabelled = false;
-        ArrayList<String> classLabels = new ArrayList<String>();
+        ArrayList<String> classLabels = new ArrayList<>();
         if (sentences.get(0) instanceof LabelledSentence){
             sentenceLabelled = true;
         }

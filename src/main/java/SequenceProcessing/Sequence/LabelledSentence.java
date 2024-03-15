@@ -4,7 +4,7 @@ import Corpus.Sentence;
 
 public class LabelledSentence extends Sentence {
 
-    private String classLabel;
+    private final String classLabel;
 
     public LabelledSentence(String classLabel){
         super();

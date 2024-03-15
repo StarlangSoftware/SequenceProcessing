@@ -5,7 +5,7 @@ import Math.Vector;
 
 public class LabelledVectorizedWord extends VectorizedWord {
 
-    private String classLabel;
+    private final String classLabel;
 
     public LabelledVectorizedWord(String word, Vector embedding, String classLabel) {
         super(word, embedding);
