@@ -31,7 +31,7 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
         ArrayList<Integer> classLabels = new ArrayList<>();
         int timeStep = (instance.getShape()[0] / (wordEmbeddingLength + 1));
         int j = 0;
-        for (int i = 0; i < this.inputNodes.size() - 1; i++) {
+        for (int i = 0; i < this.inputNodeCount() - 1; i++) {
             if (i < timeStep) {
                 this.switches.get(i).setTurn(true);
                 ArrayList<Double> values = new ArrayList<>();
@@ -41,7 +41,7 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
                 }
                 classLabels.add((int) instance.getValue(new int[]{j}));
                 j++;
-                inputNodes.get(i).setValue(new Tensor(values, new int[]{1, values.size()}));
+                this.getInputNode(i).setValue(new Tensor(values, new int[]{1, values.size()}));
             } else {
                 this.switches.get(i).setTurn(false);
                 ArrayList<Double> values = new ArrayList<>();
@@ -51,7 +51,7 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
                 }
                 classLabels.add(0);
                 j++;
-                inputNodes.get(i).setValue(new Tensor(values, new int[]{1, values.size()}));
+                this.getInputNode(i).setValue(new Tensor(values, new int[]{1, values.size()}));
             }
         }
         return classLabels;
@@ -74,7 +74,7 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
                         }
                     }
                 }
-                inputNodes.get(this.inputNodes.size() - 1).setValue(new Tensor(classLabelValues, new int[]{classLabels.size(), ((RecurrentNeuralNetworkParameter) this.parameters).getClassLabelSize()}));
+                this.getInputNode(this.inputNodeCount() - 1).setValue(new Tensor(classLabelValues, new int[]{classLabels.size(), ((RecurrentNeuralNetworkParameter) this.parameters).getClassLabelSize()}));
                 this.forwardCalculation();
                 this.backpropagation();
             }
@@ -102,18 +102,18 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
         ArrayList<ComputationalNode> recurrentWeights = new ArrayList<>();
         int currentLength = wordEmbeddingLength + 1;
         for (int i = 0; i < ((RecurrentNeuralNetworkParameter) parameters).size(); i++) {
-            weights.add(new MultiplicationNode(new Tensor(parameters.initializeWeights(currentLength, ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i), random), new int[]{currentLength, ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i)})));
-            recurrentWeights.add(new MultiplicationNode(new Tensor(parameters.initializeWeights(((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i), ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i), random), new int[]{((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i), ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i)})));
+            weights.add(new MultiplicationNode(parameters.initializeWeights(new int[]{currentLength, ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i)}, random)));
+            recurrentWeights.add(new MultiplicationNode(parameters.initializeWeights(new int[]{((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i), ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i)}, random)));
             currentLength = ((RecurrentNeuralNetworkParameter) parameters).getHiddenLayer(i) + 1;
         }
-        weights.add(new MultiplicationNode(new Tensor(parameters.initializeWeights(currentLength, ((RecurrentNeuralNetworkParameter) parameters).getClassLabelSize(), random), new int[]{currentLength, ((RecurrentNeuralNetworkParameter) parameters).getClassLabelSize()})));
+        weights.add(new MultiplicationNode(parameters.initializeWeights(new int[]{currentLength, ((RecurrentNeuralNetworkParameter) parameters).getClassLabelSize()}, random)));
         ArrayList<ComputationalNode> currentOldLayers = new ArrayList<>();
         ArrayList<ComputationalNode> outputNodes = new ArrayList<>();
         for (int k = 0; k < timeStep; k++) {
             this.switches.add(new Switch());
             ArrayList<ComputationalNode> newOldLayers = new ArrayList<>();
             ComputationalNode input = new MultiplicationNode(false, true);
-            inputNodes.add(input);
+            this.addInputNode(input);
             ComputationalNode current = input;
             for (int i = 0; i < ((RecurrentNeuralNetworkParameter) parameters).size(); i++) {
                 ComputationalNode aw;
@@ -136,17 +136,14 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
             outputNodes.add(this.addEdge(node, switches.get(k)));
         }
         ConcatenatedNode concatenatedNode = (ConcatenatedNode) this.concatEdges(outputNodes, 0);
-        this.outputNode = this.addEdge(concatenatedNode, new Softmax());
-        ComputationalNode classLabelNode = new ComputationalNode();
-        this.inputNodes.add(classLabelNode);
-        this.addLoss(classLabelNode);
+        ComputationalNode classLabelNode = this.addLoss(this.addEdge(concatenatedNode, new Softmax()));
+        this.addInputNode(classLabelNode);
         train(trainSet, random);
     }
 
     @Override
-    protected ArrayList<Double> getOutputValue() {
+    protected ArrayList<Double> getOutputValue(Tensor outputNode) {
         ArrayList<Double> classLabels = new ArrayList<>();
-        Tensor outputNode = this.outputNode.getValue();
         for (int i = 0; i < outputNode.getShape()[0]; i++) {
             int index = -1;
             double max = Double.MIN_VALUE;

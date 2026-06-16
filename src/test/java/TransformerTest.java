@@ -1,11 +1,9 @@
 import ComputationalGraph.*;
-import ComputationalGraph.Function.SiLU;
 import ComputationalGraph.Loss.CrossEntropyLoss;
-import ComputationalGraph.Function.Function;
-import ComputationalGraph.Function.Sigmoid;
-import ComputationalGraph.Function.Tanh;
+import ComputationalGraph.Function.*;
 import ComputationalGraph.Initialization.RandomInitialization;
 import ComputationalGraph.Optimizer.*;
+import ComputationalGraph.Scheduler.ExponentialLR;
 import Dictionary.VectorizedDictionary;
 import Dictionary.Word;
 import Dictionary.WordComparator;
@@ -14,10 +12,11 @@ import SequenceProcessing.Parameters.TransformerParameter;
 import org.junit.Test;
 import Math.Tensor;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class TransformerTest {
+public class TransformerTest implements Serializable {
 
     @Test
     public void testInitialization() {
@@ -48,12 +47,13 @@ public class TransformerTest {
         betaOutput.add(0.0);
         betaOutput.add(0.0);
         betaOutput.add(0.0);
-        ComputationalGraph transformer = new Transformer(new TransformerParameter(1, 150, new AdamW(0.025, 0.99, 0.99, 0.999, 1e-10, 0.1), new RandomInitialization(), new CrossEntropyLoss(), 3, 2, 7, 1e-9, input, input, inputFunctions, outputFunctions, gammaInput, gammaOutput, betaInput, betaOutput), new VectorizedDictionary(new WordComparator() {
+        ComputationalGraph transformer = new Transformer(new TransformerParameter(1, 150, new AdamW(new ExponentialLR(0.025, 0.99), 0.99, 0.999, 1e-10, 0.1), new RandomInitialization(), new CrossEntropyLoss(), 3, 2, 7, 1e-9, input, input, inputFunctions, outputFunctions, gammaInput, gammaOutput, betaInput, betaOutput), new VectorizedDictionary(new WordComparator() {
             @Override
             public int compare(Word word, Word word1) {
                 return 0;
             }
         }));
         transformer.train(tensors);
+        transformer.save("transformer.bin");
     }
 }

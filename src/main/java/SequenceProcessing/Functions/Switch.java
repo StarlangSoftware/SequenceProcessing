@@ -1,9 +1,9 @@
 package SequenceProcessing.Functions;
 
 import java.io.Serializable;
-import java.util.ArrayList;
 
 import ComputationalGraph.Function.Function;
+import ComputationalGraph.Function.FunctionResults;
 import Math.Tensor;
 
 public class Switch implements Function, Serializable {
@@ -19,19 +19,19 @@ public class Switch implements Function, Serializable {
     }
 
     @Override
-    public Tensor calculate(Tensor matrix) {
+    public FunctionResults calculate(Tensor matrix) {
         if (this.turn) {
-            return matrix;
+            return new FunctionResults(matrix);
         }
-        ArrayList<Double> values = new ArrayList<>();
         int size = 1;
         for (int i = 0; i < matrix.getShape().length; i++) {
             size *= matrix.getShape()[i];
         }
+        double[] values = new double[size];
         for (int i = 0; i < size; i++) {
-            values.add(0.0);
+            values[i] = 0.0;
         }
-        return new Tensor(values, matrix.getShape());
+        return new FunctionResults(new Tensor(values, matrix.getShape()));
     }
 
     @Override
@@ -39,6 +39,6 @@ public class Switch implements Function, Serializable {
         if (this.turn) {
             return backward;
         }
-        return calculate(value);
+        return calculate(value).output();
     }
 }

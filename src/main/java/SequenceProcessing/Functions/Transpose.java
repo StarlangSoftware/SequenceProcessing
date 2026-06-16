@@ -1,6 +1,7 @@
 package SequenceProcessing.Functions;
 
 import ComputationalGraph.Function.Function;
+import ComputationalGraph.Function.FunctionResults;
 import Math.Tensor;
 
 import java.io.Serializable;
@@ -8,8 +9,8 @@ import java.io.Serializable;
 public class Transpose implements Function, Serializable {
 
     @Override
-    public Tensor calculate(Tensor tensor) {
-        return tensor.transpose(new int[]{1, 0});
+    public FunctionResults calculate(Tensor tensor) {
+        return new FunctionResults(tensor.transpose(new int[]{1, 0}));
     }
 
     @Override
