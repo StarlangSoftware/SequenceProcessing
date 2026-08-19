@@ -78,7 +78,7 @@ public class RecurrentNeuralNetworkModel extends ComputationalGraph implements S
                 this.forwardCalculation();
                 this.backpropagation();
             }
-            parameters.getOptimizer().setLearningRate();
+            parameters.getOptimizer().updateLearningRate();
         }
     }
 
