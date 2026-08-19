@@ -235,7 +235,7 @@ public class Transformer extends ComputationalGraph implements Serializable {
                 this.forwardCalculation();
                 this.backpropagation();
             }
-            parameter.getOptimizer().updateLearningRate();
+            parameter.getOptimizer().incrementEpoch();
         }
     }
 
